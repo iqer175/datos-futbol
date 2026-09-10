@@ -1,0 +1,58 @@
+{
+  "actualizado": "2026-09-10T23:38:05+00:00",
+  "partidos_totales": 25030,
+  "equipos_activos": 269,
+  "temporadas_descargadas": 6,
+  "ultimo_partido": "2026-09-10",
+  "cobertura": {
+    "Brasileirao": {
+      "partidos": 2452,
+      "ultimo": "2026-09-08"
+    },
+    "Bundesliga": {
+      "partidos": 1548,
+      "ultimo": "2026-09-06"
+    },
+    "Championship": {
+      "partidos": 2829,
+      "ultimo": "2026-09-09"
+    },
+    "Eredivisie": {
+      "partidos": 1574,
+      "ultimo": "2026-09-09"
+    },
+    "LaLiga": {
+      "partidos": 1941,
+      "ultimo": "2026-09-07"
+    },
+    "LaLiga Hypermotion": {
+      "partidos": 2354,
+      "ultimo": "2026-09-07"
+    },
+    "Liga Portugal": {
+      "partidos": 1574,
+      "ultimo": "2026-09-10"
+    },
+    "Ligue 1": {
+      "partidos": 1705,
+      "ultimo": "2026-09-06"
+    },
+    "Premier League": {
+      "partidos": 1930,
+      "ultimo": "2026-09-06"
+    },
+    "Primera Division": {
+      "partidos": 3263,
+      "ultimo": "2026-09-08"
+    },
+    "Serie A": {
+      "partidos": 1930,
+      "ultimo": "2026-09-07"
+    },
+    "Serie B": {
+      "partidos": 1930,
+      "ultimo": "2026-09-07"
+    }
+  },
+  "aviso_pinnacle": "Desde 23/07/2025 las cuotas de Pinnacle en la fuente son poco fiables y ya no entran en la media de mercado. Usa avgc_* como referencia de cierre."
+}
