@@ -10,6 +10,8 @@ Ejecutar al final de actualizar_datos.py:
 
 Salida:
     datos/agregados/equipos_<liga>.csv   perfil ponderado por equipo (~4 KB)
+                                         incluye desde / n12m / peso_ef para
+                                         detectar muestras rotas o antiguas
     datos/agregados/ligas.csv            medias por liga y temporada (~6 KB)
     datos/agregados/arbitros.csv         Premier y Championship (~1 KB)
     datos/h2h/<liga>.csv                 enfrentamientos directos (~20-45 KB)
@@ -30,8 +32,14 @@ BASE  = os.path.dirname(os.path.abspath(__file__))
 DATOS = os.path.join(BASE, 'datos')
 SLUG = {'LaLiga':'laliga','LaLiga Hypermotion':'laliga2','Premier League':'premier',
         'Championship':'championship','Serie A':'seriea','Serie B':'serieb',
-        'Bundesliga':'bundesliga','Ligue 1':'ligue1','Eredivisie':'eredivisie',
+        'Bundesliga':'bundesliga','2. Bundesliga':'bundesliga2',
+        'Ligue 1':'ligue1','Ligue 2':'ligue2','Eredivisie':'eredivisie',
         'Liga Portugal':'portugal','Brasileirao':'brasil','Primera Division':'argentina'}
+
+def slug(liga):
+    """Nunca reventar por una liga nueva que no este en SLUG."""
+    import re
+    return SLUG.get(liga) or re.sub(r'[^a-z0-9]+', '', liga.lower())
 
 def main():
     df = pd.read_csv(os.path.join(DATOS, 'partidos.csv'), low_memory=False)
@@ -79,10 +87,13 @@ def main():
                 amar_fuera=P(m.amar_l.values, m.amar_v.values, 0, L['amf']),
                 ult6_gf=round(float(np.where(u.local == eq, u.gl, u.gv).mean()), 2),
                 ult6_gc=round(float(np.where(u.local == eq, u.gv, u.gl).mean()), 2),
+                desde=str(m.fecha.min().date()),
+                n12m=int((m.fecha >= hoy - pd.Timedelta(days=365)).sum()),
+                peso_ef=round(float(w.sum()), 1),
                 ultimo=str(m.fecha.max().date())))
         if filas:
             pd.DataFrame(filas).to_csv(
-                os.path.join(DATOS, 'agregados', f'equipos_{SLUG[liga]}.csv'), index=False)
+                os.path.join(DATOS, 'agregados', f'equipos_{slug(liga)}.csv'), index=False)
 
     # ---- 2. medias por liga y temporada -------------------------------------
     lf = []
@@ -126,14 +137,14 @@ def main():
                 ultimos=';'.join(f"{r.local[:3]}{int(r.gl)}-{int(r.gv)}{r.visitante[:3]}"
                                  for _, r in h.sort_values('fecha').tail(5).iterrows())))
         if rows:
-            pd.DataFrame(rows).to_csv(os.path.join(DATOS, 'h2h', f'{SLUG[liga]}.csv'), index=False)
+            pd.DataFrame(rows).to_csv(os.path.join(DATOS, 'h2h', f'{slug(liga)}.csv'), index=False)
 
     # ---- 5. cuotas de cierre de la temporada en curso (para el CLV) ---------
     act = df[df.temporada.isin(TEMPS_ACT)]
     for liga, g in act.groupby('liga'):
         g[['fecha', 'local', 'visitante', 'gl', 'gv', 'b365c_1', 'b365c_x', 'b365c_2',
            'avgc_1', 'avgc_x', 'avgc_2', 'b365c_over25', 'b365c_under25']].to_csv(
-            os.path.join(DATOS, 'cierres', f'{SLUG[liga]}.csv'), index=False)
+            os.path.join(DATOS, 'cierres', f'{slug(liga)}.csv'), index=False)
 
     # ---- 6. indice con rutas y tamanos --------------------------------------
     idx = {'generado': datetime.now(timezone.utc).isoformat(timespec='seconds'),
