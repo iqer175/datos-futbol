@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-09-10T23:38:05+00:00",
-  "partidos_totales": 25030,
+  "actualizado": "2026-09-11T00:16:33+00:00",
+  "partidos_totales": 25029,
   "equipos_activos": 269,
   "temporadas_descargadas": 6,
   "ultimo_partido": "2026-09-10",
   "cobertura": {
     "Brasileirao": {
-      "partidos": 2452,
+      "partidos": 2451,
       "ultimo": "2026-09-08"
     },
     "Bundesliga": {

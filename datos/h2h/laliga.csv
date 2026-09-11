@@ -1,0 +1,310 @@
+eq_a,eq_b,n,goles,over25,btts,ultimos
+Alaves,Almeria,2,2.0,0.5,0.0,Ala1-0Alm;Alm0-3Ala
+Alaves,Ath Bilbao,8,1.88,0.12,0.25,Ath2-0Ala;Ala1-1Ath;Ath1-0Ala;Ath0-1Ala;Ala2-4Ath
+Alaves,Ath Madrid,8,2.12,0.38,0.5,Ala2-0Ath;Ath2-1Ala;Ala0-0Ath;Ala1-1Ath;Ath1-0Ala
+Alaves,Barcelona,8,2.38,0.5,0.5,Ala1-3Bar;Ala0-3Bar;Bar1-0Ala;Bar3-1Ala;Ala1-0Bar
+Alaves,Betis,8,1.88,0.38,0.38,Bet0-0Ala;Ala0-0Bet;Bet1-3Ala;Bet1-0Ala;Ala2-1Bet
+Alaves,Cadiz,4,1.25,0.0,0.0,Cad0-2Ala;Ala0-1Cad;Cad1-0Ala;Ala1-0Cad
+Alaves,Celta,8,3.12,0.62,0.62,Ala3-0Cel;Cel2-1Ala;Ala1-1Cel;Ala0-1Cel;Cel3-4Ala
+Alaves,Elche,4,2.75,0.5,0.75,Ala1-0Elc;Elc3-1Ala;Ala3-1Elc;Elc1-1Ala
+Alaves,Espanol,6,2.67,0.67,0.67,Ala2-1Esp;Esp3-2Ala;Ala0-1Esp;Ala2-1Esp;Esp1-2Ala
+Alaves,Getafe,9,2.0,0.22,0.33,Get2-0Ala;Ala0-1Get;Get1-1Ala;Ala0-2Get;Ala3-0Get
+Alaves,Girona,6,2.33,0.5,0.33,Ala2-2Gir;Ala0-1Gir;Gir0-1Ala;Gir1-0Ala;Ala2-2Gir
+Alaves,Granada,4,3.5,0.75,0.75,Gra2-1Ala;Ala2-3Gra;Ala3-1Gra;Gra2-0Ala
+Alaves,Las Palmas,4,2.25,0.25,0.5,Ala0-1Las;Las1-1Ala;Ala2-0Las;Las2-2Ala
+Alaves,Leganes,2,4.0,0.5,1.0,Ala1-1Leg;Leg3-3Ala
+Alaves,Levante,4,3.0,0.75,0.75,Ala2-1Lev;Lev3-1Ala;Ala2-1Lev;Lev2-0Ala
+Alaves,Mallorca,8,1.62,0.25,0.5,Ala1-1Mal;Ala1-0Mal;Mal1-1Ala;Mal1-0Ala;Ala2-1Mal
+Alaves,Osasuna,9,2.89,0.44,0.44,Osa2-2Ala;Ala1-1Osa;Osa3-0Ala;Ala2-2Osa;Ala5-2Osa
+Alaves,Oviedo,2,1.5,0.0,0.5,Ala1-1Ovi;Ovi0-1Ala
+Alaves,Real Madrid,8,3.25,0.75,0.5,Rea5-0Ala;Rea3-2Ala;Ala0-1Rea;Ala1-2Rea;Rea2-1Ala
+Alaves,Sevilla,8,3.25,0.62,0.88,Sev2-3Ala;Ala2-1Sev;Sev1-1Ala;Ala1-2Sev;Sev1-1Ala
+Alaves,Sociedad,8,2.12,0.25,0.5,Ala0-1Soc;Soc1-2Ala;Ala1-0Soc;Ala1-0Soc;Soc3-3Ala
+Alaves,Valencia,8,2.25,0.5,0.38,Val0-1Ala;Val2-2Ala;Ala1-0Val;Ala0-0Val;Val3-2Ala
+Alaves,Valladolid,2,3.0,0.5,0.5,Ala2-3Val;Val0-1Ala
+Alaves,Vallecano,9,1.67,0.11,0.22,Val1-0Ala;Ala0-2Val;Val1-0Ala;Ala1-2Val;Val1-1Ala
+Alaves,Villarreal,9,2.78,0.44,0.67,Vil3-0Ala;Ala1-0Vil;Vil3-1Ala;Ala1-1Vil;Ala1-0Vil
+Almeria,Ath Bilbao,4,2.5,0.75,0.25,Ath4-0Alm;Alm1-2Ath;Ath3-0Alm;Alm0-0Ath
+Almeria,Ath Madrid,4,3.0,0.75,1.0,Alm1-1Ath;Ath2-1Alm;Ath2-1Alm;Alm2-2Ath
+Almeria,Barcelona,4,2.5,0.25,0.25,Bar2-0Alm;Alm1-0Bar;Bar3-2Alm;Alm0-2Bar
+Almeria,Betis,4,3.5,0.75,0.75,Bet3-1Alm;Alm2-3Bet;Alm0-0Bet;Bet3-2Alm
+Almeria,Cadiz,4,3.25,0.25,1.0,Cad1-1Alm;Alm1-1Cad;Cad1-1Alm;Alm6-1Cad
+Almeria,Celta,4,3.5,0.75,0.75,Alm3-1Cel;Cel2-2Alm;Alm2-3Cel;Cel1-0Alm
+Almeria,Elche,2,2.5,0.5,1.0,Elc1-1Alm;Alm2-1Elc
+Almeria,Espanol,2,5.0,1.0,1.0,Alm3-1Esp;Esp3-3Alm
+Almeria,Getafe,4,2.75,0.75,0.75,Alm1-0Get;Get1-2Alm;Get2-1Alm;Alm1-3Get
+Almeria,Girona,4,5.0,0.75,0.75,Alm3-2Gir;Gir6-2Alm;Gir5-2Alm;Alm0-0Gir
+Almeria,Granada,2,4.0,0.5,1.0,Alm3-3Gra;Gra1-1Alm
+Almeria,Las Palmas,2,2.0,0.5,0.5,Alm1-2Las;Las0-1Alm
+Almeria,Mallorca,4,2.0,0.5,0.25,Mal1-0Alm;Alm3-0Mal;Alm0-0Mal;Mal2-2Alm
+Almeria,Osasuna,4,2.25,0.5,0.25,Alm0-1Osa;Osa3-1Alm;Osa1-0Alm;Alm0-3Osa
+Almeria,Real Madrid,4,4.5,1.0,1.0,Alm1-2Rea;Rea4-2Alm;Alm1-3Rea;Rea3-2Alm
+Almeria,Sevilla,4,4.0,1.0,1.0,Alm2-1Sev;Sev2-1Alm;Sev5-1Alm;Alm2-2Sev
+Almeria,Sociedad,4,2.75,0.5,0.5,Alm0-2Soc;Soc1-0Alm;Alm1-3Soc;Soc2-2Alm
+Almeria,Valencia,4,3.5,1.0,1.0,Val2-2Alm;Alm2-1Val;Alm2-2Val;Val2-1Alm
+Almeria,Valladolid,2,0.5,0.0,0.0,Val1-0Alm;Alm0-0Val
+Almeria,Vallecano,4,2.25,0.25,0.25,Alm3-1Val;Val2-0Alm;Alm0-2Val;Val0-1Alm
+Almeria,Villarreal,4,2.75,0.75,0.75,Vil2-1Alm;Alm0-2Vil;Vil2-1Alm;Alm1-2Vil
+Ath Bilbao,Ath Madrid,11,1.91,0.27,0.18,Ath0-1Ath;Ath1-0Ath;Ath1-0Ath;Ath3-2Ath;Ath3-0Ath
+Ath Bilbao,Barcelona,11,2.27,0.45,0.18,Bar2-1Ath;Ath0-3Bar;Bar4-0Ath;Ath0-1Bar;Bar2-0Ath
+Ath Bilbao,Betis,10,2.9,0.6,0.7,Bet3-1Ath;Ath1-1Bet;Bet2-2Ath;Bet1-2Ath;Ath2-1Bet
+Ath Bilbao,Cadiz,6,3.0,0.67,0.33,Cad2-3Ath;Cad0-4Ath;Ath4-1Cad;Ath3-0Cad;Cad0-0Ath
+Ath Bilbao,Celta,11,2.73,0.45,0.55,Ath3-1Cel;Cel1-2Ath;Cel2-0Ath;Ath1-1Cel;Cel0-2Ath
+Ath Bilbao,Elche,6,2.0,0.5,0.5,Ath2-1Elc;Elc1-4Ath;Ath0-1Elc;Elc0-0Ath;Ath2-1Elc
+Ath Bilbao,Espanol,8,2.62,0.5,0.75,Esp1-2Ath;Ath4-1Esp;Esp1-1Ath;Ath1-2Esp;Esp2-0Ath
+Ath Bilbao,Getafe,10,1.9,0.2,0.4,Get0-2Ath;Ath1-1Get;Get0-2Ath;Ath0-1Get;Get2-0Ath
+Ath Bilbao,Girona,8,3.25,0.75,0.75,Ath3-2Gir;Gir2-1Ath;Ath3-0Gir;Ath1-1Gir;Gir3-0Ath
+Ath Bilbao,Granada,4,2.25,0.25,0.75,Ath2-2Gra;Gra1-0Ath;Gra1-1Ath;Ath1-1Gra
+Ath Bilbao,Las Palmas,4,2.25,0.25,0.25,Ath1-0Las;Las0-2Ath;Las2-3Ath;Ath1-0Las
+Ath Bilbao,Leganes,2,1.0,0.0,0.0,Leg0-2Ath;Ath0-0Leg
+Ath Bilbao,Levante,4,3.0,0.5,0.5,Lev0-0Ath;Ath3-1Lev;Lev0-2Ath;Ath4-2Lev
+Ath Bilbao,Mallorca,10,2.3,0.4,0.5,Ath4-0Mal;Mal0-0Ath;Ath1-1Mal;Ath2-1Mal;Mal3-2Ath
+Ath Bilbao,Osasuna,10,2.0,0.3,0.4,Ath2-2Osa;Osa1-2Ath;Ath0-0Osa;Osa1-1Ath;Ath1-0Osa
+Ath Bilbao,Oviedo,2,2.0,0.5,0.5,Ath1-0Ovi;Ovi1-2Ath
+Ath Bilbao,Real Madrid,10,2.5,0.4,0.4,Rea2-0Ath;Ath2-1Rea;Rea1-0Ath;Ath0-3Rea;Rea4-2Ath
+Ath Bilbao,Sevilla,11,2.18,0.27,0.45,Ath1-1Sev;Sev0-1Ath;Ath3-2Sev;Sev2-1Ath;Ath1-3Sev
+Ath Bilbao,Sociedad,10,2.6,0.5,0.5,Ath2-1Soc;Ath1-0Soc;Soc0-0Ath;Soc3-2Ath;Ath1-1Soc
+Ath Bilbao,Valencia,10,1.6,0.2,0.3,Val1-0Ath;Ath1-0Val;Val0-1Ath;Val2-0Ath;Ath0-1Val
+Ath Bilbao,Valladolid,4,4.25,0.75,0.75,Ath3-0Val;Val1-3Ath;Val1-1Ath;Ath7-1Val
+Ath Bilbao,Vallecano,10,2.4,0.5,0.5,Val0-1Ath;Val1-2Ath;Ath3-1Val;Ath1-0Val;Val1-1Ath
+Ath Bilbao,Villarreal,10,2.5,0.4,0.6,Ath1-1Vil;Ath2-0Vil;Vil0-0Ath;Vil1-0Ath;Ath1-2Vil
+Ath Madrid,Barcelona,10,3.0,0.6,0.5,Ath0-3Bar;Bar1-2Ath;Ath2-4Bar;Bar3-1Ath;Ath1-2Bar
+Ath Madrid,Betis,10,2.3,0.5,0.4,Ath2-1Bet;Bet1-0Ath;Ath4-1Bet;Bet0-2Ath;Ath0-1Bet
+Ath Madrid,Cadiz,6,4.33,0.83,0.83,Ath2-1Cad;Cad3-2Ath;Ath5-1Cad;Ath3-2Cad;Cad2-0Ath
+Ath Madrid,Celta,10,2.1,0.3,0.4,Ath1-0Cel;Cel0-1Ath;Ath1-1Cel;Cel1-1Ath;Ath0-1Cel
+Ath Madrid,Elche,6,2.17,0.17,0.33,Elc0-2Ath;Ath2-0Elc;Elc1-0Ath;Ath1-1Elc;Elc3-2Ath
+Ath Madrid,Espanol,8,3.12,0.62,0.88,Esp3-3Ath;Ath0-0Esp;Esp1-1Ath;Esp2-1Ath;Ath4-2Esp
+Ath Madrid,Getafe,10,3.0,0.6,0.5,Get0-3Ath;Ath1-0Get;Get2-1Ath;Get0-1Ath;Ath1-0Get
+Ath Madrid,Girona,8,3.25,0.75,0.38,Ath3-1Gir;Ath3-0Gir;Gir0-4Ath;Gir0-3Ath;Ath1-0Gir
+Ath Madrid,Granada,4,2.0,0.5,0.5,Gra2-1Ath;Ath0-0Gra;Ath3-1Gra;Gra0-1Ath
+Ath Madrid,Las Palmas,4,2.75,0.5,0.25,Las2-1Ath;Ath5-0Las;Ath2-0Las;Las1-0Ath
+Ath Madrid,Leganes,2,2.5,0.5,0.5,Ath3-1Leg;Leg1-0Ath
+Ath Madrid,Levante,4,2.25,0.5,0.5,Lev2-2Ath;Ath0-1Lev;Ath3-1Lev;Lev0-0Ath
+Ath Madrid,Mallorca,10,1.9,0.3,0.3,Mal0-1Ath;Mal0-1Ath;Ath2-0Mal;Mal1-1Ath;Ath3-0Mal
+Ath Madrid,Osasuna,10,2.2,0.4,0.2,Ath1-4Osa;Ath1-0Osa;Osa2-0Ath;Ath1-0Osa;Osa1-2Ath
+Ath Madrid,Oviedo,2,1.5,0.0,0.0,Ath2-0Ovi;Ovi0-1Ath
+Ath Madrid,Real Madrid,10,3.0,0.4,0.8,Rea1-1Ath;Ath1-1Rea;Rea1-1Ath;Ath5-2Rea;Rea3-2Ath
+Ath Madrid,Sevilla,11,3.27,0.64,0.64,Ath4-3Sev;Sev1-2Ath;Ath3-0Sev;Sev2-1Ath;Sev1-3Ath
+Ath Madrid,Sociedad,10,3.0,0.6,0.8,Soc0-2Ath;Soc1-1Ath;Ath4-0Soc;Soc1-1Ath;Ath3-2Soc
+Ath Madrid,Valencia,10,3.1,0.7,0.3,Ath2-0Val;Ath3-0Val;Val0-3Ath;Ath2-1Val;Val0-2Ath
+Ath Madrid,Valladolid,4,5.25,1.0,0.5,Ath3-0Val;Val2-5Ath;Val0-5Ath;Ath4-2Val
+Ath Madrid,Vallecano,10,3.1,0.6,0.5,Ath2-1Val;Val1-1Ath;Ath3-0Val;Ath3-2Val;Val3-0Ath
+Ath Madrid,Villarreal,11,3.55,0.73,0.82,Vil2-2Ath;Ath1-1Vil;Ath2-0Vil;Vil5-1Ath;Ath2-2Vil
+Barcelona,Betis,10,4.0,0.8,0.7,Bet2-4Bar;Bet2-2Bar;Bar1-1Bet;Bet3-5Bar;Bar3-1Bet
+Barcelona,Cadiz,6,1.67,0.17,0.0,Bar0-1Cad;Cad0-4Bar;Bar2-0Cad;Bar2-0Cad;Cad0-1Bar
+Barcelona,Celta,10,4.0,0.8,0.8,Cel1-2Bar;Cel2-2Bar;Bar4-3Cel;Cel2-4Bar;Bar1-0Cel
+Barcelona,Elche,7,4.0,1.0,0.57,Bar3-0Elc;Elc0-4Bar;Bar3-1Elc;Elc1-3Bar;Elc0-5Bar
+Barcelona,Espanol,8,3.25,0.5,0.62,Esp2-4Bar;Bar3-1Esp;Esp0-2Bar;Esp0-2Bar;Bar4-1Esp
+Barcelona,Getafe,10,1.6,0.3,0.2,Bar4-0Get;Bar1-0Get;Get1-1Bar;Bar3-0Get;Get0-2Bar
+Barcelona,Girona,8,3.62,0.75,0.75,Gir4-2Bar;Gir1-4Bar;Bar4-1Gir;Bar2-1Gir;Gir2-1Bar
+Barcelona,Granada,4,3.5,0.5,1.0,Bar1-1Gra;Gra1-1Bar;Gra2-2Bar;Bar3-3Gra
+Barcelona,Las Palmas,4,2.25,0.5,0.5,Las1-2Bar;Bar1-0Las;Bar1-2Las;Las0-2Bar
+Barcelona,Leganes,2,1.0,0.0,0.0,Bar0-1Leg;Leg0-1Bar
+Barcelona,Levante,4,4.0,1.0,0.5,Bar3-0Lev;Lev2-3Bar;Lev2-3Bar;Bar3-0Lev
+Barcelona,Mallorca,10,2.6,0.6,0.3,Bar1-0Mal;Mal1-5Bar;Bar1-0Mal;Mal0-3Bar;Bar3-0Mal
+Barcelona,Osasuna,10,3.0,0.7,0.5,Bar1-0Osa;Osa4-2Bar;Bar3-0Osa;Bar2-0Osa;Osa1-2Bar
+Barcelona,Oviedo,2,3.5,1.0,0.5,Ovi1-3Bar;Bar3-0Ovi
+Barcelona,Real Madrid,10,3.8,0.9,0.7,Rea3-2Bar;Rea0-4Bar;Bar4-3Rea;Rea2-1Bar;Bar2-0Rea
+Barcelona,Sevilla,10,3.6,0.7,0.6,Sev1-2Bar;Bar5-1Sev;Sev1-4Bar;Sev4-1Bar;Bar5-2Sev
+Barcelona,Sociedad,10,2.9,0.6,0.5,Bar2-0Soc;Soc1-0Bar;Bar4-0Soc;Bar2-1Soc;Soc2-1Bar
+Barcelona,Valencia,11,4.09,0.73,0.64,Val1-2Bar;Bar7-1Val;Bar6-0Val;Val3-1Bar;Val0-5Bar
+Barcelona,Valladolid,4,4.5,1.0,0.5,Bar4-0Val;Val3-1Bar;Bar7-0Val;Val1-2Bar
+Barcelona,Vallecano,11,2.18,0.36,0.45,Val1-2Bar;Bar1-0Val;Val1-1Bar;Bar1-0Val;Bar5-2Val
+Barcelona,Villarreal,10,4.3,0.7,0.6,Bar3-5Vil;Vil1-5Bar;Bar2-3Vil;Vil0-2Bar;Bar4-1Vil
+Betis,Cadiz,6,1.83,0.17,0.5,Cad1-2Bet;Cad0-0Bet;Bet0-2Cad;Bet1-1Cad;Cad0-2Bet
+Betis,Celta,10,2.9,0.5,0.7,Bet2-1Cel;Bet2-2Cel;Cel3-2Bet;Cel1-1Bet;Bet1-1Cel
+Betis,Elche,6,2.83,0.67,0.5,Bet0-1Elc;Bet3-0Elc;Elc2-3Bet;Elc1-1Bet;Bet2-1Elc
+Betis,Espanol,8,2.62,0.62,0.62,Bet3-1Esp;Bet1-0Esp;Esp1-2Bet;Esp1-2Bet;Bet0-0Esp
+Betis,Getafe,10,2.0,0.3,0.4,Bet1-1Get;Bet2-1Get;Get1-2Bet;Bet4-0Get;Get2-0Bet
+Betis,Girona,8,3.25,0.62,1.0,Gir3-2Bet;Bet1-1Gir;Gir1-3Bet;Bet1-1Gir;Gir2-3Bet
+Betis,Granada,4,2.0,0.25,0.5,Gra1-2Bet;Bet2-0Gra;Gra1-1Bet;Bet1-0Gra
+Betis,Las Palmas,4,2.0,0.25,0.5,Bet1-0Las;Las2-2Bet;Las1-1Bet;Bet1-0Las
+Betis,Leganes,2,3.5,0.5,0.5,Bet2-0Leg;Leg2-3Bet
+Betis,Levante,5,4.8,1.0,1.0,Bet3-1Lev;Lev2-4Bet;Lev2-2Bet;Bet2-1Lev;Lev5-2Bet
+Betis,Mallorca,10,2.2,0.5,0.5,Mal0-1Bet;Bet1-2Mal;Mal0-1Bet;Bet3-0Mal;Mal1-2Bet
+Betis,Osasuna,10,2.9,0.5,0.7,Osa0-2Bet;Osa1-2Bet;Bet1-1Osa;Bet2-0Osa;Osa1-1Bet
+Betis,Oviedo,2,2.5,0.5,0.5,Ovi1-1Bet;Bet3-0Ovi
+Betis,Real Madrid,11,1.82,0.27,0.45,Rea2-0Bet;Bet2-1Rea;Rea5-1Bet;Bet1-1Rea;Bet1-0Rea
+Betis,Sevilla,10,2.1,0.3,0.6,Bet1-1Sev;Sev1-0Bet;Bet2-1Sev;Sev0-2Bet;Bet2-2Sev
+Betis,Sociedad,11,2.0,0.36,0.18,Soc2-0Bet;Bet3-0Soc;Bet3-1Soc;Soc2-2Bet;Bet1-0Soc
+Betis,Valencia,11,3.0,0.64,0.64,Val4-2Bet;Bet1-1Val;Val1-1Bet;Bet2-1Val;Val0-1Bet
+Betis,Valladolid,4,2.5,0.5,0.5,Val0-0Bet;Bet2-1Val;Val1-0Bet;Bet5-1Val
+Betis,Vallecano,10,2.5,0.4,0.7,Val2-0Bet;Bet1-1Val;Val2-2Bet;Val0-0Bet;Bet1-1Val
+Betis,Villarreal,10,2.7,0.5,0.6,Bet2-3Vil;Vil1-2Bet;Bet1-2Vil;Vil2-2Bet;Bet2-0Vil
+Cadiz,Celta,6,2.17,0.5,0.5,Cad0-0Cel;Cel3-0Cad;Cad1-0Cel;Cel1-1Cad;Cad2-2Cel
+Cadiz,Elche,4,2.75,0.5,0.75,Elc3-1Cad;Cad3-0Elc;Cad1-1Elc;Elc1-1Cad
+Cadiz,Espanol,4,2.5,0.5,0.5,Esp2-0Cad;Cad2-2Esp;Cad2-2Esp;Esp0-0Cad
+Cadiz,Getafe,6,2.0,0.33,0.33,Cad1-1Get;Get0-0Cad;Cad2-2Get;Get1-0Cad;Cad1-0Get
+Cadiz,Girona,4,2.5,0.25,0.5,Gir1-1Cad;Cad2-0Gir;Cad0-1Gir;Gir4-1Cad
+Cadiz,Granada,4,1.25,0.0,0.25,Cad1-1Gra;Gra0-0Cad;Gra2-0Cad;Cad1-0Gra
+Cadiz,Las Palmas,2,1.0,0.0,0.5,Las1-1Cad;Cad0-0Las
+Cadiz,Levante,2,2.0,0.0,0.5,Cad1-1Lev;Lev0-2Cad
+Cadiz,Mallorca,6,2.0,0.17,0.67,Mal2-1Cad;Cad2-0Mal;Mal1-0Cad;Mal1-1Cad;Cad1-1Mal
+Cadiz,Osasuna,6,2.33,0.17,0.33,Osa2-0Cad;Osa2-0Cad;Cad0-1Osa;Cad1-1Osa;Osa2-0Cad
+Cadiz,Real Madrid,6,2.17,0.5,0.33,Cad1-1Rea;Rea2-1Cad;Cad0-2Rea;Cad0-3Rea;Rea3-0Cad
+Cadiz,Sevilla,6,1.83,0.17,0.33,Sev1-1Cad;Sev1-0Cad;Cad0-2Sev;Cad2-2Sev;Sev0-1Cad
+Cadiz,Sociedad,6,1.33,0.17,0.0,Soc3-0Cad;Cad0-1Soc;Soc0-0Cad;Cad0-0Soc;Soc2-0Cad
+Cadiz,Valencia,6,1.83,0.33,0.33,Val0-0Cad;Val0-1Cad;Cad2-1Val;Val2-0Cad;Cad1-4Val
+Cadiz,Valladolid,2,1.5,0.0,0.0,Val0-1Cad;Cad2-0Val
+Cadiz,Vallecano,6,2.5,0.33,0.5,Cad2-0Val;Val5-1Cad;Cad1-0Val;Cad0-0Val;Val1-1Cad
+Cadiz,Villarreal,6,2.17,0.33,0.33,Cad1-0Vil;Cad0-0Vil;Vil2-0Cad;Cad3-1Vil;Vil0-0Cad
+Celta,Elche,6,1.83,0.33,0.33,Cel1-0Elc;Elc0-1Cel;Cel1-0Elc;Elc2-1Cel;Cel3-1Elc
+Celta,Espanol,8,3.0,0.62,0.62,Esp1-3Cel;Esp3-1Cel;Cel0-2Esp;Cel0-1Esp;Esp2-2Cel
+Celta,Getafe,11,2.27,0.36,0.45,Cel1-0Get;Get1-2Cel;Cel0-2Get;Get0-0Cel;Get1-1Cel
+Celta,Girona,8,2.0,0.25,0.62,Cel0-1Gir;Cel1-1Gir;Gir2-2Cel;Cel1-1Gir;Gir1-2Cel
+Celta,Granada,4,1.75,0.25,0.5,Cel1-0Gra;Gra1-1Cel;Cel1-0Gra;Gra1-2Cel
+Celta,Las Palmas,4,2.75,0.5,0.75,Las2-1Cel;Cel4-1Las;Las0-1Cel;Cel1-1Las
+Celta,Leganes,2,3.0,1.0,0.5,Leg3-0Cel;Cel2-1Leg
+Celta,Levante,4,3.0,0.5,0.75,Lev0-2Cel;Cel1-1Lev;Lev1-2Cel;Cel2-3Lev
+Celta,Mallorca,10,2.1,0.2,0.4,Mal1-1Cel;Cel2-0Mal;Mal1-2Cel;Mal1-1Cel;Cel2-0Mal
+Celta,Osasuna,11,2.45,0.55,0.45,Osa3-2Cel;Cel1-0Osa;Osa2-3Cel;Cel1-2Osa;Cel1-2Osa
+Celta,Oviedo,2,1.5,0.5,0.0,Ovi0-0Cel;Cel0-3Ovi
+Celta,Real Madrid,10,3.5,0.7,0.6,Rea4-0Cel;Cel1-2Rea;Rea3-2Cel;Rea0-2Cel;Cel1-2Rea
+Celta,Sevilla,10,2.4,0.4,0.6,Sev1-2Cel;Sev1-0Cel;Cel3-2Sev;Sev0-1Cel;Cel1-0Sev
+Celta,Sociedad,11,1.82,0.18,0.45,Cel2-0Soc;Soc0-1Cel;Cel1-1Soc;Soc3-1Cel;Soc0-0Cel
+Celta,Valencia,11,2.91,0.73,0.64,Cel3-1Val;Val2-1Cel;Cel4-1Val;Val2-3Cel;Val0-0Cel
+Celta,Valladolid,4,3.25,0.75,0.5,Val4-1Cel;Cel3-0Val;Cel3-1Val;Val0-1Cel
+Celta,Vallecano,10,1.6,0.4,0.3,Cel0-0Val;Val2-1Cel;Cel1-2Val;Val1-1Cel;Cel3-0Val
+Celta,Villarreal,10,3.4,0.6,0.8,Cel3-2Vil;Vil4-3Cel;Cel3-0Vil;Cel1-1Vil;Vil2-1Cel
+Elche,Espanol,6,2.83,0.67,0.67,Esp1-2Elc;Esp2-2Elc;Elc0-1Esp;Esp1-0Elc;Elc2-2Esp
+Elche,Getafe,6,1.67,0.17,0.33,Elc3-1Get;Elc0-1Get;Get1-1Elc;Get1-0Elc;Elc1-0Get
+Elche,Girona,4,2.5,0.5,0.5,Elc1-2Gir;Gir2-0Elc;Elc3-0Gir;Gir1-1Elc
+Elche,Granada,2,0.5,0.0,0.0,Elc0-0Gra;Gra0-1Elc
+Elche,Levante,4,3.0,0.5,0.5,Elc1-1Lev;Lev3-0Elc;Elc2-0Lev;Lev3-2Elc
+Elche,Mallorca,6,2.83,0.67,0.67,Elc3-0Mal;Elc1-1Mal;Mal0-1Elc;Mal3-1Elc;Elc2-1Mal
+Elche,Osasuna,6,1.83,0.17,0.83,Elc1-1Osa;Elc1-1Osa;Osa2-1Elc;Osa1-1Elc;Elc0-0Osa
+Elche,Oviedo,2,2.0,0.5,0.5,Elc1-0Ovi;Ovi1-2Elc
+Elche,Real Madrid,6,3.83,1.0,0.67,Rea2-2Elc;Elc0-3Rea;Rea4-0Elc;Elc2-2Rea;Rea4-1Elc
+Elche,Sevilla,6,2.83,0.5,0.67,Sev2-0Elc;Sev3-0Elc;Elc1-1Sev;Sev2-2Elc;Elc2-2Sev
+Elche,Sociedad,7,2.57,0.43,0.57,Elc0-1Soc;Soc2-0Elc;Elc1-1Soc;Soc3-1Elc;Elc2-3Soc
+Elche,Valencia,6,2.17,0.33,0.5,Elc0-1Val;Val2-2Elc;Elc0-2Val;Val1-1Elc;Elc1-0Val
+Elche,Valladolid,2,2.5,0.5,1.0,Val2-1Elc;Elc1-1Val
+Elche,Vallecano,6,3.0,0.83,0.5,Elc2-1Val;Val2-1Elc;Elc4-0Val;Elc4-0Val;Val1-0Elc
+Elche,Villarreal,6,3.5,0.83,0.67,Elc1-0Vil;Vil4-0Elc;Elc3-1Vil;Elc1-3Vil;Vil2-1Elc
+Espanol,Getafe,8,1.88,0.38,0.38,Esp1-0Get;Get1-0Esp;Esp1-0Get;Get0-1Esp;Esp1-2Get
+Espanol,Girona,6,2.67,0.5,0.67,Gir2-1Esp;Gir4-1Esp;Esp1-1Gir;Gir0-0Esp;Esp0-2Gir
+Espanol,Granada,2,1.0,0.0,0.0,Esp2-0Gra;Gra0-0Esp
+Espanol,Las Palmas,2,1.5,0.0,0.0,Las1-0Esp;Esp2-0Las
+Espanol,Leganes,2,3.5,0.5,1.0,Esp1-1Leg;Leg3-2Esp
+Espanol,Levante,5,2.8,0.4,0.6,Esp4-3Lev;Lev1-1Esp;Lev1-1Esp;Esp0-0Lev;Esp3-0Lev
+Espanol,Mallorca,8,2.62,0.62,0.75,Esp2-1Mal;Esp2-1Mal;Mal2-1Esp;Esp3-2Mal;Mal2-1Esp
+Espanol,Osasuna,8,1.38,0.12,0.38,Esp1-1Osa;Esp0-0Osa;Osa2-0Esp;Esp1-0Osa;Osa1-2Esp
+Espanol,Oviedo,2,2.0,0.0,0.5,Ovi0-2Esp;Esp1-1Ovi
+Espanol,Real Madrid,9,3.11,0.67,0.56,Rea4-1Esp;Esp1-0Rea;Rea2-0Esp;Esp0-2Rea;Esp1-2Rea
+Espanol,Sevilla,9,2.89,0.44,0.78,Esp0-2Sev;Sev1-1Esp;Esp2-1Sev;Sev2-1Esp;Esp1-1Sev
+Espanol,Sociedad,9,2.56,0.56,0.67,Esp0-1Soc;Soc2-1Esp;Soc2-2Esp;Esp1-1Soc;Soc2-1Esp
+Espanol,Valencia,8,3.25,0.62,1.0,Val2-2Esp;Esp1-1Val;Val1-1Esp;Esp2-2Val;Val3-2Esp
+Espanol,Valladolid,4,2.0,0.5,0.5,Esp1-0Val;Val2-1Esp;Val1-0Esp;Esp2-1Val
+Espanol,Vallecano,8,2.0,0.38,0.25,Val1-2Esp;Esp2-1Val;Val0-4Esp;Esp1-0Val;Val1-0Esp
+Espanol,Villarreal,8,3.0,0.5,0.5,Vil4-2Esp;Esp1-2Vil;Vil1-0Esp;Esp0-2Vil;Vil4-1Esp
+Getafe,Girona,8,2.75,0.62,0.62,Get1-0Gir;Get0-1Gir;Gir1-2Get;Get2-1Gir;Gir1-1Get
+Getafe,Granada,4,3.0,0.25,0.75,Gra1-1Get;Get4-2Gra;Gra1-1Get;Get2-0Gra
+Getafe,Las Palmas,4,3.75,0.75,0.75,Las2-0Get;Get3-3Las;Las1-2Get;Get1-3Las
+Getafe,Leganes,2,1.5,0.0,0.5,Get1-1Leg;Leg1-0Get
+Getafe,Levante,4,1.5,0.25,0.25,Lev0-0Get;Get3-0Lev;Get1-1Lev;Lev1-0Get
+Getafe,Mallorca,10,1.9,0.4,0.4,Get1-2Mal;Get0-1Mal;Mal1-2Get;Mal1-0Get;Get3-1Mal
+Getafe,Osasuna,11,2.55,0.45,0.64,Get1-1Osa;Osa1-2Get;Osa2-1Get;Get1-0Osa;Osa1-0Get
+Getafe,Oviedo,2,1.0,0.0,0.0,Get2-0Ovi;Ovi0-0Get
+Getafe,Real Madrid,10,1.5,0.1,0.1,Get0-2Rea;Rea2-0Get;Get0-1Rea;Get0-1Rea;Rea0-1Get
+Getafe,Sevilla,10,1.6,0.3,0.2,Get0-1Sev;Sev1-0Get;Get0-0Sev;Sev1-2Get;Get0-1Sev
+Getafe,Sociedad,10,2.3,0.4,0.5,Get1-1Soc;Get0-0Soc;Soc0-3Get;Get1-2Soc;Soc0-1Get
+Getafe,Valencia,10,1.9,0.3,0.2,Val1-0Get;Get1-1Val;Val3-0Get;Val3-0Get;Get0-1Val
+Getafe,Valladolid,4,2.75,0.5,0.25,Get2-3Val;Val0-0Get;Get2-0Val;Val0-4Get
+Getafe,Vallecano,10,1.2,0.1,0.2,Val0-0Get;Get0-0Val;Val1-0Get;Val1-1Get;Get0-2Val
+Getafe,Villarreal,10,1.9,0.4,0.6,Vil1-1Get;Vil1-1Get;Get1-2Vil;Vil2-0Get;Get2-1Vil
+Girona,Granada,2,6.5,1.0,0.5,Gra2-4Gir;Gir7-0Gra
+Girona,Las Palmas,4,1.75,0.25,0.25,Gir1-0Las;Las0-2Gir;Las1-0Gir;Gir2-1Las
+Girona,Leganes,2,4.5,0.5,1.0,Gir4-3Leg;Leg1-1Gir
+Girona,Levante,2,3.0,0.5,0.5,Gir0-4Lev;Lev1-1Gir
+Girona,Mallorca,8,2.75,0.5,0.62,Mal1-0Gir;Mal2-1Gir;Gir1-0Mal;Mal1-2Gir;Gir0-1Mal
+Girona,Osasuna,8,2.75,0.5,0.5,Gir2-0Osa;Gir4-0Osa;Osa2-1Gir;Gir1-0Osa;Osa1-0Gir
+Girona,Oviedo,2,3.5,0.5,0.5,Gir3-3Ovi;Ovi1-0Gir
+Girona,Real Madrid,8,3.0,0.5,0.5,Rea4-0Gir;Gir0-3Rea;Rea2-0Gir;Gir1-1Rea;Rea1-1Gir
+Girona,Sevilla,8,2.88,0.5,0.62,Gir5-1Sev;Sev0-2Gir;Gir1-2Sev;Gir0-2Sev;Sev1-1Gir
+Girona,Sociedad,8,3.12,0.5,0.75,Gir0-0Soc;Gir0-1Soc;Soc3-2Gir;Soc1-2Gir;Gir1-1Soc
+Girona,Valencia,8,2.38,0.5,0.62,Val1-3Gir;Val2-0Gir;Gir1-1Val;Gir2-1Val;Val2-1Gir
+Girona,Valladolid,4,2.0,0.5,0.25,Gir2-1Val;Val1-0Gir;Gir3-0Val;Val0-1Gir
+Girona,Vallecano,8,2.88,0.75,0.75,Gir3-0Val;Gir0-0Val;Val2-1Gir;Gir1-3Val;Val1-1Gir
+Girona,Villarreal,8,2.38,0.5,0.38,Gir0-1Vil;Vil2-2Gir;Gir0-1Vil;Vil5-0Gir;Gir1-0Vil
+Granada,Las Palmas,2,1.5,0.0,0.5,Las1-0Gra;Gra1-1Las
+Granada,Levante,2,4.0,1.0,0.5,Lev0-3Gra;Gra1-4Lev
+Granada,Mallorca,4,4.75,0.75,0.75,Gra4-1Mal;Mal2-6Gra;Gra3-2Mal;Mal1-0Gra
+Granada,Osasuna,4,2.25,0.25,0.25,Osa1-1Gra;Gra0-2Osa;Osa2-0Gra;Gra3-0Osa
+Granada,Real Madrid,4,3.0,0.5,0.25,Gra1-4Rea;Rea1-0Gra;Rea2-0Gra;Gra0-4Rea
+Granada,Sevilla,4,3.25,0.75,0.25,Gra1-0Sev;Sev4-2Gra;Gra0-3Sev;Sev3-0Gra
+Granada,Sociedad,4,5.0,0.75,0.75,Gra2-3Soc;Soc2-0Gra;Soc5-3Gra;Gra2-3Soc
+Granada,Valencia,4,2.0,0.25,0.5,Gra1-1Val;Val3-1Gra;Val1-0Gra;Gra0-1Val
+Granada,Vallecano,4,3.25,0.75,0.5,Val4-0Gra;Gra2-2Val;Gra0-2Val;Val2-1Gra
+Granada,Villarreal,4,4.0,0.75,0.75,Vil0-0Gra;Gra1-4Vil;Gra2-3Vil;Vil5-1Gra
+Las Palmas,Leganes,2,2.0,0.5,0.5,Leg2-1Las;Las0-1Leg
+Las Palmas,Mallorca,4,3.0,0.5,0.75,Las1-1Mal;Mal1-0Las;Las2-3Mal;Mal3-1Las
+Las Palmas,Osasuna,4,2.25,0.25,1.0,Osa1-1Las;Las1-1Osa;Osa2-1Las;Las1-1Osa
+Las Palmas,Real Madrid,4,3.0,0.5,0.75,Rea2-0Las;Las1-2Rea;Las1-1Rea;Rea4-1Las
+Las Palmas,Sevilla,4,2.0,0.25,0.25,Sev1-0Las;Las0-2Sev;Las2-2Sev;Sev1-0Las
+Las Palmas,Sociedad,4,1.5,0.25,0.25,Las0-0Soc;Soc2-0Las;Soc0-0Las;Las1-3Soc
+Las Palmas,Valencia,4,3.25,0.5,0.5,Val1-0Las;Las2-0Val;Val2-3Las;Las2-3Val
+Las Palmas,Valladolid,2,2.5,0.5,1.0,Las2-1Val;Val1-1Las
+Las Palmas,Vallecano,4,2.0,0.25,0.25,Las0-1Val;Val0-2Las;Val1-3Las;Las0-1Val
+Las Palmas,Villarreal,4,3.25,1.0,0.75,Vil1-2Las;Las3-0Vil;Vil3-1Las;Las1-2Vil
+Leganes,Mallorca,2,0.5,0.0,0.0,Leg0-1Mal;Mal0-0Leg
+Leganes,Osasuna,2,2.0,0.0,1.0,Osa1-1Leg;Leg1-1Osa
+Leganes,Real Madrid,2,4.0,1.0,0.5,Leg0-3Rea;Rea3-2Leg
+Leganes,Sevilla,2,2.5,0.5,0.5,Leg1-0Sev;Sev2-2Leg
+Leganes,Sociedad,2,3.0,1.0,0.0,Leg0-3Soc;Soc3-0Leg
+Leganes,Valencia,2,1.0,0.0,0.0,Leg0-0Val;Val2-0Leg
+Leganes,Valladolid,2,1.5,0.5,0.0,Val0-0Leg;Leg3-0Val
+Leganes,Vallecano,2,1.5,0.0,0.5,Val1-1Leg;Leg0-1Val
+Leganes,Villarreal,2,5.0,1.0,0.5,Leg2-5Vil;Vil3-0Leg
+Levante,Mallorca,4,1.75,0.0,0.25,Mal1-0Lev;Lev2-0Mal;Mal1-1Lev;Lev2-0Mal
+Levante,Osasuna,5,2.2,0.4,0.4,Lev0-0Osa;Osa3-1Lev;Osa2-0Lev;Lev3-2Osa;Osa0-0Lev
+Levante,Oviedo,2,4.0,0.5,0.5,Ovi0-2Lev;Lev4-2Ovi
+Levante,Real Madrid,4,4.75,0.75,0.5,Lev3-3Rea;Rea6-0Lev;Lev1-4Rea;Rea2-0Lev
+Levante,Sevilla,4,4.5,0.75,0.5,Sev5-3Lev;Lev2-3Sev;Sev0-3Lev;Lev2-0Sev
+Levante,Sociedad,4,2.0,0.25,0.5,Soc1-0Lev;Lev2-1Soc;Lev1-1Soc;Soc2-0Lev
+Levante,Valencia,4,3.0,0.25,0.5,Lev3-4Val;Val1-1Lev;Val1-0Lev;Lev0-2Val
+Levante,Vallecano,4,3.25,0.5,0.75,Lev1-1Val;Val2-4Lev;Lev0-3Val;Val1-1Lev
+Levante,Villarreal,4,3.5,0.5,0.25,Vil5-0Lev;Lev2-0Vil;Lev0-1Vil;Vil5-1Lev
+Mallorca,Osasuna,10,2.6,0.4,0.6,Osa1-1Mal;Osa1-0Mal;Mal1-1Osa;Mal2-2Osa;Osa2-2Mal
+Mallorca,Oviedo,2,1.5,0.5,0.0,Ovi0-0Mal;Mal3-0Ovi
+Mallorca,Real Madrid,10,2.9,0.6,0.6,Mal0-1Rea;Mal1-1Rea;Rea2-1Mal;Rea2-1Mal;Mal2-1Rea
+Mallorca,Sevilla,10,2.0,0.3,0.5,Sev2-1Mal;Mal0-0Sev;Sev1-1Mal;Sev1-3Mal;Mal4-1Sev
+Mallorca,Sociedad,10,1.5,0.1,0.2,Mal1-2Soc;Mal1-0Soc;Soc0-2Mal;Soc1-0Mal;Mal0-1Soc
+Mallorca,Valencia,10,1.9,0.3,0.6,Val0-0Mal;Mal2-1Val;Val1-0Mal;Val1-1Mal;Mal1-1Val
+Mallorca,Valladolid,4,3.25,0.75,0.75,Mal1-0Val;Val3-3Mal;Val1-2Mal;Mal2-1Val
+Mallorca,Vallecano,10,2.6,0.7,0.5,Mal2-1Val;Mal1-0Val;Val0-0Mal;Val2-1Mal;Mal3-0Val
+Mallorca,Villarreal,10,2.6,0.5,0.5,Vil1-1Mal;Mal1-2Vil;Vil4-0Mal;Vil2-1Mal;Mal1-1Vil
+Osasuna,Oviedo,2,2.5,0.5,0.5,Ovi0-0Osa;Osa3-2Ovi
+Osasuna,Real Madrid,10,2.8,0.5,0.5,Osa2-4Rea;Rea4-0Osa;Osa1-1Rea;Rea1-0Osa;Osa2-1Rea
+Osasuna,Sevilla,10,1.9,0.3,0.5,Sev1-1Osa;Sev1-1Osa;Osa1-0Sev;Sev1-0Osa;Osa2-1Sev
+Osasuna,Sociedad,10,2.3,0.3,0.4,Soc0-1Osa;Soc0-2Osa;Osa2-1Soc;Osa1-3Soc;Soc3-1Osa
+Osasuna,Valencia,10,2.4,0.5,0.5,Osa0-1Val;Val0-0Osa;Osa3-3Val;Osa1-0Val;Val1-0Osa
+Osasuna,Valladolid,4,2.0,0.25,0.25,Osa2-0Val;Val0-0Osa;Osa1-0Val;Val2-3Osa
+Osasuna,Vallecano,10,2.6,0.6,0.6,Val2-1Osa;Val3-1Osa;Osa1-1Val;Osa2-0Val;Val1-3Osa
+Osasuna,Villarreal,10,3.2,0.7,0.7,Osa1-1Vil;Osa2-2Vil;Vil4-2Osa;Vil2-1Osa;Osa2-2Vil
+Oviedo,Real Madrid,2,2.5,0.5,0.0,Ovi0-3Rea;Rea2-0Ovi
+Oviedo,Sevilla,2,2.5,0.5,0.0,Sev4-0Ovi;Ovi1-0Sev
+Oviedo,Sociedad,2,3.5,0.5,0.5,Ovi1-0Soc;Soc3-3Ovi
+Oviedo,Valencia,2,2.0,0.5,0.5,Val1-2Ovi;Ovi1-0Val
+Oviedo,Vallecano,2,1.5,0.5,0.0,Ovi0-0Val;Val3-0Ovi
+Oviedo,Villarreal,2,2.0,0.0,0.5,Vil2-0Ovi;Ovi1-1Vil
+Real Madrid,Sevilla,10,2.9,0.5,0.6,Rea1-0Sev;Rea4-2Sev;Sev0-2Rea;Rea2-0Sev;Sev0-1Rea
+Real Madrid,Sociedad,11,2.73,0.45,0.45,Soc0-2Rea;Rea2-0Soc;Soc1-2Rea;Rea4-1Soc;Rea4-1Soc
+Real Madrid,Valencia,10,3.3,0.7,0.6,Val2-2Rea;Val1-2Rea;Rea1-2Val;Rea4-0Val;Val0-2Rea
+Real Madrid,Valladolid,4,3.5,0.75,0.0,Val0-2Rea;Rea6-0Val;Rea3-0Val;Val0-3Rea
+Real Madrid,Vallecano,10,2.6,0.6,0.7,Val1-1Rea;Val3-3Rea;Rea2-1Val;Val0-0Rea;Rea2-1Val
+Real Madrid,Villarreal,10,3.2,0.6,0.6,Vil4-4Rea;Rea2-0Vil;Vil1-2Rea;Rea3-1Vil;Vil0-2Rea
+Sevilla,Sociedad,10,2.1,0.5,0.5,Sev3-2Soc;Sev0-2Soc;Soc0-1Sev;Soc2-1Sev;Sev1-0Soc
+Sevilla,Valencia,10,2.0,0.2,0.6,Val0-0Sev;Sev1-1Val;Val1-0Sev;Val1-1Sev;Sev0-2Val
+Sevilla,Valladolid,4,3.0,0.75,0.5,Sev1-1Val;Val0-3Sev;Sev2-1Val;Val0-4Sev
+Sevilla,Vallecano,11,2.18,0.36,0.64,Sev1-0Val;Val1-1Sev;Val0-1Sev;Sev1-1Val;Sev2-1Val
+Sevilla,Villarreal,10,3.2,0.6,0.9,Vil3-2Sev;Sev1-2Vil;Vil4-2Sev;Sev1-2Vil;Vil2-3Sev
+Sociedad,Valencia,10,1.8,0.2,0.3,Soc1-0Val;Soc3-0Val;Val1-0Soc;Val1-1Soc;Soc3-4Val
+Sociedad,Valladolid,4,1.25,0.25,0.25,Val1-0Soc;Soc0-1Val;Val0-0Soc;Soc2-1Val
+Sociedad,Vallecano,10,2.6,0.5,0.6,Soc0-0Val;Soc1-2Val;Val2-2Soc;Soc0-1Val;Val3-3Soc
+Sociedad,Villarreal,10,3.1,0.7,0.6,Soc1-3Vil;Soc1-0Vil;Vil2-2Soc;Soc2-3Vil;Vil3-1Soc
+Valencia,Valladolid,4,2.0,0.5,0.5,Val1-0Val;Val2-1Val;Val1-0Val;Val2-1Val
+Valencia,Vallecano,10,1.7,0.1,0.7,Val0-0Val;Val0-1Val;Val1-1Val;Val1-1Val;Val1-1Val
+Valencia,Villarreal,10,2.3,0.3,0.6,Vil1-0Val;Val1-1Vil;Vil1-1Val;Val0-2Vil;Vil2-1Val
+Valladolid,Vallecano,4,2.0,0.5,0.5,Val0-1Val;Val2-1Val;Val1-2Val;Val1-0Val
+Valladolid,Villarreal,4,3.75,1.0,0.75,Val0-3Vil;Vil1-2Val;Val1-2Vil;Vil5-1Val
+Vallecano,Villarreal,10,2.6,0.4,0.4,Vil3-0Val;Vil1-1Val;Val0-1Vil;Vil4-0Val;Val2-0Vil
