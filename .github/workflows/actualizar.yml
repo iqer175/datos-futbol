@@ -34,13 +34,27 @@ jobs:
         run: python generar_agregados.py
       # ---------------------------
 
+      - name: Comprobar cobertura de ligas
+        run: |
+          python - <<'PY'
+          import pandas as pd, sys
+          d = pd.read_csv('datos/partidos.csv', low_memory=False)
+          n = d.groupby('liga').size().sort_values(ascending=False)
+          print(n.to_string())
+          faltan = {'Premier League','Championship','LaLiga','LaLiga Hypermotion',
+                    'Serie A','Serie B','Bundesliga','2. Bundesliga','Ligue 1','Ligue 2',
+                    'Eredivisie','Liga Portugal','Brasileirao','Primera Division'} - set(n.index)
+          if faltan:
+              print('FALTAN LIGAS:', sorted(faltan)); sys.exit(1)
+          PY
+
       - name: Comprobar que los ficheros no salieron vacios
         run: |
           test -s datos/partidos.csv || { echo "partidos.csv vacio"; exit 1; }
           test -s datos/ratings.csv  || { echo "ratings.csv vacio";  exit 1; }
           filas=$(($(wc -l < datos/partidos.csv) - 1))
           echo "Filas en partidos.csv: $filas"
-          if [ "$filas" -lt 5000 ]; then
+          if [ "$filas" -lt 20000 ]; then
             echo "Muy pocas filas, algo fue mal en la descarga"; exit 1
           fi
 
