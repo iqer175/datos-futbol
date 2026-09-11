@@ -29,6 +29,11 @@ jobs:
       - name: Descargar y procesar
         run: python actualizar_datos.py --temporadas 6
 
+      # ---------- NUEVO ----------
+      - name: Generar agregados ligeros
+        run: python generar_agregados.py
+      # ---------------------------
+
       - name: Comprobar que los ficheros no salieron vacios
         run: |
           test -s datos/partidos.csv || { echo "partidos.csv vacio"; exit 1; }
@@ -38,6 +43,20 @@ jobs:
           if [ "$filas" -lt 5000 ]; then
             echo "Muy pocas filas, algo fue mal en la descarga"; exit 1
           fi
+
+      # ---------- NUEVO ----------
+      - name: Comprobar que ningun agregado pasa de 45 KB
+        run: |
+          test -s datos/indice.json || { echo "indice.json vacio"; exit 1; }
+          grandes=$(find datos/agregados datos/h2h datos/cierres -name '*.csv' -size +45k)
+          if [ -n "$grandes" ]; then
+            echo "Estos archivos pasan de 45 KB y habria que partirlos:"
+            echo "$grandes"
+            exit 1
+          fi
+          echo "Agregados generados:"
+          find datos/agregados datos/h2h datos/cierres -name '*.csv' -exec ls -lh {} \; | awk '{print $9, $5}'
+      # ---------------------------
 
       - name: Publicar cambios
         run: |
