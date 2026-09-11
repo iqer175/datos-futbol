@@ -40,7 +40,9 @@ LIGAS = {
     "I1":  ("Serie A",          "Italia",     1, 1600),
     "I2":  ("Serie B",          "Italia",     2, 1415),
     "D1":  ("Bundesliga",       "Alemania",   1, 1600),
+    "D2":  ("2. Bundesliga",    "Alemania",   2, 1415),
     "F1":  ("Ligue 1",          "Francia",    1, 1565),
+    "F2":  ("Ligue 2",          "Francia",    2, 1380),
     "N1":  ("Eredivisie",       "Holanda",    1, 1510),
     "P1":  ("Liga Portugal",    "Portugal",   1, 1525),
 }
