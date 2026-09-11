@@ -1,0 +1,377 @@
+eq_a,eq_b,n,goles,over25,btts,ultimos
+Bielefeld,Bochum,2,1.5,0.0,0.5,Boc1-0Bie;Bie1-1Boc
+Bielefeld,Braunschweig,4,4.5,0.75,1.0,Bie4-1Bra;Bra3-3Bie;Bra1-1Bie;Bie3-2Bra
+Bielefeld,Darmstadt,4,3.25,0.75,1.0,Dar1-1Bie;Bie3-1Dar;Dar2-2Bie;Bie2-1Dar
+Bielefeld,Dresden,2,2.5,0.5,1.0,Bie1-2Dre;Dre1-1Bie
+Bielefeld,Elversberg,2,3.0,0.5,0.5,Bie2-0Elv;Elv3-1Bie
+Bielefeld,Fortuna Dusseldorf,4,4.0,0.75,0.75,For4-1Bie;Bie2-2For;Bie5-1For;For1-0Bie
+Bielefeld,Greuther Furth,4,2.5,0.5,0.75,Gre1-0Bie;Bie1-1Gre;Bie1-3Gre;Gre2-1Bie
+Bielefeld,Hamburg,2,2.5,0.5,0.5,Bie0-2Ham;Ham2-1Bie
+Bielefeld,Hannover,4,2.75,0.5,0.5,Han2-0Bie;Bie1-3Han;Han3-1Bie;Bie0-1Han
+Bielefeld,Hansa Rostock,2,2.0,0.5,0.5,Han2-1Bie;Bie0-1Han
+Bielefeld,Heidenheim,2,1.5,0.0,0.5,Hei1-1Bie;Bie0-1Hei
+Bielefeld,Hertha,2,4.5,0.5,1.0,Her1-1Bie;Bie6-1Her
+Bielefeld,Holstein Kiel,4,4.25,0.75,0.75,Bie4-2Hol;Hol2-3Bie;Hol0-2Bie;Bie2-2Hol
+Bielefeld,Kaiserslautern,4,2.5,0.5,0.5,Bie2-3Kai;Kai1-2Bie;Bie0-0Kai;Kai2-0Bie
+Bielefeld,Karlsruhe,5,4.2,1.0,0.8,Bie1-2Kar;Kar4-2Bie;Bie4-0Kar;Kar4-1Bie;Kar2-1Bie
+Bielefeld,Magdeburg,4,3.0,0.5,0.25,Bie3-1Mag;Mag4-0Bie;Bie2-0Mag;Mag0-2Bie
+Bielefeld,Nurnberg,5,2.8,0.4,0.6,Nur1-0Bie;Bie2-2Nur;Nur2-0Bie;Bie1-1Nur;Nur4-1Bie
+Bielefeld,Paderborn,4,4.25,0.75,0.75,Pad0-2Bie;Bie2-2Pad;Pad4-3Bie;Bie2-2Pad
+Bielefeld,Preußen Münster,2,4.0,1.0,1.0,Bie1-2Pre;Pre2-3Bie
+Bielefeld,Regensburg,2,3.5,1.0,0.5,Bie0-3Reg;Reg1-3Bie
+Bielefeld,Sandhausen,2,3.0,1.0,1.0,San2-1Bie;Bie1-2San
+Bielefeld,Schalke 04,2,2.0,0.5,0.5,Bie1-2Sch;Sch1-0Bie
+Bielefeld,St Pauli,3,3.0,0.67,0.67,Bie2-0St ;St 2-1Bie;Bie2-2St 
+Bochum,Braunschweig,3,2.67,0.33,0.33,Bra0-2Boc;Boc4-1Bra;Bra0-1Boc
+Bochum,Darmstadt,2,5.5,1.0,1.0,Dar4-1Boc;Boc3-3Dar
+Bochum,Dresden,3,2.67,0.67,0.67,Boc1-2Dre;Dre2-0Boc;Dre1-2Boc
+Bochum,Elversberg,2,2.0,0.0,0.5,Boc2-0Elv;Elv1-1Boc
+Bochum,Fortuna Dusseldorf,2,2.0,0.5,0.5,Boc0-1For;For2-1Boc
+Bochum,Greuther Furth,2,3.0,1.0,0.5,Gre0-3Boc;Boc2-1Gre
+Bochum,Hannover,2,1.0,0.0,0.5,Han0-0Boc;Boc1-1Han
+Bochum,Hertha,3,2.67,0.33,0.67,Boc3-2Her;Her1-1Boc;Boc0-1Her
+Bochum,Holstein Kiel,2,3.5,0.5,1.0,Hol1-1Boc;Boc2-3Hol
+Bochum,Kaiserslautern,2,5.0,1.0,1.0,Kai3-2Boc;Boc3-2Kai
+Bochum,Karlsruhe,2,3.5,1.0,1.0,Boc2-2Kar;Kar1-2Boc
+Bochum,Magdeburg,2,3.5,0.5,0.5,Boc2-0Mag;Mag4-1Boc
+Bochum,Nurnberg,2,2.5,0.5,1.0,Nur2-1Boc;Boc1-1Nur
+Bochum,Paderborn,2,0.5,0.0,0.0,Pad1-0Boc;Boc0-0Pad
+Bochum,Preußen Münster,2,2.5,0.5,1.0,Boc1-2Pre;Pre1-1Boc
+Bochum,Schalke 04,2,2.5,0.5,0.5,Sch2-1Boc;Boc2-0Sch
+Braunschweig,Darmstadt,6,2.33,0.5,0.67,Dar2-1Bra;Dar1-1Bra;Bra1-0Dar;Dar2-1Bra;Bra2-2Dar
+Braunschweig,Dresden,2,4.0,1.0,1.0,Dre2-3Bra;Bra2-1Dre
+Braunschweig,Elversberg,6,3.83,1.0,0.33,Bra5-0Elv;Bra0-3Elv;Elv3-0Bra;Bra1-4Elv;Elv3-1Bra
+Braunschweig,FC Koln,2,4.0,1.0,0.5,FC 5-0Bra;Bra1-2FC 
+Braunschweig,Fortuna Dusseldorf,8,3.5,0.75,0.62,For2-0Bra;For5-0Bra;Bra2-2For;For1-2Bra;Bra1-0For
+Braunschweig,Greuther Furth,8,2.75,0.5,0.38,Gre3-3Bra;Bra2-0Gre;Gre3-0Bra;Bra3-2Gre;Gre0-0Bra
+Braunschweig,Hamburg,6,4.17,0.83,0.67,Ham4-2Bra;Ham2-1Bra;Bra0-4Ham;Bra3-1Ham;Ham2-4Bra
+Braunschweig,Hannover,8,1.62,0.12,0.25,Bra0-0Han;Bra2-0Han;Han1-1Bra;Bra0-3Han;Han1-0Bra
+Braunschweig,Hansa Rostock,4,1.5,0.25,0.25,Bra0-1Han;Han2-1Bra;Han1-0Bra;Bra0-1Han
+Braunschweig,Heidenheim,2,2.5,0.5,0.0,Hei3-0Bra;Bra2-0Hei
+Braunschweig,Hertha,7,3.71,0.57,0.71,Her3-1Bra;Bra1-5Her;Her1-0Bra;Bra1-1Her;Bra3-5Her
+Braunschweig,Holstein Kiel,6,2.67,0.5,0.5,Bra2-3Hol;Bra0-1Hol;Hol1-2Bra;Bra1-1Hol;Hol2-0Bra
+Braunschweig,Kaiserslautern,8,2.75,0.38,0.38,Kai5-0Bra;Kai3-2Bra;Bra2-0Kai;Bra2-0Kai;Kai0-2Bra
+Braunschweig,Karlsruhe,8,2.12,0.25,0.38,Bra2-0Kar;Bra1-2Kar;Kar0-2Bra;Kar2-0Bra;Bra1-0Kar
+Braunschweig,Magdeburg,9,2.89,0.56,0.56,Bra1-3Mag;Mag1-1Bra;Mag0-1Bra;Bra0-3Mag;Mag1-6Bra
+Braunschweig,Nurnberg,8,3.25,0.62,0.75,Nur2-1Bra;Nur1-0Bra;Bra1-4Nur;Nur2-1Bra;Bra1-1Nur
+Braunschweig,Osnabruck,3,4.0,1.0,0.67,Bra3-2Osn;Osn0-3Bra;Osn3-1Bra
+Braunschweig,Paderborn,8,2.88,0.62,0.75,Pad1-2Bra;Pad0-0Bra;Bra3-2Pad;Bra1-2Pad;Pad1-1Bra
+Braunschweig,Preußen Münster,4,2.75,0.5,1.0,Bra1-1Pre;Pre1-1Bra;Pre3-1Bra;Bra1-2Pre
+Braunschweig,Regensburg,4,1.75,0.25,0.75,Reg1-1Bra;Bra1-2Reg;Bra0-0Reg;Reg1-1Bra
+Braunschweig,Sandhausen,2,3.5,1.0,1.0,San2-2Bra;Bra2-1San
+Braunschweig,Schalke 04,6,2.0,0.33,0.33,Sch1-0Bra;Sch5-1Bra;Bra0-0Sch;Bra2-1Sch;Sch1-0Bra
+Braunschweig,St Pauli,4,2.25,0.5,0.75,Bra2-1St ;St 1-2Bra;Bra1-1St ;St 1-0Bra
+Braunschweig,Ulm,2,3.0,0.5,1.0,Ulm3-1Bra;Bra1-1Ulm
+Braunschweig,Wehen,2,2.5,0.5,0.5,Weh1-3Bra;Bra1-0Weh
+Darmstadt,Dresden,5,1.8,0.2,0.2,Dar1-0Dre;Dre0-1Dar;Dar2-0Dre;Dre3-1Dar;Dre1-0Dar
+Darmstadt,Elversberg,4,3.25,0.75,0.25,Elv4-0Dar;Dar0-3Elv;Elv0-0Dar;Dar3-3Elv
+Darmstadt,Erzgebirge Aue,2,4.5,1.0,0.5,Erz1-2Dar;Dar6-0Erz
+Darmstadt,FC Koln,2,4.5,1.0,1.0,Dar5-1FC ;FC 2-1Dar
+Darmstadt,Fortuna Dusseldorf,8,2.62,0.62,0.5,For1-0Dar;Dar0-2For;For2-2Dar;For0-3Dar;Dar2-1For
+Darmstadt,Greuther Furth,6,4.0,0.67,0.67,Gre4-0Dar;Gre1-5Dar;Dar1-0Gre;Dar4-2Gre;Gre3-2Dar
+Darmstadt,Hamburg,6,3.67,0.83,0.67,Dar0-5Ham;Ham1-2Dar;Dar1-1Ham;Ham2-2Dar;Dar0-4Ham
+Darmstadt,Hannover,9,3.0,0.67,0.56,Han1-2Dar;Dar3-1Han;Han2-3Dar;Dar0-2Han;Dar0-1Han
+Darmstadt,Hansa Rostock,4,2.5,0.5,0.5,Han2-1Dar;Dar1-1Han;Dar4-0Han;Han0-1Dar
+Darmstadt,Heidenheim,4,3.25,0.75,0.75,Hei2-1Dar;Dar3-2Hei;Dar2-2Hei;Hei1-0Dar
+Darmstadt,Hertha,4,2.5,0.5,0.75,Dar3-1Her;Her1-1Dar;Dar0-0Her;Her2-2Dar
+Darmstadt,Holstein Kiel,7,2.71,0.43,0.71,Dar1-1Hol;Hol0-3Dar;Hol1-1Dar;Dar2-0Hol;Dar2-2Hol
+Darmstadt,Ingolstadt,2,4.5,0.5,0.5,Dar6-1Ing;Ing0-2Dar
+Darmstadt,Kaiserslautern,7,4.0,0.86,0.57,Dar5-1Kai;Kai2-1Dar;Kai3-1Dar;Dar4-0Kai;Kai3-0Dar
+Darmstadt,Karlsruhe,8,3.75,1.0,0.75,Dar2-1Kar;Kar3-3Dar;Dar3-0Kar;Dar3-2Kar;Kar2-1Dar
+Darmstadt,Magdeburg,6,2.0,0.33,0.5,Dar1-0Mag;Dar1-2Mag;Mag4-1Dar;Dar0-0Mag;Mag1-1Dar
+Darmstadt,Nurnberg,8,1.88,0.12,0.25,Nur0-1Dar;Dar1-1Nur;Nur1-0Dar;Nur0-1Dar;Dar2-0Nur
+Darmstadt,Paderborn,8,2.62,0.62,0.5,Dar2-1Pad;Pad3-1Dar;Dar0-1Pad;Pad2-2Dar;Dar0-2Pad
+Darmstadt,Preußen Münster,4,1.25,0.0,0.5,Dar0-0Pre;Pre1-1Dar;Dar1-0Pre;Pre1-1Dar
+Darmstadt,Regensburg,6,2.5,0.33,0.33,Reg0-2Dar;Reg2-0Dar;Dar2-0Reg;Reg2-1Dar;Dar3-1Reg
+Darmstadt,Sandhausen,4,4.0,0.75,0.75,San1-6Dar;Dar1-1San;Dar2-1San;San0-4Dar
+Darmstadt,Schalke 04,6,4.33,0.5,0.67,Dar2-5Sch;Sch3-5Dar;Dar2-0Sch;Sch1-0Dar;Dar1-1Sch
+Darmstadt,St Pauli,4,3.0,0.75,0.5,Dar4-0St ;St 1-2Dar;St 1-1Dar;Dar0-3St 
+Darmstadt,Ulm,2,2.5,0.5,1.0,Dar1-1Ulm;Ulm2-1Dar
+Darmstadt,Werder Bremen,2,2.0,0.5,0.0,Dar3-0Wer;Wer1-0Dar
+Dresden,Elversberg,2,3.5,1.0,1.0,Elv2-2Dre;Dre1-2Elv
+Dresden,Erzgebirge Aue,2,1.0,0.0,0.0,Erz0-1Dre;Dre0-1Erz
+Dresden,Fortuna Dusseldorf,4,3.0,0.75,0.75,Dre1-0For;For2-2Dre;Dre2-1For;For3-1Dre
+Dresden,Greuther Furth,2,3.5,0.5,0.5,Gre3-2Dre;Dre2-0Gre
+Dresden,Hamburg,2,2.0,0.0,1.0,Ham1-1Dre;Dre1-1Ham
+Dresden,Hannover,4,1.5,0.25,0.25,Dre2-0Han;Han0-0Dre;Dre2-2Han;Han0-0Dre
+Dresden,Hansa Rostock,2,4.5,1.0,1.0,Han1-3Dre;Dre1-4Han
+Dresden,Heidenheim,3,4.33,0.67,1.0,Hei2-1Dre;Dre1-1Hei;Hei5-3Dre
+Dresden,Hertha,2,1.5,0.0,0.0,Her2-0Dre;Dre0-1Her
+Dresden,Holstein Kiel,4,2.25,0.75,0.75,Hol2-1Dre;Dre0-0Hol;Hol2-1Dre;Dre2-1Hol
+Dresden,Ingolstadt,2,3.0,1.0,0.0,Dre3-0Ing;Ing3-0Dre
+Dresden,Kaiserslautern,2,2.5,0.5,0.5,Kai3-1Dre;Dre1-0Kai
+Dresden,Karlsruhe,4,5.0,1.0,1.0,Dre3-1Kar;Kar2-2Dre;Dre3-3Kar;Kar3-3Dre
+Dresden,Magdeburg,2,3.0,1.0,1.0,Dre1-2Mag;Mag1-2Dre
+Dresden,Nurnberg,5,2.2,0.4,0.4,Dre0-1Nur;Nur1-1Dre;Dre1-2Nur;Nur0-2Dre;Nur3-0Dre
+Dresden,Paderborn,4,2.25,0.75,0.5,Dre0-3Pad;Pad0-0Dre;Dre1-2Pad;Pad2-1Dre
+Dresden,Preußen Münster,2,5.0,1.0,0.5,Pre2-2Dre;Dre6-0Pre
+Dresden,Regensburg,2,3.0,0.5,1.0,Reg3-1Dre;Dre1-1Reg
+Dresden,Sandhausen,2,2.0,0.5,0.5,Dre0-1San;San2-1Dre
+Dresden,Schalke 04,4,2.75,0.75,0.5,Sch3-0Dre;Dre1-2Sch;Dre0-1Sch;Sch2-2Dre
+Dresden,St Pauli,2,2.5,0.5,0.5,St 3-0Dre;Dre1-1St 
+Dresden,Werder Bremen,2,3.0,1.0,0.5,Dre3-0Wer;Wer2-1Dre
+Elversberg,FC Koln,2,2.5,0.5,0.5,Elv2-2FC ;FC 1-0Elv
+Elversberg,Fortuna Dusseldorf,6,2.67,0.33,0.5,For1-1Elv;For0-2Elv;Elv1-1For;Elv1-0For;For3-1Elv
+Elversberg,Greuther Furth,6,2.83,0.33,0.33,Gre1-4Elv;Gre0-0Elv;Elv2-0Gre;Elv6-0Gre;Gre2-0Elv
+Elversberg,Hamburg,4,2.5,0.5,0.5,Elv2-1Ham;Ham1-0Elv;Elv4-2Ham;Ham0-0Elv
+Elversberg,Hannover,6,3.67,0.83,1.0,Elv2-2Han;Elv3-1Han;Han1-3Elv;Elv2-2Han;Han1-1Elv
+Elversberg,Hansa Rostock,2,3.0,1.0,1.0,Elv1-2Han;Han2-1Elv
+Elversberg,Hertha,6,4.33,0.83,0.5,Elv4-2Her;Her1-4Elv;Elv4-0Her;Her0-2Elv;Elv0-3Her
+Elversberg,Holstein Kiel,4,1.75,0.0,0.5,Hol1-1Elv;Elv0-2Hol;Elv1-0Hol;Hol1-1Elv
+Elversberg,Kaiserslautern,6,3.0,0.67,0.83,Elv2-1Kai;Elv1-0Kai;Kai1-1Elv;Elv2-1Kai;Kai1-3Elv
+Elversberg,Karlsruhe,6,4.17,1.0,0.67,Elv0-3Kar;Kar3-2Elv;Elv2-2Kar;Kar2-3Elv;Elv3-0Kar
+Elversberg,Magdeburg,6,2.5,0.5,0.33,Elv0-0Mag;Mag0-0Elv;Elv2-5Mag;Mag0-4Elv;Elv1-0Mag
+Elversberg,Nurnberg,6,2.83,0.67,0.5,Nur3-0Elv;Elv2-1Nur;Nur1-3Elv;Elv1-0Nur;Nur3-2Elv
+Elversberg,Osnabruck,2,2.5,0.5,0.5,Osn0-1Elv;Elv3-1Osn
+Elversberg,Paderborn,6,4.0,0.83,1.0,Pad3-1Elv;Elv1-3Pad;Pad1-1Elv;Pad1-2Elv;Elv5-1Pad
+Elversberg,Preußen Münster,4,2.0,0.25,0.5,Pre1-1Elv;Elv0-1Pre;Pre1-1Elv;Elv3-0Pre
+Elversberg,Regensburg,2,3.5,0.5,0.0,Reg1-0Elv;Elv6-0Reg
+Elversberg,Schalke 04,6,2.83,0.67,0.83,Elv1-1Sch;Elv1-4Sch;Sch1-2Elv;Sch1-0Elv;Elv1-2Sch
+Elversberg,St Pauli,2,4.5,0.5,0.5,Elv0-2St ;St 3-4Elv
+Elversberg,Ulm,2,2.0,0.5,0.5,Elv1-3Ulm;Ulm0-0Elv
+Elversberg,Wehen,2,2.5,0.5,0.0,Weh0-2Elv;Elv0-3Weh
+Erzgebirge Aue,Fortuna Dusseldorf,2,2.5,0.5,0.5,Erz0-1For;For3-1Erz
+Erzgebirge Aue,Hamburg,2,3.0,0.5,0.5,Erz1-1Ham;Ham4-0Erz
+Erzgebirge Aue,Hannover,2,3.0,0.5,1.0,Han1-1Erz;Erz1-3Han
+Erzgebirge Aue,Hansa Rostock,2,3.5,1.0,1.0,Han1-2Erz;Erz2-2Han
+Erzgebirge Aue,Heidenheim,2,2.0,0.0,0.0,Erz2-0Hei;Hei0-2Erz
+Erzgebirge Aue,Holstein Kiel,2,4.0,1.0,0.5,Hol3-0Erz;Erz2-3Hol
+Erzgebirge Aue,Ingolstadt,2,3.0,0.5,0.5,Erz1-0Ing;Ing3-2Erz
+Erzgebirge Aue,Karlsruhe,2,3.0,1.0,0.5,Kar2-1Erz;Erz0-3Kar
+Erzgebirge Aue,Nurnberg,2,2.0,0.5,0.5,Nur0-0Erz;Erz1-3Nur
+Erzgebirge Aue,Paderborn,2,5.5,1.0,1.0,Erz1-4Pad;Pad3-3Erz
+Erzgebirge Aue,Regensburg,2,3.0,0.5,0.5,Reg3-2Erz;Erz1-0Reg
+Erzgebirge Aue,Sandhausen,2,3.0,0.5,0.5,Erz1-3San;San2-0Erz
+Erzgebirge Aue,Schalke 04,2,3.5,0.5,0.5,Sch1-1Erz;Erz0-5Sch
+Erzgebirge Aue,St Pauli,2,2.0,0.5,0.5,Erz0-0St ;St 2-2Erz
+Erzgebirge Aue,Werder Bremen,2,3.5,1.0,0.0,Wer4-0Erz;Erz0-3Wer
+FC Koln,Fortuna Dusseldorf,2,3.0,0.5,1.0,For2-2FC ;FC 1-1For
+FC Koln,Greuther Furth,2,1.5,0.0,0.5,FC 1-0Gre;Gre1-1FC 
+FC Koln,Hamburg,2,2.0,0.5,0.5,FC 1-2Ham;Ham1-0FC 
+FC Koln,Hannover,2,2.5,0.5,0.5,FC 2-2Han;Han1-0FC 
+FC Koln,Hertha,2,1.0,0.0,0.0,Her0-1FC ;FC 0-1Her
+FC Koln,Kaiserslautern,2,2.5,0.5,0.0,Kai0-1FC ;FC 4-0Kai
+FC Koln,Karlsruhe,2,4.5,0.5,0.5,FC 4-4Kar;Kar1-0FC 
+FC Koln,Magdeburg,2,3.0,1.0,0.5,FC 1-2Mag;Mag3-0FC 
+FC Koln,Nurnberg,2,3.5,1.0,1.0,FC 3-1Nur;Nur1-2FC 
+FC Koln,Paderborn,2,3.0,1.0,1.0,FC 1-2Pad;Pad1-2FC 
+FC Koln,Preußen Münster,2,2.5,0.5,0.5,Pre0-1FC ;FC 3-1Pre
+FC Koln,Regensburg,2,1.5,0.0,0.5,Reg0-1FC ;FC 1-1Reg
+FC Koln,Schalke 04,2,2.5,0.5,0.5,Sch1-3FC ;FC 1-0Sch
+FC Koln,Ulm,2,1.5,0.0,0.0,FC 2-0Ulm;Ulm0-1FC 
+Fortuna Dusseldorf,Greuther Furth,8,2.62,0.75,0.62,For1-0Gre;Gre1-2For;For1-2Gre;For2-1Gre;Gre3-0For
+Fortuna Dusseldorf,Hamburg,8,2.62,0.38,0.5,For2-2Ham;Ham1-0For;For2-0Ham;For0-3Ham;Ham4-1For
+Fortuna Dusseldorf,Hannover,10,2.4,0.3,0.6,Han2-2For;For1-0Han;Han1-1For;For0-2Han;Han2-1For
+Fortuna Dusseldorf,Hansa Rostock,6,3.83,0.83,0.67,For3-0Han;For3-1Han;Han2-5For;Han1-3For;For2-0Han
+Fortuna Dusseldorf,Heidenheim,4,2.5,0.5,0.75,For0-1Hei;Hei1-3For;Hei2-1For;For1-1Hei
+Fortuna Dusseldorf,Hertha,6,3.0,0.5,0.5,Her2-2For;Her0-2For;For2-1Her;Her1-0For;For2-5Her
+Fortuna Dusseldorf,Holstein Kiel,8,2.25,0.5,0.5,For3-0Hol;For0-1Hol;Hol1-1For;Hol1-0For;For1-2Hol
+Fortuna Dusseldorf,Ingolstadt,2,3.0,1.0,0.5,Ing1-2For;For3-0Ing
+Fortuna Dusseldorf,Kaiserslautern,8,4.12,0.88,0.75,Kai1-3For;For3-4Kai;Kai3-1For;For1-1Kai;Kai3-0For
+Fortuna Dusseldorf,Karlsruhe,10,3.0,0.6,0.7,Kar2-2For;For0-0Kar;Kar2-3For;For0-0Kar;Kar1-1For
+Fortuna Dusseldorf,Magdeburg,8,4.5,0.88,0.88,For3-2Mag;For2-5Mag;Mag4-2For;For2-1Mag;Mag2-0For
+Fortuna Dusseldorf,Nurnberg,10,3.1,0.5,0.4,For3-1Nur;Nur2-2For;For3-3Nur;For2-3Nur;Nur0-1For
+Fortuna Dusseldorf,Osnabruck,2,3.0,0.5,0.5,For1-1Osn;Osn0-4For
+Fortuna Dusseldorf,Paderborn,10,3.6,0.8,1.0,Pad4-3For;For1-1Pad;Pad1-2For;Pad1-2For;For2-1Pad
+Fortuna Dusseldorf,Preußen Münster,4,1.25,0.25,0.25,Pre1-0For;For1-0Pre;Pre1-2For;For0-0Pre
+Fortuna Dusseldorf,Regensburg,6,1.83,0.33,0.17,Reg0-0For;For4-0Reg;Reg0-1For;Reg0-3For;For1-0Reg
+Fortuna Dusseldorf,Sandhausen,4,1.5,0.0,0.0,San0-2For;For0-1San;San1-0For;For2-0San
+Fortuna Dusseldorf,Schalke 04,8,3.0,0.38,0.62,Sch1-1For;Sch1-1For;For2-0Sch;For0-2Sch;Sch1-0For
+Fortuna Dusseldorf,St Pauli,6,1.33,0.17,0.33,St 2-0For;For1-0St ;St 0-0For;St 0-0For;For1-2St 
+Fortuna Dusseldorf,Ulm,2,4.0,1.0,1.0,Ulm1-2For;For3-2Ulm
+Fortuna Dusseldorf,Wehen,2,3.0,0.5,0.5,For1-3Weh;Weh0-2For
+Fortuna Dusseldorf,Werder Bremen,2,4.0,1.0,0.5,For2-3Wer;Wer3-0For
+Greuther Furth,Hamburg,6,3.0,0.5,0.5,Ham2-1Gre;Ham2-0Gre;Gre1-1Ham;Ham5-0Gre;Gre3-2Ham
+Greuther Furth,Hannover,8,2.75,0.62,0.88,Han2-1Gre;Gre1-0Han;Han1-1Gre;Gre2-2Han;Han1-2Gre
+Greuther Furth,Hansa Rostock,4,2.0,0.25,0.25,Gre2-2Han;Han2-0Gre;Gre1-0Han;Han1-0Gre
+Greuther Furth,Heidenheim,3,2.33,0.33,0.33,Hei3-1Gre;Gre0-2Hei;Gre0-1Hei
+Greuther Furth,Hertha,6,3.5,0.83,0.67,Gre1-2Her;Gre2-1Her;Her1-0Gre;Gre3-3Her;Her2-1Gre
+Greuther Furth,Holstein Kiel,6,3.0,0.83,0.83,Hol2-1Gre;Hol2-1Gre;Gre2-1Hol;Gre0-2Hol;Hol1-2Gre
+Greuther Furth,Kaiserslautern,8,3.38,0.75,0.62,Gre2-1Kai;Kai2-2Gre;Gre2-4Kai;Gre0-3Kai;Kai1-0Gre
+Greuther Furth,Karlsruhe,8,3.88,0.75,0.75,Kar4-0Gre;Gre2-3Kar;Kar1-0Gre;Gre1-4Kar;Kar3-1Gre
+Greuther Furth,Magdeburg,8,4.0,0.62,0.75,Mag0-0Gre;Mag2-2Gre;Gre1-1Mag;Mag4-5Gre;Gre4-5Mag
+Greuther Furth,Nurnberg,9,3.0,0.56,0.56,Gre0-4Nur;Nur3-0Gre;Nur2-2Gre;Gre1-1Nur;Gre2-4Nur
+Greuther Furth,Osnabruck,2,3.0,0.5,0.0,Gre4-0Osn;Osn2-0Gre
+Greuther Furth,Paderborn,8,3.0,0.62,0.62,Pad0-1Gre;Gre1-1Pad;Pad1-2Gre;Pad2-1Gre;Gre0-2Pad
+Greuther Furth,Preußen Münster,4,2.0,0.5,0.5,Gre3-1Pre;Pre2-1Gre;Gre1-0Pre;Pre0-0Gre
+Greuther Furth,Regensburg,4,3.5,1.0,0.75,Reg2-2Gre;Gre2-1Reg;Reg0-4Gre;Gre2-1Reg
+Greuther Furth,Sandhausen,2,2.0,0.0,0.5,Gre1-1San;San0-2Gre
+Greuther Furth,Schalke 04,6,3.67,0.5,0.67,Gre2-0Sch;Sch3-4Gre;Gre3-3Sch;Sch1-0Gre;Gre1-1Sch
+Greuther Furth,St Pauli,5,2.8,0.6,0.8,Gre2-2St ;St 2-1Gre;Gre0-0St ;St 3-2Gre;St 1-1Gre
+Greuther Furth,Ulm,2,1.5,0.0,0.5,Ulm1-1Gre;Gre0-1Ulm
+Greuther Furth,Wehen,2,5.0,0.5,0.5,Gre2-0Weh;Weh3-5Gre
+Hamburg,Hannover,8,3.38,0.62,0.62,Ham6-1Han;Han0-1Ham;Ham3-4Han;Han1-0Ham;Ham2-2Han
+Hamburg,Hansa Rostock,6,2.83,0.5,0.33,Han2-3Ham;Ham0-1Han;Han0-2Ham;Ham2-0Han;Han2-2Ham
+Hamburg,Heidenheim,4,2.25,0.25,0.25,Hei0-0Ham;Ham2-0Hei;Ham1-0Hei;Hei3-3Ham
+Hamburg,Hertha,4,3.25,0.75,0.75,Ham3-0Her;Her1-2Ham;Ham1-1Her;Her2-3Ham
+Hamburg,Holstein Kiel,6,2.5,0.33,0.5,Hol1-0Ham;Hol2-3Ham;Ham0-0Hol;Hol4-2Ham;Ham0-1Hol
+Hamburg,Ingolstadt,2,3.5,1.0,0.0,Ham3-0Ing;Ing0-4Ham
+Hamburg,Kaiserslautern,6,3.33,0.67,0.67,Kai2-0Ham;Kai3-3Ham;Ham2-1Kai;Kai2-2Ham;Ham3-0Kai
+Hamburg,Karlsruhe,8,3.75,0.75,0.75,Kar4-2Ham;Kar2-2Ham;Ham3-4Kar;Kar1-3Ham;Ham1-2Kar
+Hamburg,Magdeburg,6,3.83,0.83,0.67,Mag3-2Ham;Ham2-0Mag;Mag2-2Ham;Ham3-1Mag;Mag0-3Ham
+Hamburg,Nurnberg,8,3.0,0.62,0.5,Ham3-0Nur;Nur0-2Ham;Ham4-1Nur;Ham1-1Nur;Nur0-3Ham
+Hamburg,Osnabruck,2,3.0,1.0,1.0,Osn2-1Ham;Ham1-2Osn
+Hamburg,Paderborn,8,3.12,0.75,0.75,Ham2-2Pad;Ham1-2Pad;Pad1-0Ham;Ham2-2Pad;Pad2-0Ham
+Hamburg,Preußen Münster,2,4.0,1.0,1.0,Ham4-1Pre;Pre1-2Ham
+Hamburg,Regensburg,6,4.67,0.83,0.83,Reg2-4Ham;Ham3-1Reg;Reg1-5Ham;Ham5-0Reg;Reg1-1Ham
+Hamburg,Sandhausen,4,3.0,0.5,0.75,Ham2-1San;San1-1Ham;Ham4-2San;San0-1Ham
+Hamburg,Schalke 04,6,4.0,0.67,0.83,Ham1-1Sch;Ham5-3Sch;Sch0-2Ham;Ham2-2Sch;Sch2-2Ham
+Hamburg,St Pauli,6,3.83,0.83,0.67,Ham2-1St ;St 3-0Ham;Ham4-3St ;St 2-2Ham;Ham1-0St 
+Hamburg,Ulm,2,4.5,0.5,1.0,Ulm1-1Ham;Ham6-1Ulm
+Hamburg,Wehen,2,2.5,0.5,0.5,Weh1-1Ham;Ham3-0Weh
+Hamburg,Werder Bremen,2,3.5,0.5,0.5,Wer0-2Ham;Ham2-3Wer
+Hannover,Hansa Rostock,6,2.17,0.5,0.5,Han0-1Han;Han0-1Han;Han1-1Han;Han1-2Han;Han2-1Han
+Hannover,Heidenheim,4,2.75,0.75,0.5,Han1-0Hei;Hei3-1Han;Hei2-1Han;Han0-3Hei
+Hannover,Hertha,6,2.67,0.5,0.67,Her1-1Han;Han0-0Her;Her1-1Han;Han0-3Her;Her2-3Han
+Hannover,Holstein Kiel,8,3.25,0.75,0.62,Han1-5Hol;Hol3-0Han;Han1-2Hol;Hol1-2Han;Han3-1Hol
+Hannover,Ingolstadt,2,4.0,1.0,1.0,Ing1-2Han;Han3-2Ing
+Hannover,Kaiserslautern,8,2.75,0.62,0.75,Han1-1Kai;Han3-1Kai;Kai0-0Han;Han1-0Kai;Kai3-1Han
+Hannover,Karlsruhe,11,2.91,0.73,0.55,Han2-1Kar;Kar1-0Han;Han3-0Kar;Kar1-3Han;Han2-2Kar
+Hannover,Magdeburg,8,2.88,0.88,0.5,Mag0-3Han;Mag0-3Han;Han0-0Mag;Han3-1Mag;Mag1-2Han
+Hannover,Nurnberg,10,2.7,0.7,0.4,Han3-0Nur;Han2-0Nur;Nur1-2Han;Nur2-1Han;Han3-3Nur
+Hannover,Osnabruck,2,4.0,0.5,0.0,Han7-0Osn;Osn1-0Han
+Hannover,Paderborn,10,3.1,0.5,0.6,Han3-2Pad;Pad2-1Han;Han1-1Pad;Pad0-2Han;Han1-1Pad
+Hannover,Preußen Münster,4,3.5,0.75,0.75,Pre0-0Han;Han2-2Pre;Pre2-2Han;Han3-3Pre
+Hannover,Regensburg,6,2.0,0.17,0.5,Han1-1Reg;Han1-0Reg;Reg1-1Han;Han2-0Reg;Reg0-1Han
+Hannover,Sandhausen,4,4.0,1.0,1.0,Han1-2San;San3-1Han;San2-3Han;Han3-1San
+Hannover,Schalke 04,8,2.75,0.62,0.62,Han1-1Sch;Han1-0Sch;Sch1-2Han;Han0-3Sch;Sch2-2Han
+Hannover,St Pauli,6,2.17,0.5,0.33,St 0-3Han;Han2-2St ;St 2-0Han;St 0-0Han;Han1-2St 
+Hannover,Ulm,2,4.0,1.0,1.0,Han3-2Ulm;Ulm1-2Han
+Hannover,Wehen,2,2.0,0.0,0.5,Han2-0Weh;Weh1-1Han
+Hannover,Werder Bremen,2,3.5,0.5,1.0,Wer1-1Han;Han1-4Wer
+Hansa Rostock,Heidenheim,4,1.25,0.0,0.25,Hei1-1Han;Han0-0Hei;Han0-1Hei;Hei2-0Han
+Hansa Rostock,Hertha,2,2.0,0.5,0.0,Han0-0Her;Her4-0Han
+Hansa Rostock,Holstein Kiel,6,3.33,0.5,0.67,Han3-2Hol;Hol1-1Han;Han2-3Hol;Han1-3Hol;Hol2-0Han
+Hansa Rostock,Ingolstadt,2,1.0,0.0,0.5,Han1-1Ing;Ing0-0Han
+Hansa Rostock,Kaiserslautern,4,2.5,0.5,0.25,Han0-2Kai;Kai0-1Han;Kai3-1Han;Han0-3Kai
+Hansa Rostock,Karlsruhe,6,3.17,0.67,0.67,Kar2-2Han;Kar2-0Han;Han0-2Kar;Kar2-2Han;Han1-2Kar
+Hansa Rostock,Magdeburg,4,3.0,0.75,0.5,Han3-1Mag;Mag3-0Han;Mag1-2Han;Han0-2Mag
+Hansa Rostock,Nurnberg,6,1.67,0.17,0.17,Han0-2Nur;Han1-1Nur;Nur0-0Han;Han2-0Nur;Nur3-0Han
+Hansa Rostock,Osnabruck,2,1.5,0.5,0.5,Han2-1Osn;Osn0-0Han
+Hansa Rostock,Paderborn,6,2.33,0.67,0.33,Han0-0Pad;Han0-3Pad;Pad3-0Han;Pad3-0Han;Han1-2Pad
+Hansa Rostock,Regensburg,4,3.0,0.5,0.5,Reg2-3Han;Han1-1Reg;Reg0-3Han;Han2-0Reg
+Hansa Rostock,Sandhausen,4,1.75,0.25,0.5,Han1-1San;San0-1Han;Han0-1San;San1-2Han
+Hansa Rostock,Schalke 04,4,3.5,0.5,0.5,Han0-2Sch;Sch3-4Han;Han0-2Sch;Sch2-1Han
+Hansa Rostock,St Pauli,6,2.33,0.33,0.17,Han1-0St ;Han2-0St ;St 1-0Han;Han2-3St ;St 1-0Han
+Hansa Rostock,Wehen,2,2.5,0.5,0.5,Weh1-0Han;Han3-1Weh
+Hansa Rostock,Werder Bremen,2,3.0,1.0,0.5,Wer3-0Han;Han1-2Wer
+Heidenheim,Holstein Kiel,4,3.0,0.75,0.75,Hei2-1Hol;Hol1-1Hei;Hol3-1Hei;Hei3-0Hol
+Heidenheim,Ingolstadt,2,3.0,1.0,1.0,Ing1-2Hei;Hei2-1Ing
+Heidenheim,Kaiserslautern,2,4.0,1.0,1.0,Hei2-2Kai;Kai2-2Hei
+Heidenheim,Karlsruhe,4,3.5,0.5,0.5,Kar3-2Hei;Hei2-0Kar;Kar0-0Hei;Hei5-2Kar
+Heidenheim,Magdeburg,2,1.0,0.0,0.5,Mag1-1Hei;Hei0-0Mag
+Heidenheim,Nurnberg,4,4.0,1.0,0.25,Nur4-0Hei;Hei3-1Nur;Nur0-3Hei;Hei5-0Nur
+Heidenheim,Paderborn,4,2.75,0.75,0.5,Hei0-0Pad;Pad1-2Hei;Hei3-0Pad;Pad3-2Hei
+Heidenheim,Regensburg,4,4.75,0.75,0.5,Hei3-0Reg;Reg0-2Hei;Hei5-4Reg;Reg2-3Hei
+Heidenheim,Sandhausen,4,3.5,0.5,0.75,San1-3Hei;Hei1-1San;San3-4Hei;Hei1-0San
+Heidenheim,Schalke 04,2,2.0,0.5,0.0,Hei1-0Sch;Sch3-0Hei
+Heidenheim,St Pauli,4,2.0,0.25,0.25,Hei2-4St ;St 1-0Hei;St 0-0Hei;Hei0-1St 
+Heidenheim,Werder Bremen,2,3.0,1.0,0.5,Wer3-0Hei;Hei2-1Wer
+Hertha,Holstein Kiel,4,2.75,0.5,0.5,Hol2-3Her;Her2-2Hol;Hol0-1Her;Her0-1Hol
+Hertha,Kaiserslautern,6,2.83,0.5,0.5,Her3-1Kai;Kai3-4Her;Her0-1Kai;Kai0-1Her;Her0-1Kai
+Hertha,Karlsruhe,6,3.5,0.83,0.83,Kar3-2Her;Kar1-3Her;Her3-1Kar;Her0-0Kar;Kar2-2Her
+Hertha,Magdeburg,7,3.86,0.57,0.71,Mag1-3Her;Her1-1Mag;Her0-2Mag;Mag1-0Her;Her2-1Mag
+Hertha,Nurnberg,6,3.0,0.67,0.5,Her3-3Nur;Nur0-2Her;Her0-0Nur;Nur0-3Her;Her2-1Nur
+Hertha,Osnabruck,2,1.5,0.5,0.5,Her0-0Osn;Osn2-1Her
+Hertha,Paderborn,6,4.0,0.83,0.83,Pad2-3Her;Her1-2Pad;Pad1-2Her;Her0-2Pad;Pad5-2Her
+Hertha,Preußen Münster,4,2.75,0.75,0.75,Her1-2Pre;Pre2-0Her;Her2-1Pre;Pre1-2Her
+Hertha,Regensburg,2,2.0,0.0,0.0,Her2-0Reg;Reg2-0Her
+Hertha,Schalke 04,6,3.33,0.83,0.83,Her5-2Sch;Sch2-2Her;Her1-2Sch;Sch2-1Her;Her0-0Sch
+Hertha,St Pauli,2,2.5,0.5,0.5,Her1-2St ;St 2-0Her
+Hertha,Ulm,2,4.5,1.0,1.0,Her2-2Ulm;Ulm2-3Her
+Hertha,Wehen,2,2.5,0.5,0.5,Her0-1Weh;Weh3-1Her
+Holstein Kiel,Ingolstadt,2,1.5,0.0,0.5,Ing1-1Hol;Hol1-0Ing
+Holstein Kiel,Kaiserslautern,6,3.67,1.0,0.67,Kai2-1Hol;Kai0-3Hol;Hol1-3Kai;Kai4-1Hol;Hol3-0Kai
+Holstein Kiel,Karlsruhe,8,3.0,0.62,0.5,Hol2-1Kar;Kar0-2Hol;Hol1-0Kar;Hol3-0Kar;Kar3-1Hol
+Holstein Kiel,Magdeburg,7,4.0,0.71,0.86,Hol2-4Mag;Mag1-1Hol;Mag3-3Hol;Hol1-3Mag;Mag2-0Hol
+Holstein Kiel,Nurnberg,9,3.44,0.78,0.67,Hol0-2Nur;Nur0-4Hol;Nur1-1Hol;Hol2-3Nur;Hol2-2Nur
+Holstein Kiel,Osnabruck,2,3.0,0.5,0.5,Osn1-1Hol;Hol4-0Osn
+Holstein Kiel,Paderborn,8,4.12,0.75,0.75,Hol1-1Pad;Hol2-1Pad;Pad0-4Hol;Pad2-1Hol;Hol2-0Pad
+Holstein Kiel,Preußen Münster,2,1.5,0.5,0.5,Pre2-1Hol;Hol0-0Pre
+Holstein Kiel,Regensburg,4,2.25,0.75,0.5,Hol0-3Reg;Reg1-2Hol;Reg0-0Hol;Hol1-2Reg
+Holstein Kiel,Sandhausen,4,2.75,0.5,0.75,Hol2-2San;San3-1Hol;Hol1-0San;San1-1Hol
+Holstein Kiel,Schalke 04,6,2.0,0.33,0.33,Sch1-1Hol;Sch0-2Hol;Hol1-0Sch;Sch0-1Hol;Hol1-2Sch
+Holstein Kiel,St Pauli,7,4.29,0.86,0.57,St 0-0Hol;Hol3-4St ;St 5-1Hol;Hol3-4St ;Hol2-2St 
+Holstein Kiel,Wehen,2,3.0,0.5,0.5,Hol3-2Weh;Weh0-1Hol
+Holstein Kiel,Werder Bremen,2,4.0,1.0,1.0,Hol2-1Wer;Wer2-3Hol
+Ingolstadt,Karlsruhe,2,3.0,0.5,1.0,Ing1-1Kar;Kar2-2Ing
+Ingolstadt,Nurnberg,2,2.5,0.5,0.0,Ing0-0Nur;Nur0-5Ing
+Ingolstadt,Paderborn,2,2.0,0.5,0.5,Pad2-1Ing;Ing0-1Pad
+Ingolstadt,Regensburg,2,2.5,0.5,0.5,Ing0-3Reg;Reg1-1Ing
+Ingolstadt,Sandhausen,2,1.0,0.0,0.0,San0-2Ing;Ing0-0San
+Ingolstadt,Schalke 04,2,3.0,1.0,0.0,Sch3-0Ing;Ing0-3Sch
+Ingolstadt,St Pauli,2,4.5,1.0,1.0,St 4-1Ing;Ing1-3St 
+Ingolstadt,Werder Bremen,2,2.5,0.5,0.5,Ing0-3Wer;Wer1-1Ing
+Kaiserslautern,Karlsruhe,9,2.89,0.56,0.44,Kai3-1Kar;Kar2-2Kai;Kar2-3Kai;Kai3-0Kar;Kai0-0Kar
+Kaiserslautern,Magdeburg,8,4.0,0.62,0.62,Kai4-1Mag;Kai2-2Mag;Mag2-0Kai;Kai2-3Mag;Mag0-1Kai
+Kaiserslautern,Nurnberg,8,2.5,0.5,0.62,Nur1-1Kai;Nur0-0Kai;Kai1-2Nur;Kai1-1Nur;Nur3-0Kai
+Kaiserslautern,Osnabruck,2,4.5,1.0,1.0,Osn2-2Kai;Kai3-2Osn
+Kaiserslautern,Paderborn,8,3.0,0.62,0.5,Kai1-2Pad;Kai3-0Pad;Pad5-3Kai;Pad2-0Kai;Kai1-2Pad
+Kaiserslautern,Preußen Münster,4,3.5,0.75,0.75,Pre0-1Kai;Kai2-1Pre;Kai4-1Pre;Pre2-3Kai
+Kaiserslautern,Regensburg,4,1.5,0.5,0.0,Kai0-3Reg;Reg0-0Kai;Reg0-0Kai;Kai3-0Reg
+Kaiserslautern,Sandhausen,2,2.0,0.5,0.5,San0-0Kai;Kai2-2San
+Kaiserslautern,Schalke 04,6,3.17,0.83,0.5,Kai4-1Sch;Sch0-3Kai;Kai2-1Sch;Kai1-0Sch;Sch2-2Kai
+Kaiserslautern,St Pauli,5,2.4,0.6,0.6,Kai2-1St ;St 1-0Kai;Kai1-2St ;St 2-0Kai;St 1-2Kai
+Kaiserslautern,Ulm,2,3.0,1.0,1.0,Ulm1-2Kai;Kai2-1Ulm
+Kaiserslautern,Wehen,2,2.5,0.5,1.0,Weh2-1Kai;Kai1-1Weh
+Karlsruhe,Magdeburg,8,3.62,0.62,0.75,Kar7-0Mag;Mag2-2Kar;Kar3-1Mag;Kar1-0Mag;Mag1-3Kar
+Karlsruhe,Nurnberg,10,3.6,0.8,0.8,Nur0-1Kar;Kar3-2Nur;Nur2-1Kar;Kar2-1Nur;Nur5-1Kar
+Karlsruhe,Osnabruck,2,4.0,1.0,1.0,Osn2-3Kar;Kar2-1Osn
+Karlsruhe,Paderborn,10,3.5,0.8,0.5,Pad1-1Kar;Pad1-2Kar;Kar3-0Pad;Kar0-4Pad;Pad2-2Kar
+Karlsruhe,Preußen Münster,4,2.75,0.25,0.75,Kar1-1Pre;Pre1-1Kar;Kar3-2Pre;Pre0-2Kar
+Karlsruhe,Regensburg,6,3.83,0.67,0.67,Kar1-1Reg;Reg0-6Kar;Kar1-0Reg;Kar4-2Reg;Reg2-2Kar
+Karlsruhe,Sandhausen,4,2.5,0.5,0.25,San0-0Kar;Kar0-2San;Kar3-2San;San0-3Kar
+Karlsruhe,Schalke 04,8,2.12,0.5,0.5,Sch0-0Kar;Kar2-0Sch;Sch2-1Kar;Kar2-1Sch;Sch1-0Kar
+Karlsruhe,St Pauli,6,4.0,0.83,1.0,St 3-1Kar;Kar4-4St ;St 1-1Kar;St 2-1Kar;Kar2-1St 
+Karlsruhe,Ulm,2,0.5,0.0,0.0,Ulm0-1Kar;Kar0-0Ulm
+Karlsruhe,Wehen,2,2.5,0.5,0.5,Weh1-0Kar;Kar2-2Weh
+Karlsruhe,Werder Bremen,2,1.5,0.5,0.5,Kar0-0Wer;Wer2-1Kar
+Magdeburg,Nurnberg,8,3.0,0.62,0.38,Mag0-1Nur;Nur0-4Mag;Mag3-4Nur;Mag3-0Nur;Nur1-0Mag
+Magdeburg,Osnabruck,3,2.33,0.33,0.33,Osn0-2Mag;Mag1-1Osn;Osn0-3Mag
+Magdeburg,Paderborn,8,2.0,0.25,0.5,Pad0-0Mag;Mag1-1Pad;Pad2-1Mag;Mag0-1Pad;Pad4-3Mag
+Magdeburg,Preußen Münster,4,3.5,0.75,0.5,Pre1-2Mag;Mag0-5Pre;Mag2-0Pre;Pre1-3Mag
+Magdeburg,Regensburg,4,2.25,0.5,0.25,Mag1-0Reg;Reg2-2Mag;Reg0-1Mag;Mag3-0Reg
+Magdeburg,Sandhausen,2,2.0,0.5,0.5,San1-0Mag;Mag1-2San
+Magdeburg,Schalke 04,6,5.17,0.83,0.67,Mag3-0Sch;Mag2-2Sch;Sch2-5Mag;Mag0-2Sch;Sch5-3Mag
+Magdeburg,St Pauli,4,1.75,0.5,0.25,St 3-0Mag;Mag1-2St ;St 0-0Mag;Mag1-0St 
+Magdeburg,Ulm,2,0.5,0.0,0.0,Mag0-0Ulm;Ulm1-0Mag
+Magdeburg,Wehen,2,1.5,0.0,0.5,Weh1-1Mag;Mag1-0Weh
+Nurnberg,Osnabruck,2,4.5,1.0,1.0,Osn2-3Nur;Nur2-2Osn
+Nurnberg,Paderborn,10,3.0,0.7,0.7,Nur0-2Pad;Pad3-2Nur;Nur2-3Pad;Nur0-0Pad;Pad2-1Nur
+Nurnberg,Preußen Münster,4,2.75,0.5,0.75,Nur3-2Pre;Pre0-1Nur;Pre2-1Nur;Nur1-1Pre
+Nurnberg,Regensburg,6,3.5,0.5,0.5,Nur2-0Reg;Reg0-0Nur;Nur1-0Reg;Nur8-3Reg;Reg2-1Nur
+Nurnberg,Sandhausen,4,3.25,0.75,0.75,San1-2Nur;Nur2-4San;San1-2Nur;Nur1-0San
+Nurnberg,Schalke 04,8,3.12,0.75,0.62,Sch2-0Nur;Nur3-1Sch;Sch3-1Nur;Sch1-0Nur;Nur3-0Sch
+Nurnberg,St Pauli,6,3.5,0.5,0.67,St 1-1Nur;St 3-2Nur;Nur0-1St ;St 5-1Nur;Nur0-2St 
+Nurnberg,Ulm,2,2.5,0.5,0.5,Ulm1-2Nur;Nur2-0Ulm
+Nurnberg,Wehen,2,2.5,0.5,1.0,Nur2-1Weh;Weh1-1Nur
+Nurnberg,Werder Bremen,2,2.5,0.5,1.0,Nur1-2Wer;Wer1-1Nur
+Osnabruck,Paderborn,2,1.0,0.0,0.5,Pad1-1Osn;Osn0-0Pad
+Osnabruck,Schalke 04,2,4.0,1.0,0.0,Sch4-0Osn;Osn0-4Sch
+Osnabruck,St Pauli,2,3.0,0.5,1.0,Osn1-1St ;St 3-1Osn
+Osnabruck,Wehen,2,1.5,0.0,0.0,Osn0-2Weh;Weh0-1Osn
+Paderborn,Preußen Münster,4,3.25,0.5,0.75,Pre3-3Pad;Pad2-0Pre;Pre1-1Pad;Pad2-1Pre
+Paderborn,Regensburg,6,1.67,0.33,0.17,Reg1-0Pad;Pad3-0Reg;Reg1-0Pad;Pad3-0Reg;Reg0-0Pad
+Paderborn,Sandhausen,4,2.75,0.5,0.5,San1-1Pad;Pad2-0San;Pad3-0San;San2-2Pad
+Paderborn,Schalke 04,8,3.62,0.62,0.62,Sch3-3Pad;Pad2-4Sch;Sch0-2Pad;Sch2-1Pad;Pad2-3Sch
+Paderborn,St Pauli,6,3.67,1.0,1.0,St 2-2Pad;St 2-2Pad;Pad1-2St ;Pad2-2St ;St 2-1Pad
+Paderborn,Ulm,2,1.0,0.0,0.0,Pad0-0Ulm;Ulm0-2Pad
+Paderborn,Wehen,2,3.0,1.0,1.0,Pad2-1Weh;Weh1-2Pad
+Paderborn,Werder Bremen,2,6.0,1.0,1.0,Wer1-4Pad;Pad3-4Wer
+Preußen Münster,Regensburg,2,2.5,0.5,0.0,Reg0-3Pre;Pre2-0Reg
+Preußen Münster,Schalke 04,4,2.25,0.5,0.5,Pre1-2Sch;Sch1-0Pre;Pre0-0Sch;Sch4-1Pre
+Preußen Münster,Ulm,2,2.0,0.5,0.5,Pre0-0Ulm;Ulm2-2Pre
+Regensburg,Sandhausen,4,3.0,1.0,0.5,Reg3-0San;San0-3Reg;Reg2-1San;San2-1Reg
+Regensburg,Schalke 04,4,3.0,0.5,0.5,Reg4-1Sch;Sch2-1Reg;Sch2-0Reg;Reg2-0Sch
+Regensburg,St Pauli,4,2.5,0.25,0.25,St 2-0Reg;Reg2-3St ;Reg2-0St ;St 1-0Reg
+Regensburg,Ulm,2,3.5,0.5,0.5,Reg1-0Ulm;Ulm5-1Reg
+Regensburg,Werder Bremen,2,3.5,0.5,0.5,Reg2-3Wer;Wer2-0Reg
+Sandhausen,Schalke 04,2,5.0,1.0,1.0,Sch5-2San;San1-2Sch
+Sandhausen,St Pauli,4,3.25,0.5,0.75,St 3-1San;San1-1St ;St 1-1San;San0-5St 
+Sandhausen,Werder Bremen,2,3.0,0.5,1.0,San2-2Wer;Wer1-1San
+Schalke 04,St Pauli,4,4.0,1.0,1.0,St 2-1Sch;Sch3-2St ;St 3-1Sch;Sch3-1St 
+Schalke 04,Ulm,2,1.5,0.5,0.5,Ulm0-0Sch;Sch2-1Ulm
+Schalke 04,Wehen,2,1.5,0.0,0.5,Weh1-1Sch;Sch1-0Weh
+Schalke 04,Werder Bremen,2,3.5,0.5,1.0,Wer1-1Sch;Sch1-4Wer
+St Pauli,Wehen,2,2.5,0.5,1.0,St 1-1Weh;Weh1-2St 
+St Pauli,Werder Bremen,2,2.0,0.0,1.0,Wer1-1St ;St 1-1Wer

@@ -1,10 +1,14 @@
 {
-  "actualizado": "2026-09-11T00:16:33+00:00",
-  "partidos_totales": 25029,
-  "equipos_activos": 269,
+  "actualizado": "2026-09-11T23:36:25+00:00",
+  "partidos_totales": 28390,
+  "equipos_activos": 306,
   "temporadas_descargadas": 6,
   "ultimo_partido": "2026-09-10",
   "cobertura": {
+    "2. Bundesliga": {
+      "partidos": 1566,
+      "ultimo": "2026-09-06"
+    },
     "Brasileirao": {
       "partidos": 2451,
       "ultimo": "2026-09-08"
@@ -36,6 +40,10 @@
     "Ligue 1": {
       "partidos": 1705,
       "ultimo": "2026-09-06"
+    },
+    "Ligue 2": {
+      "partidos": 1795,
+      "ultimo": "2026-09-07"
     },
     "Premier League": {
       "partidos": 1930,
