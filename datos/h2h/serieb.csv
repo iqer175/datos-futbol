@@ -60,7 +60,7 @@ Avellino,Mantova,2,1.0,0.0,0.0,Ave0-0Man;Man0-2Ave
 Avellino,Modena,3,1.33,0.0,0.33,Mod1-1Ave;Ave1-0Mod;Mod0-1Ave
 Avellino,Monza,2,3.0,1.0,1.0,Ave2-1Mon;Mon2-1Ave
 Avellino,Padova,2,2.5,0.5,0.5,Pad2-2Ave;Ave1-0Pad
-Avellino,Palermo,2,3.0,0.5,0.5,Ave2-2Pal;Pal2-0Ave
+Avellino,Palermo,3,2.67,0.33,0.67,Ave2-2Pal;Pal2-0Ave;Ave1-1Pal
 Avellino,Pescara,2,1.5,0.0,0.5,Pes1-1Ave;Ave0-1Pes
 Avellino,Reggiana,2,4.5,0.5,1.0,Ave4-3Reg;Reg1-1Ave
 Avellino,Sampdoria,2,3.0,1.0,1.0,Ave2-1Sam;Sam2-1Ave
@@ -176,7 +176,7 @@ Cagliari,Spal,2,2.0,0.5,0.5,Spa1-0Cag;Cag2-1Spa
 Cagliari,Sudtirol,2,3.0,0.5,1.0,Sud2-2Cag;Cag1-1Sud
 Cagliari,Ternana,2,2.0,0.5,0.5,Ter1-0Cag;Cag2-1Ter
 Cagliari,Venezia,2,2.5,0.5,0.5,Cag1-4Ven;Ven0-0Cag
-Carrarese,Catanzaro,4,4.0,0.75,1.0,Cat3-1Car;Car2-2Cat;Cat1-1Car;Car3-3Cat
+Carrarese,Catanzaro,5,3.4,0.6,0.8,Cat3-1Car;Car2-2Cat;Cat1-1Car;Car3-3Cat;Cat1-0Car
 Carrarese,Cesena,4,2.0,0.5,0.5,Ces2-1Car;Car2-0Ces;Ces2-1Car;Car0-0Ces
 Carrarese,Cittadella,2,1.5,0.5,0.0,Car3-0Cit;Cit0-0Car
 Carrarese,Cosenza,2,1.0,0.0,0.0,Car1-0Cos;Cos1-0Car
@@ -228,7 +228,7 @@ Catanzaro,Venezia,4,3.75,1.0,1.0,Ven2-1Cat;Cat3-2Ven;Cat2-1Ven;Ven3-1Cat
 Catanzaro,Virtus Entella,2,4.5,1.0,1.0,Cat3-2Vir;Vir1-3Cat
 Cesena,Cittadella,2,1.0,0.0,0.0,Cit0-2Ces;Ces0-0Cit
 Cesena,Cosenza,2,2.0,0.5,0.5,Ces2-1Cos;Cos0-1Ces
-Cesena,Cremonese,2,2.0,0.5,0.5,Ces0-1Cre;Cre1-2Ces
+Cesena,Cremonese,3,2.67,0.67,0.67,Ces0-1Cre;Cre1-2Ces;Ces2-2Cre
 Cesena,Empoli,2,1.5,0.0,0.5,Ces0-1Emp;Emp1-1Ces
 Cesena,Frosinone,4,3.75,0.75,1.0,Fro3-2Ces;Ces1-1Fro;Fro3-1Ces;Ces2-2Fro
 Cesena,Juve Stabia,4,2.0,0.25,0.5,Juv1-0Ces;Ces1-2Juv;Ces1-1Juv;Juv2-0Ces
@@ -465,7 +465,7 @@ Mantova,Pescara,2,3.5,1.0,1.0,Man2-1Pes;Pes2-2Man
 Mantova,Pisa,2,4.5,1.0,1.0,Man2-3Pis;Pis3-1Man
 Mantova,Reggiana,4,2.0,0.25,0.25,Reg2-2Man;Man0-2Reg;Man0-1Reg;Reg1-0Man
 Mantova,Salernitana,2,1.5,0.0,0.0,Man1-0Sal;Sal2-0Man
-Mantova,Sampdoria,4,2.25,0.5,0.5,Sam1-0Man;Man2-2Sam;Sam0-1Man;Man2-1Sam
+Mantova,Sampdoria,5,2.2,0.4,0.4,Sam1-0Man;Man2-2Sam;Sam0-1Man;Man2-1Sam;Man2-0Sam
 Mantova,Sassuolo,2,2.0,0.5,0.0,Sas1-0Man;Man0-3Sas
 Mantova,Spezia,4,3.25,0.5,0.75,Spe1-1Man;Man2-2Spe;Man4-1Spe;Spe0-2Man
 Mantova,Sudtirol,4,2.75,0.5,0.5,Sud2-2Man;Man2-0Sud;Man1-1Sud;Sud0-3Man
@@ -485,7 +485,7 @@ Modena,Sampdoria,6,2.67,0.5,0.5,Sam2-2Mod;Mod1-3Sam;Sam1-0Mod;Sam0-2Mod;Mod1-2Sa
 Modena,Sassuolo,2,3.0,0.5,0.5,Sas2-0Mod;Mod1-3Sas
 Modena,Spal,2,2.5,0.5,0.5,Spa2-3Mod;Mod0-0Spa
 Modena,Spezia,6,1.67,0.17,0.33,Mod0-0Spe;Spe1-0Mod;Mod1-1Spe;Spe0-2Mod;Mod3-0Spe
-Modena,Sudtirol,8,1.38,0.25,0.38,Mod1-0Sud;Sud2-1Mod;Mod0-0Sud;Mod0-0Sud;Sud1-1Mod
+Modena,Sudtirol,9,1.44,0.22,0.44,Sud2-1Mod;Mod0-0Sud;Mod0-0Sud;Sud1-1Mod;Sud1-1Mod
 Modena,Ternana,4,2.75,0.75,0.75,Mod4-1Ter;Ter2-1Mod;Mod2-1Ter;Ter0-0Mod
 Modena,Venezia,6,3.67,0.83,0.67,Ven5-0Mod;Mod1-3Ven;Ven2-2Mod;Mod1-2Ven;Ven0-2Mod
 Modena,Virtus Entella,2,2.5,0.5,0.5,Mod2-0Vir;Vir2-1Mod

@@ -1,7 +1,7 @@
 eq_a,eq_b,n,goles,over25,btts,ultimos
 Bielefeld,Bochum,2,1.5,0.0,0.5,Boc1-0Bie;Bie1-1Boc
 Bielefeld,Braunschweig,4,4.5,0.75,1.0,Bie4-1Bra;Bra3-3Bie;Bra1-1Bie;Bie3-2Bra
-Bielefeld,Darmstadt,4,3.25,0.75,1.0,Dar1-1Bie;Bie3-1Dar;Dar2-2Bie;Bie2-1Dar
+Bielefeld,Darmstadt,5,3.2,0.8,1.0,Dar1-1Bie;Bie3-1Dar;Dar2-2Bie;Bie2-1Dar;Dar2-1Bie
 Bielefeld,Dresden,2,2.5,0.5,1.0,Bie1-2Dre;Dre1-1Bie
 Bielefeld,Elversberg,2,3.0,0.5,0.5,Bie2-0Elv;Elv3-1Bie
 Bielefeld,Fortuna Dusseldorf,4,4.0,0.75,0.75,For4-1Bie;Bie2-2For;Bie5-1For;For1-0Bie
@@ -27,7 +27,7 @@ Bochum,Darmstadt,2,5.5,1.0,1.0,Dar4-1Boc;Boc3-3Dar
 Bochum,Dresden,3,2.67,0.67,0.67,Boc1-2Dre;Dre2-0Boc;Dre1-2Boc
 Bochum,Elversberg,2,2.0,0.0,0.5,Boc2-0Elv;Elv1-1Boc
 Bochum,Fortuna Dusseldorf,2,2.0,0.5,0.5,Boc0-1For;For2-1Boc
-Bochum,Greuther Furth,2,3.0,1.0,0.5,Gre0-3Boc;Boc2-1Gre
+Bochum,Greuther Furth,3,2.67,0.67,0.67,Gre0-3Boc;Boc2-1Gre;Boc1-1Gre
 Bochum,Hannover,2,1.0,0.0,0.5,Han0-0Boc;Boc1-1Han
 Bochum,Hertha,3,2.67,0.33,0.67,Boc3-2Her;Her1-1Boc;Boc0-1Her
 Bochum,Holstein Kiel,2,3.5,0.5,1.0,Hol1-1Boc;Boc2-3Hol
@@ -39,7 +39,7 @@ Bochum,Paderborn,2,0.5,0.0,0.0,Pad1-0Boc;Boc0-0Pad
 Bochum,Preußen Münster,2,2.5,0.5,1.0,Boc1-2Pre;Pre1-1Boc
 Bochum,Schalke 04,2,2.5,0.5,0.5,Sch2-1Boc;Boc2-0Sch
 Braunschweig,Darmstadt,6,2.33,0.5,0.67,Dar2-1Bra;Dar1-1Bra;Bra1-0Dar;Dar2-1Bra;Bra2-2Dar
-Braunschweig,Dresden,2,4.0,1.0,1.0,Dre2-3Bra;Bra2-1Dre
+Braunschweig,Dresden,3,4.0,1.0,1.0,Dre2-3Bra;Bra2-1Dre;Bra2-2Dre
 Braunschweig,Elversberg,6,3.83,1.0,0.33,Bra5-0Elv;Bra0-3Elv;Elv3-0Bra;Bra1-4Elv;Elv3-1Bra
 Braunschweig,FC Koln,2,4.0,1.0,0.5,FC 5-0Bra;Bra1-2FC 
 Braunschweig,Fortuna Dusseldorf,8,3.5,0.75,0.62,For2-0Bra;For5-0Bra;Bra2-2For;For1-2Bra;Bra1-0For
@@ -228,7 +228,7 @@ Hannover,Ingolstadt,2,4.0,1.0,1.0,Ing1-2Han;Han3-2Ing
 Hannover,Kaiserslautern,8,2.75,0.62,0.75,Han1-1Kai;Han3-1Kai;Kai0-0Han;Han1-0Kai;Kai3-1Han
 Hannover,Karlsruhe,11,2.91,0.73,0.55,Han2-1Kar;Kar1-0Han;Han3-0Kar;Kar1-3Han;Han2-2Kar
 Hannover,Magdeburg,8,2.88,0.88,0.5,Mag0-3Han;Mag0-3Han;Han0-0Mag;Han3-1Mag;Mag1-2Han
-Hannover,Nurnberg,10,2.7,0.7,0.4,Han3-0Nur;Han2-0Nur;Nur1-2Han;Nur2-1Han;Han3-3Nur
+Hannover,Nurnberg,11,2.73,0.73,0.45,Han2-0Nur;Nur1-2Han;Nur2-1Han;Han3-3Nur;Nur2-1Han
 Hannover,Osnabruck,2,4.0,0.5,0.0,Han7-0Osn;Osn1-0Han
 Hannover,Paderborn,10,3.1,0.5,0.6,Han3-2Pad;Pad2-1Han;Han1-1Pad;Pad0-2Han;Han1-1Pad
 Hannover,Preußen Münster,4,3.5,0.75,0.75,Pre0-0Han;Han2-2Pre;Pre2-2Han;Han3-3Pre
@@ -255,7 +255,7 @@ Hansa Rostock,Schalke 04,4,3.5,0.5,0.5,Han0-2Sch;Sch3-4Han;Han0-2Sch;Sch2-1Han
 Hansa Rostock,St Pauli,6,2.33,0.33,0.17,Han1-0St ;Han2-0St ;St 1-0Han;Han2-3St ;St 1-0Han
 Hansa Rostock,Wehen,2,2.5,0.5,0.5,Weh1-0Han;Han3-1Weh
 Hansa Rostock,Werder Bremen,2,3.0,1.0,0.5,Wer3-0Han;Han1-2Wer
-Heidenheim,Holstein Kiel,4,3.0,0.75,0.75,Hei2-1Hol;Hol1-1Hei;Hol3-1Hei;Hei3-0Hol
+Heidenheim,Holstein Kiel,5,2.6,0.6,0.6,Hei2-1Hol;Hol1-1Hei;Hol3-1Hei;Hei3-0Hol;Hei1-0Hol
 Heidenheim,Ingolstadt,2,3.0,1.0,1.0,Ing1-2Hei;Hei2-1Ing
 Heidenheim,Kaiserslautern,2,4.0,1.0,1.0,Hei2-2Kai;Kai2-2Hei
 Heidenheim,Karlsruhe,4,3.5,0.5,0.5,Kar3-2Hei;Hei2-0Kar;Kar0-0Hei;Hei5-2Kar
@@ -272,7 +272,7 @@ Hertha,Kaiserslautern,6,2.83,0.5,0.5,Her3-1Kai;Kai3-4Her;Her0-1Kai;Kai0-1Her;Her
 Hertha,Karlsruhe,6,3.5,0.83,0.83,Kar3-2Her;Kar1-3Her;Her3-1Kar;Her0-0Kar;Kar2-2Her
 Hertha,Magdeburg,7,3.86,0.57,0.71,Mag1-3Her;Her1-1Mag;Her0-2Mag;Mag1-0Her;Her2-1Mag
 Hertha,Nurnberg,6,3.0,0.67,0.5,Her3-3Nur;Nur0-2Her;Her0-0Nur;Nur0-3Her;Her2-1Nur
-Hertha,Osnabruck,2,1.5,0.5,0.5,Her0-0Osn;Osn2-1Her
+Hertha,Osnabruck,3,2.33,0.67,0.67,Her0-0Osn;Osn2-1Her;Osn1-3Her
 Hertha,Paderborn,6,4.0,0.83,0.83,Pad2-3Her;Her1-2Pad;Pad1-2Her;Her0-2Pad;Pad5-2Her
 Hertha,Preußen Münster,4,2.75,0.75,0.75,Her1-2Pre;Pre2-0Her;Her2-1Pre;Pre1-2Her
 Hertha,Regensburg,2,2.0,0.0,0.0,Her2-0Reg;Reg2-0Her
@@ -303,7 +303,7 @@ Ingolstadt,Schalke 04,2,3.0,1.0,0.0,Sch3-0Ing;Ing0-3Sch
 Ingolstadt,St Pauli,2,4.5,1.0,1.0,St 4-1Ing;Ing1-3St 
 Ingolstadt,Werder Bremen,2,2.5,0.5,0.5,Ing0-3Wer;Wer1-1Ing
 Kaiserslautern,Karlsruhe,9,2.89,0.56,0.44,Kai3-1Kar;Kar2-2Kai;Kar2-3Kai;Kai3-0Kar;Kai0-0Kar
-Kaiserslautern,Magdeburg,8,4.0,0.62,0.62,Kai4-1Mag;Kai2-2Mag;Mag2-0Kai;Kai2-3Mag;Mag0-1Kai
+Kaiserslautern,Magdeburg,9,3.89,0.67,0.56,Kai2-2Mag;Mag2-0Kai;Kai2-3Mag;Mag0-1Kai;Mag3-0Kai
 Kaiserslautern,Nurnberg,8,2.5,0.5,0.62,Nur1-1Kai;Nur0-0Kai;Kai1-2Nur;Kai1-1Nur;Nur3-0Kai
 Kaiserslautern,Osnabruck,2,4.5,1.0,1.0,Osn2-2Kai;Kai3-2Osn
 Kaiserslautern,Paderborn,8,3.0,0.62,0.5,Kai1-2Pad;Kai3-0Pad;Pad5-3Kai;Pad2-0Kai;Kai1-2Pad

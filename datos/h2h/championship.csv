@@ -30,7 +30,7 @@ Birmingham,Burnley,2,2.5,0.5,0.5,Bir1-1Bur;Bur3-0Bir
 Birmingham,Cardiff,6,1.83,0.17,0.33,Car1-1Bir;Car1-0Bir;Bir0-2Car;Car0-1Bir;Bir0-1Car
 Birmingham,Charlton,2,1.5,0.0,0.5,Bir1-1Cha;Cha1-0Bir
 Birmingham,Coventry,8,2.62,0.5,0.25,Cov2-0Bir;Cov2-0Bir;Bir3-0Cov;Cov3-0Bir;Bir3-2Cov
-Birmingham,Derby,4,2.25,0.25,0.5,Bir2-0Der;Der2-2Bir;Bir1-1Der;Der1-0Bir
+Birmingham,Derby,5,2.4,0.4,0.6,Bir2-0Der;Der2-2Bir;Bir1-1Der;Der1-0Bir;Der1-2Bir
 Birmingham,Fulham,2,6.5,1.0,1.0,Bir1-4Ful;Ful6-2Bir
 Birmingham,Huddersfield,6,2.5,0.5,0.67,Bir0-2Hud;Bir2-1Hud;Hud2-1Bir;Bir4-1Hud;Hud1-1Bir
 Birmingham,Hull,8,2.0,0.12,0.38,Bir0-1Hul;Bir0-2Hul;Hul1-1Bir;Bir2-3Hul;Hul1-1Bir
@@ -76,7 +76,7 @@ Blackburn,Leeds,4,1.5,0.0,0.25,Bla0-2Lee;Lee0-1Bla;Bla1-0Lee;Lee1-1Bla
 Blackburn,Leicester,4,2.5,0.25,0.25,Bla1-4Lei;Lei0-2Bla;Lei0-2Bla;Bla0-1Lei
 Blackburn,Luton,6,1.83,0.17,0.33,Lut0-0Bla;Lut2-0Bla;Bla1-1Lut;Bla2-0Lut;Lut0-1Bla
 Blackburn,Middlesbrough,11,1.64,0.36,0.45,Mid0-1Bla;Bla0-2Mid;Mid0-0Bla;Bla0-0Mid;Bla2-1Mid
-Blackburn,Millwall,10,2.8,0.5,0.7,Bla1-1Mil;Mil1-0Bla;Bla4-1Mil;Bla2-0Mil;Mil1-2Bla
+Blackburn,Millwall,11,2.91,0.55,0.73,Mil1-0Bla;Bla4-1Mil;Bla2-0Mil;Mil1-2Bla;Bla3-1Mil
 Blackburn,Norwich,8,2.5,0.25,0.5,Bla1-1Nor;Nor2-2Bla;Bla1-1Nor;Bla0-2Nor;Nor2-0Bla
 Blackburn,Nott'm Forest,2,2.5,0.5,0.5,Not1-2Bla;Bla0-2Not
 Blackburn,Oxford,4,1.75,0.25,0.5,Bla2-1Oxf;Oxf1-0Bla;Bla1-1Oxf;Oxf1-0Bla
@@ -168,7 +168,7 @@ Bristol City,Reading,4,3.0,0.5,0.75,Rea2-3Bri;Bri2-1Rea;Rea2-0Bri;Bri1-1Rea
 Bristol City,Rotherham,4,3.0,0.75,0.75,Rot1-3Bri;Bri2-1Rot;Rot1-2Bri;Bri2-0Rot
 Bristol City,Sheffield United,8,2.12,0.25,0.5,She1-0Bri;Bri1-2She;She1-1Bri;She1-4Bri;Bri1-0She
 Bristol City,Sheffield Weds,6,2.17,0.5,0.33,She2-1Bri;Bri0-0She;She2-2Bri;She0-3Bri;Bri2-0She
-Bristol City,Southampton,4,3.25,0.75,0.75,Sou1-0Bri;Bri3-1Sou;Bri3-1Sou;Sou2-2Bri
+Bristol City,Southampton,5,3.6,0.8,0.8,Sou1-0Bri;Bri3-1Sou;Bri3-1Sou;Sou2-2Bri;Sou4-1Bri
 Bristol City,Stoke,10,3.1,0.6,0.5,Sto4-0Bri;Sto2-2Bri;Bri2-0Sto;Sto5-1Bri;Bri2-0Sto
 Bristol City,Sunderland,6,2.17,0.33,0.67,Sun1-1Bri;Bri1-0Sun;Sun0-0Bri;Sun1-1Bri;Bri2-1Sun
 Bristol City,Swansea,10,2.0,0.3,0.4,Bri1-0Swa;Swa1-1Bri;Bri0-1Swa;Bri3-0Swa;Swa1-0Bri
@@ -197,7 +197,7 @@ Burnley,Sheffield United,4,3.5,0.5,0.5,She5-2Bur;Bur2-0She;She0-2Bur;Bur2-1She
 Burnley,Sheffield Weds,2,3.0,0.5,0.0,She0-2Bur;Bur4-0She
 Burnley,Stoke,4,1.25,0.0,0.25,Bur1-1Sto;Sto0-1Bur;Sto0-2Bur;Bur0-0Sto
 Burnley,Sunderland,4,1.75,0.25,0.25,Sun2-4Bur;Bur0-0Sun;Sun1-0Bur;Bur0-0Sun
-Burnley,Swansea,4,2.5,0.5,0.25,Bur4-0Swa;Swa1-2Bur;Bur1-0Swa;Swa0-2Bur
+Burnley,Swansea,5,2.8,0.6,0.4,Bur4-0Swa;Swa1-2Bur;Bur1-0Swa;Swa0-2Bur;Swa3-1Bur
 Burnley,Watford,4,2.25,0.5,0.75,Wat1-0Bur;Bur1-1Wat;Bur2-1Wat;Wat1-2Bur
 Burnley,West Brom,5,2.2,0.4,0.8,Wes1-1Bur;Bur2-1Wes;Wes0-0Bur;Bur1-1Wes;Wes3-1Bur
 Burnley,Wigan,2,4.5,1.0,0.5,Wig1-5Bur;Bur3-0Wig
@@ -240,7 +240,7 @@ Charlton,Middlesbrough,2,2.0,0.5,0.5,Cha1-2Mid;Mid0-1Cha
 Charlton,Millwall,2,3.0,0.5,0.5,Cha1-1Mil;Mil4-0Cha
 Charlton,Norwich,2,1.0,0.0,0.0,Nor1-0Cha;Cha0-1Nor
 Charlton,Oxford,2,1.5,0.0,0.5,Cha1-0Oxf;Oxf1-1Cha
-Charlton,Portsmouth,2,3.5,1.0,1.0,Por2-1Cha;Cha1-3Por
+Charlton,Portsmouth,3,2.33,0.67,0.67,Por2-1Cha;Cha1-3Por;Cha0-0Por
 Charlton,Preston,3,2.0,0.33,0.33,Pre2-0Cha;Cha1-2Pre;Cha1-0Pre
 Charlton,QPR,3,1.33,0.33,0.33,QPR3-1Cha;Cha0-0QPR;Cha0-0QPR
 Charlton,Sheffield United,2,1.0,0.0,0.0,She0-1Cha;Cha1-0She
@@ -450,7 +450,7 @@ Luton,Watford,4,2.75,0.5,0.0,Wat4-0Lut;Lut2-0Wat;Lut3-0Wat;Wat2-0Lut
 Luton,West Brom,6,3.67,0.5,0.67,Lut2-0Wes;Wes0-0Lut;Lut2-3Wes;Lut1-1Wes;Wes5-3Lut
 Luton,Wigan,2,2.5,0.5,0.5,Lut1-2Wig;Wig0-2Lut
 Middlesbrough,Millwall,10,1.8,0.3,0.3,Mil1-3Mid;Mid1-0Mil;Mil1-0Mid;Mil0-3Mid;Mid1-2Mil
-Middlesbrough,Norwich,8,3.25,0.75,0.75,Mid3-1Nor;Nor3-3Mid;Mid0-0Nor;Nor1-2Mid;Mid1-0Nor
+Middlesbrough,Norwich,9,3.67,0.78,0.78,Nor3-3Mid;Mid0-0Nor;Nor1-2Mid;Mid1-0Nor;Mid4-3Nor
 Middlesbrough,Nott'm Forest,2,2.0,0.0,0.0,Not0-2Mid;Mid2-0Not
 Middlesbrough,Oxford,4,3.25,0.5,0.75,Oxf2-6Mid;Mid2-1Oxf;Oxf1-1Mid;Mid0-0Oxf
 Middlesbrough,Peterboro,2,3.0,0.5,0.0,Mid2-0Pet;Pet0-4Mid
@@ -580,7 +580,7 @@ QPR,Stoke,10,1.8,0.2,0.3,Sto1-0QPR;QPR1-1Sto;Sto3-1QPR;QPR1-0Sto;Sto0-0QPR
 QPR,Sunderland,6,2.0,0.5,0.33,QPR0-3Sun;QPR1-3Sun;Sun0-0QPR;QPR0-0Sun;Sun0-1QPR
 QPR,Swansea,10,1.7,0.3,0.4,Swa0-1QPR;Swa3-0QPR;QPR1-2Swa;Swa0-1QPR;QPR1-2Swa
 QPR,Watford,8,2.88,0.75,0.62,QPR1-2Wat;Wat0-0QPR;QPR3-1Wat;Wat2-1QPR;QPR2-1Wat
-QPR,West Brom,10,2.7,0.6,0.6,QPR2-2Wes;QPR1-3Wes;Wes1-0QPR;QPR3-1Wes;Wes2-1QPR
+QPR,West Brom,11,2.64,0.55,0.64,QPR1-3Wes;Wes1-0QPR;QPR3-1Wes;Wes2-1QPR;Wes1-1QPR
 QPR,Wigan,2,2.0,0.5,0.5,QPR2-1Wig;Wig1-0QPR
 QPR,Wrexham,2,4.5,1.0,1.0,Wre1-3QPR;QPR2-3Wre
 Reading,Rotherham,2,3.5,1.0,0.5,Rot4-0Rea;Rea2-1Rot
@@ -624,7 +624,7 @@ Southampton,West Brom,4,3.0,0.5,0.75,Sou2-1Wes;Wes0-2Sou;Sou3-2Wes;Wes1-1Sou
 Southampton,Wrexham,2,4.5,1.0,1.0,Sou2-1Wre;Wre1-5Sou
 Stoke,Sunderland,6,3.0,0.67,0.67,Sun1-5Sto;Sto2-1Sun;Sun3-1Sto;Sun2-1Sto;Sto1-0Sun
 Stoke,Swansea,11,2.73,0.64,0.64,Swa0-0Sto;Sto3-1Swa;Sto2-1Swa;Swa2-0Sto;Sto1-2Swa
-Stoke,Watford,8,2.12,0.38,0.25,Wat1-1Sto;Wat3-0Sto;Sto0-0Wat;Wat1-0Sto;Sto3-1Wat
+Stoke,Watford,9,2.22,0.44,0.33,Wat3-0Sto;Sto0-0Wat;Wat1-0Sto;Sto3-1Wat;Wat1-2Sto
 Stoke,West Brom,10,2.2,0.4,0.6,Sto2-2Wes;Sto1-2Wes;Wes1-1Sto;Sto0-1Wes;Wes0-0Sto
 Stoke,Wigan,2,1.0,0.0,0.0,Wig0-1Sto;Sto0-1Wig
 Stoke,Wrexham,2,1.5,0.0,0.0,Sto1-0Wre;Wre2-0Sto

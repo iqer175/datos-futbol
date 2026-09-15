@@ -1,6 +1,6 @@
 eq_a,eq_b,n,goles,over25,btts,ultimos
 Atalanta,Bologna,11,1.64,0.18,0.27,Bol1-1Ata;Ata2-0Bol;Bol0-2Ata;Ata0-1Bol;Ata1-0Bol
-Atalanta,Cagliari,8,2.5,0.62,0.62,Cag2-1Ata;Cag0-1Ata;Ata0-0Cag;Ata2-1Cag;Cag3-2Ata
+Atalanta,Cagliari,9,2.56,0.67,0.67,Cag0-1Ata;Ata0-0Cag;Ata2-1Cag;Cag3-2Ata;Ata1-2Cag
 Atalanta,Como,4,2.5,0.5,0.75,Ata2-3Com;Com1-2Ata;Ata1-1Com;Com0-0Ata
 Atalanta,Cremonese,4,2.75,0.5,1.0,Ata1-1Cre;Cre1-3Ata;Cre1-1Ata;Ata2-1Cre
 Atalanta,Empoli,8,3.25,0.62,0.38,Ata2-1Emp;Emp0-3Ata;Ata2-0Emp;Ata3-2Emp;Emp0-5Ata
@@ -38,7 +38,7 @@ Bologna,Lazio,11,2.36,0.55,0.27,Laz3-0Bol;Bol5-0Laz;Laz1-1Bol;Bol0-2Laz;Bol0-1La
 Bologna,Lecce,8,2.5,0.38,0.38,Bol4-0Lec;Bol1-0Lec;Lec0-0Bol;Lec2-2Bol;Bol2-0Lec
 Bologna,Milan,10,2.7,0.5,0.5,Mil2-2Bol;Bol2-1Mil;Mil3-1Bol;Mil1-0Bol;Bol0-3Mil
 Bologna,Monza,6,1.83,0.5,0.5,Bol0-1Mon;Mon0-0Bol;Bol0-0Mon;Mon1-2Bol;Bol3-1Mon
-Bologna,Napoli,10,2.8,0.5,0.4,Nap0-2Bol;Nap3-0Bol;Bol1-1Nap;Bol2-0Nap;Nap2-3Bol
+Bologna,Napoli,11,2.64,0.45,0.36,Nap3-0Bol;Bol1-1Nap;Bol2-0Nap;Nap2-3Bol;Nap1-0Bol
 Bologna,Parma,4,1.75,0.25,0.25,Bol0-0Par;Par2-0Bol;Par1-3Bol;Bol0-1Par
 Bologna,Pisa,2,2.5,0.5,0.0,Bol4-0Pis;Pis0-1Bol
 Bologna,Roma,10,2.0,0.3,0.3,Rom1-3Bol;Rom2-3Bol;Bol2-2Rom;Rom1-0Bol;Bol0-2Rom
@@ -85,7 +85,7 @@ Como,Lecce,4,3.0,0.75,0.25,Com2-0Lec;Lec0-3Com;Lec0-3Com;Com3-1Lec
 Como,Milan,4,3.0,0.75,1.0,Com1-2Mil;Mil2-1Com;Com1-3Mil;Mil1-1Com
 Como,Monza,2,3.0,0.5,1.0,Com1-1Mon;Mon1-3Com
 Como,Napoli,5,2.0,0.6,0.6,Nap3-1Com;Com2-1Nap;Nap0-0Com;Com0-0Nap;Nap1-2Com
-Como,Parma,4,1.0,0.0,0.25,Com1-1Par;Par0-1Com;Par0-0Com;Com1-0Par
+Como,Parma,5,1.4,0.2,0.4,Com1-1Par;Par0-1Com;Par0-0Com;Com1-0Par;Com2-1Par
 Como,Pisa,2,4.0,1.0,0.0,Pis0-3Com;Com5-0Pis
 Como,Roma,4,2.25,0.5,0.5,Com2-0Rom;Rom2-1Com;Rom1-0Com;Com2-1Rom
 Como,Sassuolo,2,2.5,0.5,0.5,Com2-0Sas;Sas2-1Com
@@ -151,9 +151,9 @@ Fiorentina,Sassuolo,8,3.12,0.75,0.75,Sas1-3Fio;Sas1-0Fio;Fio5-1Sas;Sas3-1Fio;Fio
 Fiorentina,Spezia,4,2.75,0.75,0.75,Fio3-0Spe;Spe1-2Fio;Spe1-2Fio;Fio1-1Spe
 Fiorentina,Torino,11,1.91,0.36,0.45,Tor0-1Fio;Fio1-1Tor;Tor0-0Fio;Fio2-2Tor;Fio1-2Tor
 Fiorentina,Udinese,10,3.1,0.6,0.4,Fio2-2Udi;Fio1-2Udi;Udi2-3Fio;Fio5-1Udi;Udi3-0Fio
-Fiorentina,Venezia,4,1.25,0.25,0.25,Ven1-0Fio;Fio1-0Ven;Fio0-0Ven;Ven2-1Fio
+Fiorentina,Venezia,5,2.2,0.4,0.4,Ven1-0Fio;Fio1-0Ven;Fio0-0Ven;Ven2-1Fio;Ven2-4Fio
 Fiorentina,Verona,10,2.2,0.4,0.5,Ver2-1Fio;Fio3-1Ver;Ver1-0Fio;Fio1-2Ver;Ver0-1Fio
-Frosinone,Genoa,2,2.5,0.5,1.0,Fro2-1Gen;Gen1-1Fro
+Frosinone,Genoa,3,2.33,0.33,1.0,Fro2-1Gen;Gen1-1Fro;Gen1-1Fro
 Frosinone,Inter,2,3.5,0.5,0.0,Int2-0Fro;Fro0-5Int
 Frosinone,Juventus,3,3.0,0.67,0.67,Fro1-2Juv;Juv3-2Fro;Fro0-1Juv
 Frosinone,Lazio,2,4.5,1.0,1.0,Laz3-1Fro;Fro2-3Laz
@@ -199,7 +199,7 @@ Inter,Sampdoria,4,2.5,0.75,0.25,Sam2-2Int;Int3-0Sam;Int3-0Sam;Sam0-0Int
 Inter,Sassuolo,8,3.25,0.75,0.62,Int4-2Sas;Int1-2Sas;Sas1-0Int;Int2-1Sas;Sas0-5Int
 Inter,Spezia,4,3.0,0.75,0.5,Int2-0Spe;Spe1-3Int;Int3-0Spe;Spe2-1Int
 Inter,Torino,10,2.6,0.4,0.3,Int2-0Tor;Int3-2Tor;Tor0-2Int;Int5-0Tor;Tor2-2Int
-Inter,Udinese,10,3.2,0.8,0.7,Udi1-2Int;Udi2-3Int;Int2-1Udi;Int1-2Udi;Udi0-1Int
+Inter,Udinese,11,3.64,0.82,0.73,Udi2-3Int;Int2-1Udi;Int1-2Udi;Udi0-1Int;Int5-3Udi
 Inter,Venezia,4,1.75,0.25,0.25,Ven0-2Int;Int2-1Ven;Int1-0Ven;Ven0-1Int
 Inter,Verona,10,3.1,0.6,0.5,Ver2-2Int;Ver0-5Int;Int1-0Ver;Ver1-2Int;Int1-1Ver
 Juventus,Lazio,10,2.5,0.5,0.5,Laz1-0Juv;Juv1-0Laz;Laz1-1Juv;Laz1-0Juv;Juv2-2Laz
@@ -212,14 +212,14 @@ Juventus,Pisa,2,3.0,0.5,0.0,Pis0-2Juv;Juv4-0Pis
 Juventus,Roma,10,2.5,0.3,0.6,Rom1-1Juv;Juv0-0Rom;Rom1-1Juv;Juv2-1Rom;Rom3-3Juv
 Juventus,Salernitana,6,2.67,0.5,0.5,Juv2-0Sal;Juv2-2Sal;Sal0-3Juv;Sal1-2Juv;Juv1-1Sal
 Juventus,Sampdoria,4,3.75,0.75,0.75,Juv3-2Sam;Sam1-3Juv;Sam0-0Juv;Juv4-2Sam
-Juventus,Sassuolo,8,3.0,0.75,0.5,Sas1-0Juv;Sas4-2Juv;Juv3-0Sas;Sas0-3Juv;Juv1-1Sas
+Juventus,Sassuolo,9,3.22,0.78,0.56,Sas4-2Juv;Juv3-0Sas;Sas0-3Juv;Juv1-1Sas;Sas3-2Juv
 Juventus,Spezia,4,2.5,0.25,0.25,Spe2-3Juv;Juv1-0Spe;Juv2-0Spe;Spe0-2Juv
 Juventus,Torino,10,2.0,0.2,0.4,Tor0-0Juv;Juv2-0Tor;Tor1-1Juv;Juv0-0Tor;Tor2-2Juv
 Juventus,Udinese,10,2.1,0.3,0.2,Juv0-1Udi;Udi0-2Juv;Juv2-0Udi;Juv3-1Udi;Udi0-1Juv
 Juventus,Venezia,4,3.5,0.75,1.0,Ven1-1Juv;Juv2-1Ven;Juv2-2Ven;Ven2-3Juv
 Juventus,Verona,10,2.1,0.3,0.4,Ver2-2Juv;Ver0-3Juv;Juv2-0Ver;Ver1-1Juv;Juv1-1Ver
 Lazio,Lecce,8,2.12,0.5,0.5,Laz1-0Lec;Lec1-2Laz;Laz0-1Lec;Laz2-0Lec;Lec0-0Laz
-Lazio,Milan,10,2.3,0.4,0.3,Laz0-1Mil;Laz2-2Mil;Mil1-2Laz;Mil1-0Laz;Laz1-0Mil
+Lazio,Milan,11,2.45,0.45,0.36,Laz2-2Mil;Mil1-2Laz;Mil1-0Laz;Laz1-0Mil;Laz2-2Mil
 Lazio,Monza,6,2.67,0.33,0.5,Mon0-2Laz;Laz1-1Mon;Mon2-2Laz;Mon0-1Laz;Laz5-1Mon
 Lazio,Napoli,10,2.3,0.5,0.4,Laz0-0Nap;Nap0-1Laz;Laz2-2Nap;Laz0-2Nap;Nap0-2Laz
 Lazio,Parma,4,2.75,0.5,0.75,Par3-1Laz;Laz2-2Par;Par0-1Laz;Laz1-1Par
@@ -234,7 +234,7 @@ Lazio,Udinese,11,3.0,0.55,0.82,Udi2-1Laz;Laz1-1Udi;Udi1-1Laz;Laz3-3Udi;Udi1-2Laz
 Lazio,Venezia,4,2.25,0.5,0.5,Ven1-3Laz;Laz1-0Ven;Laz3-1Ven;Ven0-0Laz
 Lazio,Verona,10,2.9,0.5,0.5,Laz1-0Ver;Laz2-1Ver;Ver0-3Laz;Laz4-0Ver;Ver0-1Laz
 Lecce,Milan,8,3.0,0.62,0.38,Mil3-0Lec;Mil3-0Lec;Lec2-3Mil;Lec0-2Mil;Mil1-0Lec
-Lecce,Monza,6,1.67,0.17,0.67,Mon0-1Lec;Mon1-1Lec;Lec1-1Mon;Lec2-1Mon;Mon0-0Lec
+Lecce,Monza,7,2.14,0.29,0.71,Mon1-1Lec;Lec1-1Mon;Lec2-1Mon;Mon0-0Lec;Lec3-2Mon
 Lecce,Napoli,8,1.88,0.38,0.38,Nap0-0Lec;Nap1-0Lec;Lec0-1Nap;Lec0-1Nap;Nap2-1Lec
 Lecce,Parma,4,3.0,0.75,0.75,Lec2-2Par;Par1-3Lec;Par0-1Lec;Lec1-2Par
 Lecce,Pisa,2,2.0,0.5,0.5,Lec1-0Pis;Pis1-2Lec
@@ -298,7 +298,7 @@ Roma,Salernitana,6,3.17,0.83,0.67,Rom2-1Sal;Sal0-1Rom;Rom2-2Sal;Rom2-2Sal;Sal1-2
 Roma,Sampdoria,4,1.75,0.25,0.25,Rom1-1Sam;Sam0-1Rom;Sam0-1Rom;Rom3-0Sam
 Roma,Sassuolo,8,2.88,0.5,0.62,Rom3-4Sas;Sas1-2Rom;Rom1-0Sas;Sas0-1Rom;Rom2-0Sas
 Roma,Spezia,4,2.0,0.25,0.25,Rom2-0Spe;Spe0-1Rom;Spe0-2Rom;Rom2-1Spe
-Roma,Torino,10,2.0,0.2,0.3,Rom3-2Tor;Rom1-0Tor;Tor0-2Rom;Rom0-1Tor;Tor0-2Rom
+Roma,Torino,11,2.0,0.18,0.27,Rom1-0Tor;Tor0-2Rom;Rom0-1Tor;Tor0-2Rom;Tor0-2Rom
 Roma,Udinese,10,2.6,0.6,0.4,Udi1-2Rom;Rom3-0Udi;Udi1-2Rom;Rom2-0Udi;Udi1-0Rom
 Roma,Venezia,4,2.75,0.5,0.75,Ven3-2Rom;Rom1-1Ven;Rom2-1Ven;Ven0-1Rom
 Roma,Verona,10,3.0,0.6,0.6,Rom2-1Ver;Ver3-2Rom;Rom1-0Ver;Rom2-0Ver;Ver0-2Rom
