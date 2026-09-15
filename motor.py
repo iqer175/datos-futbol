@@ -1,5 +1,5 @@
 """
-motor.py -- motor de pronostico v2.  Sustituye a modelo.py.
+motor.py -- motor de pronostico v3.  Sustituye a modelo.py.
 
 QUE CAMBIA Y POR QUE
 --------------------
@@ -33,6 +33,27 @@ LO QUE PROBE Y NO FUNCIONO (documentado para no repetirlo)
     (1.0800 vs 1.0427 en muestra rota), porque el ridge encoge al recien
     ascendido hacia la media, que es el mismo fallo de v1.
 
+QUE CAMBIA EN v3 (2026-09-15)
+  Dos recalibraciones medidas sobre los 5.160 partidos del backtest y validadas
+  fuera de muestra en cuatro cortes temporales distintos:
+    - 1X2: el motor daba +3.5 puntos de mas al visitante. Se corrige multiplicando
+      local y empate y renormalizando. Mejora 0.0015-0.0029 de log-loss en los 4 cortes.
+    - Goles: el motor predecia 2.8 puntos menos de Mas 2.5 de los que ocurren.
+      Se corrige sumando 0.12 al total. Mejora 0.0018-0.0027 en los 4 cortes.
+  El sesgo del visitante importa mas de lo que sugiere el log-loss: 3.5 puntos son
+  casi la mitad del colchon de 8 que exige la skill, asi que una parte del "valor"
+  que el motor encontraba en visitantes era este sesgo y no una ineficiencia real.
+
+LO QUE SE PROBO EN v3 Y SE DESCARTO
+  - Correccion del Elo por forma reciente. La hipotesis era que el Elo tarda en bajar
+    a los equipos que se hunden. MEDIDO SOBRE 50.060 observaciones equipo-partido:
+    el residuo del Elo NO persiste, REVIERTE (coef -0.042, t=-3.1). Un equipo que ha
+    rendido por debajo de su Elo tiende a rendir por ENCIMA despues. El mercado, en
+    cambio, no tiene ese sesgo (coef -0.002, t=-0.1). La hipotesis era falsa y venia
+    de mirar cinco equipos que acababan de perder, que es tautologico.
+  - Temperatura sobre el Over (encoger hacia 50%). Mejora en tres cortes pero EMPEORA
+    en el mas reciente, y su parametro se mueve de 0.71 a 0.55 entre cortes. Sobreajuste.
+
 LIMITE QUE NO SE ARREGLA CON MODELADO
   El mercado sigue ganando en todos los grupos (1X2: 0.9970 vs 1.0139 en muestra
   sana; 1.0117 vs 1.0427 en muestra rota). Este motor es una referencia
@@ -47,6 +68,16 @@ HALF_LIFE = 180.0
 RIDGE     = 3.0
 VENTANA   = 1460      # dias de historico para el GLM
 W_GLM     = 0.35      # peso del GLM en el total (0.65 se lo lleva la linea Elo)
+
+# --- calibracion v3, medida sobre 5.160 partidos de backtest (2025-08 a 2026-09) ---
+# El motor v2 tenia dos sesgos sistematicos frente al resultado real:
+#   1X2  : daba +3.5 puntos de mas al visitante, -1.8 al local y -1.7 al empate.
+#   goles: predecia 2.8 puntos MENOS de Mas 2.5 de los que ocurren.
+# Las dos correcciones se ajustaron solo con datos anteriores al corte y se
+# validaron despues; mejoran el log-loss en los CUATRO cortes temporales probados.
+CAL_TOTAL  = 0.12     # goles que se suman al total (equivale a +0.115 en el logit del Over)
+CAL_LOCAL  = 0.1966   # multiplica la probabilidad de local por exp(), luego se renormaliza
+CAL_EMPATE = 0.1972   # idem para el empate
 K_SHRINK  = 6.0
 MAX_N     = 40
 
@@ -156,10 +187,14 @@ class Base:
 # ------------------------------------------------------------------- mercados
 def pois(k, lam): return exp(-lam) * lam**k / factorial(k)
 
-def mercados(lh, la, lc, lt):
+def mercados(lh, la, lc, lt, calibrar=True):
     M = np.outer([pois(i, lh) for i in range(11)], [pois(j, la) for j in range(11)]); M /= M.sum()
     i, j = np.indices(M.shape); tot = i + j
-    r = {'1': M[i>j].sum(), 'X': float(np.trace(M)), '2': M[i<j].sum()}
+    p1, px, p2 = M[i>j].sum(), float(np.trace(M)), M[i<j].sum()
+    if calibrar:   # recalibracion 1X2 medida en backtest: ver CAL_LOCAL / CAL_EMPATE
+        q = np.array([p1*exp(CAL_LOCAL), px*exp(CAL_EMPATE), p2]); q /= q.sum()
+        p1, px, p2 = q
+    r = {'1': p1, 'X': px, '2': p2}
     for ln in (0.5,1.5,2.5,3.5,4.5): r[f'over{ln}'] = M[tot>ln].sum()
     r['btts'] = M[1:,1:].sum()
     r['gana_l_2plus'] = M[(i-j)>=2].sum(); r['gana_v_2plus'] = M[(j-i)>=2].sum()
@@ -180,6 +215,7 @@ def analizar(B, local, visit, liga, hasta=None):
     tot_elo = C['bt'] + C['at'] * abs(d)      # linea base de total
     tg = total_glm(B.glm, local, visit, liga)
     tot = tot_elo if tg is None else (1 - W_GLM) * tot_elo + W_GLM * tg
+    tot += CAL_TOTAL      # correccion de calibracion: el motor se quedaba corto en goles
 
     lh = max(0.15, (tot + sup) / 2); la = max(0.15, (tot - sup) / 2)
 
