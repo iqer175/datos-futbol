@@ -50,7 +50,7 @@ Athletico-PR,Sao Paulo,10,2.4,0.6,0.7,Sao2-1Ath;Ath1-1Sao;Ath1-2Sao;Sao2-1Ath;Sa
 Athletico-PR,Sport Recife,4,1.25,0.0,0.25,Spo1-0Ath;Ath2-0Spo;Ath0-0Spo;Spo1-1Ath
 Athletico-PR,Vasco,6,1.67,0.33,0.17,Vas0-2Ath;Ath0-0Vas;Ath1-0Vas;Vas2-1Ath;Vas1-0Ath
 Athletico-PR,Vitoria,3,2.67,0.67,0.67,Vit0-1Ath;Ath1-2Vit;Ath3-1Vit
-Atletico GO,Atletico-MG,8,3.25,0.5,0.62,Atl2-1Atl;Atl2-0Atl;Atl0-2Atl;Atl1-1Atl;Atl1-0Atl
+Atletico GO,Atletico-MG,7,2.71,0.43,0.57,Atl2-1Atl;Atl2-0Atl;Atl0-2Atl;Atl1-1Atl;Atl1-0Atl
 Atletico GO,Avai,2,3.0,1.0,1.0,Atl2-1Ava;Ava1-2Atl
 Atletico GO,Bahia,5,2.4,0.4,0.8,Atl1-1Bah;Bah1-2Atl;Atl2-1Bah;Atl1-1Bah;Bah2-0Atl
 Atletico GO,Botafogo RJ,6,2.33,0.33,0.67,Bot1-3Atl;Atl1-1Bot;Bot0-0Atl;Bot1-0Atl;Atl1-4Bot
@@ -120,7 +120,7 @@ Bahia,Botafogo RJ,9,2.22,0.67,0.56,Bot1-2Bah;Bah0-0Bot;Bah1-0Bot;Bot2-1Bah;Bah2-
 Bahia,Bragantino,11,3.27,0.73,0.55,Bra2-1Bah;Bra0-3Bah;Bah2-1Bra;Bah2-0Bra;Bra2-3Bah
 Bahia,Ceara,5,2.0,0.2,0.6,Bah0-2Cea;Cea1-2Bah;Bah1-1Cea;Bah1-0Cea;Cea1-1Bah
 Bahia,Chapecoense-SC,4,3.25,0.5,0.25,Cha0-2Bah;Bah3-0Cha;Bah2-0Cha;Cha3-3Bah
-Bahia,Corinthians,12,2.67,0.58,0.67,Cor3-0Bah;Bah1-1Cor;Cor1-2Bah;Cor1-2Bah;Bah1-1Cor
+Bahia,Corinthians,11,2.45,0.55,0.64,Cor3-0Bah;Bah1-1Cor;Cor1-2Bah;Cor1-2Bah;Bah1-1Cor
 Bahia,Coritiba,4,4.5,1.0,1.0,Cor1-2Bah;Bah3-1Cor;Cor2-4Bah;Cor3-2Bah
 Bahia,Criciuma,2,2.5,0.5,0.5,Cri2-2Bah;Bah1-0Cri
 Bahia,Cruzeiro,7,3.29,0.86,0.71,Bah4-1Cru;Cru1-1Bah;Cru3-0Bah;Bah1-2Cru;Bah1-2Cru
@@ -151,17 +151,17 @@ Botafogo RJ,Flamengo RJ,11,2.45,0.55,0.27,Bot4-1Fla;Fla0-0Bot;Bot0-3Fla;Bot0-3Fl
 Botafogo RJ,Fluminense,12,1.75,0.08,0.25,Flu0-1Bot;Bot2-0Flu;Flu2-0Bot;Flu1-0Bot;Bot1-1Flu
 Botafogo RJ,Fortaleza,9,3.56,0.67,0.67,For2-2Bot;For1-1Bot;Bot2-0For;For0-5Bot;Bot4-2For
 Botafogo RJ,Goias,6,1.83,0.33,0.5,Goi2-0Bot;Bot1-2Goi;Goi0-1Bot;Goi2-1Bot;Bot1-1Goi
-Botafogo RJ,Gremio,9,4.22,0.67,0.78,Gre1-2Bot;Bot0-0Gre;Gre1-1Bot;Bot3-2Gre;Gre5-3Bot
+Botafogo RJ,Gremio,10,4.3,0.7,0.8,Bot0-0Gre;Gre1-1Bot;Bot3-2Gre;Gre5-3Bot;Bot3-2Gre
 Botafogo RJ,Internacional,10,2.9,0.6,0.5,Bot1-0Int;Int0-1Bot;Bot4-0Int;Int2-0Bot;Bot2-2Int
 Botafogo RJ,Juventude,6,3.83,0.67,0.83,Juv2-2Bot;Bot5-1Juv;Juv3-2Bot;Bot2-0Juv;Juv1-3Bot
 Botafogo RJ,Mirassol,3,3.67,0.67,0.67,Bot3-3Mir;Mir0-0Bot;Bot3-2Mir
 Botafogo RJ,Palmeiras,12,2.5,0.5,0.5,Pal1-3Bot;Pal0-0Bot;Bot0-1Pal;Pal2-1Bot;Bot0-0Pal
-Botafogo RJ,Santos,9,2.44,0.56,0.56,San2-2Bot;Bot1-1San;San0-1Bot;Bot2-2San;Bot2-1San
+Botafogo RJ,Santos,8,2.75,0.62,0.62,San2-2Bot;Bot1-1San;San0-1Bot;Bot2-2San;Bot2-1San
 Botafogo RJ,Sao Paulo,11,2.18,0.45,0.45,Sao2-2Bot;Bot2-1Sao;Bot2-2Sao;Sao1-0Bot;Sao1-1Bot
 Botafogo RJ,Sport Recife,4,2.5,0.5,0.5,Spo1-2Bot;Bot0-1Spo;Spo0-1Bot;Bot3-2Spo
 Botafogo RJ,Vasco,8,2.38,0.5,0.25,Vas1-1Bot;Bot3-0Vas;Vas0-2Bot;Bot3-0Vas;Vas1-2Bot
 Botafogo RJ,Vitoria,6,0.67,0.0,0.17,Bot1-1Vit;Bot0-0Vit;Vit0-0Bot;Bot0-0Vit;Vit1-0Bot
-Bragantino,Ceara,8,2.62,0.5,0.62,Cea2-2Bra;Cea0-1Bra;Bra1-1Cea;Bra2-2Cea;Cea1-0Bra
+Bragantino,Ceara,7,2.14,0.43,0.57,Cea2-2Bra;Cea0-1Bra;Bra1-1Cea;Bra2-2Cea;Cea1-0Bra
 Bragantino,Chapecoense-SC,3,3.0,1.0,0.67,Cha0-3Bra;Bra1-2Cha;Cha1-2Bra
 Bragantino,Corinthians,14,1.86,0.29,0.36,Cor1-1Bra;Cor1-2Bra;Bra2-1Cor;Cor2-0Bra;Bra0-2Cor
 Bragantino,Coritiba,7,1.71,0.29,0.29,Cor2-1Bra;Cor0-1Bra;Bra1-0Cor;Cor0-1Bra;Bra0-0Cor
@@ -246,7 +246,7 @@ Coritiba,Palmeiras,7,3.0,0.57,0.43,Cor0-2Pal;Pal4-0Cor;Pal3-1Cor;Cor0-2Pal;Cor1-
 Coritiba,Remo,2,3.0,0.5,0.5,Cor1-0Rem;Rem2-3Cor
 Coritiba,Santos,7,2.43,0.71,0.57,San2-1Cor;Cor1-2San;Cor0-0San;San2-1Cor;San0-3Cor
 Coritiba,Sao Paulo,8,2.25,0.25,0.88,Sao3-1Cor;Cor1-1Sao;Sao2-1Cor;Cor0-1Sao;Sao1-1Cor
-Coritiba,Vasco,5,2.4,0.2,0.6,Cor1-0Vas;Vas0-1Cor;Cor1-1Vas;Vas5-1Cor;Cor1-1Vas
+Coritiba,Vasco,4,2.75,0.25,0.75,Vas0-1Cor;Cor1-1Vas;Vas5-1Cor;Cor1-1Vas
 Criciuma,Cruzeiro,2,2.0,0.5,0.5,Cri1-0Cru;Cru2-1Cri
 Criciuma,Cuiaba,2,5.0,1.0,1.0,Cri2-5Cui;Cui2-1Cri
 Criciuma,Flamengo RJ,2,3.0,1.0,0.5,Fla2-1Cri;Cri0-3Fla
@@ -311,12 +311,12 @@ Fluminense,Palmeiras,13,2.08,0.38,0.54,Pal0-1Flu;Flu1-2Pal;Pal0-0Flu;Pal2-1Flu;F
 Fluminense,Remo,2,2.5,0.5,0.5,Rem0-2Flu;Flu2-1Rem
 Fluminense,Santos,11,2.09,0.36,0.36,Flu1-0San;San0-3Flu;Flu1-0San;San0-0Flu;San2-3Flu
 Fluminense,Sao Paulo,12,2.83,0.67,0.58,Sao2-1Flu;Flu2-0Sao;Sao3-1Flu;Flu6-0Sao;Flu2-1Sao
-Fluminense,Sport Recife,6,2.17,0.5,0.5,Flu1-0Spo;Spo1-2Flu;Flu1-0Spo;Flu2-1Spo;Spo2-2Flu
+Fluminense,Sport Recife,5,2.4,0.6,0.6,Flu1-0Spo;Spo1-2Flu;Flu1-0Spo;Flu2-1Spo;Spo2-2Flu
 Fluminense,Vasco,9,2.89,0.44,0.67,Vas2-0Flu;Flu2-1Vas;Vas2-0Flu;Vas3-2Flu;Flu1-0Vas
 Fluminense,Vitoria,5,2.2,0.4,0.6,Flu0-1Vit;Vit2-1Flu;Flu1-1Vit;Vit0-1Flu;Flu2-2Vit
 Fortaleza,Goias,5,1.4,0.0,0.4,For1-1Goi;For1-1Goi;Goi0-1For;Goi1-0For;For1-0Goi
 Fortaleza,Gremio,9,1.67,0.33,0.44,For1-1Gre;For1-0Gre;Gre3-1For;Gre2-1For;For2-2Gre
-Fortaleza,Internacional,12,2.67,0.58,0.5,Int0-1For;Int2-1For;For3-0Int;For0-0Int;Int2-1For
+Fortaleza,Internacional,11,2.82,0.64,0.55,Int0-1For;Int2-1For;For3-0Int;For0-0Int;Int2-1For
 Fortaleza,Juventude,8,2.62,0.5,0.62,Juv1-1For;For2-1Juv;Juv0-3For;For5-0Juv;Juv1-2For
 Fortaleza,Mirassol,2,1.5,0.0,0.5,Mir1-1For;For0-1Mir
 Fortaleza,Palmeiras,12,3.17,0.75,0.5,For2-2Pal;For3-0Pal;Pal2-2For;For1-2Pal;Pal4-1For
@@ -335,7 +335,7 @@ Goias,Vasco,4,2.5,0.25,0.75,Goi1-1Vas;Vas3-2Goi;Vas0-1Goi;Goi1-1Vas
 Gremio,Internacional,11,2.18,0.36,0.55,Gre0-1Int;Int1-0Gre;Gre1-1Int;Int2-3Gre;Int0-0Gre
 Gremio,Juventude,6,3.33,0.67,0.5,Gre3-2Juv;Juv3-0Gre;Gre2-2Juv;Juv0-2Gre;Gre3-1Juv
 Gremio,Mirassol,3,3.0,0.67,0.67,Mir4-1Gre;Gre0-1Mir;Mir2-1Gre
-Gremio,Palmeiras,11,2.73,0.45,0.64,Gre2-2Pal;Pal1-0Gre;Pal1-0Gre;Gre3-2Pal;Pal2-1Gre
+Gremio,Palmeiras,10,2.8,0.5,0.6,Gre2-2Pal;Pal1-0Gre;Pal1-0Gre;Gre3-2Pal;Pal2-1Gre
 Gremio,Santos,9,2.89,0.56,0.67,Gre1-0San;San2-1Gre;Gre1-0San;San1-1Gre;Gre3-2San
 Gremio,Sao Paulo,12,2.42,0.67,0.5,Gre2-1Sao;Sao2-1Gre;Gre2-0Sao;Sao2-0Gre;Gre2-1Sao
 Gremio,Sport Recife,5,2.2,0.4,0.4,Spo1-1Gre;Spo1-0Gre;Gre1-2Spo;Gre0-1Spo;Spo0-4Gre

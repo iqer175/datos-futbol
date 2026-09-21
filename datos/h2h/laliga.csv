@@ -20,7 +20,7 @@ Alaves,Oviedo,2,1.5,0.0,0.5,Ala1-1Ovi;Ovi0-1Ala
 Alaves,Real Madrid,8,3.25,0.75,0.5,Rea5-0Ala;Rea3-2Ala;Ala0-1Rea;Ala1-2Rea;Rea2-1Ala
 Alaves,Sevilla,8,3.25,0.62,0.88,Sev2-3Ala;Ala2-1Sev;Sev1-1Ala;Ala1-2Sev;Sev1-1Ala
 Alaves,Sociedad,8,2.12,0.25,0.5,Ala0-1Soc;Soc1-2Ala;Ala1-0Soc;Ala1-0Soc;Soc3-3Ala
-Alaves,Valencia,8,2.25,0.5,0.38,Val0-1Ala;Val2-2Ala;Ala1-0Val;Ala0-0Val;Val3-2Ala
+Alaves,Valencia,9,2.11,0.44,0.33,Val2-2Ala;Ala1-0Val;Ala0-0Val;Val3-2Ala;Ala0-1Val
 Alaves,Valladolid,2,3.0,0.5,0.5,Ala2-3Val;Val0-1Ala
 Alaves,Vallecano,9,1.67,0.11,0.22,Val1-0Ala;Ala0-2Val;Val1-0Ala;Ala1-2Val;Val1-1Ala
 Alaves,Villarreal,9,2.78,0.44,0.67,Vil3-0Ala;Ala1-0Vil;Vil3-1Ala;Ala1-1Vil;Ala1-0Vil
@@ -81,7 +81,7 @@ Ath Madrid,Las Palmas,4,2.75,0.5,0.25,Las2-1Ath;Ath5-0Las;Ath2-0Las;Las1-0Ath
 Ath Madrid,Leganes,2,2.5,0.5,0.5,Ath3-1Leg;Leg1-0Ath
 Ath Madrid,Levante,4,2.25,0.5,0.5,Lev2-2Ath;Ath0-1Lev;Ath3-1Lev;Lev0-0Ath
 Ath Madrid,Mallorca,10,1.9,0.3,0.3,Mal0-1Ath;Mal0-1Ath;Ath2-0Mal;Mal1-1Ath;Ath3-0Mal
-Ath Madrid,Osasuna,10,2.2,0.4,0.2,Ath1-4Osa;Ath1-0Osa;Osa2-0Ath;Ath1-0Osa;Osa1-2Ath
+Ath Madrid,Osasuna,11,2.36,0.45,0.18,Ath1-0Osa;Osa2-0Ath;Ath1-0Osa;Osa1-2Ath;Ath4-0Osa
 Ath Madrid,Oviedo,2,1.5,0.0,0.0,Ath2-0Ovi;Ovi0-1Ath
 Ath Madrid,Real Madrid,10,3.0,0.4,0.8,Rea1-1Ath;Ath1-1Rea;Rea1-1Ath;Ath5-2Rea;Rea3-2Ath
 Ath Madrid,Sevilla,11,3.27,0.64,0.64,Ath4-3Sev;Sev1-2Ath;Ath3-0Sev;Sev2-1Ath;Sev1-3Ath
@@ -115,7 +115,7 @@ Betis,Cadiz,6,1.83,0.17,0.5,Cad1-2Bet;Cad0-0Bet;Bet0-2Cad;Bet1-1Cad;Cad0-2Bet
 Betis,Celta,10,2.9,0.5,0.7,Bet2-1Cel;Bet2-2Cel;Cel3-2Bet;Cel1-1Bet;Bet1-1Cel
 Betis,Elche,6,2.83,0.67,0.5,Bet0-1Elc;Bet3-0Elc;Elc2-3Bet;Elc1-1Bet;Bet2-1Elc
 Betis,Espanol,8,2.62,0.62,0.62,Bet3-1Esp;Bet1-0Esp;Esp1-2Bet;Esp1-2Bet;Bet0-0Esp
-Betis,Getafe,10,2.0,0.3,0.4,Bet1-1Get;Bet2-1Get;Get1-2Bet;Bet4-0Get;Get2-0Bet
+Betis,Getafe,11,1.91,0.27,0.36,Bet2-1Get;Get1-2Bet;Bet4-0Get;Get2-0Bet;Bet1-0Get
 Betis,Girona,8,3.25,0.62,1.0,Gir3-2Bet;Bet1-1Gir;Gir1-3Bet;Bet1-1Gir;Gir2-3Bet
 Betis,Granada,4,2.0,0.25,0.5,Gra1-2Bet;Bet2-0Gra;Gra1-1Bet;Bet1-0Gra
 Betis,Las Palmas,4,2.0,0.25,0.5,Bet1-0Las;Las2-2Bet;Las1-1Bet;Bet1-0Las
@@ -174,7 +174,7 @@ Elche,Levante,4,3.0,0.5,0.5,Elc1-1Lev;Lev3-0Elc;Elc2-0Lev;Lev3-2Elc
 Elche,Mallorca,6,2.83,0.67,0.67,Elc3-0Mal;Elc1-1Mal;Mal0-1Elc;Mal3-1Elc;Elc2-1Mal
 Elche,Osasuna,6,1.83,0.17,0.83,Elc1-1Osa;Elc1-1Osa;Osa2-1Elc;Osa1-1Elc;Elc0-0Osa
 Elche,Oviedo,2,2.0,0.5,0.5,Elc1-0Ovi;Ovi1-2Elc
-Elche,Real Madrid,6,3.83,1.0,0.67,Rea2-2Elc;Elc0-3Rea;Rea4-0Elc;Elc2-2Rea;Rea4-1Elc
+Elche,Real Madrid,7,4.0,1.0,0.71,Elc0-3Rea;Rea4-0Elc;Elc2-2Rea;Rea4-1Elc;Elc2-3Rea
 Elche,Sevilla,6,2.83,0.5,0.67,Sev2-0Elc;Sev3-0Elc;Elc1-1Sev;Sev2-2Elc;Elc2-2Sev
 Elche,Sociedad,7,2.57,0.43,0.57,Elc0-1Soc;Soc2-0Elc;Elc1-1Soc;Soc3-1Elc;Elc2-3Soc
 Elche,Valencia,6,2.17,0.33,0.5,Elc0-1Val;Val2-2Elc;Elc0-2Val;Val1-1Elc;Elc1-0Val
@@ -195,7 +195,7 @@ Espanol,Sevilla,9,2.89,0.44,0.78,Esp0-2Sev;Sev1-1Esp;Esp2-1Sev;Sev2-1Esp;Esp1-1S
 Espanol,Sociedad,9,2.56,0.56,0.67,Esp0-1Soc;Soc2-1Esp;Soc2-2Esp;Esp1-1Soc;Soc2-1Esp
 Espanol,Valencia,8,3.25,0.62,1.0,Val2-2Esp;Esp1-1Val;Val1-1Esp;Esp2-2Val;Val3-2Esp
 Espanol,Valladolid,4,2.0,0.5,0.5,Esp1-0Val;Val2-1Esp;Val1-0Esp;Esp2-1Val
-Espanol,Vallecano,8,2.0,0.38,0.25,Val1-2Esp;Esp2-1Val;Val0-4Esp;Esp1-0Val;Val1-0Esp
+Espanol,Vallecano,9,2.11,0.44,0.33,Esp2-1Val;Val0-4Esp;Esp1-0Val;Val1-0Esp;Val2-1Esp
 Espanol,Villarreal,8,3.0,0.5,0.5,Vil4-2Esp;Esp1-2Vil;Vil1-0Esp;Esp0-2Vil;Vil4-1Esp
 Getafe,Girona,8,2.75,0.62,0.62,Get1-0Gir;Get0-1Gir;Gir1-2Get;Get2-1Gir;Gir1-1Get
 Getafe,Granada,4,3.0,0.25,0.75,Gra1-1Get;Get4-2Gra;Gra1-1Get;Get2-0Gra
