@@ -29,7 +29,7 @@ Albacete,Cadiz,4,2.0,0.5,0.25,Cad1-0Alb;Alb3-0Cad;Cad2-1Alb;Alb1-0Cad
 Albacete,Cartagena,6,2.17,0.33,0.83,Alb1-1Car;Car1-1Alb;Alb1-1Car;Car0-0Alb;Alb3-1Car
 Albacete,Castellon,5,1.8,0.2,0.4,Alb0-0Cas;Cas2-2Alb;Cas0-1Alb;Alb1-1Cas;Cas2-0Alb
 Albacete,Ceuta,2,0.5,0.0,0.0,Alb0-0Ceu;Ceu1-0Alb
-Albacete,Cordoba,4,2.75,0.5,1.0,Alb1-1Cor;Cor1-1Alb;Alb1-3Cor;Cor1-2Alb
+Albacete,Cordoba,5,2.8,0.6,1.0,Alb1-1Cor;Cor1-1Alb;Alb1-3Cor;Cor1-2Alb;Alb1-2Cor
 Albacete,Cultural Leonesa,2,1.5,0.5,0.5,Cul0-0Alb;Alb2-1Cul
 Albacete,Eibar,8,2.75,0.5,0.75,Alb2-1Eib;Alb0-1Eib;Eib1-1Alb;Eib3-2Alb;Alb0-3Eib
 Albacete,Elche,4,3.0,0.5,0.75,Alb1-1Elc;Elc3-2Alb;Alb1-0Elc;Elc2-2Alb
@@ -170,7 +170,7 @@ Andorra,Oviedo,4,2.25,0.5,0.25,Ovi0-1And;And3-1Ovi;And1-0Ovi;Ovi3-0And
 Andorra,Ponferradina,2,4.0,1.0,0.5,And3-0Pon;Pon1-4And
 Andorra,Santander,6,3.17,0.5,0.67,San2-1And;San2-0And;And1-1San;San1-2And;And6-2San
 Andorra,Sociedad B,3,3.33,1.0,0.67,Soc3-0And;And1-2Soc;And1-3Soc
-Andorra,Sp Gijon,6,2.67,0.33,0.5,And1-0Sp ;And0-0Sp ;Sp 5-2And;Sp 1-1And;And1-0Sp 
+Andorra,Sp Gijon,7,2.86,0.43,0.57,And0-0Sp ;Sp 5-2And;Sp 1-1And;And1-0Sp ;And1-3Sp 
 Andorra,Tenerife,4,1.0,0.0,0.25,Ten1-1And;And1-0Ten;And0-1Ten;Ten0-0And
 Andorra,Valladolid,5,1.6,0.2,0.2,Val2-0And;And2-1Val;Val0-1And;And1-0Val;Val1-0And
 Andorra,Villarreal B,4,2.5,0.25,0.5,Vil1-0And;And4-3Vil;Vil0-0And;And1-1Vil
@@ -192,7 +192,7 @@ Burgos,Granada,6,2.0,0.33,0.5,Bur1-3Gra;Bur2-2Gra;Gra0-0Bur;Bur1-1Gra;Gra0-1Bur
 Burgos,Huesca,10,2.3,0.5,0.6,Hue3-0Bur;Hue0-1Bur;Bur2-1Hue;Hue2-1Bur;Bur1-0Hue
 Burgos,Ibiza,4,2.25,0.25,0.25,Ibi2-0Bur;Bur2-1Ibi;Bur2-0Ibi;Ibi2-0Bur
 Burgos,La Coruna,4,1.25,0.0,0.25,La 0-2Bur;Bur0-1La ;La 0-0Bur;Bur1-1La 
-Burgos,Las Palmas,6,0.67,0.0,0.0,Las0-2Bur;Las0-2Bur;Bur0-0Las;Bur0-0Las;Las0-0Bur
+Burgos,Las Palmas,7,1.0,0.14,0.14,Las0-2Bur;Bur0-0Las;Bur0-0Las;Las0-0Bur;Las1-2Bur
 Burgos,Leganes,8,2.0,0.5,0.25,Bur0-3Leg;Bur1-0Leg;Leg2-0Bur;Leg1-2Bur;Bur2-1Leg
 Burgos,Levante,6,2.83,0.5,0.67,Lev1-0Bur;Lev3-2Bur;Bur1-1Lev;Lev3-1Bur;Bur2-3Lev
 Burgos,Lugo,4,1.5,0.0,0.25,Bur1-1Lug;Lug1-0Bur;Lug2-0Bur;Bur0-1Lug
@@ -278,7 +278,7 @@ Castellon,Oviedo,2,0.5,0.0,0.0,Cas0-0Ovi;Ovi1-0Cas
 Castellon,Santander,4,2.75,0.5,0.75,Cas0-1San;San1-1Cas;San3-1Cas;Cas1-3San
 Castellon,Sociedad B,3,5.33,0.67,0.67,Cas5-4Soc;Soc4-2Cas;Soc0-1Cas
 Castellon,Sp Gijon,4,4.75,1.0,1.0,Sp 2-1Cas;Cas4-3Sp ;Cas3-1Sp ;Sp 4-1Cas
-Castellon,Tenerife,2,2.5,0.5,0.5,Cas2-1Ten;Ten2-0Cas
+Castellon,Tenerife,3,3.33,0.67,0.33,Cas2-1Ten;Ten2-0Cas;Cas5-0Ten
 Castellon,Valladolid,2,2.5,0.5,0.0,Cas0-1Val;Val0-4Cas
 Castellon,Zaragoza,4,2.5,0.5,0.75,Zar1-2Cas;Cas4-1Zar;Cas1-1Zar;Zar0-0Cas
 Ceuta,Cordoba,2,3.5,0.5,0.5,Cor2-0Ceu;Ceu3-2Cor
@@ -294,7 +294,7 @@ Ceuta,Mirandes,2,1.5,0.0,0.0,Ceu2-0Mir;Mir0-1Ceu
 Ceuta,Santander,2,2.5,0.5,0.5,San4-1Ceu;Ceu0-0San
 Ceuta,Sociedad B,2,2.0,0.5,0.5,Soc1-3Ceu;Ceu0-0Soc
 Ceuta,Sp Gijon,2,2.0,0.5,0.5,Ceu0-1Sp ;Sp 1-2Ceu
-Ceuta,Valladolid,2,3.0,1.0,0.0,Val3-0Ceu;Ceu0-3Val
+Ceuta,Valladolid,3,2.67,0.67,0.33,Val3-0Ceu;Ceu0-3Val;Ceu1-1Val
 Ceuta,Zaragoza,2,2.5,0.5,0.5,Ceu1-0Zar;Zar2-2Ceu
 Cordoba,Cultural Leonesa,2,2.0,0.5,0.5,Cor1-0Cul;Cul1-2Cor
 Cordoba,Eibar,4,2.5,0.5,0.5,Cor2-1Eib;Eib4-1Cor;Cor0-0Eib;Eib2-0Cor
@@ -330,7 +330,7 @@ Cultural Leonesa,Sp Gijon,2,3.5,0.5,0.5,Sp 1-0Cul;Cul2-4Sp
 Cultural Leonesa,Valladolid,2,1.0,0.0,0.0,Val0-1Cul;Cul1-0Val
 Cultural Leonesa,Zaragoza,2,2.5,0.5,0.0,Zar0-5Cul;Cul0-0Zar
 Eibar,Elche,4,1.75,0.25,0.25,Eib2-1Elc;Elc0-0Eib;Eib0-2Elc;Elc2-0Eib
-Eibar,Eldense,4,3.5,0.75,0.75,Eld2-1Eib;Eib5-1Eld;Eib1-0Eld;Eld1-3Eib
+Eibar,Eldense,5,3.4,0.8,0.8,Eld2-1Eib;Eib5-1Eld;Eib1-0Eld;Eld1-3Eib;Eld1-2Eib
 Eibar,Espanol,2,4.5,1.0,1.0,Esp2-2Eib;Eib2-3Esp
 Eibar,Ferrol,4,1.5,0.0,0.25,Eib2-0Fer;Fer1-1Eib;Eib2-0Fer;Fer0-0Eib
 Eibar,Fuenlabrada,2,0.0,0.0,0.0,Fue0-0Eib;Eib0-0Fue
@@ -446,7 +446,7 @@ Granada,Huesca,6,2.5,0.33,0.67,Hue1-1Gra;Gra1-3Hue;Hue1-1Gra;Hue0-1Gra;Gra4-2Hue
 Granada,Ibiza,2,2.0,0.0,0.0,Ibi0-2Gra;Gra2-0Ibi
 Granada,La Coruna,4,3.25,0.5,0.75,Gra1-1La ;La 2-3Gra;Gra1-3La ;La 0-2Gra
 Granada,Las Palmas,4,1.75,0.25,0.25,Las2-0Gra;Gra2-1Las;Gra0-0Las;Las2-0Gra
-Granada,Leganes,4,1.5,0.0,0.0,Leg1-0Gra;Gra2-0Leg;Gra0-2Leg;Leg1-0Gra
+Granada,Leganes,5,2.2,0.2,0.2,Leg1-0Gra;Gra2-0Leg;Gra0-2Leg;Leg1-0Gra;Leg3-2Gra
 Granada,Levante,4,2.75,0.75,0.75,Gra0-0Lev;Lev3-1Gra;Gra1-2Lev;Lev3-1Gra
 Granada,Lugo,2,1.5,0.0,0.0,Lug1-0Gra;Gra2-0Lug
 Granada,Malaga,6,2.17,0.33,0.5,Gra1-0Mal;Gra2-2Mal;Mal1-0Gra;Mal2-2Gra;Gra0-1Mal

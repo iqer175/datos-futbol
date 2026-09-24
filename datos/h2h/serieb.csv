@@ -219,7 +219,7 @@ Catanzaro,Pescara,2,4.0,0.5,0.5,Cat3-3Pes;Pes0-2Cat
 Catanzaro,Pisa,5,1.8,0.4,0.4,Cat2-0Pis;Pis2-2Cat;Pis0-0Cat;Cat0-0Pis;Pis2-1Cat
 Catanzaro,Reggiana,6,2.33,0.33,0.5,Cat0-1Reg;Reg2-2Cat;Cat1-1Reg;Reg2-2Cat;Cat2-0Reg
 Catanzaro,Salernitana,2,0.5,0.0,0.0,Sal0-0Cat;Cat1-0Sal
-Catanzaro,Sampdoria,6,2.83,0.67,0.67,Cat1-3Sam;Sam3-3Cat;Cat2-2Sam;Sam0-0Cat;Cat0-0Sam
+Catanzaro,Sampdoria,7,2.86,0.71,0.71,Sam3-3Cat;Cat2-2Sam;Sam0-0Cat;Cat0-0Sam;Sam2-1Cat
 Catanzaro,Sassuolo,2,2.0,0.0,0.5,Cat1-1Sas;Sas0-2Cat
 Catanzaro,Spezia,6,2.17,0.33,0.33,Spe1-1Cat;Cat0-1Spe;Spe0-1Cat;Spe0-0Cat;Cat4-2Spe
 Catanzaro,Sudtirol,7,2.43,0.43,0.57,Cat3-0Sud;Sud1-1Cat;Cat1-1Sud;Sud2-1Cat;Sud2-0Cat
@@ -231,7 +231,7 @@ Cesena,Cosenza,2,2.0,0.5,0.5,Ces2-1Cos;Cos0-1Ces
 Cesena,Cremonese,3,2.67,0.67,0.67,Ces0-1Cre;Cre1-2Ces;Ces2-2Cre
 Cesena,Empoli,2,1.5,0.0,0.5,Ces0-1Emp;Emp1-1Ces
 Cesena,Frosinone,4,3.75,0.75,1.0,Fro3-2Ces;Ces1-1Fro;Fro3-1Ces;Ces2-2Fro
-Cesena,Juve Stabia,4,2.0,0.25,0.5,Juv1-0Ces;Ces1-2Juv;Ces1-1Juv;Juv2-0Ces
+Cesena,Juve Stabia,5,2.0,0.2,0.6,Juv1-0Ces;Ces1-2Juv;Ces1-1Juv;Juv2-0Ces;Juv1-1Ces
 Cesena,Mantova,5,3.8,0.8,0.6,Ces4-2Man;Man3-0Ces;Ces3-2Man;Man3-0Ces;Ces1-1Man
 Cesena,Modena,4,1.5,0.25,0.25,Ces2-2Mod;Mod0-1Ces;Ces1-0Mod;Mod0-0Ces
 Cesena,Monza,2,2.5,0.5,0.5,Mon1-0Ces;Ces1-3Mon
@@ -366,7 +366,7 @@ Crotone,Vicenza,2,1.5,0.0,0.5,Cro0-1Vic;Vic1-1Cro
 Empoli,Frosinone,2,3.0,0.5,1.0,Emp1-1Fro;Fro2-2Emp
 Empoli,Juve Stabia,2,2.5,0.5,0.5,Juv2-0Emp;Emp1-2Juv
 Empoli,Mantova,3,3.0,0.67,0.67,Man0-1Emp;Emp2-2Man;Man3-1Emp
-Empoli,Modena,2,1.5,0.5,0.5,Mod2-1Emp;Emp0-0Mod
+Empoli,Modena,3,2.0,0.67,0.67,Mod2-1Emp;Emp0-0Mod;Mod2-1Emp
 Empoli,Monza,2,3.0,0.5,1.0,Emp1-1Mon;Mon2-2Emp
 Empoli,Padova,2,2.5,0.5,0.5,Emp3-1Pad;Pad1-0Emp
 Empoli,Palermo,2,4.5,1.0,1.0,Emp1-3Pal;Pal3-2Emp
@@ -462,7 +462,7 @@ Mantova,Monza,2,3.0,0.5,0.5,Mon1-0Man;Man3-2Mon
 Mantova,Padova,2,2.0,0.5,0.5,Man1-0Pad;Pad1-2Man
 Mantova,Palermo,4,2.25,0.5,0.75,Man0-0Pal;Pal2-2Man;Man1-1Pal;Pal2-1Man
 Mantova,Pescara,2,3.5,1.0,1.0,Man2-1Pes;Pes2-2Man
-Mantova,Pisa,2,4.5,1.0,1.0,Man2-3Pis;Pis3-1Man
+Mantova,Pisa,3,4.33,1.0,1.0,Man2-3Pis;Pis3-1Man;Man2-2Pis
 Mantova,Reggiana,4,2.0,0.25,0.25,Reg2-2Man;Man0-2Reg;Man0-1Reg;Reg1-0Man
 Mantova,Salernitana,2,1.5,0.0,0.0,Man1-0Sal;Sal2-0Man
 Mantova,Sampdoria,5,2.2,0.4,0.4,Sam1-0Man;Man2-2Sam;Sam0-1Man;Man2-1Sam;Man2-0Sam
@@ -506,7 +506,7 @@ Monza,Ternana,2,1.5,0.0,0.5,Mon1-1Ter;Ter0-1Mon
 Monza,Venezia,2,2.0,0.0,0.5,Ven2-0Mon;Mon1-1Ven
 Monza,Vicenza,2,3.0,0.5,0.5,Vic1-1Mon;Mon4-0Vic
 Monza,Virtus Entella,2,1.5,0.0,0.0,Vir1-0Mon;Mon2-0Vir
-Padova,Palermo,2,1.0,0.0,0.0,Pal1-0Pad;Pad0-1Pal
+Padova,Palermo,3,1.67,0.33,0.33,Pal1-0Pad;Pad0-1Pal;Pal2-1Pad
 Padova,Pescara,2,1.0,0.0,0.0,Pes0-1Pad;Pad1-0Pes
 Padova,Reggiana,2,2.0,0.5,0.5,Reg1-2Pad;Pad1-0Reg
 Padova,Sampdoria,2,1.5,0.0,0.5,Pad1-1Sam;Sam1-0Pad

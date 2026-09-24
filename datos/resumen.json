@@ -1,65 +1,65 @@
 {
-  "actualizado": "2026-09-21T11:25:30+00:00",
-  "partidos_totales": 28526,
-  "equipos_activos": 309,
+  "actualizado": "2026-09-24T10:44:38+00:00",
+  "partidos_totales": 28667,
+  "equipos_activos": 310,
   "temporadas_descargadas": 6,
-  "ultimo_partido": "2026-09-17",
+  "ultimo_partido": "2026-09-22",
   "cobertura": {
     "2. Bundesliga": {
-      "partidos": 1575,
-      "ultimo": "2026-09-13"
+      "partidos": 1584,
+      "ultimo": "2026-09-20"
     },
     "Brasileirao": {
-      "partidos": 2444,
-      "ultimo": "2026-09-16"
+      "partidos": 2453,
+      "ultimo": "2026-09-20"
     },
     "Bundesliga": {
-      "partidos": 1557,
-      "ultimo": "2026-09-13"
+      "partidos": 1566,
+      "ultimo": "2026-09-20"
     },
     "Championship": {
-      "partidos": 2843,
-      "ultimo": "2026-09-15"
+      "partidos": 2855,
+      "ultimo": "2026-09-20"
     },
     "Eredivisie": {
-      "partidos": 1584,
-      "ultimo": "2026-09-15"
+      "partidos": 1593,
+      "ultimo": "2026-09-20"
     },
     "LaLiga": {
-      "partidos": 1959,
-      "ultimo": "2026-09-17"
+      "partidos": 1969,
+      "ultimo": "2026-09-20"
     },
     "LaLiga Hypermotion": {
-      "partidos": 2365,
-      "ultimo": "2026-09-14"
+      "partidos": 2376,
+      "ultimo": "2026-09-20"
     },
     "Liga Portugal": {
-      "partidos": 1583,
-      "ultimo": "2026-09-14"
+      "partidos": 1592,
+      "ultimo": "2026-09-20"
     },
     "Ligue 1": {
-      "partidos": 1714,
-      "ultimo": "2026-09-13"
+      "partidos": 1723,
+      "ultimo": "2026-09-20"
     },
     "Ligue 2": {
-      "partidos": 1804,
-      "ultimo": "2026-09-14"
+      "partidos": 1813,
+      "ultimo": "2026-09-19"
     },
     "Premier League": {
-      "partidos": 1940,
-      "ultimo": "2026-09-14"
+      "partidos": 1950,
+      "ultimo": "2026-09-20"
     },
     "Primera Division": {
-      "partidos": 3278,
-      "ultimo": "2026-09-15"
+      "partidos": 3293,
+      "ultimo": "2026-09-22"
     },
     "Serie A": {
-      "partidos": 1940,
-      "ultimo": "2026-09-14"
+      "partidos": 1950,
+      "ultimo": "2026-09-20"
     },
     "Serie B": {
-      "partidos": 1940,
-      "ultimo": "2026-09-13"
+      "partidos": 1950,
+      "ultimo": "2026-09-20"
     }
   },
   "aviso_pinnacle": "Desde 23/07/2025 las cuotas de Pinnacle en la fuente son poco fiables y ya no entran en la media de mercado. Usa avgc_* como referencia de cierre."

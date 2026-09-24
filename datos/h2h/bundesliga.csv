@@ -21,7 +21,7 @@ Augsburg,Schalke 04,3,3.33,0.67,0.67,Sch2-3Aug;Aug1-1Sch;Aug3-0Sch
 Augsburg,St Pauli,4,3.0,0.75,1.0,Aug3-1St ;St 1-1Aug;St 2-1Aug;Aug2-1St 
 Augsburg,Stuttgart,10,3.6,0.7,0.6,Aug0-1Stu;Aug0-1Stu;Stu4-0Aug;Stu3-2Aug;Aug2-5Stu
 Augsburg,Union Berlin,10,2.2,0.3,0.4,Aug2-0Uni;Uni0-2Aug;Aug1-2Uni;Aug1-1Uni;Uni4-0Aug
-Augsburg,Werder Bremen,8,2.38,0.5,0.38,Aug0-3Wer;Aug2-2Wer;Wer0-2Aug;Aug0-0Wer;Wer1-3Aug
+Augsburg,Werder Bremen,9,2.67,0.56,0.44,Aug2-2Wer;Wer0-2Aug;Aug0-0Wer;Wer1-3Aug;Wer3-2Aug
 Augsburg,Wolfsburg,10,3.1,0.6,0.7,Wol1-3Aug;Wol1-1Aug;Aug1-0Wol;Aug3-1Wol;Wol2-3Aug
 Bayern Munich,Bielefeld,2,2.0,0.5,0.0,Bay1-0Bie;Bie0-3Bay
 Bayern Munich,Bochum,8,5.62,1.0,0.38,Bay3-0Boc;Bay7-0Boc;Boc3-2Bay;Boc0-5Bay;Bay2-3Boc
@@ -43,7 +43,7 @@ Bayern Munich,RB Leipzig,10,4.7,0.9,0.9,Bay2-1RB ;Bay5-1RB ;RB 3-3Bay;Bay6-0RB ;
 Bayern Munich,Schalke 04,3,2.67,0.33,0.0,Sch0-2Bay;Bay6-0Sch;Sch0-0Bay
 Bayern Munich,St Pauli,4,3.75,0.75,0.5,St 0-1Bay;Bay3-2St ;Bay3-1St ;St 0-5Bay
 Bayern Munich,Stuttgart,11,4.36,1.0,0.64,Bay4-0Stu;Stu1-3Bay;Stu0-5Bay;Bay4-2Stu;Bay5-1Stu
-Bayern Munich,Union Berlin,10,3.6,0.7,0.5,Uni1-5Bay;Bay3-0Uni;Uni1-1Bay;Uni2-2Bay;Bay4-0Uni
+Bayern Munich,Union Berlin,11,3.91,0.73,0.45,Bay3-0Uni;Uni1-1Bay;Uni2-2Bay;Bay4-0Uni;Bay7-0Uni
 Bayern Munich,Werder Bremen,8,3.75,0.88,0.25,Bay0-1Wer;Wer0-5Bay;Bay3-0Wer;Bay4-0Wer;Wer0-3Bay
 Bayern Munich,Wolfsburg,10,4.1,0.7,0.6,Bay2-0Wol;Wol2-3Bay;Bay3-2Wol;Bay8-1Wol;Wol0-1Bay
 Bielefeld,Bochum,2,2.5,0.5,0.5,Bie2-0Boc;Boc2-1Bie
@@ -110,12 +110,12 @@ Dortmund,Mainz,10,3.1,0.7,0.6,Mai3-0Dor;Mai3-1Dor;Dor3-1Mai;Mai0-2Dor;Dor4-0Mai
 Dortmund,RB Leipzig,10,3.5,0.8,0.8,RB 4-1Dor;Dor2-1RB ;RB 2-0Dor;Dor1-1RB ;RB 2-2Dor
 Dortmund,Schalke 04,2,2.5,0.5,0.5,Dor1-0Sch;Sch2-2Dor
 Dortmund,St Pauli,4,4.0,0.75,0.75,Dor2-1St ;St 0-2Dor;St 3-3Dor;Dor3-2St 
-Dortmund,Stuttgart,10,3.7,0.7,0.6,Dor0-1Stu;Stu5-1Dor;Dor1-2Stu;Dor3-3Stu;Stu0-2Dor
+Dortmund,Stuttgart,11,3.45,0.64,0.55,Stu5-1Dor;Dor1-2Stu;Dor3-3Stu;Stu0-2Dor;Stu0-1Dor
 Dortmund,Union Berlin,10,3.7,0.8,0.4,Uni0-2Dor;Uni2-1Dor;Dor6-0Uni;Dor3-0Uni;Uni0-3Dor
 Dortmund,Werder Bremen,8,2.5,0.5,0.38,Wer1-2Dor;Wer0-0Dor;Dor2-2Wer;Dor3-0Wer;Wer0-2Dor
 Dortmund,Wolfsburg,10,3.4,0.6,0.5,Wol1-1Dor;Wol1-3Dor;Dor4-0Wol;Dor1-0Wol;Wol1-2Dor
 Ein Frankfurt,FC Koln,8,2.88,0.38,0.62,FC 3-0Ein;Ein1-1FC ;FC 2-0Ein;FC 3-4Ein;Ein2-2FC 
-Ein Frankfurt,Freiburg,10,3.1,0.6,0.7,Fre3-3Ein;Ein4-1Fre;Fre1-3Ein;Fre2-2Ein;Ein2-0Fre
+Ein Frankfurt,Freiburg,11,3.18,0.64,0.73,Ein4-1Fre;Fre1-3Ein;Fre2-2Ein;Ein2-0Fre;Ein2-2Fre
 Ein Frankfurt,Greuther Furth,2,1.5,0.5,0.5,Gre1-2Ein;Ein0-0Gre
 Ein Frankfurt,Hamburg,2,2.5,0.5,1.0,Ham1-1Ein;Ein1-2Ham
 Ein Frankfurt,Heidenheim,6,2.5,0.5,0.33,Hei1-2Ein;Hei0-4Ein;Ein3-0Hei;Hei1-1Ein;Ein1-0Hei
@@ -134,7 +134,7 @@ Ein Frankfurt,Werder Bremen,8,3.62,0.5,0.62,Ein1-1Wer;Ein1-0Wer;Wer2-0Ein;Ein4-1
 Ein Frankfurt,Wolfsburg,10,2.5,0.4,0.7,Ein2-2Wol;Wol1-2Ein;Ein1-1Wol;Ein1-1Wol;Wol1-2Ein
 FC Koln,Freiburg,8,2.0,0.25,0.38,FC 0-1Fre;Fre2-0FC ;FC 0-0Fre;FC 4-1Fre;Fre2-1FC 
 FC Koln,Greuther Furth,2,3.0,0.5,1.0,FC 3-1Gre;Gre1-1FC 
-FC Koln,Hamburg,2,3.5,0.5,1.0,FC 4-1Ham;Ham1-1FC 
+FC Koln,Hamburg,3,3.33,0.67,1.0,FC 4-1Ham;Ham1-1FC ;Ham2-1FC 
 FC Koln,Heidenheim,4,3.75,0.75,1.0,FC 1-1Hei;Hei4-1FC ;Hei2-2FC ;FC 1-3Hei
 FC Koln,Hertha,4,4.25,0.75,0.75,FC 3-1Her;Her1-3FC ;Her2-0FC ;FC 5-2Her
 FC Koln,Hoffenheim,9,3.11,0.56,0.67,FC 1-3Hof;Hof1-1FC ;Hof0-1FC ;FC 2-2Hof;FC 3-2Hof
@@ -227,14 +227,14 @@ Holstein Kiel,Werder Bremen,2,3.0,1.0,0.5,Wer2-1Hol;Hol0-3Wer
 Holstein Kiel,Wolfsburg,2,3.0,0.5,0.5,Hol0-2Wol;Wol2-2Hol
 Leverkusen,M'gladbach,10,3.2,0.7,0.7,Lev0-0M'g;M'g2-3Lev;Lev3-1M'g;Lev1-1M'g;M'g1-1Lev
 Leverkusen,Mainz,10,3.4,0.7,0.6,Lev2-1Mai;Lev1-0Mai;Mai2-2Lev;Mai3-4Lev;Lev1-1Mai
-Leverkusen,RB Leipzig,10,3.7,0.7,0.7,RB 2-3Lev;Lev2-3RB ;RB 2-2Lev;RB 1-3Lev;Lev4-1RB 
+Leverkusen,RB Leipzig,11,3.55,0.64,0.64,Lev2-3RB ;RB 2-2Lev;RB 1-3Lev;Lev4-1RB ;Lev2-0RB 
 Leverkusen,Schalke 04,2,3.5,1.0,0.0,Lev4-0Sch;Sch0-3Lev
 Leverkusen,St Pauli,4,3.0,0.75,0.75,Lev2-1St ;St 1-1Lev;St 1-2Lev;Lev4-0St 
 Leverkusen,Stuttgart,10,3.6,0.6,0.8,Lev2-2Stu;Lev0-0Stu;Stu3-4Lev;Lev1-4Stu;Stu3-1Lev
 Leverkusen,Union Berlin,11,2.36,0.45,0.27,Uni1-2Lev;Lev0-0Uni;Lev2-0Uni;Uni1-0Lev;Lev4-0Uni
 Leverkusen,Werder Bremen,8,3.5,0.62,0.5,Lev5-0Wer;Wer2-2Lev;Lev0-2Wer;Wer3-3Lev;Lev1-0Wer
 Leverkusen,Wolfsburg,10,3.3,0.5,0.5,Lev2-0Wol;Lev4-3Wol;Wol0-0Lev;Wol1-3Lev;Lev6-3Wol
-M'gladbach,Mainz,10,2.4,0.3,0.7,Mai1-1M'g;Mai1-1M'g;M'g1-3Mai;Mai0-1M'g;M'g1-1Mai
+M'gladbach,Mainz,11,2.82,0.36,0.73,Mai1-1M'g;M'g1-3Mai;Mai0-1M'g;M'g1-1Mai;M'g3-4Mai
 M'gladbach,RB Leipzig,11,2.09,0.45,0.18,RB 0-0M'g;M'g1-0RB ;M'g0-0RB ;RB 1-0M'g;RB 3-0M'g
 M'gladbach,Schalke 04,2,2.0,0.5,0.5,Sch2-2M'g;M'g0-0Sch
 M'gladbach,St Pauli,4,2.5,0.25,0.25,M'g2-0St ;St 1-1M'g;St 0-4M'g;M'g2-0St 
