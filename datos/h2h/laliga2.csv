@@ -156,7 +156,7 @@ Andorra,Elche,2,2.0,0.5,0.5,Elc2-1And;And0-1Elc
 Andorra,Eldense,2,3.0,0.5,0.5,And1-3Eld;Eld0-2And
 Andorra,Espanol,2,2.0,0.0,1.0,And1-1Esp;Esp1-1And
 Andorra,Ferrol,2,1.0,0.0,0.0,Fer1-0And;And1-0Fer
-Andorra,Granada,4,1.25,0.0,0.25,And1-0Gra;Gra2-0And;And0-0Gra;Gra1-1And
+Andorra,Granada,5,2.0,0.2,0.4,And1-0Gra;Gra2-0And;And0-0Gra;Gra1-1And;Gra2-3And
 Andorra,Huesca,6,1.83,0.17,0.33,And1-0Hue;And1-0Hue;Hue2-0And;Hue2-2And;And1-1Hue
 Andorra,Ibiza,2,2.5,0.5,0.5,Ibi0-1And;And2-2Ibi
 Andorra,La Coruna,2,2.0,0.5,0.5,And1-0La ;La 2-1And
@@ -183,7 +183,7 @@ Burgos,Cordoba,5,4.0,0.8,0.6,Cor2-2Bur;Bur3-2Cor;Cor2-0Bur;Bur4-0Cor;Bur3-2Cor
 Burgos,Cultural Leonesa,2,4.0,0.5,0.5,Bur5-1Cul;Cul0-2Bur
 Burgos,Eibar,10,1.2,0.1,0.1,Eib0-1Bur;Bur1-0Eib;Eib1-0Bur;Bur1-0Eib;Eib0-0Bur
 Burgos,Elche,4,2.0,0.25,0.0,Bur4-0Elc;Elc2-0Bur;Elc1-0Bur;Bur0-1Elc
-Burgos,Eldense,4,1.5,0.25,0.25,Eld2-0Bur;Bur1-2Eld;Bur1-0Eld;Eld0-0Bur
+Burgos,Eldense,5,1.4,0.2,0.2,Eld2-0Bur;Bur1-2Eld;Bur1-0Eld;Eld0-0Bur;Bur1-0Eld
 Burgos,Espanol,2,3.0,0.5,0.5,Esp3-3Bur;Bur0-0Esp
 Burgos,Ferrol,4,1.75,0.0,0.5,Fer1-1Bur;Bur2-0Fer;Bur1-1Fer;Fer0-1Bur
 Burgos,Fuenlabrada,2,2.5,0.5,0.5,Bur2-0Fue;Fue1-2Bur
@@ -228,7 +228,7 @@ Cadiz,Oviedo,2,2.5,0.5,0.5,Cad2-0Ovi;Ovi2-1Cad
 Cadiz,Santander,4,4.0,0.75,0.75,Cad0-1San;San2-3Cad;Cad2-3San;San4-1Cad
 Cadiz,Sociedad B,2,4.0,0.5,0.5,Soc3-3Cad;Cad0-2Soc
 Cadiz,Sp Gijon,4,2.75,0.5,0.25,Sp 2-0Cad;Cad1-0Sp ;Cad3-2Sp ;Sp 3-0Cad
-Cadiz,Tenerife,2,3.5,1.0,1.0,Cad2-2Ten;Ten2-1Cad
+Cadiz,Tenerife,3,3.0,0.67,1.0,Cad2-2Ten;Ten2-1Cad;Ten1-1Cad
 Cadiz,Valladolid,3,1.67,0.33,0.33,Cad0-0Val;Val3-0Cad;Cad1-1Val
 Cadiz,Zaragoza,4,2.0,0.5,0.25,Cad0-4Zar;Zar0-0Cad;Zar1-2Cad;Cad0-1Zar
 Cartagena,Castellon,2,4.5,1.0,1.0,Cas4-1Car;Car2-2Cas
@@ -292,7 +292,7 @@ Ceuta,Leganes,2,5.0,1.0,1.0,Ceu1-2Leg;Leg5-2Ceu
 Ceuta,Malaga,2,4.0,1.0,1.0,Mal2-1Ceu;Ceu1-4Mal
 Ceuta,Mirandes,2,1.5,0.0,0.0,Ceu2-0Mir;Mir0-1Ceu
 Ceuta,Santander,2,2.5,0.5,0.5,San4-1Ceu;Ceu0-0San
-Ceuta,Sociedad B,2,2.0,0.5,0.5,Soc1-3Ceu;Ceu0-0Soc
+Ceuta,Sociedad B,3,2.67,0.67,0.67,Soc1-3Ceu;Ceu0-0Soc;Ceu3-1Soc
 Ceuta,Sp Gijon,2,2.0,0.5,0.5,Ceu0-1Sp ;Sp 1-2Ceu
 Ceuta,Valladolid,3,2.67,0.67,0.33,Val3-0Ceu;Ceu0-3Val;Ceu1-1Val
 Ceuta,Zaragoza,2,2.5,0.5,0.5,Ceu1-0Zar;Zar2-2Ceu
@@ -314,7 +314,7 @@ Cordoba,Santander,4,4.0,0.75,0.75,San2-0Cor;Cor1-2San;Cor2-2San;San4-3Cor
 Cordoba,Sociedad B,2,2.0,0.0,0.5,Soc1-1Cor;Cor0-2Soc
 Cordoba,Sp Gijon,4,3.0,0.5,0.75,Sp 2-0Cor;Cor1-1Sp ;Sp 2-1Cor;Cor3-2Sp 
 Cordoba,Tenerife,2,4.0,1.0,0.5,Cor3-0Ten;Ten2-3Cor
-Cordoba,Valladolid,2,2.0,0.5,0.5,Val0-0Cor;Cor3-1Val
+Cordoba,Valladolid,3,2.67,0.67,0.67,Val0-0Cor;Cor3-1Val;Val3-1Cor
 Cordoba,Zaragoza,4,2.0,0.25,0.5,Cor2-2Zar;Zar1-1Cor;Zar0-1Cor;Cor1-0Zar
 Cultural Leonesa,Eibar,2,3.0,1.0,1.0,Eib1-2Cul;Cul2-1Eib
 Cultural Leonesa,Granada,2,1.0,0.0,0.0,Cul0-1Gra;Gra1-0Cul
@@ -339,7 +339,7 @@ Eibar,Granada,7,2.29,0.43,0.29,Eib1-1Gra;Gra0-2Eib;Eib3-0Gra;Gra0-0Eib;Eib3-0Gra
 Eibar,Huesca,10,2.8,0.7,0.8,Hue2-3Eib;Hue2-1Eib;Eib2-1Hue;Hue2-1Eib;Eib2-1Hue
 Eibar,Ibiza,4,2.5,0.5,0.5,Eib3-1Ibi;Ibi2-0Eib;Ibi1-2Eib;Eib1-0Ibi
 Eibar,La Coruna,4,1.25,0.0,0.25,La 1-0Eib;Eib0-1La ;Eib1-1La ;La 1-0Eib
-Eibar,Las Palmas,6,2.67,0.5,0.67,Eib2-2Las;Las1-1Eib;Eib0-1Las;Las3-1Eib;Eib3-1Las
+Eibar,Las Palmas,7,3.0,0.57,0.71,Las1-1Eib;Eib0-1Las;Las3-1Eib;Eib3-1Las;Eib3-2Las
 Eibar,Leganes,8,1.75,0.25,0.38,Eib0-0Leg;Eib0-1Leg;Leg0-2Eib;Eib0-0Leg;Leg0-1Eib
 Eibar,Levante,6,2.5,0.5,0.67,Eib1-1Lev;Eib3-1Lev;Lev2-2Eib;Eib2-2Lev;Lev1-0Eib
 Eibar,Lugo,4,2.0,0.25,0.25,Lug2-2Eib;Eib1-0Lug;Eib1-0Lug;Lug0-2Eib
@@ -575,7 +575,7 @@ Mirandes,Zaragoza,10,1.2,0.1,0.2,Mir0-0Zar;Mir0-0Zar;Zar1-0Mir;Mir0-1Zar;Zar1-2M
 Oviedo,Ponferradina,4,3.0,0.5,0.75,Pon1-2Ovi;Ovi2-0Pon;Pon1-1Ovi;Ovi3-2Pon
 Oviedo,Santander,6,2.33,0.33,0.67,Ovi1-0San;San2-2Ovi;Ovi1-1San;Ovi1-3San;San1-1Ovi
 Oviedo,Sociedad B,2,1.5,0.0,0.5,Soc1-1Ovi;Ovi0-1Soc
-Oviedo,Sp Gijon,8,1.62,0.12,0.5,Sp 1-1Ovi;Ovi0-0Sp ;Sp 1-0Ovi;Sp 3-1Ovi;Ovi1-1Sp 
+Oviedo,Sp Gijon,9,1.67,0.11,0.44,Ovi0-0Sp ;Sp 1-0Ovi;Sp 3-1Ovi;Ovi1-1Sp ;Ovi2-0Sp 
 Oviedo,Tenerife,8,1.5,0.25,0.12,Ovi0-0Ten;Ten1-0Ovi;Ovi0-1Ten;Ovi3-1Ten;Ten0-1Ovi
 Oviedo,Valladolid,5,2.6,0.8,0.2,Val2-1Ovi;Ovi3-0Val;Ovi0-1Val;Val3-0Ovi;Val0-3Ovi
 Oviedo,Villarreal B,4,2.25,0.5,0.75,Vil2-1Ovi;Ovi0-1Vil;Vil1-1Ovi;Ovi2-1Vil

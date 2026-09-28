@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-09-24T10:44:38+00:00",
-  "partidos_totales": 28667,
+  "actualizado": "2026-09-28T12:20:47+00:00",
+  "partidos_totales": 28669,
   "equipos_activos": 310,
   "temporadas_descargadas": 6,
-  "ultimo_partido": "2026-09-22",
+  "ultimo_partido": "2026-09-27",
   "cobertura": {
     "2. Bundesliga": {
       "partidos": 1584,
       "ultimo": "2026-09-20"
     },
     "Brasileirao": {
-      "partidos": 2453,
+      "partidos": 2445,
       "ultimo": "2026-09-20"
     },
     "Bundesliga": {
@@ -30,8 +30,8 @@
       "ultimo": "2026-09-20"
     },
     "LaLiga Hypermotion": {
-      "partidos": 2376,
-      "ultimo": "2026-09-20"
+      "partidos": 2386,
+      "ultimo": "2026-09-27"
     },
     "Liga Portugal": {
       "partidos": 1592,
