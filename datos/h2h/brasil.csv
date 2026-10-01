@@ -57,7 +57,7 @@ Atletico GO,Botafogo RJ,5,2.4,0.4,0.6,Bot1-3Atl;Atl1-1Bot;Bot0-0Atl;Bot1-0Atl;At
 Atletico GO,Bragantino,8,2.25,0.5,0.38,Bra1-0Atl;Bra4-0Atl;Atl2-1Bra;Bra3-1Atl;Atl0-0Bra
 Atletico GO,Ceara,5,1.6,0.2,0.6,Cea1-2Atl;Cea0-0Atl;Atl1-1Cea;Cea1-1Atl;Atl1-0Cea
 Atletico GO,Chapecoense-SC,2,1.5,0.0,0.5,Atl1-1Cha;Cha0-1Atl
-Atletico GO,Corinthians,8,2.0,0.38,0.5,Atl1-1Cor;Atl0-1Cor;Cor2-1Atl;Atl2-2Cor;Cor3-0Atl
+Atletico GO,Corinthians,7,2.29,0.43,0.57,Atl1-1Cor;Atl0-1Cor;Cor2-1Atl;Atl2-2Cor;Cor3-0Atl
 Atletico GO,Coritiba,4,2.25,0.25,0.25,Cor1-0Atl;Atl3-1Cor;Atl2-0Cor;Cor2-0Atl
 Atletico GO,Criciuma,2,2.5,0.5,0.5,Atl1-2Cri;Cri2-0Atl
 Atletico GO,Cruzeiro,2,2.5,0.5,0.5,Atl0-1Cru;Cru3-1Atl
@@ -116,7 +116,7 @@ Avai,Juventude,2,2.5,0.5,1.0,Ava1-2Juv;Juv1-1Ava
 Avai,Palmeiras,2,3.5,1.0,0.5,Ava2-2Pal;Pal3-0Ava
 Avai,Santos,2,1.5,0.0,0.5,Ava1-0San;San1-1Ava
 Avai,Sao Paulo,2,3.0,0.5,0.5,Ava1-1Sao;Sao4-0Ava
-Bahia,Botafogo RJ,9,2.22,0.67,0.56,Bot1-2Bah;Bah0-0Bot;Bah1-0Bot;Bot2-1Bah;Bah2-1Bot
+Bahia,Botafogo RJ,8,2.12,0.62,0.5,Bot1-2Bah;Bah0-0Bot;Bah1-0Bot;Bot2-1Bah;Bah2-1Bot
 Bahia,Bragantino,11,3.27,0.73,0.55,Bra2-1Bah;Bra0-3Bah;Bah2-1Bra;Bah2-0Bra;Bra2-3Bah
 Bahia,Ceara,5,2.0,0.2,0.6,Bah0-2Cea;Cea1-2Bah;Bah1-1Cea;Bah1-0Cea;Cea1-1Bah
 Bahia,Chapecoense-SC,4,3.25,0.5,0.25,Cha0-2Bah;Bah3-0Cha;Bah2-0Cha;Cha3-3Bah
@@ -235,7 +235,7 @@ Corinthians,Vitoria,5,1.8,0.4,0.4,Cor3-2Vit;Vit1-2Cor;Cor0-0Vit;Vit0-1Cor;Vit0-0
 Coritiba,Cruzeiro,4,1.25,0.25,0.25,Cru0-0Cor;Cor1-0Cru;Cru1-2Cor;Cor0-1Cru
 Coritiba,Cuiaba,4,2.25,0.5,0.5,Cor1-0Cui;Cui2-1Cor;Cui1-1Cor;Cor0-3Cui
 Coritiba,Flamengo RJ,6,3.0,0.67,0.33,Fla2-0Cor;Cor1-0Fla;Fla3-0Cor;Cor2-3Fla;Fla3-0Cor
-Coritiba,Fluminense,7,4.14,0.71,0.71,Cor3-2Flu;Flu5-2Cor;Cor2-0Flu;Flu2-1Cor;Cor1-1Flu
+Coritiba,Fluminense,6,4.17,0.67,0.83,Cor3-2Flu;Flu5-2Cor;Cor2-0Flu;Flu2-1Cor;Cor1-1Flu
 Coritiba,Fortaleza,6,3.0,0.83,0.67,For3-1Cor;Cor2-1For;For3-1Cor;Cor0-3For;For3-1Cor
 Coritiba,Goias,5,2.2,0.6,0.4,Cor1-2Goi;Cor3-0Goi;Goi1-0Cor;Goi1-2Cor;Cor0-1Goi
 Coritiba,Gremio,5,3.0,0.6,0.8,Gre2-1Cor;Cor1-1Gre;Gre5-1Cor;Cor1-2Gre;Gre1-0Cor

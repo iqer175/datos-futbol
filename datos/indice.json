@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-28T12:20:57+00:00",
-  "ultimo_partido": "2026-09-27",
+  "generado": "2026-10-01T12:03:19+00:00",
+  "ultimo_partido": "2026-09-28",
   "parametros": {
     "half_life_dias": 180.0,
     "k_shrink": 6.0,
@@ -60,7 +60,7 @@
     "cierres/championship.csv": 6.6,
     "cierres/eredivisie.csv": 4.5,
     "cierres/laliga.csv": 4.8,
-    "cierres/laliga2.csv": 5.2,
+    "cierres/laliga2.csv": 5.3,
     "cierres/ligue1.csv": 3.0,
     "cierres/ligue2.csv": 4.3,
     "cierres/portugal.csv": 4.4,

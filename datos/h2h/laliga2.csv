@@ -270,7 +270,7 @@ Castellon,Granada,4,3.25,0.75,0.75,Cas2-3Gra;Gra2-1Cas;Gra0-0Cas;Cas3-2Gra
 Castellon,Huesca,4,2.25,0.25,0.5,Hue1-1Cas;Cas0-1Hue;Cas4-1Hue;Hue0-1Cas
 Castellon,La Coruna,4,4.0,0.75,0.75,La 5-1Cas;Cas2-2La ;La 1-3Cas;Cas2-0La 
 Castellon,Las Palmas,2,1.5,0.0,0.5,Cas1-0Las;Las1-1Cas
-Castellon,Leganes,2,1.5,0.0,0.0,Leg0-1Cas;Cas2-0Leg
+Castellon,Leganes,3,1.67,0.0,0.0,Leg0-1Cas;Cas2-0Leg;Leg0-2Cas
 Castellon,Levante,2,3.5,0.5,0.5,Cas2-0Lev;Lev3-2Cas
 Castellon,Malaga,4,2.75,0.5,0.5,Cas2-0Mal;Mal1-0Cas;Cas2-1Mal;Mal2-3Cas
 Castellon,Mirandes,4,4.25,1.0,1.0,Cas1-3Mir;Mir3-2Cas;Cas3-1Mir;Mir2-2Cas
