@@ -31,7 +31,7 @@ Albacete,Castellon,5,1.8,0.2,0.4,Alb0-0Cas;Cas2-2Alb;Cas0-1Alb;Alb1-1Cas;Cas2-0A
 Albacete,Ceuta,2,0.5,0.0,0.0,Alb0-0Ceu;Ceu1-0Alb
 Albacete,Cordoba,5,2.8,0.6,1.0,Alb1-1Cor;Cor1-1Alb;Alb1-3Cor;Cor1-2Alb;Alb1-2Cor
 Albacete,Cultural Leonesa,2,1.5,0.5,0.5,Cul0-0Alb;Alb2-1Cul
-Albacete,Eibar,8,2.75,0.5,0.75,Alb2-1Eib;Alb0-1Eib;Eib1-1Alb;Eib3-2Alb;Alb0-3Eib
+Albacete,Eibar,9,2.89,0.56,0.78,Alb0-1Eib;Eib1-1Alb;Eib3-2Alb;Alb0-3Eib;Alb1-3Eib
 Albacete,Elche,4,3.0,0.5,0.75,Alb1-1Elc;Elc3-2Alb;Alb1-0Elc;Elc2-2Alb
 Albacete,Eldense,4,1.5,0.0,0.25,Alb1-1Eld;Eld0-1Alb;Eld2-0Alb;Alb0-1Eld
 Albacete,Espanol,2,2.5,0.5,1.0,Alb1-1Esp;Esp2-1Alb
@@ -86,7 +86,7 @@ Alcorcon,Villarreal B,2,2.5,0.5,0.5,Vil2-2Alc;Alc1-0Vil
 Alcorcon,Zaragoza,4,2.0,0.5,0.25,Alc1-2Zar;Zar0-3Alc;Zar0-2Alc;Alc0-0Zar
 Almeria,Amorebieta,2,3.0,1.0,0.5,Amo2-1Alm;Alm3-0Amo
 Almeria,Andorra,2,4.0,1.0,1.0,And1-2Alm;Alm3-2And
-Almeria,Burgos,6,2.17,0.33,0.33,Bur0-2Alm;Alm2-0Bur;Bur3-1Alm;Alm1-2Bur;Bur0-0Alm
+Almeria,Burgos,7,2.29,0.43,0.43,Alm2-0Bur;Bur3-1Alm;Alm1-2Bur;Bur0-0Alm;Alm2-1Bur
 Almeria,Cadiz,5,3.2,0.8,0.8,Alm1-1Cad;Cad2-1Alm;Alm3-0Cad;Cad1-2Alm;Alm3-2Cad
 Almeria,Cartagena,4,2.75,0.75,0.75,Car1-3Alm;Alm0-1Car;Car1-2Alm;Alm2-1Car
 Almeria,Castellon,4,3.75,0.5,0.5,Alm2-5Cas;Cas4-1Alm;Alm1-0Cas;Cas2-0Alm
@@ -220,7 +220,7 @@ Cadiz,Granada,4,1.0,0.25,0.25,Gra0-0Cad;Cad1-0Gra;Gra0-0Cad;Cad1-2Gra
 Cadiz,Huesca,4,2.5,0.5,0.25,Hue3-1Cad;Cad4-0Hue;Cad1-0Hue;Hue1-0Cad
 Cadiz,La Coruna,4,3.0,0.5,0.5,Cad2-4La ;La 1-0Cad;La 2-2Cad;Cad0-1La 
 Cadiz,Las Palmas,3,1.67,0.33,0.33,Las1-0Cad;Cad1-2Las;Cad0-1Las
-Cadiz,Leganes,2,2.5,0.5,0.5,Leg1-1Cad;Cad3-0Leg
+Cadiz,Leganes,3,3.0,0.67,0.33,Leg1-1Cad;Cad3-0Leg;Cad4-0Leg
 Cadiz,Levante,2,1.0,0.0,0.5,Lev1-1Cad;Cad0-0Lev
 Cadiz,Malaga,4,2.5,0.5,0.25,Cad2-2Mal;Mal0-2Cad;Mal0-1Cad;Cad0-3Mal
 Cadiz,Mirandes,4,2.75,0.5,0.5,Mir2-2Cad;Cad3-1Mir;Cad1-0Mir;Mir0-2Cad
@@ -259,7 +259,7 @@ Cartagena,Tenerife,8,1.62,0.12,0.38,Car0-1Ten;Ten1-1Car;Car2-0Ten;Ten2-0Car;Car1
 Cartagena,Valladolid,4,2.5,0.25,0.25,Val2-0Car;Car2-3Val;Val1-0Car;Car0-2Val
 Cartagena,Villarreal B,4,4.0,0.75,0.75,Car0-1Vil;Vil5-2Car;Vil1-2Car;Car4-1Vil
 Cartagena,Zaragoza,8,2.75,0.62,0.5,Zar2-0Car;Car1-3Zar;Zar1-2Car;Car1-2Zar;Zar3-2Car
-Castellon,Ceuta,2,4.0,0.5,1.0,Cas3-3Ceu;Ceu1-1Cas
+Castellon,Ceuta,3,3.33,0.33,1.0,Cas3-3Ceu;Ceu1-1Cas;Cas1-1Ceu
 Castellon,Cordoba,4,3.25,1.0,1.0,Cor2-2Cas;Cas1-2Cor;Cor2-1Cas;Cas1-2Cor
 Castellon,Cultural Leonesa,2,3.0,0.5,1.0,Cul1-3Cas;Cas1-1Cul
 Castellon,Eibar,4,1.5,0.25,0.25,Eib1-0Cas;Cas2-0Eib;Eib0-0Cas;Cas2-1Eib
@@ -380,7 +380,7 @@ Eldense,Leganes,3,2.0,0.33,0.67,Leg1-1Eld;Eld1-2Leg;Leg1-0Eld
 Eldense,Levante,4,2.25,0.5,0.5,Lev2-0Eld;Eld0-0Lev;Lev3-1Eld;Eld1-2Lev
 Eldense,Malaga,2,2.0,0.5,0.0,Mal3-0Eld;Eld1-0Mal
 Eldense,Mirandes,4,3.25,0.75,0.75,Eld2-2Mir;Mir3-1Eld;Mir1-0Eld;Eld2-2Mir
-Eldense,Oviedo,4,2.0,0.25,0.75,Eld1-3Ovi;Ovi1-1Eld;Eld1-1Ovi;Ovi0-0Eld
+Eldense,Oviedo,5,2.6,0.4,0.8,Eld1-3Ovi;Ovi1-1Eld;Eld1-1Ovi;Ovi0-0Eld;Eld4-1Ovi
 Eldense,Santander,4,4.75,1.0,1.0,Eld3-3San;San2-1Eld;San2-2Eld;Eld3-3San
 Eldense,Sp Gijon,5,1.4,0.2,0.2,Sp 2-0Eld;Eld0-1Sp ;Sp 0-0Eld;Eld1-2Sp ;Sp 0-1Eld
 Eldense,Tenerife,4,2.0,0.5,0.25,Eld0-3Ten;Ten1-0Eld;Eld2-1Ten;Ten0-1Eld
@@ -454,7 +454,7 @@ Granada,Mirandes,6,2.5,0.67,0.67,Mir1-3Gra;Mir0-1Gra;Gra0-0Mir;Gra1-2Mir;Mir3-1G
 Granada,Oviedo,5,1.0,0.0,0.0,Ovi1-0Gra;Gra1-0Ovi;Ovi2-0Gra;Gra1-0Ovi;Ovi0-0Gra
 Granada,Ponferradina,2,2.0,0.5,0.5,Pon0-0Gra;Gra2-2Pon
 Granada,Santander,6,2.33,0.5,0.33,San1-0Gra;Gra3-0San;San2-1Gra;San2-2Gra;Gra1-0San
-Granada,Sociedad B,2,4.5,0.5,0.5,Gra5-2Soc;Soc0-2Gra
+Granada,Sociedad B,3,4.67,0.67,0.67,Gra5-2Soc;Soc0-2Gra;Soc2-3Gra
 Granada,Sp Gijon,6,2.83,0.67,0.5,Sp 1-0Gra;Sp 1-2Gra;Gra3-1Sp ;Sp 1-0Gra;Gra1-2Sp 
 Granada,Tenerife,4,2.75,0.5,0.25,Ten2-0Gra;Gra2-0Ten;Gra4-0Ten;Ten2-1Gra
 Granada,Valladolid,2,4.5,1.0,1.0,Val2-1Gra;Gra5-1Val
@@ -515,7 +515,7 @@ Las Palmas,Santander,4,2.75,0.5,0.75,San0-0Las;Las1-1San;Las3-1San;San4-1Las
 Las Palmas,Sociedad B,4,1.5,0.25,0.5,Soc0-1Las;Las0-0Soc;Las2-1Soc;Soc1-1Las
 Las Palmas,Sp Gijon,6,1.0,0.0,0.17,Sp 0-1Las;Sp 0-1Las;Las1-1Sp ;Sp 0-0Las;Las1-0Sp 
 Las Palmas,Tenerife,4,3.25,0.75,0.75,Las2-1Ten;Ten0-1Las;Las3-1Ten;Ten4-1Las
-Las Palmas,Valladolid,4,1.75,0.25,0.5,Las1-1Val;Val0-1Las;Val0-1Las;Las2-1Val
+Las Palmas,Valladolid,5,2.2,0.4,0.6,Las1-1Val;Val0-1Las;Val0-1Las;Las2-1Val;Las2-2Val
 Las Palmas,Villarreal B,2,1.5,0.0,0.5,Vil0-1Las;Las1-1Vil
 Las Palmas,Zaragoza,6,2.5,0.5,0.83,Zar2-1Las;Las0-0Zar;Zar1-1Las;Zar1-2Las;Las1-1Zar
 Leganes,Levante,4,2.5,0.75,0.75,Lev2-1Leg;Leg2-2Lev;Leg2-1Lev;Lev0-0Leg
