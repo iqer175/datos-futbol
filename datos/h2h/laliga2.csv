@@ -313,7 +313,7 @@ Cordoba,Oviedo,2,2.5,0.5,0.5,Ovi2-3Cor;Cor0-0Ovi
 Cordoba,Santander,4,4.0,0.75,0.75,San2-0Cor;Cor1-2San;Cor2-2San;San4-3Cor
 Cordoba,Sociedad B,2,2.0,0.0,0.5,Soc1-1Cor;Cor0-2Soc
 Cordoba,Sp Gijon,4,3.0,0.5,0.75,Sp 2-0Cor;Cor1-1Sp ;Sp 2-1Cor;Cor3-2Sp 
-Cordoba,Tenerife,2,4.0,1.0,0.5,Cor3-0Ten;Ten2-3Cor
+Cordoba,Tenerife,3,4.33,1.0,0.67,Cor3-0Ten;Ten2-3Cor;Cor3-2Ten
 Cordoba,Valladolid,3,2.67,0.67,0.67,Val0-0Cor;Cor3-1Val;Val3-1Cor
 Cordoba,Zaragoza,4,2.0,0.25,0.5,Cor2-2Zar;Zar1-1Cor;Zar0-1Cor;Cor1-0Zar
 Cultural Leonesa,Eibar,2,3.0,1.0,1.0,Eib1-2Cul;Cul2-1Eib
