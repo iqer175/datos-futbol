@@ -1,7 +1,7 @@
 eq_a,eq_b,n,goles,over25,btts,ultimos
 Alaves,Almeria,2,2.0,0.5,0.0,Ala1-0Alm;Alm0-3Ala
 Alaves,Ath Bilbao,9,1.67,0.11,0.22,Ala1-1Ath;Ath1-0Ala;Ath0-1Ala;Ala2-4Ath;Ath0-0Ala
-Alaves,Ath Madrid,8,2.12,0.38,0.5,Ala2-0Ath;Ath2-1Ala;Ala0-0Ath;Ala1-1Ath;Ath1-0Ala
+Alaves,Ath Madrid,9,2.22,0.44,0.56,Ath2-1Ala;Ala0-0Ath;Ala1-1Ath;Ath1-0Ala;Ala1-2Ath
 Alaves,Barcelona,8,2.38,0.5,0.5,Ala1-3Bar;Ala0-3Bar;Bar1-0Ala;Bar3-1Ala;Ala1-0Bar
 Alaves,Betis,8,1.88,0.38,0.38,Bet0-0Ala;Ala0-0Bet;Bet1-3Ala;Bet1-0Ala;Ala2-1Bet
 Alaves,Cadiz,4,1.25,0.0,0.0,Cad0-2Ala;Ala0-1Cad;Cad1-0Ala;Ala1-0Cad
@@ -95,7 +95,7 @@ Barcelona,Cadiz,6,1.67,0.17,0.0,Bar0-1Cad;Cad0-4Bar;Bar2-0Cad;Bar2-0Cad;Cad0-1Ba
 Barcelona,Celta,10,4.0,0.8,0.8,Cel1-2Bar;Cel2-2Bar;Bar4-3Cel;Cel2-4Bar;Bar1-0Cel
 Barcelona,Elche,7,4.0,1.0,0.57,Bar3-0Elc;Elc0-4Bar;Bar3-1Elc;Elc1-3Bar;Elc0-5Bar
 Barcelona,Espanol,8,3.25,0.5,0.62,Esp2-4Bar;Bar3-1Esp;Esp0-2Bar;Esp0-2Bar;Bar4-1Esp
-Barcelona,Getafe,10,1.6,0.3,0.2,Bar4-0Get;Bar1-0Get;Get1-1Bar;Bar3-0Get;Get0-2Bar
+Barcelona,Getafe,11,1.73,0.36,0.18,Bar1-0Get;Get1-1Bar;Bar3-0Get;Get0-2Bar;Bar3-0Get
 Barcelona,Girona,8,3.62,0.75,0.75,Gir4-2Bar;Gir1-4Bar;Bar4-1Gir;Bar2-1Gir;Gir2-1Bar
 Barcelona,Granada,4,3.5,0.5,1.0,Bar1-1Gra;Gra1-1Bar;Gra2-2Bar;Bar3-3Gra
 Barcelona,Las Palmas,4,2.25,0.5,0.5,Las1-2Bar;Bar1-0Las;Bar1-2Las;Las0-2Bar
@@ -122,7 +122,7 @@ Betis,Las Palmas,4,2.0,0.25,0.5,Bet1-0Las;Las2-2Bet;Las1-1Bet;Bet1-0Las
 Betis,Leganes,2,3.5,0.5,0.5,Bet2-0Leg;Leg2-3Bet
 Betis,Levante,5,4.8,1.0,1.0,Bet3-1Lev;Lev2-4Bet;Lev2-2Bet;Bet2-1Lev;Lev5-2Bet
 Betis,Mallorca,10,2.2,0.5,0.5,Mal0-1Bet;Bet1-2Mal;Mal0-1Bet;Bet3-0Mal;Mal1-2Bet
-Betis,Osasuna,10,2.9,0.5,0.7,Osa0-2Bet;Osa1-2Bet;Bet1-1Osa;Bet2-0Osa;Osa1-1Bet
+Betis,Osasuna,11,3.27,0.55,0.73,Osa1-2Bet;Bet1-1Osa;Bet2-0Osa;Osa1-1Bet;Bet5-2Osa
 Betis,Oviedo,2,2.5,0.5,0.5,Ovi1-1Bet;Bet3-0Ovi
 Betis,Real Madrid,11,1.82,0.27,0.45,Rea2-0Bet;Bet2-1Rea;Rea5-1Bet;Bet1-1Rea;Bet1-0Rea
 Betis,Sevilla,10,2.1,0.3,0.6,Bet1-1Sev;Sev1-0Bet;Bet2-1Sev;Sev0-2Bet;Bet2-2Sev
@@ -148,7 +148,7 @@ Cadiz,Valencia,6,1.83,0.33,0.33,Val0-0Cad;Val0-1Cad;Cad2-1Val;Val2-0Cad;Cad1-4Va
 Cadiz,Valladolid,2,1.5,0.0,0.0,Val0-1Cad;Cad2-0Val
 Cadiz,Vallecano,6,2.5,0.33,0.5,Cad2-0Val;Val5-1Cad;Cad1-0Val;Cad0-0Val;Val1-1Cad
 Cadiz,Villarreal,6,2.17,0.33,0.33,Cad1-0Vil;Cad0-0Vil;Vil2-0Cad;Cad3-1Vil;Vil0-0Cad
-Celta,Elche,6,1.83,0.33,0.33,Cel1-0Elc;Elc0-1Cel;Cel1-0Elc;Elc2-1Cel;Cel3-1Elc
+Celta,Elche,7,1.57,0.29,0.29,Elc0-1Cel;Cel1-0Elc;Elc2-1Cel;Cel3-1Elc;Elc0-0Cel
 Celta,Espanol,8,3.0,0.62,0.62,Esp1-3Cel;Esp3-1Cel;Cel0-2Esp;Cel0-1Esp;Esp2-2Cel
 Celta,Getafe,11,2.27,0.36,0.45,Cel1-0Get;Get1-2Cel;Cel0-2Get;Get0-0Cel;Get1-1Cel
 Celta,Girona,8,2.0,0.25,0.62,Cel0-1Gir;Cel1-1Gir;Gir2-2Cel;Cel1-1Gir;Gir1-2Cel
@@ -259,7 +259,7 @@ Levante,Mallorca,4,1.75,0.0,0.25,Mal1-0Lev;Lev2-0Mal;Mal1-1Lev;Lev2-0Mal
 Levante,Osasuna,5,2.2,0.4,0.4,Lev0-0Osa;Osa3-1Lev;Osa2-0Lev;Lev3-2Osa;Osa0-0Lev
 Levante,Oviedo,2,4.0,0.5,0.5,Ovi0-2Lev;Lev4-2Ovi
 Levante,Real Madrid,4,4.75,0.75,0.5,Lev3-3Rea;Rea6-0Lev;Lev1-4Rea;Rea2-0Lev
-Levante,Sevilla,4,4.5,0.75,0.5,Sev5-3Lev;Lev2-3Sev;Sev0-3Lev;Lev2-0Sev
+Levante,Sevilla,5,4.8,0.8,0.6,Sev5-3Lev;Lev2-3Sev;Sev0-3Lev;Lev2-0Sev;Lev3-3Sev
 Levante,Sociedad,4,2.0,0.25,0.5,Soc1-0Lev;Lev2-1Soc;Lev1-1Soc;Soc2-0Lev
 Levante,Valencia,4,3.0,0.25,0.5,Lev3-4Val;Val1-1Lev;Val1-0Lev;Lev0-2Val
 Levante,Vallecano,4,3.25,0.5,0.75,Lev1-1Val;Val2-4Lev;Lev0-3Val;Val1-1Lev
@@ -292,7 +292,7 @@ Real Madrid,Sociedad,11,2.73,0.45,0.45,Soc0-2Rea;Rea2-0Soc;Soc1-2Rea;Rea4-1Soc;R
 Real Madrid,Valencia,10,3.3,0.7,0.6,Val2-2Rea;Val1-2Rea;Rea1-2Val;Rea4-0Val;Val0-2Rea
 Real Madrid,Valladolid,4,3.5,0.75,0.0,Val0-2Rea;Rea6-0Val;Rea3-0Val;Val0-3Rea
 Real Madrid,Vallecano,11,2.82,0.64,0.73,Val3-3Rea;Rea2-1Val;Val0-0Rea;Rea2-1Val;Rea4-1Val
-Real Madrid,Villarreal,10,3.2,0.6,0.6,Vil4-4Rea;Rea2-0Vil;Vil1-2Rea;Rea3-1Vil;Vil0-2Rea
+Real Madrid,Villarreal,11,3.0,0.55,0.55,Rea2-0Vil;Vil1-2Rea;Rea3-1Vil;Vil0-2Rea;Rea1-0Vil
 Sevilla,Sociedad,10,2.1,0.5,0.5,Sev3-2Soc;Sev0-2Soc;Soc0-1Sev;Soc2-1Sev;Sev1-0Soc
 Sevilla,Valencia,11,1.91,0.18,0.55,Sev1-1Val;Val1-0Sev;Val1-1Sev;Sev0-2Val;Sev1-0Val
 Sevilla,Valladolid,4,3.0,0.75,0.5,Sev1-1Val;Val0-3Sev;Sev2-1Val;Val0-4Sev

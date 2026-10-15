@@ -89,7 +89,7 @@ Annecy,Caen,6,1.83,0.33,0.5,Ann2-0Cae;Ann1-2Cae;Cae2-1Ann;Cae1-1Ann;Ann1-0Cae
 Annecy,Clermont,4,2.75,0.5,0.5,Ann2-0Cle;Cle3-2Ann;Cle0-1Ann;Ann2-1Cle
 Annecy,Concarneau,2,2.5,0.5,0.5,Con1-1Ann;Ann0-3Con
 Annecy,Dijon,3,2.33,0.33,0.67,Dij0-2Ann;Ann1-1Dij;Ann1-2Dij
-Annecy,Dunkerque,6,2.33,0.33,0.17,Dun0-2Ann;Dun0-2Ann;Ann0-2Dun;Ann2-2Dun;Dun0-1Ann
+Annecy,Dunkerque,7,2.14,0.29,0.14,Dun0-2Ann;Ann0-2Dun;Ann2-2Dun;Dun0-1Ann;Dun0-1Ann
 Annecy,Grenoble,9,2.0,0.44,0.56,Gre0-0Ann;Ann3-1Gre;Gre1-3Ann;Ann1-1Gre;Gre1-2Ann
 Annecy,Guingamp,9,3.56,0.78,0.67,Gui2-2Ann;Ann1-4Gui;Gui0-3Ann;Ann1-0Gui;Gui2-1Ann
 Annecy,Laval,8,2.12,0.38,0.38,Lav0-3Ann;Ann2-0Lav;Lav0-1Ann;Ann0-0Lav;Lav2-2Ann
@@ -233,7 +233,7 @@ Clermont,Montpellier,2,2.5,0.5,1.0,Cle1-1Mon;Mon1-2Cle
 Clermont,Nancy,2,2.5,0.5,0.5,Nan1-0Cle;Cle2-2Nan
 Clermont,Paris FC,2,1.5,0.0,0.0,Cle0-1Par;Par2-0Cle
 Clermont,Pau FC,4,3.25,0.75,0.75,Cle2-2Pau;Pau2-2Cle;Pau3-1Cle;Cle0-1Pau
-Clermont,Red Star,4,2.25,0.25,0.75,Cle1-1Red;Red1-1Cle;Red2-2Cle;Cle0-1Red
+Clermont,Red Star,5,2.8,0.4,0.8,Cle1-1Red;Red1-1Cle;Red2-2Cle;Cle0-1Red;Cle2-3Red
 Clermont,Reims,3,2.0,0.33,0.33,Rei4-1Cle;Cle0-1Rei;Cle0-0Rei
 Clermont,Rodez,4,2.0,0.25,0.75,Cle1-1Rod;Rod1-1Cle;Rod0-1Cle;Cle1-2Rod
 Clermont,St Etienne,3,2.67,0.67,0.67,Cle1-2St ;St 1-0Cle;St 3-1Cle
@@ -254,7 +254,7 @@ Dijon,Grenoble,4,1.25,0.25,0.25,Gre1-2Dij;Dij1-0Gre;Gre0-0Dij;Dij1-0Gre
 Dijon,Guingamp,4,3.75,0.5,0.75,Gui3-2Dij;Dij3-3Gui;Dij1-1Gui;Gui2-0Dij
 Dijon,Laval,3,3.67,0.67,0.33,Dij5-0Lav;Lav1-0Dij;Dij3-2Lav
 Dijon,Le Havre,4,1.25,0.0,0.0,Le 2-0Dij;Dij2-0Le ;Dij0-0Le ;Le 1-0Dij
-Dijon,Metz,2,1.5,0.5,0.5,Met1-2Dij;Dij0-0Met
+Dijon,Metz,3,3.0,0.67,0.67,Met1-2Dij;Dij0-0Met;Dij4-2Met
 Dijon,Nancy,2,4.0,1.0,0.5,Nan0-3Dij;Dij2-3Nan
 Dijon,Nimes,4,3.0,1.0,1.0,Nim2-1Dij;Dij1-2Nim;Dij2-1Nim;Nim1-2Dij
 Dijon,Niort,4,3.0,0.75,0.75,Dij2-2Nio;Nio1-3Dij;Nio2-1Dij;Dij0-1Nio
@@ -296,7 +296,7 @@ Grenoble,Le Mans,2,1.5,0.0,0.5,Le 1-0Gre;Gre1-1Le
 Grenoble,Lorient,2,2.5,0.5,0.5,Lor2-0Gre;Gre1-2Lor
 Grenoble,Martigues,2,2.5,0.5,0.0,Mar0-4Gre;Gre1-0Mar
 Grenoble,Metz,5,1.4,0.2,0.0,Gre0-1Met;Met1-0Gre;Gre2-0Met;Met3-0Gre;Gre0-0Met
-Grenoble,Montpellier,2,2.5,0.5,1.0,Gre1-1Mon;Mon2-1Gre
+Grenoble,Montpellier,3,2.33,0.33,0.67,Gre1-1Mon;Mon2-1Gre;Mon2-0Gre
 Grenoble,Nancy,4,1.75,0.25,0.25,Gre4-1Nan;Nan0-1Gre;Gre1-0Nan;Nan0-0Gre
 Grenoble,Nimes,4,3.5,0.75,0.75,Gre2-1Nim;Nim3-1Gre;Gre3-2Nim;Nim0-2Gre
 Grenoble,Niort,4,1.75,0.25,0.0,Nio1-0Gre;Gre1-0Nio;Nio0-3Gre;Gre2-0Nio
@@ -318,7 +318,7 @@ Guingamp,Lorient,2,3.5,1.0,1.0,Lor3-1Gui;Gui1-2Lor
 Guingamp,Martigues,2,2.0,0.5,0.5,Mar0-1Gui;Gui2-1Mar
 Guingamp,Metz,5,3.6,0.6,0.6,Met3-6Gui;Gui1-1Met;Met1-0Gui;Gui0-3Met;Met2-1Gui
 Guingamp,Montpellier,2,2.5,0.5,0.5,Gui1-0Mon;Mon3-1Gui
-Guingamp,Nancy,4,3.5,1.0,0.75,Nan2-1Gui;Gui3-1Nan;Gui2-2Nan;Nan0-3Gui
+Guingamp,Nancy,5,3.0,0.8,0.6,Nan2-1Gui;Gui3-1Nan;Gui2-2Nan;Nan0-3Gui;Nan1-0Gui
 Guingamp,Nimes,4,3.0,0.75,0.75,Gui3-1Nim;Nim0-2Gui;Nim1-2Gui;Gui1-2Nim
 Guingamp,Niort,4,1.25,0.0,0.0,Nio2-0Gui;Gui1-0Nio;Nio0-0Gui;Gui2-0Nio
 Guingamp,Paris FC,8,1.62,0.25,0.38,Par1-2Gui;Gui0-1Par;Par2-1Gui;Par2-0Gui;Gui0-1Par
@@ -342,7 +342,7 @@ Laval,Nancy,2,2.0,0.0,0.5,Nan0-2Lav;Lav1-1Nan
 Laval,Nimes,2,1.5,0.0,0.0,Nim1-0Lav;Lav2-0Nim
 Laval,Niort,2,4.0,1.0,1.0,Lav2-1Nio;Nio3-2Lav
 Laval,Paris FC,6,1.67,0.33,0.33,Lav1-2Par;Par0-1Lav;Lav1-1Par;Par1-0Lav;Lav3-0Par
-Laval,Pau FC,8,1.88,0.25,0.38,Pau3-0Lav;Lav3-1Pau;Pau1-1Lav;Pau1-0Lav;Lav0-1Pau
+Laval,Pau FC,9,2.22,0.33,0.44,Lav3-1Pau;Pau1-1Lav;Pau1-0Lav;Lav0-1Pau;Pau3-2Lav
 Laval,Quevilly Rouen,4,2.75,0.5,0.5,Que1-3Lav;Lav0-1Que;Que0-0Lav;Lav2-4Que
 Laval,Red Star,5,1.8,0.4,0.4,Red0-3Lav;Lav1-1Red;Lav0-1Red;Red0-0Lav;Lav1-2Red
 Laval,Reims,2,4.0,1.0,0.5,Rei4-0Lav;Lav2-2Rei
@@ -464,7 +464,7 @@ Reims,Rodez,2,3.5,1.0,1.0,Rod2-2Rei;Rei1-2Rod
 Reims,St Etienne,2,3.0,0.5,0.5,St 3-2Rei;Rei1-0St 
 Reims,Troyes,2,1.5,0.5,0.5,Rei0-0Tro;Tro2-1Rei
 Rodez,Sochaux,4,1.75,0.25,0.25,Rod0-1Soc;Soc2-0Rod;Soc1-0Rod;Rod1-2Soc
-Rodez,St Etienne,6,2.67,0.5,0.67,Rod1-1St ;Rod2-1St ;St 1-1Rod;St 4-0Rod;Rod2-1St 
+Rodez,St Etienne,7,2.57,0.43,0.57,Rod2-1St ;St 1-1Rod;St 4-0Rod;Rod2-1St ;St 2-0Rod
 Rodez,Toulouse,2,1.5,0.0,0.5,Tou1-1Rod;Rod1-0Tou
 Rodez,Troyes,6,3.17,0.83,0.83,Tro2-3Rod;Tro0-3Rod;Rod2-1Tro;Tro1-1Rod;Rod2-1Tro
 Rodez,Valenciennes,6,1.67,0.17,0.33,Rod0-0Val;Rod1-1Val;Val0-0Rod;Rod0-1Val;Val0-2Rod

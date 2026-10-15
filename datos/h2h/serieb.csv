@@ -45,7 +45,7 @@ Ascoli,Reggina,4,1.75,0.25,0.25,Reg1-2Asc;Asc2-0Reg;Asc0-1Reg;Reg1-0Asc
 Ascoli,Sampdoria,2,2.5,0.5,1.0,Asc1-1Sam;Sam2-1Asc
 Ascoli,Spal,4,2.0,0.25,0.75,Asc0-1Spa;Spa1-2Asc;Asc1-1Spa;Spa1-1Asc
 Ascoli,Spezia,2,3.0,1.0,1.0,Asc1-2Spe;Spe2-1Asc
-Ascoli,Sudtirol,4,3.0,0.75,0.75,Sud2-2Asc;Asc1-0Sud;Sud3-1Asc;Asc1-2Sud
+Ascoli,Sudtirol,5,2.4,0.6,0.6,Sud2-2Asc;Asc1-0Sud;Sud3-1Asc;Asc1-2Sud;Sud0-0Asc
 Ascoli,Ternana,6,3.0,0.5,0.5,Asc4-1Ter;Asc2-1Ter;Ter1-0Asc;Asc2-0Ter;Ter0-1Asc
 Ascoli,Venezia,4,1.75,0.25,0.25,Ven0-2Asc;Asc0-1Ven;Ven3-1Asc;Asc0-0Ven
 Ascoli,Vicenza,2,2.5,0.5,0.5,Asc2-1Vic;Vic2-0Asc
@@ -63,7 +63,7 @@ Avellino,Padova,2,2.5,0.5,0.5,Pad2-2Ave;Ave1-0Pad
 Avellino,Palermo,3,2.67,0.33,0.67,Ave2-2Pal;Pal2-0Ave;Ave1-1Pal
 Avellino,Pescara,2,1.5,0.0,0.5,Pes1-1Ave;Ave0-1Pes
 Avellino,Reggiana,2,4.5,0.5,1.0,Ave4-3Reg;Reg1-1Ave
-Avellino,Sampdoria,2,3.0,1.0,1.0,Ave2-1Sam;Sam2-1Ave
+Avellino,Sampdoria,3,3.67,1.0,1.0,Ave2-1Sam;Sam2-1Ave;Ave4-1Sam
 Avellino,Spezia,2,2.5,0.5,0.0,Ave0-4Spe;Spe1-0Ave
 Avellino,Sudtirol,2,3.0,0.5,0.5,Sud0-1Ave;Ave3-2Sud
 Avellino,Venezia,2,3.0,0.5,0.5,Ave1-1Ven;Ven4-0Ave
@@ -187,7 +187,7 @@ Carrarese,Juve Stabia,4,2.0,0.5,0.5,Car0-0Juv;Juv2-1Car;Car3-0Juv;Juv1-1Car
 Carrarese,Mantova,5,2.0,0.4,0.8,Car1-1Man;Man2-1Car;Car0-0Man;Man1-1Car;Car1-2Man
 Carrarese,Modena,4,1.75,0.25,0.25,Mod2-0Car;Car2-1Mod;Car0-0Mod;Mod2-0Car
 Carrarese,Monza,2,3.0,0.5,0.5,Mon4-1Car;Car0-1Mon
-Carrarese,Padova,2,0.5,0.0,0.0,Car0-0Pad;Pad1-0Car
+Carrarese,Padova,3,1.0,0.0,0.0,Car0-0Pad;Pad1-0Car;Pad0-2Car
 Carrarese,Palermo,4,2.25,0.25,0.25,Car1-0Pal;Pal1-1Car;Pal5-0Car;Car0-1Pal
 Carrarese,Pescara,2,4.0,1.0,1.0,Pes2-2Car;Car2-2Pes
 Carrarese,Pisa,2,2.0,0.5,0.5,Car1-0Pis;Pis2-1Car
@@ -209,7 +209,7 @@ Catanzaro,FeralpiSalo,2,3.0,1.0,0.0,Cat3-0Fer;Fer3-0Cat
 Catanzaro,Frosinone,4,2.0,0.25,0.5,Cat0-0Fro;Fro1-1Cat;Fro2-0Cat;Cat2-2Fro
 Catanzaro,Juve Stabia,4,2.0,0.25,0.5,Cat0-0Juv;Juv2-0Cat;Cat2-2Juv;Juv1-1Cat
 Catanzaro,Lecco,2,7.5,1.0,1.0,Lec3-4Cat;Cat5-3Lec
-Catanzaro,Mantova,4,2.5,0.5,0.5,Cat2-2Man;Man0-0Cat;Man1-3Cat;Cat2-0Man
+Catanzaro,Mantova,5,2.8,0.6,0.6,Cat2-2Man;Man0-0Cat;Man1-3Cat;Cat2-0Man;Cat1-3Man
 Catanzaro,Modena,6,3.5,1.0,1.0,Mod1-3Cat;Cat2-2Mod;Mod2-1Cat;Mod1-2Cat;Cat2-2Mod
 Catanzaro,Monza,2,2.5,0.5,1.0,Mon2-1Cat;Cat1-1Mon
 Catanzaro,Padova,2,2.5,0.5,0.5,Cat0-1Pad;Pad1-3Cat
@@ -369,7 +369,7 @@ Empoli,Mantova,3,3.0,0.67,0.67,Man0-1Emp;Emp2-2Man;Man3-1Emp
 Empoli,Modena,3,2.0,0.67,0.67,Mod2-1Emp;Emp0-0Mod;Mod2-1Emp
 Empoli,Monza,2,3.0,0.5,1.0,Emp1-1Mon;Mon2-2Emp
 Empoli,Padova,2,2.5,0.5,0.5,Emp3-1Pad;Pad1-0Emp
-Empoli,Palermo,2,4.5,1.0,1.0,Emp1-3Pal;Pal3-2Emp
+Empoli,Palermo,3,5.0,1.0,1.0,Emp1-3Pal;Pal3-2Emp;Emp2-4Pal
 Empoli,Pescara,2,5.0,1.0,0.5,Pes4-0Emp;Emp4-2Pes
 Empoli,Reggiana,2,3.0,0.5,1.0,Reg3-1Emp;Emp1-1Reg
 Empoli,Sampdoria,2,1.5,0.0,0.5,Emp1-1Sam;Sam1-0Emp
@@ -437,7 +437,7 @@ Juve Stabia,Sassuolo,2,3.0,0.5,0.5,Juv2-2Sas;Sas2-0Juv
 Juve Stabia,Spezia,4,3.25,0.75,0.75,Juv0-3Spe;Spe1-1Juv;Spe1-3Juv;Juv3-1Spe
 Juve Stabia,Sudtirol,4,2.0,0.25,0.5,Juv2-1Sud;Sud2-0Juv;Juv1-0Sud;Sud1-1Juv
 Juve Stabia,Venezia,2,2.0,0.5,0.5,Juv0-0Ven;Ven3-1Juv
-Juve Stabia,Virtus Entella,2,1.5,0.0,0.5,Vir1-1Juv;Juv1-0Vir
+Juve Stabia,Virtus Entella,3,1.67,0.0,0.67,Vir1-1Juv;Juv1-0Vir;Vir1-1Juv
 Lecce,Monza,2,2.0,0.5,0.0,Lec3-0Mon;Mon0-1Lec
 Lecce,Parma,2,2.0,0.5,0.0,Lec4-0Par;Par0-0Lec
 Lecce,Perugia,2,1.0,0.0,0.5,Lec0-0Per;Per1-1Lec
@@ -566,7 +566,7 @@ Pisa,Spezia,4,3.5,0.75,0.75,Spe0-0Pis;Pis2-3Spe;Pis2-2Spe;Spe3-2Pis
 Pisa,Sudtirol,6,3.33,0.83,0.83,Pis0-1Sud;Sud1-2Pis;Pis2-2Sud;Sud1-2Pis;Pis3-3Sud
 Pisa,Ternana,6,2.5,0.5,0.67,Pis0-0Ter;Pis3-1Ter;Ter2-1Pis;Ter1-1Pis;Pis1-0Ter
 Pisa,Venezia,4,2.5,0.5,1.0,Ven1-1Pis;Pis1-1Ven;Ven2-1Pis;Pis1-2Ven
-Pisa,Vicenza,2,4.0,1.0,1.0,Vic1-3Pis;Pis2-2Vic
+Pisa,Vicenza,3,3.67,1.0,0.67,Vic1-3Pis;Pis2-2Vic;Vic0-3Pis
 Pordenone,Reggina,2,2.0,0.0,0.5,Por1-1Reg;Reg2-0Por
 Pordenone,Spal,2,3.5,0.5,0.5,Spa5-0Por;Por1-1Spa
 Pordenone,Ternana,2,2.5,0.5,0.5,Por1-3Ter;Ter1-0Por
