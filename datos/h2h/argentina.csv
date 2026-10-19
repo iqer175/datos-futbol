@@ -353,7 +353,7 @@ Estudiantes Rio Cuarto,Sarmiento Junin,2,1.5,0.0,0.0,Sar1-0Est;Est0-2Sar
 Estudiantes Rio Cuarto,Tigre,2,1.5,0.0,0.0,Tig2-0Est;Est1-0Tig
 Gimnasia L.P.,Gimnasia Mendoza,2,3.0,0.5,0.5,Gim0-1Gim;Gim2-3Gim
 Gimnasia L.P.,Godoy Cruz,6,2.5,0.5,0.17,Gim2-0God;God2-0Gim;Gim0-1God;Gim3-0God;God1-2Gim
-Gimnasia L.P.,Huracan,10,1.8,0.3,0.3,Gim1-0Hur;Hur2-0Gim;Gim3-1Hur;Hur0-0Gim;Gim0-3Hur
+Gimnasia L.P.,Huracan,11,1.91,0.36,0.36,Hur2-0Gim;Gim3-1Hur;Hur0-0Gim;Gim0-3Hur;Hur1-2Gim
 Gimnasia L.P.,Ind. Rivadavia,4,3.25,0.5,0.75,Gim2-3Ind;Ind1-0Gim;Gim2-3Ind;Ind1-1Gim
 Gimnasia L.P.,Independiente,9,1.89,0.22,0.44,Gim1-2Ind;Ind0-1Gim;Ind1-0Gim;Ind2-0Gim;Gim1-0Ind
 Gimnasia L.P.,Instituto,6,2.5,0.5,0.5,Ins1-1Gim;Gim1-3Ins;Ins2-1Gim;Ins3-0Gim;Gim0-1Ins
@@ -505,7 +505,7 @@ Racing Club,Velez Sarsfield,6,1.5,0.33,0.33,Vel0-0Rac;Vel0-0Rac;Rac2-0Vel;Rac2-1
 River Plate,Rosario Central,15,2.73,0.67,0.53,Riv2-2Ros;Ros2-1Riv;Ros0-0Riv;Riv1-0Ros;Riv0-1Ros
 River Plate,San Lorenzo,9,1.44,0.22,0.44,San0-0Riv;Riv1-1San;San0-0Riv;Riv0-0San;Riv1-1San
 River Plate,San Martin S.J.,2,2.0,0.0,0.0,San0-2Riv;Riv2-0San
-River Plate,Sarmiento Junin,8,2.62,0.38,0.38,Sar0-2Riv;Riv1-0Sar;Sar1-1Riv;Riv0-1Sar;Riv2-0Sar
+River Plate,Sarmiento Junin,9,2.56,0.33,0.44,Riv1-0Sar;Sar1-1Riv;Riv0-1Sar;Riv2-0Sar;Sar1-1Riv
 River Plate,Talleres Cordoba,9,1.89,0.22,0.33,Riv1-0Tal;Tal2-2Riv;Riv0-1Tal;Riv1-1Tal;Tal0-2Riv
 River Plate,Tigre,6,2.67,0.5,0.67,Tig1-1Riv;Tig0-1Riv;Riv3-1Tig;Riv1-4Tig;Tig1-0Riv
 River Plate,Union de Santa Fe,5,2.4,0.4,0.2,Riv4-0Uni;Uni1-0Riv;Uni1-5Riv;Riv1-0Uni;Uni0-0Riv
