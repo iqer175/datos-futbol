@@ -27,7 +27,7 @@ Angers,Lens,8,3.0,0.75,0.62,Len3-0Ang;Ang0-1Len;Len1-0Ang;Ang1-2Len;Len5-1Ang
 Angers,Lille,9,1.56,0.0,0.22,Lil2-0Ang;Ang0-2Lil;Lil1-0Ang;Ang0-1Lil;Ang0-2Lil
 Angers,Lorient,6,1.33,0.17,0.17,Lor0-0Ang;Ang1-2Lor;Lor0-0Ang;Ang2-0Lor;Lor2-0Ang
 Angers,Lyon,8,2.88,0.62,0.25,Ang1-3Lyo;Ang0-3Lyo;Lyo2-0Ang;Lyo1-0Ang;Ang0-0Lyo
-Angers,Marseille,8,3.62,0.62,0.62,Mar3-1Ang;Mar1-1Ang;Ang0-2Mar;Mar2-2Ang;Ang2-5Mar
+Angers,Marseille,9,4.0,0.67,0.67,Mar1-1Ang;Ang0-2Mar;Mar2-2Ang;Ang2-5Mar;Ang2-5Mar
 Angers,Metz,4,2.25,0.25,0.5,Ang3-2Met;Met1-0Ang;Met1-1Ang;Ang1-0Met
 Angers,Monaco,8,2.25,0.25,0.38,Ang1-2Mon;Mon0-1Ang;Ang0-2Mon;Ang1-1Mon;Mon2-0Ang
 Angers,Montpellier,6,3.5,0.67,0.5,Ang2-0Mon;Ang2-1Mon;Mon5-0Ang;Mon1-3Ang;Ang2-0Mon
@@ -43,7 +43,7 @@ Angers,Toulouse,6,2.5,0.33,0.33,Ang0-2Tou;Tou1-1Ang;Ang0-4Tou;Tou0-1Ang;Ang1-0To
 Angers,Troyes,5,2.8,0.6,0.8,Tro1-1Ang;Ang2-1Tro;Tro3-1Ang;Ang2-1Tro;Ang2-0Tro
 Auxerre,Brest,7,2.57,0.57,0.43,Aux3-0Bre;Bre2-2Aux;Bre2-0Aux;Aux3-0Bre;Aux2-1Bre
 Auxerre,Clermont,2,2.5,0.5,1.0,Cle2-1Aux;Aux1-1Cle
-Auxerre,Le Havre,4,2.5,0.5,0.75,Le 3-1Aux;Aux1-2Le ;Aux0-1Le ;Le 1-1Aux
+Auxerre,Le Havre,5,2.8,0.6,0.8,Le 3-1Aux;Aux1-2Le ;Aux0-1Le ;Le 1-1Aux;Le 1-3Aux
 Auxerre,Lens,7,3.43,0.71,0.57,Aux2-2Len;Len0-4Aux;Aux1-2Len;Len1-0Aux;Len5-2Aux
 Auxerre,Lille,6,3.33,0.5,0.67,Aux1-1Lil;Aux0-0Lil;Lil3-1Aux;Aux3-4Lil;Lil0-2Aux
 Auxerre,Lorient,4,2.5,0.5,0.5,Aux1-3Lor;Lor0-1Aux;Aux1-0Lor;Lor2-2Aux
@@ -83,7 +83,7 @@ Bordeaux,Troyes,2,2.5,0.5,0.5,Tro1-2Bor;Bor0-2Tro
 Brest,Clermont,6,2.67,0.5,0.67,Bre2-0Cle;Cle1-3Bre;Bre2-1Cle;Bre3-0Cle;Cle1-1Bre
 Brest,Le Havre,7,1.86,0.29,0.29,Bre2-0Le ;Le 0-1Bre;Le 1-0Bre;Bre2-0Le ;Le 1-2Bre
 Brest,Lens,10,3.4,0.6,0.6,Len1-0Bre;Len2-0Bre;Bre1-3Len;Len3-1Bre;Bre3-3Len
-Brest,Lille,10,2.4,0.3,0.6,Bre1-1Lil;Lil3-1Bre;Bre2-0Lil;Bre3-3Lil;Lil1-1Bre
+Brest,Lille,11,2.36,0.27,0.64,Lil3-1Bre;Bre2-0Lil;Bre3-3Lil;Lil1-1Bre;Lil1-1Bre
 Brest,Lorient,8,2.88,0.62,0.5,Lor2-1Bre;Bre4-0Lor;Lor0-1Bre;Lor3-3Bre;Bre2-0Lor
 Brest,Lyon,10,2.8,0.6,0.7,Lyo4-3Bre;Bre2-1Lyo;Lyo2-1Bre;Bre0-0Lyo;Lyo2-1Bre
 Brest,Marseille,10,3.2,0.6,0.6,Bre1-0Mar;Bre1-5Mar;Mar4-1Bre;Mar3-0Bre;Bre2-0Mar
@@ -151,7 +151,7 @@ Lens,Rennes,10,1.8,0.2,0.6,Ren1-1Len;Ren1-1Len;Len1-0Ren;Ren0-0Len;Len3-1Ren
 Lens,St Etienne,4,2.5,0.5,0.5,Len2-2St ;St 1-2Len;St 0-2Len;Len1-0St 
 Lens,Strasbourg,11,2.36,0.45,0.55,Str2-2Len;Len0-2Str;Len1-0Str;Str1-1Len;Str2-1Len
 Lens,Toulouse,8,2.5,0.5,0.38,Tou0-2Len;Len0-1Tou;Tou1-1Len;Tou0-3Len;Len3-2Tou
-Lens,Troyes,4,2.75,0.5,0.5,Len4-0Tro;Tro1-3Len;Len1-0Tro;Tro1-1Len
+Lens,Troyes,5,3.0,0.6,0.6,Len4-0Tro;Tro1-3Len;Len1-0Tro;Tro1-1Len;Tro1-3Len
 Lille,Lorient,8,4.0,0.88,0.88,Lil3-1Lor;Lor4-1Lil;Lil3-0Lor;Lor1-7Lil;Lil1-1Lor
 Lille,Lyon,10,2.4,0.3,0.4,Lil3-4Lyo;Lil1-1Lyo;Lyo2-1Lil;Lil0-1Lyo;Lyo1-0Lil
 Lille,Marseille,10,2.2,0.4,0.7,Lil3-1Mar;Mar1-1Lil;Lil1-1Mar;Lil1-0Mar;Mar1-2Lil
@@ -171,7 +171,7 @@ Lille,Troyes,5,3.2,0.6,0.6,Lil2-1Tro;Tro3-0Lil;Lil5-1Tro;Tro1-1Lil;Lil2-0Tro
 Lorient,Lyon,8,2.75,0.38,0.5,Lyo0-0Lor;Lyo3-3Lor;Lor0-2Lyo;Lor1-0Lyo;Lyo2-0Lor
 Lorient,Marseille,8,3.5,0.75,0.5,Lor0-0Mar;Lor2-4Mar;Mar3-1Lor;Mar4-0Lor;Lor2-0Mar
 Lorient,Metz,6,3.33,0.67,0.67,Lor1-0Met;Lor2-3Met;Met1-2Lor;Lor1-1Met;Met0-4Lor
-Lorient,Monaco,8,3.12,0.75,0.75,Mon3-1Lor;Lor2-2Mon;Mon2-2Lor;Lor3-1Mon;Mon1-3Lor
+Lorient,Monaco,9,2.89,0.67,0.67,Lor2-2Mon;Mon2-2Lor;Lor3-1Mon;Mon1-3Lor;Lor1-0Mon
 Lorient,Montpellier,6,2.33,0.33,0.33,Lor0-1Mon;Lor0-2Mon;Mon1-1Lor;Lor0-3Mon;Mon2-0Lor
 Lorient,Nantes,8,3.38,0.5,0.62,Nan1-0Lor;Nan5-3Lor;Lor0-1Nan;Nan1-1Lor;Lor2-1Nan
 Lorient,Nice,9,2.67,0.56,0.67,Lor1-1Nic;Nic3-0Lor;Lor3-1Nic;Nic3-3Lor;Nic0-0Lor
@@ -188,7 +188,7 @@ Lyon,Metz,6,3.67,0.67,0.83,Met3-2Lyo;Lyo1-1Met;Met1-2Lyo;Lyo3-0Met;Met2-5Lyo
 Lyon,Monaco,10,2.8,0.5,0.5,Lyo3-2Mon;Lyo0-2Mon;Mon2-0Lyo;Mon1-3Lyo;Lyo1-2Mon
 Lyon,Montpellier,8,4.25,0.75,0.75,Lyo5-4Mon;Lyo1-4Mon;Mon1-2Lyo;Lyo1-0Mon;Mon1-4Lyo
 Lyon,Nantes,10,2.1,0.3,0.4,Nan1-3Lyo;Lyo2-0Nan;Nan1-1Lyo;Lyo3-0Nan;Nan0-1Lyo
-Lyon,Nice,10,2.8,0.4,0.5,Lyo1-0Nic;Lyo4-1Nic;Nic0-2Lyo;Nic3-2Lyo;Lyo2-0Nic
+Lyon,Nice,11,2.82,0.45,0.55,Lyo4-1Nic;Nic0-2Lyo;Nic3-2Lyo;Lyo2-0Nic;Lyo2-1Nic
 Lyon,Paris FC,3,2.67,0.33,0.67,Par3-3Lyo;Lyo1-1Par;Par0-0Lyo
 Lyon,Paris SG,10,3.4,0.7,0.8,Par4-1Lyo;Par3-1Lyo;Lyo2-3Par;Lyo2-3Par;Par1-2Lyo
 Lyon,Reims,8,2.25,0.38,0.5,Lyo3-0Rei;Rei2-0Lyo;Lyo1-1Rei;Rei1-1Lyo;Lyo4-0Rei
@@ -260,13 +260,13 @@ Nice,Strasbourg,11,2.64,0.55,0.64,Nic2-1Str;Str2-2Nic;Nic1-1Str;Str3-1Nic;Nic2-1
 Nice,Toulouse,8,2.12,0.25,0.62,Tou2-1Nic;Nic1-1Tou;Tou1-1Nic;Nic0-1Tou;Tou5-1Nic
 Nice,Troyes,4,2.0,0.25,0.25,Tro1-0Nic;Nic1-0Tro;Nic3-2Tro;Tro0-1Nic
 Paris FC,Paris SG,2,3.0,1.0,1.0,Par2-1Par;Par2-1Par
-Paris FC,Rennes,2,2.0,0.5,0.5,Par0-1Ren;Ren2-1Par
+Paris FC,Rennes,3,3.67,0.67,0.67,Par0-1Ren;Ren2-1Par;Par4-3Ren
 Paris FC,Strasbourg,3,2.67,0.67,0.67,Par2-3Str;Str0-0Par;Par2-1Str
 Paris FC,Toulouse,2,2.5,0.5,0.5,Par0-3Tou;Tou1-1Par
 Paris SG,Reims,8,2.38,0.38,0.5,Par1-1Rei;Rei0-3Par;Par2-2Rei;Rei1-1Par;Par1-1Rei
 Paris SG,Rennes,11,3.09,0.55,0.55,Par3-1Ren;Ren1-4Par;Par5-0Ren;Ren3-1Par;Ren2-2Par
 Paris SG,St Etienne,4,4.5,1.0,1.0,St 1-3Par;Par3-1St ;Par2-1St ;St 1-6Par
-Paris SG,Strasbourg,10,4.1,0.9,0.9,Str1-2Par;Par4-2Str;Str2-1Par;Par3-3Str;Str1-2Par
+Paris SG,Strasbourg,11,4.09,0.91,0.91,Par4-2Str;Str2-1Par;Par3-3Str;Str1-2Par;Str1-3Par
 Paris SG,Toulouse,8,3.62,0.75,0.62,Par1-3Tou;Par3-0Tou;Tou0-1Par;Tou3-6Par;Par3-1Tou
 Paris SG,Troyes,4,4.5,1.0,1.0,Tro1-2Par;Par2-2Tro;Par4-3Tro;Tro1-3Par
 Reims,Rennes,8,3.12,0.75,0.62,Ren3-0Rei;Ren3-1Rei;Rei2-1Ren;Rei2-1Ren;Ren1-0Rei

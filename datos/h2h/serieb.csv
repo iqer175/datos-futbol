@@ -52,7 +52,7 @@ Ascoli,Vicenza,2,2.5,0.5,0.5,Asc2-1Vic;Vic2-0Asc
 Avellino,Bari,2,2.0,0.0,0.5,Bar1-1Ave;Ave2-0Bar
 Avellino,Carrarese,2,5.0,1.0,1.0,Car3-4Ave;Ave1-2Car
 Avellino,Catanzaro,2,1.5,0.0,0.5,Cat1-0Ave;Ave1-1Cat
-Avellino,Cesena,2,3.5,1.0,0.5,Ces3-0Ave;Ave3-1Ces
+Avellino,Cesena,3,3.0,0.67,0.67,Ces3-0Ave;Ave3-1Ces;Ces1-1Ave
 Avellino,Empoli,2,2.0,0.5,0.0,Ave0-3Emp;Emp1-0Ave
 Avellino,Frosinone,2,3.0,0.5,0.5,Fro2-0Ave;Ave1-3Fro
 Avellino,Juve Stabia,2,1.0,0.0,0.0,Juv2-0Ave;Ave0-0Juv
@@ -126,7 +126,7 @@ Benevento,Spal,4,3.0,0.75,1.0,Spa1-1Ben;Ben1-2Spa;Spa1-2Ben;Ben1-3Spa
 Benevento,Sudtirol,3,2.0,0.0,0.67,Sud1-1Ben;Ben0-2Sud;Ben1-1Sud
 Benevento,Ternana,4,3.5,0.75,0.75,Ter0-2Ben;Ben1-2Ter;Ben2-3Ter;Ter2-2Ben
 Benevento,Venezia,2,2.5,0.5,0.5,Ven0-2Ben;Ben1-2Ven
-Benevento,Vicenza,2,3.0,0.5,0.5,Vic2-3Ben;Ben1-0Vic
+Benevento,Vicenza,3,3.33,0.67,0.67,Vic2-3Ben;Ben1-0Vic;Ben2-2Vic
 Brescia,Cagliari,2,2.5,0.5,1.0,Cag2-1Bre;Bre1-1Cag
 Brescia,Carrarese,2,1.5,0.5,0.5,Bre0-0Car;Car1-2Bre
 Brescia,Catanzaro,4,3.75,0.75,1.0,Cat2-3Bre;Bre1-1Cat;Cat2-1Bre;Bre2-3Cat
@@ -185,7 +185,7 @@ Carrarese,Empoli,3,2.67,0.67,0.33,Emp2-2Car;Car3-0Emp;Car0-1Emp
 Carrarese,Frosinone,4,1.75,0.25,0.0,Fro0-1Car;Car0-1Fro;Car0-2Fro;Fro3-0Car
 Carrarese,Juve Stabia,4,2.0,0.5,0.5,Car0-0Juv;Juv2-1Car;Car3-0Juv;Juv1-1Car
 Carrarese,Mantova,5,2.0,0.4,0.8,Car1-1Man;Man2-1Car;Car0-0Man;Man1-1Car;Car1-2Man
-Carrarese,Modena,4,1.75,0.25,0.25,Mod2-0Car;Car2-1Mod;Car0-0Mod;Mod2-0Car
+Carrarese,Modena,5,2.0,0.4,0.4,Mod2-0Car;Car2-1Mod;Car0-0Mod;Mod2-0Car;Car2-1Mod
 Carrarese,Monza,2,3.0,0.5,0.5,Mon4-1Car;Car0-1Mon
 Carrarese,Padova,3,1.0,0.0,0.0,Car0-0Pad;Pad1-0Car;Pad0-2Car
 Carrarese,Palermo,4,2.25,0.25,0.25,Car1-0Pal;Pal1-1Car;Pal5-0Car;Car0-1Pal
@@ -339,7 +339,7 @@ Cremonese,Monza,2,3.0,0.5,0.5,Mon1-0Cre;Cre3-2Mon
 Cremonese,Palermo,4,3.75,0.75,0.75,Pal3-2Cre;Cre2-2Pal;Cre0-1Pal;Pal2-3Cre
 Cremonese,Parma,4,3.0,0.75,1.0,Par1-2Cre;Cre3-1Par;Cre1-2Par;Par1-1Cre
 Cremonese,Perugia,2,1.5,0.5,0.0,Cre0-3Per;Per0-0Cre
-Cremonese,Pisa,6,2.5,0.67,0.67,Pis3-0Cre;Pis0-0Cre;Cre2-1Pis;Cre1-3Pis;Pis2-1Cre
+Cremonese,Pisa,7,2.71,0.71,0.71,Pis0-0Cre;Cre2-1Pis;Cre1-3Pis;Pis2-1Cre;Pis3-1Cre
 Cremonese,Pordenone,2,3.5,1.0,1.0,Por2-2Cre;Cre2-1Por
 Cremonese,Reggiana,4,2.75,0.5,0.75,Reg2-2Cre;Cre1-1Reg;Cre0-2Reg;Reg1-2Cre
 Cremonese,Reggina,2,2.5,0.5,1.0,Reg1-2Cre;Cre1-1Reg
@@ -435,7 +435,7 @@ Juve Stabia,Salernitana,2,2.0,0.5,0.5,Sal1-2Juv;Juv1-0Sal
 Juve Stabia,Sampdoria,5,1.8,0.4,0.6,Sam1-2Juv;Juv0-0Sam;Sam1-0Juv;Juv1-1Sam;Sam1-2Juv
 Juve Stabia,Sassuolo,2,3.0,0.5,0.5,Juv2-2Sas;Sas2-0Juv
 Juve Stabia,Spezia,4,3.25,0.75,0.75,Juv0-3Spe;Spe1-1Juv;Spe1-3Juv;Juv3-1Spe
-Juve Stabia,Sudtirol,4,2.0,0.25,0.5,Juv2-1Sud;Sud2-0Juv;Juv1-0Sud;Sud1-1Juv
+Juve Stabia,Sudtirol,5,2.2,0.4,0.4,Juv2-1Sud;Sud2-0Juv;Juv1-0Sud;Sud1-1Juv;Juv3-0Sud
 Juve Stabia,Venezia,2,2.0,0.5,0.5,Juv0-0Ven;Ven3-1Juv
 Juve Stabia,Virtus Entella,3,1.67,0.0,0.67,Vir1-1Juv;Juv1-0Vir;Vir1-1Juv
 Lecce,Monza,2,2.0,0.5,0.0,Lec3-0Mon;Mon0-1Lec
@@ -460,7 +460,7 @@ Lecco,Venezia,2,3.5,1.0,1.0,Ven2-2Lec;Lec1-2Ven
 Mantova,Modena,4,2.75,0.75,0.75,Man0-0Mod;Mod3-1Man;Man1-3Mod;Mod2-1Man
 Mantova,Monza,2,3.0,0.5,0.5,Mon1-0Man;Man3-2Mon
 Mantova,Padova,2,2.0,0.5,0.5,Man1-0Pad;Pad1-2Man
-Mantova,Palermo,4,2.25,0.5,0.75,Man0-0Pal;Pal2-2Man;Man1-1Pal;Pal2-1Man
+Mantova,Palermo,5,2.2,0.4,0.6,Man0-0Pal;Pal2-2Man;Man1-1Pal;Pal2-1Man;Man0-2Pal
 Mantova,Pescara,2,3.5,1.0,1.0,Man2-1Pes;Pes2-2Man
 Mantova,Pisa,3,4.33,1.0,1.0,Man2-3Pis;Pis3-1Man;Man2-2Pis
 Mantova,Reggiana,4,2.0,0.25,0.25,Reg2-2Man;Man0-2Reg;Man0-1Reg;Reg1-0Man
@@ -513,7 +513,7 @@ Padova,Sampdoria,2,1.5,0.0,0.5,Pad1-1Sam;Sam1-0Pad
 Padova,Spezia,2,3.0,0.5,1.0,Spe1-1Pad;Pad2-2Spe
 Padova,Sudtirol,2,2.5,0.5,0.5,Pad1-1Sud;Sud3-0Pad
 Padova,Venezia,2,3.0,0.5,0.5,Pad0-2Ven;Ven3-1Pad
-Padova,Virtus Entella,2,2.0,0.5,0.5,Pad2-1Vir;Vir1-0Pad
+Padova,Virtus Entella,3,2.33,0.67,0.67,Pad2-1Vir;Vir1-0Pad;Pad1-2Vir
 Palermo,Parma,4,2.5,0.5,0.5,Pal1-0Par;Par2-1Pal;Par3-3Pal;Pal0-0Par
 Palermo,Perugia,2,4.0,0.5,0.5,Pal2-0Per;Per3-3Pal
 Palermo,Pescara,2,4.0,1.0,0.5,Pal5-0Pes;Pes2-1Pal
