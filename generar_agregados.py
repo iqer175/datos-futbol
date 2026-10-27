@@ -26,7 +26,13 @@ warnings.filterwarnings('ignore')
 HALF_LIFE = 180.0   # dias; un partido de hace 6 meses pesa la mitad que uno de hoy
 K_SHRINK  = 6.0     # partidos virtuales de media de liga: frena las muestras cortas
 MAX_N     = 40      # tope de partidos por equipo
-TEMPS_ACT = ('2026', '2026-27')   # actualizar cada verano
+H2H_ACTIVOS_DIAS = 400   # h2h solo entre equipos que siguen en la liga (limita el tamano)
+
+
+def temporadas_actuales(hoy):
+    """('2026', '2026-27') en octubre de 2026; se actualiza sola cada verano."""
+    a = hoy.year if hoy.month >= 7 else hoy.year - 1
+    return (str(hoy.year), f"{a}-{str(a + 1)[-2:]}")
 
 BASE  = os.path.dirname(os.path.abspath(__file__))
 DATOS = os.path.join(BASE, 'datos')
@@ -124,6 +130,11 @@ def main():
     # ---- 4. head to head por liga ------------------------------------------
     for liga, g in df.groupby('liga'):
         g = g.copy()
+        # solo pares de equipos activos ahora en la liga: los que bajaron o
+        # desaparecieron no se pueden enfrentar y solo engordan el archivo
+        rec = g[g.fecha >= hoy - pd.Timedelta(days=H2H_ACTIVOS_DIAS)]
+        activos = set(rec.local) | set(rec.visitante)
+        g = g[g.local.isin(activos) & g.visitante.isin(activos)]
         g['par'] = [' | '.join(sorted([l, v])) for l, v in zip(g.local, g.visitante)]
         rows = []
         for par, h in g.groupby('par'):
@@ -140,7 +151,7 @@ def main():
             pd.DataFrame(rows).to_csv(os.path.join(DATOS, 'h2h', f'{slug(liga)}.csv'), index=False)
 
     # ---- 5. cuotas de cierre de la temporada en curso (para el CLV) ---------
-    act = df[df.temporada.isin(TEMPS_ACT)]
+    act = df[df.temporada.astype(str).isin(temporadas_actuales(hoy))]
     for liga, g in act.groupby('liga'):
         g[['fecha', 'local', 'visitante', 'gl', 'gv', 'b365c_1', 'b365c_x', 'b365c_2',
            'avgc_1', 'avgc_x', 'avgc_2', 'b365c_over25', 'b365c_under25']].to_csv(

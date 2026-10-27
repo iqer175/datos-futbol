@@ -200,7 +200,7 @@ def descargar_todo(n_temporadas, incluir_extra):
             df["temporada_src"] = df.get("Season", pd.NA)
             norm = normalizar(df, MAPA_EXTRA, nombre, pais, nivel, "varias")
             corte = pd.Timestamp.now() - pd.DateOffset(years=n_temporadas)
-            norm = norm[norm["fecha"] >= corte]
+            norm = norm[norm["fecha"] >= corte].copy()
             norm["temporada"] = norm["fecha"].dt.year.astype(str)
             trozos.append(norm)
             print(f"  ok  {pais_cod:4s} {nombre:22s} {len(norm):6d} partidos")
@@ -266,6 +266,8 @@ def calcular_elo(df):
             "local": fila.local, "visitante": fila.visitante,
             "elo_l_pre": round(el, 1), "elo_v_pre": round(ev, 1),
             "prob_elo_l": round(esperado_l, 4),
+            # Elo DESPUES del partido: es el que vale para el siguiente partido
+            "elo_l_post": round(el + cambio, 1), "elo_v_post": round(ev - cambio, 1),
         })
 
     return elo, liga_equipo, pd.DataFrame(historial)
@@ -344,7 +346,8 @@ def main():
     partidos_out["fecha"] = partidos_out["fecha"].dt.strftime("%Y-%m-%d")
     partidos_out = partidos_out.merge(
         historial[["fecha", "local", "visitante", "elo_l_pre",
-                   "elo_v_pre", "prob_elo_l"]].assign(
+                   "elo_v_pre", "prob_elo_l", "elo_l_post",
+                   "elo_v_post"]].assign(
             fecha=lambda d: d["fecha"].dt.strftime("%Y-%m-%d")),
         on=["fecha", "local", "visitante"], how="left")
 

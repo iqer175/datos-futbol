@@ -151,9 +151,14 @@ class Base:
         self.df = df
         self.hasta = pd.Timestamp(hasta) if hasta is not None else df.fecha.max() + pd.Timedelta(days=1)
         self.co = coeficientes(df, self.hasta)
+        # Elo DESPUES de cada partido: el ultimo valor antes de 'hasta' es la fuerza
+        # vigente. Con elo_*_pre el motor iba un partido por detras (mediana 9.5 puntos).
+        # Si el CSV es antiguo y no trae las columnas post, se cae al pre.
+        el_l = df.elo_l_post if 'elo_l_post' in df else df.elo_l_pre
+        el_v = df.elo_v_post if 'elo_v_post' in df else df.elo_v_pre
         L = pd.concat([
-            df.assign(eq=df.local, cf=df.corners_l, cc=df.corners_v, am=df.amar_l, elo=df.elo_l_pre),
-            df.assign(eq=df.visitante, cf=df.corners_v, cc=df.corners_l, am=df.amar_v, elo=df.elo_v_pre),
+            df.assign(eq=df.local, cf=df.corners_l, cc=df.corners_v, am=df.amar_l, elo=el_l),
+            df.assign(eq=df.visitante, cf=df.corners_v, cc=df.corners_l, am=df.amar_v, elo=el_v),
         ])[['eq','liga','pais','fecha','cf','cc','am','elo']].sort_values(['eq','fecha'])
         self.idx = {eq: g for eq, g in L.groupby('eq')}
         self.glm = ajustar_glm(df, self.hasta)

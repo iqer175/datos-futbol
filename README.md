@@ -1,16 +1,23 @@
 # Datos de fútbol automatizados
 
-Descarga las 10 ligas seleccionadas de football-data.co.uk (más Brasil y
-Argentina para Libertadores), las consolida y calcula ratings Elo. Se actualiza
-solo los lunes y jueves mediante GitHub Actions.
+Descarga 12 ligas europeas de football-data.co.uk (más Brasil y Argentina
+para Libertadores), las consolida, calcula ratings Elo y genera agregados
+ligeros. Se actualiza sola los lunes, martes y jueves mediante GitHub Actions.
 
 ## Qué genera
 
 | Fichero | Contenido |
 |---|---|
-| `datos/partidos.csv` | Un partido por fila: resultado, tiros, córners, tarjetas, árbitro, cuotas bet365 de apertura y cierre, media de mercado, y el Elo previo de ambos equipos |
+| `datos/partidos.csv` | Un partido por fila: resultado, tiros, córners, tarjetas, árbitro, cuotas bet365 de apertura y cierre, media de mercado, y el Elo de ambos equipos antes (`elo_*_pre`) y después (`elo_*_post`) del partido |
 | `datos/ratings.csv` | Elo actual por equipo + goles a favor y en contra en casa y fuera de los últimos 20 partidos |
 | `datos/resumen.json` | Fecha de actualización, conteos y cobertura por liga |
+| `datos/agregados/` | Perfil ponderado por equipo y liga, medias por liga y temporada, árbitros (generado por `generar_agregados.py`) |
+| `datos/h2h/` | Enfrentamientos directos entre equipos activos de cada liga |
+| `datos/cierres/` | Cuotas de cierre de la temporada en curso, para medir el CLV |
+| `datos/indice.json` | Rutas, tamaños y parámetros de los agregados |
+
+`motor.py` es el motor de pronóstico (Elo + GLM de Poisson); no lo ejecuta el
+workflow, se usa desde la skill.
 
 ## Montaje (una sola vez, ~10 minutos)
 
@@ -22,8 +29,9 @@ solo los lunes y jueves mediante GitHub Actions.
 
    ```
    actualizar_datos.py
+   generar_agregados.py
+   motor.py
    requirements.txt
-   .gitignore
    .github/workflows/actualizar.yml
    datos/                    (vacía, se rellena sola)
    ```
@@ -52,9 +60,9 @@ python actualizar_datos.py --sin-extra      # sin Brasil ni Argentina
 
 ## Ligas incluidas
 
-Championship, Segunda División, Premier League, LaLiga, Serie A, Serie B,
-Bundesliga, Ligue 1, Eredivisie, Liga Portugal, más Brasileirão y Primera
-argentina.
+Premier League, Championship, LaLiga, Segunda División, Serie A, Serie B,
+Bundesliga, 2. Bundesliga, Ligue 1, Ligue 2, Eredivisie y Liga Portugal, más
+Brasileirão y Primera argentina.
 
 ## Notas
 
@@ -64,6 +72,8 @@ argentina.
   relativa. Es lo que permite valorar un cruce de Champions. Los valores
   iniciales son una estimación razonable; ajústalos conforme acumules
   resultados europeos reales.
+
+- **Árbitros.** La fuente solo trae el árbitro en Premier y Championship.
 
 - **Cuotas de Pinnacle.** Desde el 23/07/2025 la fuente advierte de que las
   cuotas de Pinnacle van desactualizadas y ya no entran en el cálculo de la
