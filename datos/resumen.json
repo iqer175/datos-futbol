@@ -1,9 +1,9 @@
 {
-  "actualizado": "2026-10-27T11:31:45+00:00",
-  "partidos_totales": 29078,
+  "actualizado": "2026-10-29T12:41:21+00:00",
+  "partidos_totales": 29096,
   "equipos_activos": 310,
   "temporadas_descargadas": 6,
-  "ultimo_partido": "2026-10-27",
+  "ultimo_partido": "2026-10-28",
   "cobertura": {
     "2. Bundesliga": {
       "partidos": 1611,
@@ -54,12 +54,12 @@
       "ultimo": "2026-10-27"
     },
     "Serie A": {
-      "partidos": 1980,
-      "ultimo": "2026-10-25"
+      "partidos": 1988,
+      "ultimo": "2026-10-28"
     },
     "Serie B": {
-      "partidos": 1980,
-      "ultimo": "2026-10-25"
+      "partidos": 1990,
+      "ultimo": "2026-10-28"
     }
   },
   "aviso_pinnacle": "Desde 23/07/2025 las cuotas de Pinnacle en la fuente son poco fiables y ya no entran en la media de mercado. Usa avgc_* como referencia de cierre."

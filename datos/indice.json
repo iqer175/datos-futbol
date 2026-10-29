@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-27T11:31:52+00:00",
-  "ultimo_partido": "2026-10-27",
+  "generado": "2026-10-29T12:41:28+00:00",
+  "ultimo_partido": "2026-10-28",
   "parametros": {
     "half_life_dias": 180.0,
     "k_shrink": 6.0,
@@ -51,8 +51,8 @@
     "h2h/ligue2.csv": 12.6,
     "h2h/portugal.csv": 12.6,
     "h2h/premier.csv": 16.3,
-    "h2h/seriea.csv": 17.4,
-    "h2h/serieb.csv": 15.8,
+    "h2h/seriea.csv": 17.5,
+    "h2h/serieb.csv": 15.9,
     "cierres/argentina.csv": 28.1,
     "cierres/brasil.csv": 17.1,
     "cierres/bundesliga.csv": 4.6,
@@ -65,8 +65,8 @@
     "cierres/ligue2.csv": 6.1,
     "cierres/portugal.csv": 5.8,
     "cierres/premier.csv": 5.7,
-    "cierres/seriea.csv": 5.3,
-    "cierres/serieb.csv": 5.5
+    "cierres/seriea.csv": 5.8,
+    "cierres/serieb.csv": 6.2
   },
   "aviso": "todos los archivos por debajo de 45 KB"
 }
