@@ -5,7 +5,7 @@ Angers,Le Havre,5,1.6,0.2,0.6,Le 0-1Ang;Ang1-1Le ;Le 2-1Ang;Ang1-1Le ;Le 0-0Ang
 Angers,Lens,8,3.0,0.75,0.62,Len3-0Ang;Ang0-1Len;Len1-0Ang;Ang1-2Len;Len5-1Ang
 Angers,Lille,9,1.56,0.0,0.22,Lil2-0Ang;Ang0-2Lil;Lil1-0Ang;Ang0-1Lil;Ang0-2Lil
 Angers,Lorient,7,1.14,0.14,0.14,Ang1-2Lor;Lor0-0Ang;Ang2-0Lor;Lor2-0Ang;Ang0-0Lor
-Angers,Lyon,8,2.88,0.62,0.25,Ang1-3Lyo;Ang0-3Lyo;Lyo2-0Ang;Lyo1-0Ang;Ang0-0Lyo
+Angers,Lyon,9,2.78,0.56,0.22,Ang0-3Lyo;Lyo2-0Ang;Lyo1-0Ang;Ang0-0Lyo;Lyo2-0Ang
 Angers,Marseille,9,4.0,0.67,0.67,Mar1-1Ang;Ang0-2Mar;Mar2-2Ang;Ang2-5Mar;Ang2-5Mar
 Angers,Metz,4,2.25,0.25,0.5,Ang3-2Met;Met1-0Ang;Met1-1Ang;Ang1-0Met
 Angers,Monaco,8,2.25,0.25,0.38,Ang1-2Mon;Mon0-1Ang;Ang0-2Mon;Ang1-1Mon;Mon2-0Ang
@@ -31,7 +31,7 @@ Auxerre,Nice,7,2.43,0.43,0.86,Aux2-1Nic;Nic1-1Aux;Nic3-1Aux;Aux2-1Nic;Aux1-0Nic
 Auxerre,Paris FC,2,1.0,0.0,0.5,Par1-1Aux;Aux0-0Par
 Auxerre,Paris SG,6,2.5,0.5,0.33,Aux1-2Par;Aux0-0Par;Par3-1Aux;Par2-0Aux;Aux0-1Par
 Auxerre,Rennes,7,3.14,0.71,0.29,Aux4-0Ren;Ren0-1Aux;Ren2-2Aux;Aux0-3Ren;Ren4-1Aux
-Auxerre,Strasbourg,6,1.83,0.33,0.17,Str2-0Aux;Str3-1Aux;Aux0-1Str;Str3-0Aux;Aux0-0Str
+Auxerre,Strasbourg,7,2.43,0.43,0.29,Str3-1Aux;Aux0-1Str;Str3-0Aux;Aux0-0Str;Str5-1Aux
 Auxerre,Toulouse,6,2.33,0.33,0.33,Tou1-1Aux;Tou2-0Aux;Aux2-2Tou;Aux1-0Tou;Tou0-0Aux
 Auxerre,Troyes,2,1.5,0.0,0.5,Tro1-1Aux;Aux1-0Tro
 Brest,Le Havre,7,1.86,0.29,0.29,Bre2-0Le ;Le 0-1Bre;Le 1-0Bre;Bre2-0Le ;Le 1-2Bre
@@ -60,11 +60,11 @@ Le Havre,Monaco,7,1.86,0.29,0.57,Mon3-1Le ;Le 1-1Mon;Mon3-1Le ;Le 0-0Mon;Le 0-1M
 Le Havre,Nantes,6,2.0,0.17,0.33,Le 0-1Nan;Nan0-2Le ;Le 3-2Nan;Le 1-1Nan;Nan2-0Le 
 Le Havre,Nice,6,3.0,0.67,0.83,Nic1-0Le ;Nic2-1Le ;Le 1-3Nic;Le 3-1Nic;Nic1-1Le 
 Le Havre,Paris FC,2,2.5,0.5,0.5,Le 0-0Par;Par3-2Le 
-Le Havre,Paris SG,6,3.33,0.67,0.5,Par3-3Le ;Le 1-4Par;Par2-1Le ;Par3-0Le ;Le 0-1Par
+Le Havre,Paris SG,7,3.71,0.71,0.57,Le 1-4Par;Par2-1Le ;Par3-0Le ;Le 0-1Par;Le 1-5Par
 Le Havre,Rennes,6,3.0,0.5,0.67,Le 0-1Ren;Ren1-0Le ;Le 1-5Ren;Le 2-2Ren;Ren1-1Le 
 Le Havre,Strasbourg,6,3.17,0.83,0.67,Le 3-1Str;Le 0-3Str;Str2-3Le ;Str1-0Le ;Le 2-1Str
 Le Havre,Toulouse,7,2.71,0.57,0.57,Tou2-0Le ;Le 1-4Tou;Tou0-0Le ;Le 2-1Tou;Tou3-2Le 
-Lens,Lille,10,2.1,0.4,0.4,Lil2-1Len;Len0-2Lil;Lil1-0Len;Len3-0Lil;Lil3-0Len
+Lens,Lille,11,2.0,0.36,0.36,Len0-2Lil;Lil1-0Len;Len3-0Lil;Lil3-0Len;Lil1-0Len
 Lens,Lorient,9,2.89,0.56,0.44,Lor0-0Len;Len2-0Lor;Len3-0Lor;Lor2-1Len;Len0-1Lor
 Lens,Lyon,11,2.55,0.64,0.55,Len0-0Lyo;Lyo1-2Len;Len0-1Lyo;Lyo0-4Len;Len2-1Lyo
 Lens,Marseille,10,2.7,0.6,0.6,Mar2-1Len;Len1-3Mar;Mar0-1Len;Len2-1Mar;Mar3-1Len
@@ -122,7 +122,7 @@ Marseille,Paris FC,3,5.33,1.0,1.0,Mar5-2Par;Par2-2Mar;Mar2-3Par
 Marseille,Paris SG,11,2.64,0.64,0.27,Mar0-3Par;Par3-1Mar;Mar1-0Par;Par5-0Mar;Mar1-2Par
 Marseille,Rennes,11,2.36,0.27,0.36,Ren1-2Mar;Mar4-2Ren;Ren1-0Mar;Mar3-1Ren;Ren1-0Mar
 Marseille,Strasbourg,11,2.91,0.55,0.64,Str1-0Mar;Mar1-1Str;Str1-2Mar;Mar2-2Str;Mar4-0Str
-Marseille,Toulouse,8,3.75,0.75,0.75,Tou2-2Mar;Tou1-3Mar;Mar3-2Tou;Mar2-2Tou;Tou0-1Mar
+Marseille,Toulouse,9,3.56,0.67,0.67,Tou1-3Mar;Mar3-2Tou;Mar2-2Tou;Tou0-1Mar;Mar2-0Tou
 Marseille,Troyes,5,2.2,0.2,0.4,Mar1-0Tro;Tro1-1Mar;Tro0-2Mar;Mar3-1Tro;Tro0-2Mar
 Metz,Monaco,6,4.5,1.0,0.83,Met1-2Mon;Mon2-1Met;Met2-5Mon;Mon5-2Met;Met1-2Mon
 Metz,Nantes,6,1.67,0.17,0.17,Met0-0Nan;Met3-1Nan;Nan0-2Met;Nan0-2Met;Met0-0Nan
@@ -135,7 +135,7 @@ Metz,Toulouse,4,3.75,0.75,0.25,Tou3-0Met;Met0-1Tou;Tou4-0Met;Met3-4Tou
 Metz,Troyes,2,1.0,0.0,0.0,Met0-2Tro;Tro0-0Met
 Monaco,Nantes,10,4.5,0.8,0.8,Mon4-0Nan;Nan2-2Mon;Mon7-1Nan;Nan3-5Mon;Mon3-1Nan
 Monaco,Nice,10,2.5,0.6,0.5,Nic2-3Mon;Nic2-1Mon;Mon2-1Nic;Mon2-2Nic;Nic0-0Mon
-Monaco,Paris FC,2,3.0,0.5,0.5,Mon0-1Par;Par4-1Mon
+Monaco,Paris FC,3,3.33,0.67,0.67,Mon0-1Par;Par4-1Mon;Par3-1Mon
 Monaco,Paris SG,11,3.36,0.64,0.64,Mon2-4Par;Par4-1Mon;Mon1-0Par;Par1-3Mon;Par1-2Mon
 Monaco,Rennes,10,3.3,0.7,0.7,Mon1-0Ren;Ren1-2Mon;Mon3-2Ren;Ren4-1Mon;Mon4-0Ren
 Monaco,Strasbourg,11,3.36,0.55,0.64,Str1-3Mon;Mon0-0Str;Mon3-2Str;Str5-4Mon;Str1-1Mon
@@ -150,7 +150,7 @@ Nantes,Toulouse,8,1.75,0.5,0.5,Tou1-2Nan;Tou0-0Nan;Nan0-0Tou;Tou2-2Nan;Nan0-0Tou
 Nantes,Troyes,4,1.75,0.25,0.25,Nan2-0Tro;Tro1-0Nan;Tro0-0Nan;Nan2-2Tro
 Nice,Paris FC,3,2.0,0.33,0.33,Nic1-1Par;Par1-0Nic;Par3-0Nic
 Nice,Paris SG,10,2.5,0.5,0.5,Nic1-2Par;Nic1-1Par;Par1-3Nic;Par1-0Nic;Nic0-4Par
-Nice,Rennes,10,2.9,0.6,0.6,Ren2-0Nic;Nic3-2Ren;Ren2-0Nic;Ren1-2Nic;Nic0-4Ren
+Nice,Rennes,11,3.27,0.64,0.64,Nic3-2Ren;Ren2-0Nic;Ren1-2Nic;Nic0-4Ren;Nic5-2Ren
 Nice,Strasbourg,11,2.64,0.55,0.64,Nic2-1Str;Str2-2Nic;Nic1-1Str;Str3-1Nic;Nic2-1Str
 Nice,Toulouse,8,2.12,0.25,0.62,Tou2-1Nic;Nic1-1Tou;Tou1-1Nic;Nic0-1Tou;Tou5-1Nic
 Nice,Troyes,4,2.0,0.25,0.25,Tro1-0Nic;Nic1-0Tro;Nic3-2Tro;Tro0-1Nic

@@ -44,7 +44,7 @@ Blackburn,Sheffield United,9,2.67,0.56,0.56,Bla0-2She;She1-1Bla;Bla1-3She;She1-3
 Blackburn,Sheffield Weds,6,2.33,0.5,0.5,Bla1-3She;She0-1Bla;Bla2-2She;She0-0Bla;Bla1-0She
 Blackburn,Southampton,4,2.5,0.75,0.25,Sou4-0Bla;Bla0-0Sou;Bla2-1Sou;Sou3-0Bla
 Blackburn,Stoke,10,2.2,0.3,0.4,Bla3-1Sto;Bla0-2Sto;Sto1-0Bla;Bla1-1Sto;Sto1-1Bla
-Blackburn,Swansea,10,2.3,0.6,0.4,Swa2-1Bla;Bla1-0Swa;Swa3-0Bla;Bla1-2Swa;Swa3-1Bla
+Blackburn,Swansea,11,2.45,0.64,0.36,Bla1-0Swa;Swa3-0Bla;Bla1-2Swa;Swa3-1Bla;Swa4-0Bla
 Blackburn,Watford,8,1.88,0.25,0.5,Bla1-2Wat;Wat1-0Bla;Bla2-1Wat;Wat0-1Bla;Bla1-1Wat
 Blackburn,West Brom,11,2.18,0.45,0.55,Bla0-0Wes;Wes0-2Bla;Wes1-0Bla;Bla0-0Wes;Wes3-2Bla
 Blackburn,Wrexham,3,2.0,0.0,0.33,Wre1-1Bla;Bla0-2Wre;Bla2-0Wre
@@ -79,7 +79,7 @@ Burnley,Middlesbrough,5,2.2,0.4,0.8,Bur3-1Mid;Mid1-2Bur;Bur1-1Mid;Mid0-0Bur;Bur1
 Burnley,Millwall,4,2.25,0.25,0.5,Bur2-0Mil;Mil1-1Bur;Mil1-0Bur;Bur3-1Mil
 Burnley,Norwich,5,3.0,0.8,0.6,Bur1-0Nor;Nor0-3Bur;Nor1-2Bur;Bur2-1Nor;Nor4-1Bur
 Burnley,Oxford,2,0.5,0.0,0.0,Oxf0-0Bur;Bur1-0Oxf
-Burnley,Portsmouth,2,1.5,0.5,0.5,Bur2-1Por;Por0-0Bur
+Burnley,Portsmouth,3,1.0,0.33,0.33,Bur2-1Por;Por0-0Bur;Bur0-0Por
 Burnley,Preston,4,1.25,0.25,0.25,Pre1-1Bur;Bur3-0Pre;Bur0-0Pre;Pre0-0Bur
 Burnley,QPR,4,2.75,0.75,0.25,QPR0-3Bur;Bur1-2QPR;Bur0-0QPR;QPR0-5Bur
 Burnley,Sheffield United,4,3.5,0.5,0.5,She5-2Bur;Bur2-0She;She0-2Bur;Bur2-1She
@@ -112,7 +112,7 @@ Charlton,Derby,3,2.67,0.67,1.0,Der1-1Cha;Cha1-2Der;Cha2-1Der
 Charlton,Hull,2,2.5,0.5,1.0,Hul1-1Cha;Cha2-1Hul
 Charlton,Ipswich,2,3.0,1.0,0.5,Ips0-3Cha;Cha1-2Ips
 Charlton,Leicester,2,1.5,0.0,0.0,Cha0-1Lei;Lei0-2Cha
-Charlton,Middlesbrough,2,2.0,0.5,0.5,Cha1-2Mid;Mid0-1Cha
+Charlton,Middlesbrough,3,2.33,0.67,0.33,Cha1-2Mid;Mid0-1Cha;Mid3-0Cha
 Charlton,Millwall,2,3.0,0.5,0.5,Cha1-1Mil;Mil4-0Cha
 Charlton,Norwich,3,2.0,0.33,0.33,Nor1-0Cha;Cha0-1Nor;Cha1-3Nor
 Charlton,Oxford,2,1.5,0.0,0.5,Cha1-0Oxf;Oxf1-1Cha
@@ -150,7 +150,7 @@ Derby,Hull,6,2.83,0.5,0.67,Der3-1Hul;Der1-1Hul;Hul0-1Der;Der2-1Hul;Hul4-2Der
 Derby,Ipswich,2,3.5,1.0,1.0,Ips2-2Der;Der1-2Ips
 Derby,Leicester,2,3.5,1.0,1.0,Der1-3Lei;Lei2-1Der
 Derby,Middlesbrough,6,1.83,0.33,0.33,Mid4-1Der;Der1-0Mid;Mid1-0Der;Mid2-1Der;Der1-0Mid
-Derby,Millwall,6,1.83,0.17,0.67,Der1-2Mil;Mil1-1Der;Der0-1Mil;Der1-1Mil;Mil1-0Der
+Derby,Millwall,7,2.29,0.29,0.71,Mil1-1Der;Der0-1Mil;Der1-1Mil;Mil1-0Der;Mil4-1Der
 Derby,Norwich,4,2.75,0.5,0.75,Der2-3Nor;Nor1-1Der;Der1-0Nor;Nor2-1Der
 Derby,Oxford,4,1.0,0.0,0.25,Oxf1-1Der;Der0-0Oxf;Oxf1-0Der;Der1-0Oxf
 Derby,Portsmouth,5,2.6,0.4,0.4,Der4-0Por;Por2-2Der;Der1-1Por;Por0-1Der;Por0-2Der
@@ -248,7 +248,7 @@ Norwich,Sheffield Weds,6,3.17,0.5,0.67,She2-2Nor;She2-0Nor;Nor2-3She;She1-1Nor;N
 Norwich,Southampton,5,3.0,0.4,0.6,Sou4-4Nor;Nor1-1Sou;Nor2-1Sou;Sou1-0Nor;Nor0-1Sou
 Norwich,Stoke,9,2.33,0.33,0.44,Sto1-1Nor;Nor4-2Sto;Sto1-1Nor;Nor0-2Sto;Sto1-0Nor
 Norwich,Swansea,9,2.89,0.67,0.67,Swa1-0Nor;Nor5-1Swa;Swa2-1Nor;Nor1-1Swa;Swa2-1Nor
-Norwich,Watford,8,3.38,0.62,0.62,Nor4-2Wat;Nor4-1Wat;Wat0-1Nor;Wat3-2Nor;Nor0-1Wat
+Norwich,Watford,9,3.56,0.67,0.67,Nor4-1Wat;Wat0-1Nor;Wat3-2Nor;Nor0-1Wat;Nor3-2Wat
 Norwich,West Brom,9,2.44,0.44,0.44,Wes2-2Nor;Nor1-0Wes;Nor0-1Wes;Wes0-5Nor;Nor1-2Wes
 Norwich,Wrexham,2,4.0,1.0,1.0,Nor2-3Wre;Wre1-2Nor
 Oxford,Portsmouth,4,2.25,0.25,0.5,Por1-1Oxf;Oxf0-2Por;Oxf0-1Por;Por2-2Oxf
@@ -276,14 +276,14 @@ Preston,QPR,11,2.55,0.45,0.64,QPR2-1Pre;Pre1-2QPR;QPR1-1Pre;Pre1-1QPR;QPR2-2Pre
 Preston,Sheffield United,8,3.5,0.62,0.62,She4-1Pre;Pre0-2She;She1-0Pre;Pre3-2She;She2-3Pre
 Preston,Sheffield Weds,6,2.67,0.5,0.5,Pre0-1She;She1-1Pre;Pre3-1She;She2-3Pre;Pre3-0She
 Preston,Southampton,4,3.25,0.75,0.5,Pre2-2Sou;Sou3-0Pre;Sou0-2Pre;Pre1-3Sou
-Preston,Stoke,10,1.9,0.3,0.5,Pre1-2Sto;Sto0-0Pre;Pre1-1Sto;Sto0-0Pre;Pre3-1Sto
+Preston,Stoke,11,1.91,0.27,0.45,Sto0-0Pre;Pre1-1Sto;Sto0-0Pre;Pre3-1Sto;Sto2-0Pre
 Preston,Swansea,10,2.6,0.6,0.6,Swa2-1Pre;Swa3-0Pre;Pre0-0Swa;Pre2-1Swa;Swa1-1Pre
 Preston,Watford,9,2.33,0.56,0.56,Pre3-0Wat;Wat1-2Pre;Wat1-1Pre;Pre2-2Wat;Wat2-1Pre
 Preston,West Brom,11,2.45,0.36,0.45,Pre1-1Wes;Wes3-1Pre;Wes2-1Pre;Pre0-2Wes;Pre1-1Wes
 Preston,Wrexham,3,3.33,0.67,1.0,Pre1-1Wre;Wre2-1Pre;Wre4-1Pre
 QPR,Sheffield United,8,2.12,0.38,0.5,QPR1-1She;She2-2QPR;QPR1-2She;She0-0QPR;QPR0-2She
 QPR,Sheffield Weds,6,2.33,0.33,0.5,QPR0-2She;She1-1QPR;QPR0-2She;She1-1QPR;QPR3-0She
-QPR,Southampton,4,3.0,0.75,0.5,Sou2-1QPR;QPR0-1Sou;QPR1-2Sou;Sou5-0QPR
+QPR,Southampton,5,3.4,0.8,0.6,Sou2-1QPR;QPR0-1Sou;QPR1-2Sou;Sou5-0QPR;Sou4-1QPR
 QPR,Stoke,10,1.8,0.2,0.3,Sto1-0QPR;QPR1-1Sto;Sto3-1QPR;QPR1-0Sto;Sto0-0QPR
 QPR,Swansea,11,2.0,0.36,0.36,Swa3-0QPR;QPR1-2Swa;Swa0-1QPR;QPR1-2Swa;QPR5-0Swa
 QPR,Watford,8,2.88,0.75,0.62,QPR1-2Wat;Wat0-0QPR;QPR3-1Wat;Wat2-1QPR;QPR2-1Wat
@@ -295,7 +295,7 @@ Sheffield United,Stoke,9,2.89,0.67,0.56,She2-0Sto;Sto0-2She;She4-0Sto;Sto1-2She;
 Sheffield United,Swansea,9,2.11,0.44,0.22,She1-0Swa;Swa1-2She;Swa1-0She;She3-3Swa;Swa0-0She
 Sheffield United,Watford,6,1.5,0.17,0.17,She1-0Wat;She1-0Wat;Wat1-2She;She1-0Wat;Wat0-2She
 Sheffield United,West Brom,8,2.5,0.25,0.38,She2-0Wes;Wes2-2She;She1-1Wes;Wes2-0She;She1-1Wes
-Sheffield United,Wrexham,2,5.5,1.0,1.0,Wre5-3She;She1-2Wre
+Sheffield United,Wrexham,3,4.0,0.67,0.67,Wre5-3She;She1-2Wre;She1-0Wre
 Sheffield Weds,Southampton,4,3.75,1.0,0.75,She1-2Sou;Sou4-0She;Sou3-1She;She1-3Sou
 Sheffield Weds,Stoke,6,2.0,0.17,0.17,She1-1Sto;She2-0Sto;Sto2-0She;She0-3Sto;Sto2-0She
 Sheffield Weds,Swansea,6,2.0,0.33,0.17,She1-1Swa;She0-0Swa;Swa0-1She;She0-2Swa;Swa4-0She

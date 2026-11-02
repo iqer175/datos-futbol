@@ -3,7 +3,7 @@ Atalanta,Bologna,11,1.64,0.18,0.27,Bol1-1Ata;Ata2-0Bol;Bol0-2Ata;Ata0-1Bol;Ata1-
 Atalanta,Cagliari,9,2.56,0.67,0.67,Cag0-1Ata;Ata0-0Cag;Ata2-1Cag;Cag3-2Ata;Ata1-2Cag
 Atalanta,Como,4,2.5,0.5,0.75,Ata2-3Com;Com1-2Ata;Ata1-1Com;Com0-0Ata
 Atalanta,Cremonese,4,2.75,0.5,1.0,Ata1-1Cre;Cre1-3Ata;Cre1-1Ata;Ata2-1Cre
-Atalanta,Fiorentina,10,2.7,0.4,0.6,Ata2-3Fio;Ata3-2Fio;Fio1-0Ata;Ata2-0Fio;Fio1-1Ata
+Atalanta,Fiorentina,11,2.82,0.45,0.64,Ata3-2Fio;Fio1-0Ata;Ata2-0Fio;Fio1-1Ata;Fio2-2Ata
 Atalanta,Frosinone,3,5.33,1.0,0.67,Fro2-1Ata;Ata5-0Fro;Ata4-4Fro
 Atalanta,Genoa,8,2.38,0.38,0.38,Gen1-4Ata;Ata5-1Gen;Gen2-3Ata;Gen0-1Ata;Ata0-0Gen
 Atalanta,Inter,10,3.0,0.6,0.5,Int4-0Ata;Int4-0Ata;Ata0-2Int;Ata0-1Int;Int1-1Ata
@@ -32,7 +32,7 @@ Bologna,Juventus,10,2.6,0.3,0.6,Bol3-3Juv;Juv2-2Bol;Bol1-1Juv;Bol0-1Juv;Juv2-0Bo
 Bologna,Lazio,11,2.36,0.55,0.27,Laz3-0Bol;Bol5-0Laz;Laz1-1Bol;Bol0-2Laz;Bol0-1Laz
 Bologna,Lecce,9,2.56,0.44,0.44,Bol1-0Lec;Lec0-0Bol;Lec2-2Bol;Bol2-0Lec;Lec1-2Bol
 Bologna,Milan,11,3.0,0.55,0.55,Bol2-1Mil;Mil3-1Bol;Mil1-0Bol;Bol0-3Mil;Mil2-4Bol
-Bologna,Monza,6,1.83,0.5,0.5,Bol0-1Mon;Mon0-0Bol;Bol0-0Mon;Mon1-2Bol;Bol3-1Mon
+Bologna,Monza,7,2.0,0.57,0.57,Mon0-0Bol;Bol0-0Mon;Mon1-2Bol;Bol3-1Mon;Bol2-1Mon
 Bologna,Napoli,11,2.64,0.45,0.36,Nap3-0Bol;Bol1-1Nap;Bol2-0Nap;Nap2-3Bol;Nap1-0Bol
 Bologna,Parma,4,1.75,0.25,0.25,Bol0-0Par;Par2-0Bol;Par1-3Bol;Bol0-1Par
 Bologna,Pisa,2,2.5,0.5,0.0,Bol4-0Pis;Pis0-1Bol
@@ -49,7 +49,7 @@ Cagliari,Frosinone,2,5.5,1.0,1.0,Cag4-3Fro;Fro3-1Cag
 Cagliari,Genoa,8,3.38,0.75,0.62,Gen3-0Cag;Gen2-2Cag;Cag1-1Gen;Cag3-3Gen;Gen3-0Cag
 Cagliari,Inter,9,3.0,0.67,0.33,Cag0-3Int;Int3-1Cag;Cag0-2Int;Int3-0Cag;Cag0-1Int
 Cagliari,Juventus,9,2.33,0.44,0.67,Juv1-1Cag;Cag0-1Juv;Juv2-1Cag;Cag1-0Juv;Cag1-1Juv
-Cagliari,Lazio,8,2.5,0.62,0.5,Cag1-3Laz;Laz2-1Cag;Cag1-2Laz;Laz2-0Cag;Cag0-0Laz
+Cagliari,Lazio,9,2.56,0.67,0.56,Laz2-1Cag;Cag1-2Laz;Laz2-0Cag;Cag0-0Laz;Laz2-1Cag
 Cagliari,Lecce,7,2.29,0.29,0.57,Lec1-0Cag;Cag4-1Lec;Lec1-2Cag;Cag0-2Lec;Cag1-0Lec
 Cagliari,Milan,8,3.5,0.62,0.75,Mil5-1Cag;Cag3-3Mil;Mil1-1Cag;Cag0-1Mil;Mil1-2Cag
 Cagliari,Monza,5,2.6,0.6,0.4,Cag1-1Mon;Mon1-0Cag;Mon1-2Cag;Cag3-0Mon;Mon4-0Cag
@@ -78,7 +78,7 @@ Como,Roma,5,1.8,0.4,0.4,Com2-0Rom;Rom2-1Com;Rom1-0Com;Com2-1Rom;Com0-0Rom
 Como,Sassuolo,3,2.33,0.33,0.33,Com2-0Sas;Sas2-1Com;Com2-0Sas
 Como,Torino,5,3.6,0.6,0.4,Tor1-0Com;Com1-0Tor;Tor1-5Com;Com6-0Tor;Tor1-3Com
 Como,Udinese,5,1.8,0.2,0.4,Udi1-0Com;Com4-1Udi;Com1-0Udi;Udi0-0Com;Udi1-1Com
-Como,Venezia,2,3.0,0.5,1.0,Ven2-2Com;Com1-1Ven
+Como,Venezia,3,2.33,0.33,0.67,Ven2-2Com;Com1-1Ven;Com1-0Ven
 Como,Verona,4,3.0,0.5,0.75,Com3-2Ver;Ver1-1Com;Com3-1Ver;Ver0-1Com
 Cremonese,Fiorentina,4,3.25,0.5,0.5,Fio3-2Cre;Cre0-2Fio;Fio1-0Cre;Cre1-4Fio
 Cremonese,Genoa,2,1.0,0.0,0.0,Gen0-2Cre;Cre0-0Gen
@@ -117,19 +117,19 @@ Frosinone,Genoa,3,2.33,0.33,1.0,Fro2-1Gen;Gen1-1Fro;Gen1-1Fro
 Frosinone,Inter,2,3.5,0.5,0.0,Int2-0Fro;Fro0-5Int
 Frosinone,Juventus,3,3.0,0.67,0.67,Fro1-2Juv;Juv3-2Fro;Fro0-1Juv
 Frosinone,Lazio,2,4.5,1.0,1.0,Laz3-1Fro;Fro2-3Laz
-Frosinone,Lecce,2,2.5,0.5,1.0,Lec2-1Fro;Fro1-1Lec
+Frosinone,Lecce,3,3.67,0.67,1.0,Lec2-1Fro;Fro1-1Lec;Fro5-1Lec
 Frosinone,Milan,2,4.5,1.0,1.0,Mil3-1Fro;Fro2-3Mil
 Frosinone,Monza,2,3.0,0.5,0.5,Fro2-3Mon;Mon0-1Fro
 Frosinone,Napoli,3,3.67,1.0,0.67,Fro1-3Nap;Nap2-2Fro;Nap3-0Fro
 Frosinone,Roma,2,2.5,0.5,0.0,Rom2-0Fro;Fro0-3Rom
 Frosinone,Sassuolo,3,4.33,0.67,0.67,Fro4-2Sas;Sas1-0Fro;Fro4-2Sas
-Frosinone,Torino,2,0.0,0.0,0.0,Fro0-0Tor;Tor0-0Fro
+Frosinone,Torino,3,0.67,0.0,0.0,Fro0-0Tor;Tor0-0Fro;Fro2-0Tor
 Frosinone,Udinese,2,0.5,0.0,0.0,Udi0-0Fro;Fro0-1Udi
 Frosinone,Verona,2,2.5,0.5,1.0,Fro2-1Ver;Ver1-1Fro
 Genoa,Inter,8,2.38,0.5,0.5,Int2-1Gen;Gen2-2Int;Int1-0Gen;Gen1-2Int;Int2-0Gen
 Genoa,Juventus,9,1.78,0.22,0.22,Gen0-3Juv;Juv1-0Gen;Gen0-1Juv;Juv2-0Gen;Gen2-0Juv
 Genoa,Lazio,9,2.78,0.56,0.33,Laz3-0Gen;Gen0-2Laz;Gen0-3Laz;Laz3-2Gen;Laz1-0Gen
-Genoa,Lecce,6,1.33,0.33,0.33,Gen2-1Lec;Lec0-0Gen;Gen2-1Lec;Gen0-0Lec;Lec1-0Gen
+Genoa,Lecce,7,1.57,0.43,0.43,Lec0-0Gen;Gen2-1Lec;Gen0-0Lec;Lec1-0Gen;Lec1-2Gen
 Genoa,Milan,8,2.5,0.5,0.5,Mil3-3Gen;Mil0-0Gen;Gen1-2Mil;Mil1-1Gen;Gen1-2Mil
 Genoa,Monza,4,2.25,0.25,0.25,Mon1-0Gen;Gen2-3Mon;Mon0-1Gen;Gen2-0Mon
 Genoa,Napoli,9,3.22,0.78,0.78,Gen1-2Nap;Nap2-2Gen;Nap2-1Gen;Gen2-3Nap;Gen0-2Nap
@@ -144,7 +144,7 @@ Genoa,Verona,8,2.25,0.38,0.38,Ver1-2Gen;Gen0-2Ver;Ver0-0Gen;Gen2-1Ver;Ver0-2Gen
 Inter,Juventus,10,3.0,0.3,0.5,Int1-0Juv;Int4-4Juv;Juv1-0Int;Juv4-3Int;Int3-2Juv
 Inter,Lazio,10,3.4,0.7,0.6,Int1-1Laz;Laz0-6Int;Int2-2Laz;Int2-0Laz;Laz0-3Int
 Inter,Lecce,8,2.5,0.38,0.12,Lec0-4Int;Int2-0Lec;Lec0-4Int;Int1-0Lec;Lec0-2Int
-Inter,Milan,10,2.7,0.5,0.7,Mil1-2Int;Int1-2Mil;Mil1-1Int;Int0-1Mil;Mil1-0Int
+Inter,Milan,11,2.82,0.55,0.73,Int1-2Mil;Mil1-1Int;Int0-1Mil;Mil1-0Int;Mil3-1Int
 Inter,Monza,7,3.57,0.57,0.71,Int2-0Mon;Mon1-5Int;Mon1-1Int;Int3-2Mon;Int4-1Mon
 Inter,Napoli,11,3.09,0.55,0.82,Int1-1Nap;Nap1-1Int;Nap3-1Int;Int2-2Nap;Int3-2Nap
 Inter,Parma,5,3.0,0.6,0.4,Int3-1Par;Par2-2Int;Par0-2Int;Int2-0Par;Int3-0Par
@@ -159,7 +159,7 @@ Juventus,Lazio,11,2.55,0.55,0.45,Juv1-0Laz;Laz1-1Juv;Laz1-0Juv;Juv2-2Laz;Juv0-3L
 Juventus,Lecce,9,2.0,0.33,0.44,Lec1-1Juv;Juv2-1Lec;Juv1-1Lec;Lec0-1Juv;Lec0-2Juv
 Juventus,Milan,11,0.91,0.0,0.18,Mil0-0Juv;Juv2-0Mil;Juv0-0Mil;Mil0-0Juv;Juv1-1Mil
 Juventus,Monza,6,2.17,0.33,0.33,Juv0-2Mon;Mon1-2Juv;Juv2-0Mon;Mon1-2Juv;Juv2-0Mon
-Juventus,Napoli,10,2.5,0.6,0.6,Nap2-1Juv;Juv0-0Nap;Nap2-1Juv;Nap2-1Juv;Juv3-0Nap
+Juventus,Napoli,11,2.45,0.55,0.55,Juv0-0Nap;Nap2-1Juv;Nap2-1Juv;Juv3-0Nap;Juv2-0Nap
 Juventus,Parma,5,2.8,0.4,0.4,Juv2-2Par;Par1-0Juv;Juv2-0Par;Par1-4Juv;Juv2-0Par
 Juventus,Pisa,2,3.0,0.5,0.0,Pis0-2Juv;Juv4-0Pis
 Juventus,Roma,10,2.5,0.3,0.6,Rom1-1Juv;Juv0-0Rom;Rom1-1Juv;Juv2-1Rom;Rom3-3Juv
@@ -231,7 +231,7 @@ Pisa,Udinese,2,2.5,0.5,0.5,Pis0-1Udi;Udi2-2Pis
 Pisa,Verona,2,0.0,0.0,0.0,Pis0-0Ver;Ver0-0Pis
 Roma,Sassuolo,8,2.88,0.5,0.62,Rom3-4Sas;Sas1-2Rom;Rom1-0Sas;Sas0-1Rom;Rom2-0Sas
 Roma,Torino,11,2.0,0.18,0.27,Rom1-0Tor;Tor0-2Rom;Rom0-1Tor;Tor0-2Rom;Tor0-2Rom
-Roma,Udinese,10,2.6,0.6,0.4,Udi1-2Rom;Rom3-0Udi;Udi1-2Rom;Rom2-0Udi;Udi1-0Rom
+Roma,Udinese,11,3.0,0.64,0.45,Rom3-0Udi;Udi1-2Rom;Rom2-0Udi;Udi1-0Rom;Udi2-5Rom
 Roma,Venezia,4,2.75,0.5,0.75,Ven3-2Rom;Rom1-1Ven;Rom2-1Ven;Ven0-1Rom
 Roma,Verona,10,3.0,0.6,0.6,Rom2-1Ver;Ver3-2Rom;Rom1-0Ver;Rom2-0Ver;Ver0-2Rom
 Sassuolo,Torino,9,2.0,0.33,0.67,Tor2-1Sas;Sas1-1Tor;Sas0-1Tor;Tor2-1Sas;Sas2-1Tor

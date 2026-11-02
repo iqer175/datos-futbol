@@ -1,5 +1,5 @@
 eq_a,eq_b,n,goles,over25,btts,ultimos
-AZ Alkmaar,Ajax,10,2.6,0.6,0.7,AZ 2-0Aja;AZ 2-1Aja;Aja2-2AZ ;Aja0-2AZ ;AZ 1-1Aja
+AZ Alkmaar,Ajax,11,2.45,0.55,0.64,AZ 2-1Aja;Aja2-2AZ ;Aja0-2AZ ;AZ 1-1Aja;Aja1-0AZ 
 AZ Alkmaar,Cambuur,5,2.4,0.6,0.6,Cam1-3AZ ;AZ 0-0Cam;Cam0-1AZ ;AZ 2-1Cam;Cam2-2AZ 
 AZ Alkmaar,Excelsior,6,3.17,0.67,0.67,AZ 5-0Exc;Exc1-1AZ ;AZ 4-0Exc;AZ 1-1Exc;Exc1-2AZ 
 AZ Alkmaar,Feyenoord,11,2.64,0.45,0.55,Fey3-2AZ ;AZ 0-1Fey;AZ 3-3Fey;Fey1-1AZ ;Fey2-0AZ 
@@ -39,7 +39,7 @@ Ajax,Zwolle,9,2.44,0.44,0.33,Aja2-0Zwo;Zwo0-1Aja;Aja3-1Zwo;Zwo0-0Aja;Zwo0-2Aja
 Cambuur,Excelsior,3,3.67,0.67,0.33,Cam0-2Exc;Exc4-1Cam;Cam0-4Exc
 Cambuur,Feyenoord,5,4.0,0.8,0.6,Cam2-3Fey;Fey3-1Cam;Fey1-0Cam;Cam0-3Fey;Cam2-5Fey
 Cambuur,For Sittard,5,3.2,0.8,0.8,For1-0Cam;Cam2-1For;For1-4Cam;Cam1-2For;For3-1Cam
-Cambuur,Go Ahead Eagles,4,3.75,0.75,0.5,Cam5-2Go ;Go 3-0Cam;Go 0-0Cam;Cam4-1Go 
+Cambuur,Go Ahead Eagles,5,3.8,0.8,0.4,Cam5-2Go ;Go 3-0Cam;Go 0-0Cam;Cam4-1Go ;Cam4-0Go 
 Cambuur,Groningen,4,2.5,0.5,0.5,Cam1-2Gro;Gro2-3Cam;Cam0-1Gro;Gro0-1Cam
 Cambuur,Heerenveen,4,3.75,1.0,1.0,Cam1-2Hee;Hee3-3Cam;Hee2-1Cam;Cam1-2Hee
 Cambuur,Heracles,2,2.5,0.5,1.0,Cam2-1Her;Her1-1Cam
@@ -62,11 +62,11 @@ Excelsior,Nijmegen,7,3.71,0.71,0.43,Nij3-4Exc;Exc0-3Nij;Nij5-0Exc;Exc0-2Nij;Nij2
 Excelsior,PSV Eindhoven,7,4.14,0.86,0.71,PSV3-1Exc;Exc0-2PSV;Exc1-2PSV;PSV5-1Exc;Exc1-2PSV
 Excelsior,Sparta Rotterdam,7,3.43,0.71,0.71,Exc2-1Spa;Spa4-2Exc;Exc0-1Spa;Spa2-3Exc;Exc2-1Spa
 Excelsior,Telstar,2,4.0,1.0,1.0,Tel2-2Exc;Exc2-2Tel
-Excelsior,Twente,6,2.33,0.5,0.17,Exc0-0Twe;Twe4-2Exc;Exc0-3Twe;Exc1-0Twe;Twe0-0Exc
+Excelsior,Twente,7,3.29,0.57,0.14,Twe4-2Exc;Exc0-3Twe;Exc1-0Twe;Twe0-0Exc;Exc0-9Twe
 Excelsior,Utrecht,7,3.0,0.57,0.57,Utr2-2Exc;Exc1-1Utr;Utr4-1Exc;Exc5-0Utr;Exc1-2Utr
 Excelsior,Volendam,6,3.33,0.67,0.67,Vol3-2Exc;Vol3-1Exc;Exc4-0Vol;Vol1-2Exc;Exc1-1Vol
 Excelsior,Zwolle,4,4.0,1.0,1.0,Exc2-4Zwo;Zwo2-1Exc;Exc2-1Zwo;Zwo2-2Exc
-Feyenoord,For Sittard,10,2.7,0.4,0.5,For0-1Fey;Fey1-1For;For0-2Fey;Fey2-0For;For1-2Fey
+Feyenoord,For Sittard,11,2.64,0.36,0.55,Fey1-1For;For0-2Fey;Fey2-0For;For1-2Fey;Fey1-1For
 Feyenoord,Go Ahead Eagles,11,3.64,0.73,0.64,Go 1-5Fey;Fey3-2Go ;Go 2-1Fey;Fey1-0Go ;Fey2-2Go 
 Feyenoord,Groningen,8,2.75,0.5,0.62,Fey1-0Gro;Gro2-2Fey;Fey4-1Gro;Gro0-1Fey;Fey3-1Gro
 Feyenoord,Heerenveen,10,3.2,0.7,0.5,Hee2-3Fey;Fey3-0Hee;Hee2-0Fey;Fey1-0Hee;Hee2-2Fey
@@ -113,7 +113,7 @@ Groningen,Heracles,6,3.5,0.67,0.67,Gro0-1Her;Her1-1Gro;Gro4-1Her;Gro4-0Her;Her1-
 Groningen,NAC Breda,4,2.5,0.5,0.75,Gro4-1NAC;NAC1-1Gro;NAC1-2Gro;Gro0-0NAC
 Groningen,Nijmegen,9,3.44,0.67,0.56,Nij6-0Gro;Gro2-1Nij;Nij2-0Gro;Gro2-1Nij;Nij2-2Gro
 Groningen,PSV Eindhoven,9,4.89,0.89,0.67,PSV5-0Gro;Gro1-3PSV;PSV4-2Gro;Gro1-2PSV;PSV5-1Gro
-Groningen,Sparta Rotterdam,8,2.38,0.38,0.38,Gro0-5Spa;Gro1-0Spa;Spa1-0Gro;Gro0-2Spa;Spa2-0Gro
+Groningen,Sparta Rotterdam,9,2.67,0.44,0.44,Gro1-0Spa;Spa1-0Gro;Gro0-2Spa;Spa2-0Gro;Gro2-3Spa
 Groningen,Telstar,2,2.0,0.0,0.0,Gro2-0Tel;Tel0-2Gro
 Groningen,Twente,9,2.56,0.44,0.67,Twe2-0Gro;Gro1-1Twe;Gro1-1Twe;Twe2-1Gro;Gro2-2Twe
 Groningen,Utrecht,9,2.44,0.67,0.67,Gro0-1Utr;Utr3-1Gro;Utr0-1Gro;Gro1-2Utr;Gro2-1Utr
@@ -122,7 +122,7 @@ Groningen,Willem II,4,2.5,0.5,0.5,Wil2-1Gro;Gro1-0Wil;Gro2-0Wil;Wil1-3Gro
 Groningen,Zwolle,7,2.14,0.29,0.57,Gro0-0Zwo;Zwo2-0Gro;Gro2-2Zwo;Zwo1-1Gro;Gro3-0Zwo
 Heerenveen,Heracles,8,2.62,0.5,0.38,Her0-2Hee;Her2-1Hee;Hee1-1Her;Her0-3Hee;Hee4-1Her
 Heerenveen,NAC Breda,4,4.5,0.75,0.5,Hee4-0NAC;NAC2-4Hee;Hee3-3NAC;NAC2-0Hee
-Heerenveen,Nijmegen,10,2.5,0.4,0.5,Nij2-0Hee;Nij3-0Hee;Hee1-0Nij;Hee3-2Nij;Nij2-2Hee
+Heerenveen,Nijmegen,11,2.36,0.36,0.45,Nij3-0Hee;Hee1-0Nij;Hee3-2Nij;Nij2-2Hee;Hee1-0Nij
 Heerenveen,PSV Eindhoven,11,3.18,0.45,0.45,Hee1-0PSV;PSV2-1Hee;Hee0-2PSV;PSV3-1Hee;PSV2-0Hee
 Heerenveen,Sparta Rotterdam,11,2.64,0.64,0.45,Hee2-0Spa;Spa3-1Hee;Spa0-3Hee;Hee2-1Spa;Spa0-4Hee
 Heerenveen,Telstar,3,2.67,0.67,0.33,Tel2-3Hee;Hee3-0Tel;Hee0-0Tel
@@ -163,7 +163,7 @@ PSV Eindhoven,Telstar,2,3.0,0.5,0.5,PSV0-2Tel;Tel3-1PSV
 PSV Eindhoven,Twente,11,4.36,0.82,0.73,PSV6-1Twe;Twe1-3PSV;Twe0-2PSV;PSV5-1Twe;Twe3-2PSV
 PSV Eindhoven,Utrecht,11,4.45,0.73,0.82,Utr2-5PSV;PSV2-2Utr;Utr1-2PSV;PSV4-3Utr;Utr1-6PSV
 PSV Eindhoven,Volendam,6,4.83,1.0,0.83,Vol2-3PSV;PSV3-1Vol;Vol1-5PSV;PSV3-0Vol;Vol2-1PSV
-PSV Eindhoven,Willem II,4,3.25,0.5,0.75,Wil2-1PSV;PSV4-2Wil;Wil0-2PSV;PSV1-1Wil
+PSV Eindhoven,Willem II,5,4.0,0.6,0.6,Wil2-1PSV;PSV4-2Wil;Wil0-2PSV;PSV1-1Wil;PSV7-0Wil
 PSV Eindhoven,Zwolle,8,5.0,1.0,0.62,Zwo1-7PSV;PSV6-0Zwo;Zwo3-1PSV;Zwo0-4PSV;PSV6-1Zwo
 Sparta Rotterdam,Telstar,3,3.33,0.67,0.67,Spa1-0Tel;Tel4-1Spa;Tel1-3Spa
 Sparta Rotterdam,Twente,10,3.2,0.5,0.6,Twe2-1Spa;Twe1-1Spa;Spa0-2Twe;Spa1-5Twe;Twe4-0Spa
@@ -172,7 +172,7 @@ Sparta Rotterdam,Volendam,6,2.67,0.5,0.33,Vol2-1Spa;Vol1-4Spa;Spa1-0Vol;Vol0-1Sp
 Sparta Rotterdam,Willem II,5,3.2,0.8,0.4,Wil0-3Spa;Spa1-0Wil;Wil1-2Spa;Spa4-0Wil;Spa3-2Wil
 Sparta Rotterdam,Zwolle,9,2.11,0.22,0.56,Zwo1-0Spa;Spa1-1Zwo;Zwo1-0Spa;Spa1-1Zwo;Spa2-2Zwo
 Telstar,Twente,3,1.0,0.0,0.33,Twe0-0Tel;Tel1-1Twe;Twe1-0Tel
-Telstar,Utrecht,2,3.5,0.5,1.0,Tel1-1Utr;Utr4-1Tel
+Telstar,Utrecht,3,4.33,0.67,1.0,Tel1-1Utr;Utr4-1Tel;Tel4-2Utr
 Telstar,Volendam,2,3.5,1.0,1.0,Tel2-2Vol;Vol1-2Tel
 Telstar,Zwolle,2,3.5,0.5,0.5,Tel0-2Zwo;Zwo4-1Tel
 Twente,Utrecht,11,1.91,0.18,0.45,Utr2-1Twe;Twe2-0Utr;Utr1-1Twe;Twe0-2Utr;Twe1-2Utr

@@ -7,7 +7,7 @@ Aldosivi,Belgrano,4,1.0,0.0,0.0,Bel2-0Ald;Ald0-0Bel;Bel1-0Ald;Ald1-0Bel
 Aldosivi,Boca Juniors,5,2.8,0.8,0.6,Ald0-3Boc;Ald1-2Boc;Boc2-1Ald;Boc2-1Ald;Ald0-2Boc
 Aldosivi,Central Cordoba,6,1.17,0.33,0.17,Cen0-0Ald;Ald0-0Cen;Ald0-3Cen;Cen1-0Ald;Ald0-0Cen
 Aldosivi,Defensa y Justicia,7,3.29,0.43,0.43,Def3-2Ald;Ald0-5Def;Def2-0Ald;Ald0-0Def;Def1-1Ald
-Aldosivi,Estudiantes L.P.,8,2.0,0.38,0.38,Est2-3Ald;Est2-1Ald;Ald0-1Est;Ald2-2Est;Est1-0Ald
+Aldosivi,Estudiantes L.P.,7,2.29,0.43,0.43,Est2-3Ald;Est2-1Ald;Ald0-1Est;Ald2-2Est;Est1-0Ald
 Aldosivi,Estudiantes Rio Cuarto,2,1.5,0.5,0.5,Ald0-0Est;Est2-1Ald
 Aldosivi,Gimnasia L.P.,4,2.75,0.75,0.75,Ald1-3Gim;Gim0-0Ald;Gim3-1Ald;Ald1-2Gim
 Aldosivi,Godoy Cruz,4,3.0,0.5,0.5,Ald1-2God;Ald1-4God;God0-2Ald;God2-0Ald
@@ -40,7 +40,7 @@ Argentinos Jrs,Estudiantes Rio Cuarto,2,1.5,0.5,0.0,Est0-0Arg;Arg3-0Est
 Argentinos Jrs,Gimnasia L.P.,9,2.78,0.44,0.44,Gim3-2Arg;Arg2-0Gim;Gim1-0Arg;Gim2-0Arg;Arg1-1Gim
 Argentinos Jrs,Godoy Cruz,5,1.2,0.2,0.0,Arg2-0God;Arg0-0God;God0-0Arg;Arg3-0God;God1-0Arg
 Argentinos Jrs,Huracan,11,1.45,0.18,0.55,Arg0-0Hur;Arg1-1Hur;Hur1-0Arg;Hur1-2Arg;Arg0-0Hur
-Argentinos Jrs,Ind. Rivadavia,5,2.6,0.8,0.8,Arg2-1Ind;Ind2-1Arg;Arg0-0Ind;Ind2-1Arg;Ind3-1Arg
+Argentinos Jrs,Ind. Rivadavia,6,2.33,0.67,0.67,Ind2-1Arg;Arg0-0Ind;Ind2-1Arg;Ind3-1Arg;Arg1-0Ind
 Argentinos Jrs,Independiente,7,1.71,0.43,0.43,Arg2-1Ind;Arg2-2Ind;Arg0-0Ind;Ind2-1Arg;Ind0-0Arg
 Argentinos Jrs,Instituto,7,2.14,0.43,0.43,Ins1-2Arg;Ins1-0Arg;Arg2-0Ins;Arg3-1Ins;Ins2-0Arg
 Argentinos Jrs,Lanus,7,2.0,0.29,0.29,Lan0-0Arg;Arg2-0Lan;Arg2-1Lan;Arg2-0Lan;Lan1-1Arg
@@ -49,7 +49,7 @@ Argentinos Jrs,Platense,12,1.42,0.17,0.33,Pla2-1Arg;Arg1-0Pla;Pla0-0Arg;Arg1-0Pl
 Argentinos Jrs,Racing Club,10,2.7,0.6,0.4,Rac3-0Arg;Rac2-3Arg;Arg4-1Rac;Rac2-1Arg;Arg2-1Rac
 Argentinos Jrs,River Plate,11,2.64,0.45,0.45,Arg3-2Riv;Riv1-1Arg;Arg1-0Riv;Arg1-0Riv;Riv2-0Arg
 Argentinos Jrs,Rosario Central,9,2.33,0.56,0.44,Ros3-1Arg;Arg3-0Ros;Arg3-2Ros;Arg0-0Ros;Ros1-0Arg
-Argentinos Jrs,San Lorenzo,9,1.44,0.0,0.33,Arg1-1San;Arg0-1San;San0-2Arg;Arg1-0San;Arg1-1San
+Argentinos Jrs,San Lorenzo,8,1.62,0.0,0.38,Arg1-1San;Arg0-1San;San0-2Arg;Arg1-0San;Arg1-1San
 Argentinos Jrs,Sarmiento Junin,7,1.57,0.14,0.14,Sar1-0Arg;Sar2-0Arg;Arg0-0Sar;Arg1-0Sar;Sar2-3Arg
 Argentinos Jrs,Talleres Cordoba,7,2.71,0.71,0.57,Tal2-0Arg;Tal1-0Arg;Arg3-1Tal;Tal2-1Arg;Arg3-0Tal
 Argentinos Jrs,Tigre,8,2.12,0.38,0.62,Arg0-2Tig;Arg1-0Tig;Tig2-1Arg;Tig1-1Arg;Arg2-1Tig
@@ -73,7 +73,7 @@ Atl. Tucuman,Instituto,8,2.0,0.38,0.38,Atl1-0Ins;Atl3-2Ins;Ins2-0Atl;Ins2-1Atl;A
 Atl. Tucuman,Lanus,7,3.0,0.71,0.71,Atl2-1Lan;Lan2-1Atl;Atl1-0Lan;Atl1-0Lan;Lan3-1Atl
 Atl. Tucuman,Newells Old Boys,8,2.25,0.5,0.38,Atl2-0New;New0-0Atl;Atl0-0New;Atl1-2New;New2-0Atl
 Atl. Tucuman,Platense,7,3.0,0.57,0.86,Atl2-1Pla;Pla1-1Atl;Atl1-1Pla;Pla2-1Atl;Atl2-0Pla
-Atl. Tucuman,Racing Club,9,2.89,0.56,0.33,Rac2-0Atl;Rac1-3Atl;Atl1-0Rac;Atl0-3Rac;Rac1-2Atl
+Atl. Tucuman,Racing Club,8,2.62,0.5,0.25,Rac2-0Atl;Rac1-3Atl;Atl1-0Rac;Atl0-3Rac;Rac1-2Atl
 Atl. Tucuman,River Plate,11,1.73,0.18,0.45,Riv4-1Atl;Riv1-0Atl;Atl2-0Riv;Riv0-1Atl;Atl1-2Riv
 Atl. Tucuman,Rosario Central,10,2.5,0.5,0.7,Ros1-0Atl;Ros3-1Atl;Atl0-0Ros;Ros2-1Atl;Atl2-3Ros
 Atl. Tucuman,San Lorenzo,8,2.12,0.38,0.62,San1-1Atl;Atl1-3San;San0-1Atl;San1-0Atl;Atl1-2San
@@ -169,7 +169,7 @@ Boca Juniors,Huracan,10,1.6,0.3,0.2,Boc1-0Hur;Hur0-0Boc;Boc2-1Hur;Hur1-0Boc;Boc1
 Boca Juniors,Ind. Rivadavia,3,2.33,0.33,0.33,Ind1-1Boc;Boc2-0Ind;Ind0-3Boc
 Boca Juniors,Independiente,10,2.0,0.3,0.5,Ind0-2Boc;Boc0-0Ind;Boc0-1Ind;Boc1-1Ind;Ind0-1Boc
 Boca Juniors,Instituto,4,2.75,0.5,0.5,Boc2-3Ins;Ins0-0Boc;Boc2-0Ins;Ins2-2Boc
-Boca Juniors,Lanus,13,2.15,0.38,0.54,Lan2-1Boc;Lan1-0Boc;Boc0-0Lan;Lan0-3Boc;Boc1-0Lan
+Boca Juniors,Lanus,12,2.08,0.33,0.5,Lan2-1Boc;Lan1-0Boc;Boc0-0Lan;Lan0-3Boc;Boc1-0Lan
 Boca Juniors,Newells Old Boys,13,2.23,0.31,0.23,New0-1Boc;New2-0Boc;Boc5-0New;Boc2-0New;New2-2Boc
 Boca Juniors,Platense,8,2.25,0.5,0.62,Boc3-1Pla;Pla0-0Boc;Pla1-0Boc;Boc0-0Pla;Pla1-1Boc
 Boca Juniors,Racing Club,13,1.77,0.31,0.46,Rac2-0Boc;Boc1-1Rac;Boc0-1Rac;Boc0-0Rac;Rac1-1Boc
@@ -189,7 +189,7 @@ Central Cordoba,Gimnasia Mendoza,2,1.0,0.0,0.0,Cen0-1Gim;Gim1-0Cen
 Central Cordoba,Godoy Cruz,9,1.56,0.11,0.22,Cen3-0God;Cen0-2God;God1-0Cen;Cen0-2God;God1-1Cen
 Central Cordoba,Huracan,7,2.14,0.43,0.43,Hur2-0Cen;Cen2-0Hur;Hur0-0Cen;Cen1-2Hur;Hur0-1Cen
 Central Cordoba,Ind. Rivadavia,3,1.67,0.33,0.33,Cen2-0Ind;Cen1-2Ind;Ind0-0Cen
-Central Cordoba,Independiente,9,1.44,0.11,0.22,Ind1-2Cen;Cen0-1Ind;Ind2-0Cen;Ind2-0Cen;Cen0-1Ind
+Central Cordoba,Independiente,8,1.5,0.12,0.25,Ind1-2Cen;Cen0-1Ind;Ind2-0Cen;Ind2-0Cen;Cen0-1Ind
 Central Cordoba,Instituto,4,2.0,0.25,0.25,Ins0-2Cen;Cen2-1Ins;Ins2-0Cen;Cen0-1Ins
 Central Cordoba,Lanus,8,2.25,0.38,0.62,Cen1-1Lan;Cen0-0Lan;Lan0-1Cen;Lan1-1Cen;Lan0-0Cen
 Central Cordoba,Newells Old Boys,11,2.64,0.45,0.45,New2-3Cen;Cen2-0New;New1-1Cen;Cen1-3New;New2-1Cen
@@ -328,7 +328,7 @@ Huracan,Sarmiento Junin,7,2.14,0.43,0.29,Hur4-1Sar;Sar0-0Hur;Hur3-1Sar;Hur1-0Sar
 Huracan,Talleres Cordoba,7,1.71,0.29,0.43,Hur1-0Tal;Hur0-1Tal;Tal2-1Hur;Hur1-2Tal;Tal1-0Hur
 Huracan,Tigre,7,1.86,0.14,0.43,Tig1-0Hur;Hur0-2Tig;Hur2-0Tig;Tig0-1Hur;Tig1-1Hur
 Huracan,Union de Santa Fe,7,1.0,0.0,0.29,Uni0-0Hur;Hur0-1Uni;Uni0-1Hur;Hur1-0Uni;Uni1-1Hur
-Huracan,Velez Sarsfield,12,1.83,0.17,0.33,Hur3-0Vel;Vel1-0Hur;Vel2-0Hur;Vel0-2Hur;Hur0-0Vel
+Huracan,Velez Sarsfield,11,1.82,0.18,0.27,Hur3-0Vel;Vel1-0Hur;Vel2-0Hur;Vel0-2Hur;Hur0-0Vel
 Ind. Rivadavia,Independiente,5,1.6,0.2,0.2,Ind0-1Ind;Ind1-0Ind;Ind1-0Ind;Ind3-2Ind;Ind0-0Ind
 Ind. Rivadavia,Instituto,2,2.0,0.0,0.5,Ind0-2Ins;Ind1-1Ins
 Ind. Rivadavia,Lanus,3,1.67,0.0,0.33,Lan0-2Ind;Ind1-1Lan;Lan1-0Ind
@@ -386,7 +386,7 @@ Newells Old Boys,River Plate,5,2.6,0.4,0.4,New1-4Riv;New0-2Riv;Riv4-1New;New0-1R
 Newells Old Boys,Rosario Central,12,1.5,0.17,0.25,Ros1-0New;New1-2Ros;Ros1-0New;New0-2Ros;Ros1-1New
 Newells Old Boys,San Lorenzo,9,2.0,0.44,0.44,San0-3New;New2-2San;San1-1New;New0-0San;San0-0New
 Newells Old Boys,Sarmiento Junin,8,1.75,0.25,0.5,New0-1Sar;Sar0-0New;New0-1Sar;Sar0-1New;New1-1Sar
-Newells Old Boys,Talleres Cordoba,10,2.9,0.6,0.8,Tal0-1New;New1-1Tal;Tal1-3New;Tal2-1New;New1-0Tal
+Newells Old Boys,Talleres Cordoba,9,2.78,0.56,0.78,Tal0-1New;New1-1Tal;Tal1-3New;Tal2-1New;New1-0Tal
 Newells Old Boys,Tigre,7,2.0,0.14,0.29,Tig0-2New;New1-0Tig;New1-0Tig;Tig0-2New;New1-1Tig
 Newells Old Boys,Union de Santa Fe,11,1.91,0.18,0.45,Uni1-3New;Uni2-0New;Uni1-1New;New0-1Uni;Uni2-3New
 Newells Old Boys,Velez Sarsfield,8,1.5,0.12,0.38,Vel0-1New;New1-0Vel;Vel1-0New;Vel1-1New;New1-1Vel

@@ -1,6 +1,6 @@
 eq_a,eq_b,n,goles,over25,btts,ultimos
 Bielefeld,Bochum,3,1.33,0.0,0.33,Boc1-0Bie;Bie1-1Boc;Boc0-1Bie
-Bielefeld,Braunschweig,4,4.5,0.75,1.0,Bie4-1Bra;Bra3-3Bie;Bra1-1Bie;Bie3-2Bra
+Bielefeld,Braunschweig,5,4.4,0.8,1.0,Bie4-1Bra;Bra3-3Bie;Bra1-1Bie;Bie3-2Bra;Bie3-1Bra
 Bielefeld,Darmstadt,5,3.2,0.8,1.0,Dar1-1Bie;Bie3-1Dar;Dar2-2Bie;Bie2-1Dar;Dar2-1Bie
 Bielefeld,Dresden,2,2.5,0.5,1.0,Bie1-2Dre;Dre1-1Bie
 Bielefeld,Elversberg,2,3.0,0.5,0.5,Bie2-0Elv;Elv3-1Bie
@@ -62,7 +62,7 @@ Darmstadt,Hertha,4,2.5,0.5,0.75,Dar3-1Her;Her1-1Dar;Dar0-0Her;Her2-2Dar
 Darmstadt,Holstein Kiel,7,2.71,0.43,0.71,Dar1-1Hol;Hol0-3Dar;Hol1-1Dar;Dar2-0Hol;Dar2-2Hol
 Darmstadt,Kaiserslautern,7,4.0,0.86,0.57,Dar5-1Kai;Kai2-1Dar;Kai3-1Dar;Dar4-0Kai;Kai3-0Dar
 Darmstadt,Karlsruhe,9,3.78,1.0,0.67,Kar3-3Dar;Dar3-0Kar;Dar3-2Kar;Kar2-1Dar;Kar4-0Dar
-Darmstadt,Magdeburg,6,2.0,0.33,0.5,Dar1-0Mag;Dar1-2Mag;Mag4-1Dar;Dar0-0Mag;Mag1-1Dar
+Darmstadt,Magdeburg,7,2.0,0.29,0.57,Dar1-2Mag;Mag4-1Dar;Dar0-0Mag;Mag1-1Dar;Dar1-1Mag
 Darmstadt,Nurnberg,8,1.88,0.12,0.25,Nur0-1Dar;Dar1-1Nur;Nur1-0Dar;Nur0-1Dar;Dar2-0Nur
 Darmstadt,Paderborn,8,2.62,0.62,0.5,Dar2-1Pad;Pad3-1Dar;Dar0-1Pad;Pad2-2Dar;Dar0-2Pad
 Darmstadt,Preußen Münster,4,1.25,0.0,0.5,Dar0-0Pre;Pre1-1Dar;Dar1-0Pre;Pre1-1Dar
@@ -71,7 +71,7 @@ Darmstadt,St Pauli,5,2.4,0.6,0.4,Dar4-0St ;St 1-2Dar;St 1-1Dar;Dar0-3St ;Dar0-0S
 Dresden,Elversberg,2,3.5,1.0,1.0,Elv2-2Dre;Dre1-2Elv
 Dresden,Fortuna Dusseldorf,4,3.0,0.75,0.75,Dre1-0For;For2-2Dre;Dre2-1For;For3-1Dre
 Dresden,Greuther Furth,2,3.5,0.5,0.5,Gre3-2Dre;Dre2-0Gre
-Dresden,Hannover,4,1.5,0.25,0.25,Dre2-0Han;Han0-0Dre;Dre2-2Han;Han0-0Dre
+Dresden,Hannover,5,1.8,0.4,0.4,Dre2-0Han;Han0-0Dre;Dre2-2Han;Han0-0Dre;Han2-1Dre
 Dresden,Heidenheim,3,4.33,0.67,1.0,Hei2-1Dre;Dre1-1Hei;Hei5-3Dre
 Dresden,Hertha,3,2.0,0.33,0.33,Her2-0Dre;Dre0-1Her;Dre1-2Her
 Dresden,Holstein Kiel,5,2.4,0.8,0.6,Hol2-1Dre;Dre0-0Hol;Hol2-1Dre;Dre2-1Hol;Hol3-0Dre
@@ -114,7 +114,7 @@ Fortuna Dusseldorf,St Pauli,6,1.33,0.17,0.33,St 2-0For;For1-0St ;St 0-0For;St 0-
 Greuther Furth,Hannover,8,2.75,0.62,0.88,Han2-1Gre;Gre1-0Han;Han1-1Gre;Gre2-2Han;Han1-2Gre
 Greuther Furth,Heidenheim,3,2.33,0.33,0.33,Hei3-1Gre;Gre0-2Hei;Gre0-1Hei
 Greuther Furth,Hertha,7,3.43,0.86,0.71,Gre2-1Her;Her1-0Gre;Gre3-3Her;Her2-1Gre;Her2-1Gre
-Greuther Furth,Holstein Kiel,6,3.0,0.83,0.83,Hol2-1Gre;Hol2-1Gre;Gre2-1Hol;Gre0-2Hol;Hol1-2Gre
+Greuther Furth,Holstein Kiel,7,2.71,0.71,0.71,Hol2-1Gre;Gre2-1Hol;Gre0-2Hol;Hol1-2Gre;Gre1-0Hol
 Greuther Furth,Kaiserslautern,8,3.38,0.75,0.62,Gre2-1Kai;Kai2-2Gre;Gre2-4Kai;Gre0-3Kai;Kai1-0Gre
 Greuther Furth,Karlsruhe,8,3.88,0.75,0.75,Kar4-0Gre;Gre2-3Kar;Kar1-0Gre;Gre1-4Kar;Kar3-1Gre
 Greuther Furth,Magdeburg,9,3.78,0.56,0.78,Mag2-2Gre;Gre1-1Mag;Mag4-5Gre;Gre4-5Mag;Gre1-1Mag
@@ -138,14 +138,14 @@ Hannover,Schalke 04,8,2.75,0.62,0.62,Han1-1Sch;Han1-0Sch;Sch1-2Han;Han0-3Sch;Sch
 Hannover,St Pauli,7,2.14,0.43,0.43,Han2-2St ;St 2-0Han;St 0-0Han;Han1-2St ;Han1-1St 
 Heidenheim,Holstein Kiel,5,2.6,0.6,0.6,Hei2-1Hol;Hol1-1Hei;Hol3-1Hei;Hei3-0Hol;Hei1-0Hol
 Heidenheim,Kaiserslautern,3,2.67,0.67,0.67,Hei2-2Kai;Kai2-2Hei;Hei0-0Kai
-Heidenheim,Karlsruhe,4,3.5,0.5,0.5,Kar3-2Hei;Hei2-0Kar;Kar0-0Hei;Hei5-2Kar
+Heidenheim,Karlsruhe,5,3.4,0.6,0.6,Kar3-2Hei;Hei2-0Kar;Kar0-0Hei;Hei5-2Kar;Kar2-1Hei
 Heidenheim,Magdeburg,2,1.0,0.0,0.5,Mag1-1Hei;Hei0-0Mag
 Heidenheim,Nurnberg,4,4.0,1.0,0.25,Nur4-0Hei;Hei3-1Nur;Nur0-3Hei;Hei5-0Nur
 Heidenheim,Paderborn,4,2.75,0.75,0.5,Hei0-0Pad;Pad1-2Hei;Hei3-0Pad;Pad3-2Hei
 Heidenheim,Schalke 04,2,2.0,0.5,0.0,Hei1-0Sch;Sch3-0Hei
 Heidenheim,St Pauli,4,2.0,0.25,0.25,Hei2-4St ;St 1-0Hei;St 0-0Hei;Hei0-1St 
 Hertha,Holstein Kiel,5,2.2,0.4,0.4,Hol2-3Her;Her2-2Hol;Hol0-1Her;Her0-1Hol;Hol0-0Her
-Hertha,Kaiserslautern,6,2.83,0.5,0.5,Her3-1Kai;Kai3-4Her;Her0-1Kai;Kai0-1Her;Her0-1Kai
+Hertha,Kaiserslautern,7,2.86,0.57,0.43,Kai3-4Her;Her0-1Kai;Kai0-1Her;Her0-1Kai;Kai0-3Her
 Hertha,Karlsruhe,6,3.5,0.83,0.83,Kar3-2Her;Kar1-3Her;Her3-1Kar;Her0-0Kar;Kar2-2Her
 Hertha,Magdeburg,7,3.86,0.57,0.71,Mag1-3Her;Her1-1Mag;Her0-2Mag;Mag1-0Her;Her2-1Mag
 Hertha,Nurnberg,6,3.0,0.67,0.5,Her3-3Nur;Nur0-2Her;Her0-0Nur;Nur0-3Her;Her2-1Nur
@@ -188,7 +188,7 @@ Nurnberg,Osnabruck,2,4.5,1.0,1.0,Osn2-3Nur;Nur2-2Osn
 Nurnberg,Paderborn,10,3.0,0.7,0.7,Nur0-2Pad;Pad3-2Nur;Nur2-3Pad;Nur0-0Pad;Pad2-1Nur
 Nurnberg,Preußen Münster,4,2.75,0.5,0.75,Nur3-2Pre;Pre0-1Nur;Pre2-1Nur;Nur1-1Pre
 Nurnberg,Schalke 04,8,3.12,0.75,0.62,Sch2-0Nur;Nur3-1Sch;Sch3-1Nur;Sch1-0Nur;Nur3-0Sch
-Nurnberg,St Pauli,6,3.5,0.5,0.67,St 1-1Nur;St 3-2Nur;Nur0-1St ;St 5-1Nur;Nur0-2St 
+Nurnberg,St Pauli,7,3.57,0.57,0.71,St 3-2Nur;Nur0-1St ;St 5-1Nur;Nur0-2St ;St 1-3Nur
 Osnabruck,Paderborn,2,1.0,0.0,0.5,Pad1-1Osn;Osn0-0Pad
 Osnabruck,Schalke 04,2,4.0,1.0,0.0,Sch4-0Osn;Osn0-4Sch
 Osnabruck,St Pauli,2,3.0,0.5,1.0,Osn1-1St ;St 3-1Osn
