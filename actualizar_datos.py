@@ -10,7 +10,7 @@ Genera en datos/:
 Uso:
     python actualizar_datos.py                 # ultimas 6 temporadas
     python actualizar_datos.py --temporadas 10
-    python actualizar_datos.py --sin-extra     # omite Brasil y Argentina
+    python actualizar_datos.py --sin-extra     # omite las ligas EXTRA (Brasil, Argentina, nordicas...)
 """
 
 import argparse
@@ -45,12 +45,41 @@ LIGAS = {
     "F2":  ("Ligue 2",          "Francia",    2, 1380),
     "N1":  ("Eredivisie",       "Holanda",    1, 1510),
     "P1":  ("Liga Portugal",    "Portugal",   1, 1525),
+    # --- ampliacion 2026-11: ligas con menos seguimiento del mercado ---------
+    # Mismo formato y mismas estadisticas que las anteriores (la fuente trae
+    # tiros, corners y tarjetas en todas sus divisiones desde 2017-18).
+    # League One y League Two ademas dan Elo real a los ascendidos a la
+    # Championship, que hasta ahora entraban con Elo semilla.
+    # Los elo_base de estas ligas son PRIORS iniciales sin medir: revisarlos.
+    "E2":  ("League One",       "Inglaterra", 3, 1330),
+    "E3":  ("League Two",       "Inglaterra", 4, 1230),
+    "EC":  ("National League",  "Inglaterra", 5, 1150),
+    "SC0": ("Scottish Premiership", "Escocia", 1, 1440),
+    "SC1": ("Scottish Championship", "Escocia", 2, 1270),
+    "SC2": ("Scottish League One", "Escocia", 3, 1170),
+    "SC3": ("Scottish League Two", "Escocia", 4, 1100),
+    "B1":  ("Jupiler Pro League", "Belgica",  1, 1500),
+    "T1":  ("Super Lig",        "Turquia",    1, 1480),
+    "G1":  ("Super League Grecia", "Grecia",  1, 1450),
 }
 
-# --- Extra (Libertadores): menos columnas, sin estadisticas de partido --------
+# --- Extra: menos columnas, SIN estadisticas de partido (ni tiros ni corners) -
+# Sirven para Elo y 1X2 con media de mercado al cierre; no para secundarios.
+# Brasil y Argentina por la Libertadores; el resto, ligas con poco seguimiento.
+# Las nordicas, Irlanda, EE. UU. y Japon juegan en ano natural (temporada = ano).
 EXTRA = {
     "BRA": ("Brasileirao",       "Brasil",    1, 1500),
     "ARG": ("Primera Division",  "Argentina", 1, 1470),
+    "AUT": ("Bundesliga Austria", "Austria",  1, 1440),
+    "SWZ": ("Super League Suiza", "Suiza",    1, 1440),
+    "DNK": ("Superliga Dinamarca", "Dinamarca", 1, 1450),
+    "SWE": ("Allsvenskan",       "Suecia",    1, 1400),
+    "NOR": ("Eliteserien",       "Noruega",   1, 1420),
+    "FIN": ("Veikkausliiga",     "Finlandia", 1, 1250),
+    "POL": ("Ekstraklasa",       "Polonia",   1, 1400),
+    "IRL": ("Premier Division Irlanda", "Irlanda", 1, 1250),
+    "USA": ("MLS",               "EEUU",      1, 1420),
+    "JPN": ("J1 League",         "Japon",     1, 1430),
 }
 
 COLS_SALIDA = [

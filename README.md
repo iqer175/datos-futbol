@@ -1,8 +1,17 @@
 # Datos de fútbol automatizados
 
-Descarga 12 ligas europeas de football-data.co.uk (más Brasil y Argentina
-para Libertadores), las consolida, calcula ratings Elo y genera agregados
-ligeros. Se actualiza sola los lunes, martes y jueves mediante GitHub Actions.
+Descarga 22 divisiones europeas de football-data.co.uk con estadísticas de
+partido (las 12 originales más League One, League Two, National League, las
+cuatro escocesas, Bélgica, Turquía y Grecia) y 12 ligas "extra" solo con
+resultado y media de mercado al cierre (Brasil y Argentina para la
+Libertadores, más Austria, Suiza, Dinamarca, Suecia, Noruega, Finlandia,
+Polonia, Irlanda, MLS y J1). Las consolida, calcula ratings Elo y genera
+agregados ligeros. Se actualiza sola los lunes, martes y jueves mediante
+GitHub Actions.
+
+Las ligas extra no traen tiros, córners ni tarjetas: sirven para Elo y 1X2,
+no para mercados secundarios. Los `elo_base` de las ligas añadidas en
+noviembre de 2026 son priors iniciales sin medir.
 
 ## Qué genera
 

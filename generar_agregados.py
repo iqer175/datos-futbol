@@ -40,7 +40,28 @@ SLUG = {'LaLiga':'laliga','LaLiga Hypermotion':'laliga2','Premier League':'premi
         'Championship':'championship','Serie A':'seriea','Serie B':'serieb',
         'Bundesliga':'bundesliga','2. Bundesliga':'bundesliga2',
         'Ligue 1':'ligue1','Ligue 2':'ligue2','Eredivisie':'eredivisie',
-        'Liga Portugal':'portugal','Brasileirao':'brasil','Primera Division':'argentina'}
+        'Liga Portugal':'portugal','Brasileirao':'brasil','Primera Division':'argentina',
+        # ampliacion 2026-11
+        'League One':'leagueone','League Two':'leaguetwo','National League':'nationalleague',
+        'Scottish Premiership':'escocia','Scottish Championship':'escocia2',
+        'Scottish League One':'escocia3','Scottish League Two':'escocia4',
+        'Jupiler Pro League':'belgica','Super Lig':'turquia','Super League Grecia':'grecia',
+        'Bundesliga Austria':'austria','Super League Suiza':'suiza',
+        'Superliga Dinamarca':'dinamarca','Allsvenskan':'suecia','Eliteserien':'noruega',
+        'Veikkausliiga':'finlandia','Ekstraklasa':'polonia',
+        'Premier Division Irlanda':'irlanda','MLS':'usa','J1 League':'japon'}
+
+LIMITE_KB = 44   # margen bajo los 45 KB que comprueba el workflow
+
+def escribir_limitado(df_filas, ruta, orden=None):
+    """Escribe un CSV recortando las filas menos recientes si pasa de LIMITE_KB.
+    Con 34 ligas, alguna (MLS, ligas en ano natural) puede pasarse en h2h y
+    tumbar el workflow entero; mejor perder los pares mas antiguos."""
+    d = df_filas if orden is None else df_filas.sort_values(orden, ascending=False)
+    d.to_csv(ruta, index=False)
+    while os.path.getsize(ruta) > LIMITE_KB * 1024 and len(d) > 10:
+        d = d.iloc[:int(len(d) * 0.9)]
+        d.to_csv(ruta, index=False)
 
 def slug(liga):
     """Nunca reventar por una liga nueva que no este en SLUG."""
@@ -146,16 +167,19 @@ def main():
                 over25=round((t > 2.5).mean(), 2),
                 btts=round(((h.gl > 0) & (h.gv > 0)).mean(), 2),
                 ultimos=';'.join(f"{r.local[:3]}{int(r.gl)}-{int(r.gv)}{r.visitante[:3]}"
-                                 for _, r in h.sort_values('fecha').tail(5).iterrows())))
+                                 for _, r in h.sort_values('fecha').tail(5).iterrows()),
+                _ult=h.fecha.max()))
         if rows:
-            pd.DataFrame(rows).to_csv(os.path.join(DATOS, 'h2h', f'{slug(liga)}.csv'), index=False)
+            escribir_limitado(pd.DataFrame(rows).sort_values('_ult', ascending=False).drop(columns='_ult'),
+                              os.path.join(DATOS, 'h2h', f'{slug(liga)}.csv'))
 
     # ---- 5. cuotas de cierre de la temporada en curso (para el CLV) ---------
     act = df[df.temporada.astype(str).isin(temporadas_actuales(hoy))]
     for liga, g in act.groupby('liga'):
-        g[['fecha', 'local', 'visitante', 'gl', 'gv', 'b365c_1', 'b365c_x', 'b365c_2',
-           'avgc_1', 'avgc_x', 'avgc_2', 'b365c_over25', 'b365c_under25']].to_csv(
-            os.path.join(DATOS, 'cierres', f'{slug(liga)}.csv'), index=False)
+        escribir_limitado(
+            g[['fecha', 'local', 'visitante', 'gl', 'gv', 'b365c_1', 'b365c_x', 'b365c_2',
+               'avgc_1', 'avgc_x', 'avgc_2', 'b365c_over25', 'b365c_under25']],
+            os.path.join(DATOS, 'cierres', f'{slug(liga)}.csv'), orden='fecha')
 
     # ---- 6. indice con rutas y tamanos --------------------------------------
     idx = {'generado': datetime.now(timezone.utc).isoformat(timespec='seconds'),
