@@ -1,0 +1,78 @@
+eq_a,eq_b,n,goles,over25,btts,ultimos
+Celtic,Falkirk,6,2.67,0.5,0.33,Fal0-1Cel;Cel2-0Fal;Cel3-1Fal;Cel2-1Fal;Fal2-0Cel
+Kilmarnock,St Johnstone,13,2.77,0.54,0.54,St 1-0Kil;Kil3-1St ;St 0-2Kil;St 4-3Kil;Kil2-2St 
+Motherwell,St Mirren,17,2.47,0.41,0.47,St 0-0Mot;Mot2-0St ;St 0-5Mot;St 3-3Mot;Mot1-0St 
+Celtic,Dundee United,15,3.2,0.53,0.33,Dun0-5Cel;Dun2-1Cel;Cel4-0Dun;Dun2-0Cel;Cel2-2Dun
+Motherwell,St Johnstone,16,2.81,0.56,0.81,St 1-2Mot;Mot2-1St ;St 2-1Mot;Mot3-2St ;St 2-2Mot
+Hibernian,St Mirren,19,2.47,0.53,0.47,St 2-2Hib;Hib1-1St ;St 0-3Hib;Hib2-0St ;St 1-1Hib
+Dundee,Kilmarnock,13,3.54,0.77,0.92,Kil0-0Dun;Dun2-1Kil;Kil2-2Dun;Kil3-1Dun;Dun3-1Kil
+Hearts,Rangers,20,3.15,0.65,0.5,Ran0-2Hea;Hea2-1Ran;Ran4-2Hea;Hea2-1Ran;Hea2-2Ran
+Aberdeen,Falkirk,4,1.25,0.0,0.25,Abe0-1Fal;Fal1-0Abe;Abe1-1Fal;Abe0-1Fal
+Celtic,Hibernian,19,3.11,0.74,0.63,Cel0-0Hib;Hib1-2Cel;Cel1-2Hib;Hib1-2Cel;Hib1-2Cel
+Hearts,Motherwell,19,2.47,0.42,0.37,Hea3-3Mot;Mot0-0Hea;Hea3-1Mot;Mot1-1Hea;Mot0-2Hea
+Falkirk,Kilmarnock,4,3.5,0.75,0.5,Fal3-1Kil;Kil0-1Fal;Fal5-1Kil;Fal3-0Kil
+Rangers,St Johnstone,13,2.54,0.46,0.23,St 0-3Ran;Ran2-0St ;St 0-1Ran;Ran3-1St ;Ran4-0St 
+Dundee,St Mirren,16,2.44,0.5,0.44,St 1-0Dun;Dun3-1St ;St 0-0Dun;Dun1-0St ;St 2-1Dun
+Aberdeen,Dundee United,15,2.27,0.33,0.4,Dun2-0Abe;Abe1-1Dun;Dun0-0Abe;Abe2-0Dun;Dun3-2Abe
+Celtic,Hearts,20,3.6,0.7,0.6,Hea3-1Cel;Cel1-2Hea;Hea2-2Cel;Cel3-1Hea;Cel7-1Hea
+Dundee United,St Johnstone,11,1.64,0.27,0.36,St 1-0Dun;Dun2-0St ;St 1-2Dun;Dun1-0St ;St 1-1Dun
+Aberdeen,St Mirren,20,3.15,0.7,0.55,St 0-1Abe;Abe3-3St ;St 2-0Abe;Abe0-2St ;Abe3-1St 
+Falkirk,Hibernian,5,3.8,1.0,0.8,Fal2-2Hib;Hib3-0Fal;Fal4-1Hib;Fal1-3Hib;Hib1-2Fal
+Kilmarnock,Motherwell,15,2.73,0.53,0.6,Mot3-0Kil;Mot2-2Kil;Kil1-3Mot;Mot4-0Kil;Kil3-2Mot
+Dundee,Rangers,14,3.21,0.64,0.5,Dun3-4Ran;Ran1-1Dun;Dun0-3Ran;Ran3-0Dun;Dun2-2Ran
+Celtic,Motherwell,18,3.28,0.67,0.56,Cel3-2Mot;Mot2-0Cel;Cel3-1Mot;Mot2-3Cel;Mot0-2Cel
+Aberdeen,St Johnstone,15,1.33,0.07,0.27,Abe1-0St ;St 1-2Abe;Abe1-1St ;St 0-0Abe;Abe0-1St 
+Dundee,Falkirk,4,2.0,0.5,0.5,Fal2-1Dun;Dun1-0Fal;Fal1-0Dun;Fal1-2Dun
+Dundee United,Hibernian,14,3.29,0.64,0.79,Hib3-1Dun;Hib3-3Dun;Dun1-1Hib;Hib3-2Dun;Dun1-0Hib
+Kilmarnock,Rangers,14,3.86,0.79,0.64,Kil2-4Ran;Ran3-1Kil;Kil0-3Ran;Ran5-1Kil;Ran3-1Kil
+Hearts,St Mirren,18,2.72,0.5,0.44,Hea3-1St ;St 2-2Hea;Hea2-0St ;St 1-0Hea;Hea5-0St 
+Celtic,Rangers,21,3.05,0.71,0.57,Ran0-0Cel;Cel1-3Ran;Ran2-2Cel;Cel3-1Ran;Cel0-1Ran
+Dundee,Motherwell,14,2.86,0.57,0.71,Dun1-2Mot;Dun1-1Mot;Mot1-0Dun;Dun2-1Mot;Dun2-1Mot
+Aberdeen,Hibernian,20,2.85,0.45,0.45,Abe1-0Hib;Abe1-2Hib;Hib2-0Abe;Abe2-0Hib;Hib1-1Abe
+Hearts,Kilmarnock,15,2.13,0.4,0.53,Kil0-1Hea;Kil0-3Hea;Hea1-1Kil;Kil1-0Hea;Kil1-1Hea
+Dundee United,St Mirren,15,2.27,0.47,0.47,Dun3-1St ;St 2-0Dun;Dun2-1St ;St 1-1Dun;St 0-3Dun
+Aberdeen,Motherwell,17,3.06,0.47,0.53,Abe4-1Mot;Mot2-0Abe;Abe1-1Mot;Mot2-0Abe;Mot0-4Abe
+Hibernian,Kilmarnock,13,2.31,0.38,0.46,Kil1-1Hib;Hib2-2Kil;Kil1-3Hib;Hib3-0Kil;Hib0-1Kil
+Falkirk,Hearts,5,2.4,0.6,0.2,Hea3-0Fal;Fal0-2Hea;Hea1-0Fal;Hea3-0Fal;Fal2-1Hea
+Rangers,St Mirren,19,2.79,0.58,0.47,St 2-2Ran;St 1-1Ran;Ran2-1St ;St 0-1Ran;Ran1-0St 
+Celtic,St Johnstone,13,3.54,0.69,0.46,Cel3-1St ;St 0-6Cel;Cel4-0St ;St 1-0Cel;St 0-1Cel
+Dundee,Hearts,15,2.8,0.53,0.4,Hea0-1Dun;Hea4-0Dun;Dun0-1Hea;Hea1-0Dun;Hea2-1Dun
+Hibernian,St Johnstone,15,2.27,0.47,0.47,St 1-3Hib;Hib2-0St ;St 1-1Hib;Hib3-0St ;St 2-1Hib
+Dundee United,Falkirk,4,3.5,0.75,0.75,Fal2-2Dun;Dun0-3Fal;Fal2-3Dun;Dun1-1Fal
+Celtic,St Mirren,19,3.11,0.63,0.37,Cel1-1St ;Cel1-0St ;St 0-1Cel;Cel1-0St ;St 1-2Cel
+Motherwell,Rangers,18,3.11,0.61,0.72,Mot1-1Ran;Ran1-0Mot;Mot1-1Ran;Ran2-3Mot;Ran1-0Mot
+Aberdeen,Kilmarnock,14,2.14,0.36,0.21,Kil0-1Abe;Abe2-1Kil;Kil3-0Abe;Abe1-0Kil;Abe0-0Kil
+Hearts,Hibernian,18,2.28,0.44,0.61,Hea1-0Hib;Hib3-2Hea;Hea1-0Hib;Hib1-2Hea;Hib1-3Hea
+Falkirk,Rangers,5,4.2,0.6,0.8,Fal1-1Ran;Ran0-0Fal;Fal3-6Ran;Fal2-5Ran;Fal1-2Ran
+Kilmarnock,St Mirren,15,2.53,0.33,0.33,Kil2-0St ;St 0-0Kil;Kil4-3St ;St 0-3Kil;Kil0-1St 
+Aberdeen,Celtic,18,3.56,0.72,0.56,Abe1-5Cel;Abe0-2Cel;Cel3-1Abe;Abe1-2Cel;Cel3-0Abe
+Dundee,St Johnstone,12,2.5,0.5,0.75,Dun1-2St ;St 1-3Dun;Dun1-1St ;St 0-2Dun;Dun1-1St 
+Dundee United,Motherwell,15,2.27,0.4,0.33,Dun1-0Mot;Mot2-0Dun;Dun0-0Mot;Mot2-0Dun;Mot3-0Dun
+Aberdeen,Rangers,18,2.94,0.56,0.56,Ran4-0Abe;Ran2-0Abe;Abe0-2Ran;Ran4-1Abe;Abe0-1Ran
+Dundee,Hibernian,14,3.0,0.71,0.64,Hib4-0Dun;Dun1-2Hib;Hib2-0Dun;Dun3-3Hib;Dun1-2Hib
+Dundee United,Kilmarnock,12,2.67,0.42,0.42,Dun0-2Kil;Kil1-1Dun;Dun1-1Kil;Kil3-0Dun;Kil0-4Dun
+Hearts,St Johnstone,14,2.79,0.64,0.64,St 1-2Hea;Hea2-1St ;St 1-2Hea;Hea2-1St ;Hea2-1St 
+Dundee,Dundee United,11,2.73,0.55,0.45,Dun0-2Dun;Dun0-1Dun;Dun2-2Dun;Dun3-0Dun;Dun0-2Dun
+Falkirk,Motherwell,5,1.8,0.4,0.4,Mot1-2Fal;Fal0-0Mot;Mot2-3Fal;Fal1-0Mot;Mot0-0Fal
+Hibernian,Rangers,19,2.95,0.63,0.53,Hib0-1Ran;Ran1-0Hib;Hib0-0Ran;Ran1-2Hib;Ran1-2Hib
+Celtic,Kilmarnock,14,4.0,0.79,0.57,Cel5-1Kil;Kil1-2Cel;Cel4-0Kil;Kil2-3Cel;Kil1-5Cel
+Dundee United,Hearts,14,3.43,0.64,0.57,Hea0-1Dun;Dun2-3Hea;Hea1-1Dun;Dun0-3Hea;Hea4-0Dun
+St Johnstone,St Mirren,14,2.21,0.43,0.36,St 2-0St ;St 3-1St ;St 2-3St ;St 0-1St ;St 1-0St 
+Aberdeen,Dundee,15,3.0,0.67,0.67,Abe4-0Dun;Dun1-3Abe;Abe2-3Dun;Dun3-2Abe;Dun2-0Abe
+Celtic,Dundee,14,3.93,0.71,0.43,Cel6-0Dun;Dun2-0Cel;Cel1-0Dun;Dun1-2Cel;Cel1-0Dun
+Hibernian,Motherwell,18,2.61,0.56,0.61,Mot2-0Hib;Hib1-1Mot;Mot0-0Hib;Hib0-1Mot;Hib1-2Mot
+Aberdeen,Hearts,17,2.41,0.41,0.41,Abe0-0Hea;Hea2-0Abe;Abe1-0Hea;Hea1-0Abe;Abe2-1Hea
+Falkirk,St Mirren,4,2.5,0.5,0.5,Fal1-2St ;St 0-2Fal;Fal1-2St ;Fal0-2St 
+Dundee United,Rangers,15,2.67,0.4,0.6,Ran3-1Dun;Ran2-2Dun;Dun2-2Ran;Ran4-2Dun;Dun1-1Ran
+Kilmarnock,Livingston,11,2.73,0.45,0.55,Kil1-0Liv;Kil2-2Liv;Liv1-1Kil;Kil2-0Liv;Liv1-4Kil
+Dundee United,Livingston,11,2.27,0.36,0.64,Liv2-1Dun;Dun1-1Liv;Liv1-3Dun;Dun3-2Liv;Dun0-0Liv
+Dundee,Livingston,11,3.0,0.64,0.45,Liv1-4Dun;Dun3-2Liv;Liv2-2Dun;Dun2-2Liv;Dun3-0Liv
+Aberdeen,Livingston,15,2.8,0.6,0.53,Abe5-1Liv;Abe0-0Liv;Liv0-1Abe;Abe6-2Liv;Liv2-2Abe
+Livingston,St Mirren,14,1.71,0.14,0.5,Liv1-0St ;St 1-0Liv;Liv1-1St ;Liv1-1St ;St 0-2Liv
+Hearts,Livingston,12,2.25,0.42,0.42,Liv1-2Hea;Hea4-2Liv;Liv1-2Hea;Hea1-0Liv;Liv2-2Hea
+Hibernian,Livingston,14,2.86,0.57,0.43,Hib3-0Liv;Liv1-1Hib;Hib4-0Liv;Liv2-2Hib;Hib0-0Liv
+Livingston,Rangers,12,2.92,0.75,0.5,Liv0-2Ran;Ran3-0Liv;Liv1-2Ran;Ran2-1Liv;Liv2-2Ran
+Celtic,Livingston,12,2.83,0.75,0.33,Cel2-0Liv;Liv0-3Cel;Cel3-0Liv;Liv2-4Cel;Cel2-1Liv
+Falkirk,Livingston,3,3.0,0.67,1.0,Liv3-1Fal;Fal1-1Liv;Liv1-2Fal
+Livingston,Motherwell,14,2.93,0.64,0.64,Liv1-3Mot;Mot4-1Liv;Liv1-2Mot;Mot3-0Liv;Liv0-2Mot
+Livingston,St Johnstone,12,2.25,0.33,0.5,St 2-0Liv;St 1-1Liv;Liv0-0St ;St 1-1Liv;Liv2-1St 

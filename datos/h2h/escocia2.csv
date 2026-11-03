@@ -1,0 +1,66 @@
+eq_a,eq_b,n,goles,over25,btts,ultimos
+Dunfermline,Inverness C,10,1.9,0.2,0.6,Dun1-1Inv;Inv0-0Dun;Dun1-1Inv;Inv0-0Dun;Dun5-1Inv
+Ayr,Queens Park,18,3.28,0.61,0.72,Que0-0Ayr;Ayr1-2Que;Que1-1Ayr;Que0-2Ayr;Ayr3-2Que
+Arbroath,Raith Rvs,18,3.11,0.72,0.61,Arb0-0Rai;Rai2-3Arb;Arb2-1Rai;Rai4-0Arb;Arb0-4Rai
+Morton,Partick,22,2.64,0.59,0.68,Mor1-1Par;Par3-2Mor;Mor1-2Par;Mor0-1Par;Par2-3Mor
+Livingston,Stenhousemuir,2,2.0,0.5,0.0,Liv0-1Ste;Ste0-3Liv
+Dunfermline,Queens Park,14,1.64,0.29,0.29,Que1-1Dun;Dun1-0Que;Que0-2Dun;Dun2-0Que;Que0-1Dun
+Inverness C,Raith Rvs,14,2.43,0.29,0.5,Inv1-2Rai;Rai2-3Inv;Inv0-1Rai;Inv0-2Rai;Rai0-2Inv
+Partick,Stenhousemuir,2,2.0,0.5,0.0,Ste1-0Par;Par3-0Ste
+Arbroath,Livingston,2,1.0,0.0,0.0,Arb1-0Liv;Liv1-0Arb
+Dunfermline,Partick,17,2.29,0.41,0.41,Dun0-2Par;Par1-0Dun;Dun2-2Par;Par2-0Dun;Dun1-1Par
+Morton,Queens Park,18,2.17,0.5,0.5,Mor2-1Que;Que3-2Mor;Mor0-0Que;Que2-1Mor;Mor2-0Que
+Arbroath,Inverness C,14,2.07,0.36,0.43,Inv1-2Arb;Arb1-1Inv;Inv2-1Arb;Arb0-0Inv;Inv2-0Arb
+Dunfermline,Livingston,6,1.33,0.17,0.0,Dun3-0Liv;Liv0-0Dun;Dun1-0Liv;Liv2-0Dun;Dun0-0Liv
+Raith Rvs,Stenhousemuir,2,2.0,0.0,1.0,Rai1-1Ste;Ste1-1Rai
+Ayr,Partick,22,2.73,0.5,0.5,Ayr0-0Par;Par2-1Ayr;Ayr1-1Par;Par1-0Ayr;Ayr0-1Par
+Inverness C,Queens Park,9,2.33,0.56,0.67,Inv1-2Que;Que1-4Inv;Inv0-1Que;Que0-1Inv;Que2-1Inv
+Inverness C,Stenhousemuir,2,3.0,0.5,0.5,Ste3-1Inv;Inv2-0Ste
+Queens Park,Raith Rvs,18,3.17,0.56,0.67,Que2-1Rai;Rai4-1Que;Que0-2Rai;Que1-2Rai;Rai2-0Que
+Arbroath,Morton,18,2.56,0.67,0.72,Mor1-0Arb;Arb1-1Mor;Mor2-1Arb;Mor1-2Arb;Arb1-2Mor
+Livingston,Partick,6,1.67,0.17,0.33,Liv2-0Par;Par1-1Liv;Liv0-1Par;Par2-0Liv;Liv1-2Par
+Ayr,Dunfermline,18,2.61,0.44,0.5,Ayr0-1Dun;Dun2-3Ayr;Ayr0-3Dun;Dun1-1Ayr;Ayr1-1Dun
+Ayr,Livingston,5,3.0,0.8,0.6,Ayr1-2Liv;Liv0-1Ayr;Ayr1-2Liv;Liv5-0Ayr;Liv1-2Ayr
+Morton,Raith Rvs,21,2.48,0.48,0.57,Mor0-1Rai;Rai1-1Mor;Mor0-0Rai;Rai3-2Mor;Mor1-2Rai
+Arbroath,Partick,17,2.06,0.41,0.29,Par1-1Arb;Arb2-1Par;Par0-0Arb;Arb0-0Par;Par3-0Arb
+Inverness C,Morton,13,2.62,0.46,0.38,Mor2-1Inv;Inv0-0Mor;Mor0-2Inv;Inv3-1Mor;Inv2-0Mor
+Arbroath,Queens Park,13,3.23,0.69,0.62,Que1-3Arb;Arb4-1Que;Que2-1Arb;Arb1-0Que;Arb2-1Que
+Livingston,Raith Rvs,5,1.8,0.4,0.4,Rai0-1Liv;Liv2-1Rai;Rai2-1Liv;Liv0-0Rai;Rai0-2Liv
+Partick,Raith Rvs,21,2.24,0.43,0.33,Par3-2Rai;Rai2-0Par;Par0-0Rai;Rai0-2Par;Par0-0Rai
+Dunfermline,Morton,17,2.53,0.47,0.41,Mor0-0Dun;Dun1-0Mor;Mor2-0Dun;Dun3-1Mor;Mor0-1Dun
+Ayr,Inverness C,13,3.0,0.77,0.77,Ayr1-0Inv;Inv3-1Ayr;Ayr1-3Inv;Inv1-2Ayr;Ayr1-3Inv
+Livingston,Morton,5,3.0,0.6,0.8,Liv1-1Mor;Mor0-0Liv;Liv3-2Mor;Mor1-2Liv;Mor1-4Liv
+Arbroath,Dunfermline,13,3.15,0.62,0.54,Arb0-5Dun;Dun1-2Arb;Arb4-2Dun;Dun0-0Arb;Arb1-1Dun
+Ayr,Morton,21,2.24,0.38,0.67,Mor2-2Ayr;Ayr2-1Mor;Mor1-1Ayr;Ayr0-1Mor;Ayr1-1Mor
+Partick,Queens Park,17,3.12,0.65,0.47,Que0-1Par;Par5-0Que;Que2-2Par;Par1-1Que;Par0-0Que
+Dunfermline,Raith Rvs,17,2.0,0.24,0.29,Rai2-0Dun;Dun2-0Rai;Rai1-2Dun;Dun3-0Rai;Dun1-0Rai
+Ayr,Raith Rvs,21,2.62,0.48,0.33,Ayr0-1Rai;Rai0-2Ayr;Ayr2-1Rai;Rai3-0Ayr;Rai2-0Ayr
+Inverness C,Partick,13,2.69,0.38,0.54,Inv0-0Par;Par1-1Inv;Inv3-3Par;Par1-0Inv;Inv1-1Par
+Arbroath,Ayr,17,2.06,0.24,0.41,Arb1-1Ayr;Ayr1-1Arb;Arb1-1Ayr;Ayr1-0Arb;Ayr2-0Arb
+Livingston,Queens Park,5,2.2,0.2,0.4,Que1-1Liv;Liv1-1Que;Que2-0Liv;Liv3-0Que;Liv2-0Que
+Airdrie Utd,Morton,12,2.42,0.5,0.58,Air0-1Mor;Air1-2Mor;Mor0-1Air;Air3-1Mor;Mor1-1Air
+Raith Rvs,Ross County,4,3.75,0.5,0.25,Ros2-0Rai;Rai6-0Ros;Ros2-0Rai;Rai3-2Ros
+Ayr,St Johnstone,4,2.75,0.5,0.5,St 0-0Ayr;Ayr2-4St ;St 3-1Ayr;Ayr0-1St 
+Morton,Ross County,4,3.0,0.75,0.5,Mor1-1Ros;Ros0-3Mor;Mor2-1Ros;Ros4-0Mor
+Airdrie Utd,Ayr,12,3.0,0.58,0.58,Air0-1Ayr;Ayr4-2Air;Air0-1Ayr;Ayr1-1Air;Air2-1Ayr
+Raith Rvs,St Johnstone,4,1.0,0.0,0.0,Rai0-2St ;St 0-0Rai;Rai0-0St ;St 2-0Rai
+Dunfermline,St Johnstone,4,2.5,0.5,0.5,St 2-1Dun;Dun2-2St ;St 0-1Dun;Dun0-2St 
+Airdrie Utd,Partick,12,2.67,0.58,0.75,Air2-1Par;Par2-1Air;Air1-1Par;Par1-0Air;Air2-2Par
+Ayr,Ross County,4,2.75,0.5,0.75,Ayr1-1Ros;Ros3-3Ayr;Ayr0-0Ros;Ros2-1Ayr
+Airdrie Utd,Dunfermline,12,2.42,0.5,0.42,Dun0-0Air;Dun2-0Air;Air0-4Dun;Dun0-2Air;Air2-2Dun
+Airdrie Utd,St Johnstone,4,2.75,0.75,0.25,Air1-2St ;St 3-0Air;Air0-1St ;St 4-0Air
+Queens Park,Ross County,4,1.5,0.25,0.25,Ros1-2Que;Que0-1Ros;Ros0-1Que;Que1-0Ros
+Airdrie Utd,Ross County,4,3.0,0.75,0.5,Air2-2Ros;Ros1-2Air;Air0-1Ros;Ros0-4Air
+Arbroath,St Johnstone,4,3.5,0.75,0.5,St 3-0Arb;Arb3-1St ;St 1-0Arb;Arb2-4St 
+Queens Park,St Johnstone,4,3.5,0.5,1.0,Que1-2St ;St 4-3Que;Que1-1St ;St 1-1Que
+Partick,Ross County,4,2.75,0.5,0.5,Ros1-3Par;Par1-0Ros;Ros2-0Par;Par3-1Ros
+Airdrie Utd,Raith Rvs,12,1.67,0.25,0.33,Rai1-1Air;Air0-0Rai;Rai0-3Air;Air0-0Rai;Rai3-1Air
+Dunfermline,Ross County,4,4.0,1.0,0.75,Dun2-2Ros;Ros3-2Dun;Dun3-0Ros;Ros2-2Dun
+Partick,St Johnstone,4,3.25,0.75,0.75,St 5-1Par;Par2-1St ;St 2-2Par;Par0-0St 
+Airdrie Utd,Arbroath,8,2.5,0.38,0.38,Arb1-2Air;Arb1-0Air;Air1-0Arb;Arb1-1Air;Air0-0Arb
+Ross County,St Johnstone,4,0.5,0.0,0.0,Ros0-1St ;St 0-0Ros;Ros0-0St ;St 1-0Ros
+Morton,St Johnstone,4,3.25,0.5,0.25,St 1-1Mor;Mor0-4St ;St 5-0Mor;Mor0-2St 
+Arbroath,Ross County,4,2.0,0.5,0.25,Ros1-2Arb;Arb3-0Ros;Ros0-2Arb;Arb0-0Ros
+Airdrie Utd,Queens Park,12,2.25,0.33,0.42,Que0-5Air;Air1-1Que;Que0-0Air;Air0-3Que;Que1-0Air
+Airdrie Utd,Livingston,4,3.75,1.0,0.75,Liv2-1Air;Air0-3Liv;Liv2-1Air;Air3-3Liv
+Airdrie Utd,Inverness C,4,1.5,0.25,0.25,Air2-1Inv;Inv1-0Air;Air2-0Inv;Inv0-0Air

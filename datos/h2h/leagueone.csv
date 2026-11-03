@@ -1,0 +1,348 @@
+eq_a,eq_b,n,goles,over25,btts,ultimos
+Doncaster,Milton Keynes Dons,3,3.67,0.67,0.67,Don2-1Mil;Mil0-1Don;Mil6-1Don
+Burton,Wycombe,11,2.36,0.55,0.45,Bur2-3Wyc;Wyc2-0Bur;Bur0-0Wyc;Wyc3-0Bur;Wyc2-0Bur
+Barnsley,Oxford,5,2.4,0.4,0.6,Oxf1-2Bar;Bar2-0Oxf;Bar1-3Oxf;Oxf0-1Bar;Bar1-1Oxf
+Luton,Peterboro,3,2.33,0.33,0.33,Pet0-2Lut;Lut2-1Pet;Pet0-2Lut
+Cambridge,Leyton Orient,5,2.4,0.4,0.2,Ley2-0Cam;Cam0-2Ley;Ley2-0Cam;Cam1-2Ley;Ley3-0Cam
+Plymouth,Reading,3,3.0,0.67,0.67,Ply1-4Rea;Rea2-2Ply;Ply0-0Rea
+AFC Wimbledon,Stockport,3,2.67,0.67,0.33,Sto3-0AFC;AFC0-2Sto;Sto2-1AFC
+Bradford,Huddersfield,3,2.67,0.67,0.33,Bra3-1Hud;Hud1-0Bra;Bra0-3Hud
+Doncaster,Luton,3,2.33,0.33,0.67,Lut1-0Don;Don1-1Lut;Lut3-1Don
+Cambridge,Sheffield Weds,5,3.4,0.4,0.4,Cam1-1She;She6-0Cam;Cam0-2She;She5-0Cam;She1-1Cam
+Doncaster,Sheffield Weds,3,2.67,0.33,0.33,She2-0Don;Don1-3She;Don2-0She
+Barnsley,Reading,7,4.29,1.0,1.0,Bar2-2Rea;Rea2-4Bar;Bar3-2Rea;Rea2-2Bar;Rea2-1Bar
+Blackpool,Mansfield,5,3.2,0.4,0.4,Man2-0Bla;Bla3-3Man;Man2-0Bla;Bla1-0Man;Bla1-4Man
+Cambridge,Plymouth,5,2.6,0.4,0.6,Ply1-1Cam;Cam2-0Ply;Cam0-0Ply;Ply3-1Cam;Cam2-3Ply
+AFC Wimbledon,Wycombe,5,2.6,0.4,0.8,Wyc2-2AFC;AFC1-1Wyc;AFC2-1Wyc;Wyc2-0AFC;AFC1-1Wyc
+Burton,Leyton Orient,7,2.43,0.71,0.57,Ley0-0Bur;Bur2-1Ley;Bur0-4Ley;Ley2-2Bur;Bur2-1Ley
+Huddersfield,Wigan,5,2.0,0.4,0.6,Hud1-0Wig;Wig2-1Hud;Hud1-1Wig;Wig1-0Hud;Hud2-1Wig
+Leyton Orient,Reading,7,2.29,0.43,0.57,Rea0-1Ley;Ley2-0Rea;Rea2-1Ley;Ley3-1Rea;Rea1-0Ley
+Plymouth,Stevenage,3,2.0,0.33,0.33,Ste1-1Ply;Ply1-0Ste;Ste3-0Ply
+Huddersfield,Peterboro,5,3.6,0.6,0.6,Pet0-2Hud;Hud0-1Pet;Hud3-2Pet;Pet2-3Hud;Hud4-1Pet
+Doncaster,Stockport,3,3.33,0.33,0.33,Don0-2Sto;Sto4-2Don;Don0-2Sto
+Barnsley,Luton,3,3.67,1.0,0.67,Bar5-0Lut;Lut2-1Bar;Lut2-1Bar
+AFC Wimbledon,Mansfield,3,2.33,0.67,0.33,AFC0-0Man;Man2-2AFC;AFC0-3Man
+Cambridge,Wycombe,9,3.0,0.67,0.78,Wyc0-0Cam;Cam1-1Wyc;Wyc2-1Cam;Cam1-1Wyc;Cam2-2Wyc
+Bradford,Burton,3,2.0,0.67,0.67,Bra1-2Bur;Bur2-1Bra;Bur0-0Bra
+Oxford,Wigan,5,3.6,0.6,0.8,Oxf2-3Wig;Wig1-1Oxf;Wig2-0Oxf;Oxf4-2Wig;Oxf2-1Wig
+Barnsley,Cambridge,7,2.57,0.43,0.43,Cam0-4Bar;Bar0-2Cam;Cam1-1Bar;Bar1-1Cam;Bar1-2Cam
+Burton,Peterboro,9,3.22,0.56,0.67,Pet0-1Bur;Bur2-2Pet;Bur0-1Pet;Pet1-1Bur;Pet2-2Bur
+Blackpool,Leyton Orient,7,1.71,0.29,0.29,Ley3-0Bla;Bla1-2Ley;Ley1-1Bla;Bla1-0Ley;Ley2-0Bla
+Huddersfield,Plymouth,3,3.33,0.67,0.67,Hud3-1Ply;Ply3-1Hud;Ply0-2Hud
+Reading,Wigan,7,2.14,0.43,0.29,Rea2-0Wig;Wig1-2Rea;Wig1-2Rea;Rea3-0Wig;Wig1-0Rea
+Bradford,Stevenage,3,1.67,0.0,0.33,Ste1-1Bra;Bra0-1Ste;Bra2-0Ste
+AFC Wimbledon,Sheffield Weds,3,4.0,1.0,0.67,AFC2-2She;She2-1AFC;She5-0AFC
+Barnsley,Stockport,5,3.0,0.6,1.0,Bar1-1Sto;Sto2-1Bar;Sto1-1Bar;Bar1-3Sto;Sto3-1Bar
+Burton,Doncaster,5,2.0,0.2,0.4,Bur2-0Don;Don2-0Bur;Don1-1Bur;Bur1-2Don;Don1-0Bur
+Blackpool,Cambridge,5,3.2,0.6,0.6,Cam2-1Bla;Bla1-0Cam;Cam4-4Bla;Bla2-1Cam;Cam1-0Bla
+Luton,Wycombe,3,4.0,1.0,0.67,Lut4-0Wyc;Wyc1-2Lut;Wyc1-4Lut
+Bradford,Leyton Orient,3,2.0,0.67,0.67,Ley2-1Bra;Bra2-1Ley;Bra0-0Ley
+AFC Wimbledon,Plymouth,5,2.6,0.6,0.6,AFC0-1Ply;Ply2-0AFC;Ply1-2AFC;AFC1-3Ply;Ply2-1AFC
+Stevenage,Wigan,7,1.57,0.29,0.29,Wig0-0Ste;Ste1-2Wig;Wig0-0Ste;Ste1-0Wig;Ste1-0Wig
+Bradford,Reading,3,2.33,0.33,0.67,Bra2-0Rea;Rea2-1Bra;Rea1-1Bra
+Leyton Orient,Plymouth,3,2.33,0.33,0.33,Ply0-1Ley;Ley1-3Ply;Ley0-2Ply
+Burton,Huddersfield,5,2.6,0.6,0.6,Hud1-1Bur;Bur3-0Hud;Hud0-0Bur;Bur3-1Hud;Bur1-3Hud
+Peterboro,Stockport,5,2.6,0.6,0.6,Sto2-1Pet;Pet1-1Sto;Pet3-0Sto;Sto3-1Pet;Sto1-0Pet
+Burton,Plymouth,7,2.29,0.57,0.29,Bur2-2Ply;Ply1-0Bur;Bur0-4Ply;Ply3-0Bur;Ply0-1Bur
+AFC Wimbledon,Cambridge,3,1.33,0.0,0.33,Cam1-0AFC;AFC0-1Cam;Cam1-1AFC
+Reading,Wycombe,7,3.14,0.71,0.86,Wyc1-1Rea;Rea1-0Wyc;Wyc2-2Rea;Rea3-2Wyc;Wyc2-2Rea
+Cambridge,Oxford,7,2.43,0.29,0.57,Oxf1-0Cam;Cam1-0Oxf;Cam2-0Oxf;Oxf2-1Cam;Oxf1-1Cam
+Bradford,Luton,3,2.33,0.67,0.67,Bra2-1Lut;Lut2-1Bra;Lut0-1Bra
+Blackpool,Plymouth,3,3.67,0.67,0.33,Ply1-0Bla;Bla0-4Ply;Bla2-4Ply
+Doncaster,Peterboro,3,3.0,0.67,0.67,Don2-1Pet;Pet1-3Don;Pet0-2Don
+Burton,Mansfield,5,3.0,0.6,0.8,Man3-3Bur;Bur1-1Man;Bur2-1Man;Man0-0Bur;Bur2-2Man
+Wigan,Wycombe,9,1.44,0.11,0.22,Wig0-1Wyc;Wyc0-0Wig;Wig0-1Wyc;Wyc2-0Wig;Wig0-1Wyc
+Leyton Orient,Stevenage,7,2.0,0.43,0.29,Ste0-0Ley;Ley1-0Ste;Ley2-3Ste;Ste1-2Ley;Ley1-0Ste
+AFC Wimbledon,Milton Keynes Dons,3,1.0,0.0,0.33,Mil1-0AFC;AFC1-1Mil;AFC0-0Mil
+Burton,Oxford,7,3.43,0.86,0.43,Oxf2-1Bur;Bur2-0Oxf;Oxf3-0Bur;Bur0-4Oxf;Oxf3-0Bur
+Sheffield Weds,Wigan,3,1.33,0.33,0.33,Wig1-2She;She1-0Wig;She0-0Wig
+AFC Wimbledon,Doncaster,5,2.4,0.6,0.6,Don1-2AFC;AFC2-2Don;Don1-2AFC;AFC0-1Don;AFC1-0Don
+Leyton Orient,Wycombe,7,3.0,0.57,0.43,Wyc3-0Ley;Ley1-0Wyc;Wyc4-1Ley;Ley2-0Wyc;Ley2-3Wyc
+Huddersfield,Mansfield,5,3.0,0.8,0.8,Man1-2Hud;Hud2-1Man;Man1-3Hud;Hud1-4Man;Man0-0Hud
+Barnsley,Plymouth,5,2.8,0.8,0.2,Ply1-0Bar;Bar3-0Ply;Ply1-3Bar;Bar0-3Ply;Ply3-0Bar
+Milton Keynes Dons,Peterboro,3,3.0,0.33,0.67,Mil2-3Pet;Pet2-0Mil;Mil1-1Pet
+Cambridge,Reading,5,3.0,0.8,0.4,Cam1-0Rea;Rea4-0Cam;Rea3-0Cam;Cam1-3Rea;Cam2-1Rea
+Luton,Stevenage,3,2.67,0.67,0.67,Ste2-0Lut;Lut2-1Ste;Ste2-1Lut
+Milton Keynes Dons,Wycombe,5,2.6,0.4,0.4,Mil1-0Wyc;Wyc0-1Mil;Mil0-1Wyc;Wyc2-2Mil;Wyc3-3Mil
+Doncaster,Plymouth,5,4.2,1.0,1.0,Ply2-1Don;Don1-3Ply;Don1-5Ply;Ply2-1Don;Don2-3Ply
+Blackpool,Reading,7,3.43,0.86,0.43,Rea0-3Bla;Bla3-0Rea;Bla0-3Rea;Rea0-1Bla;Rea3-1Bla
+Barnsley,Stevenage,7,3.0,0.71,0.57,Ste3-0Bar;Bar0-1Ste;Bar3-1Ste;Ste1-0Bar;Bar1-5Ste
+Peterboro,Sheffield Weds,3,2.0,0.33,0.33,Pet2-0She;She1-0Pet;Pet1-2She
+Burton,Cambridge,9,2.89,0.67,0.56,Bur2-1Cam;Cam0-0Bur;Cam1-0Bur;Bur2-1Cam;Bur2-2Cam
+Stockport,Wigan,5,2.8,0.4,0.4,Sto0-0Wig;Wig0-2Sto;Wig1-1Sto;Sto4-2Wig;Wig0-4Sto
+Leyton Orient,Luton,3,2.33,0.33,0.67,Ley1-1Lut;Lut3-0Ley;Lut1-1Ley
+Bradford,Mansfield,3,2.0,0.33,0.33,Man3-0Bra;Bra1-1Man;Bra1-0Man
+Mansfield,Reading,5,3.4,0.6,0.6,Rea2-1Man;Man1-5Rea;Rea1-1Man;Man1-0Rea;Rea5-0Man
+Barnsley,Blackpool,7,2.71,0.71,0.57,Bla1-2Bar;Bar0-3Bla;Bla1-0Bar;Bar2-1Bla;Bar2-1Bla
+Luton,Stockport,3,2.33,0.33,0.33,Sto0-3Lut;Lut1-1Sto;Lut2-0Sto
+AFC Wimbledon,Burton,5,2.2,0.2,0.6,AFC1-1Bur;Bur1-1AFC;AFC0-1Bur;Bur1-0AFC;Bur4-1AFC
+Milton Keynes Dons,Wigan,3,3.0,0.67,1.0,Wig1-2Mil;Mil1-1Wig;Wig3-1Mil
+Peterboro,Stevenage,7,2.14,0.43,0.57,Pet2-1Ste;Ste1-1Pet;Pet0-1Ste;Ste1-0Pet;Pet0-0Ste
+Sheffield Weds,Wycombe,5,2.6,0.6,0.6,She2-2Wyc;Wyc1-0She;She3-1Wyc;Wyc0-1She;Wyc1-2She
+Luton,Mansfield,3,4.33,0.67,0.67,Lut0-2Man;Man2-2Lut;Man5-2Lut
+AFC Wimbledon,Wigan,5,1.6,0.2,0.2,AFC0-2Wig;Wig1-0AFC;AFC1-2Wig;Wig0-1AFC;AFC1-0Wig
+Doncaster,Stevenage,3,2.0,0.33,0.67,Ste0-0Don;Don1-1Ste;Ste2-2Don
+Barnsley,Leyton Orient,7,4.14,0.86,0.86,Bar0-4Ley;Ley4-3Bar;Bar3-2Ley;Ley1-3Bar;Ley1-3Bar
+Bradford,Plymouth,3,1.67,0.0,0.33,Ply0-1Bra;Bra1-1Ply;Ply2-0Bra
+Blackpool,Peterboro,7,3.71,0.86,0.71,Pet5-1Bla;Bla0-0Pet;Pet1-2Bla;Bla3-1Pet;Bla4-0Pet
+Stockport,Wycombe,5,4.2,1.0,0.6,Sto0-5Wyc;Wyc1-3Sto;Wyc1-2Sto;Sto3-0Wyc;Sto5-1Wyc
+Cambridge,Huddersfield,3,3.33,1.0,0.67,Cam0-4Hud;Hud1-2Cam;Cam1-2Hud
+AFC Wimbledon,Reading,3,2.67,0.67,0.67,Rea1-2AFC;AFC3-2Rea;AFC0-0Rea
+Leyton Orient,Wigan,7,1.29,0.0,0.14,Wig0-2Ley;Ley0-0Wig;Ley2-0Wig;Wig0-0Ley;Wig0-2Ley
+Oxford,Stevenage,3,3.0,0.67,1.0,Ste1-3Oxf;Oxf1-1Ste;Ste1-2Oxf
+Barnsley,Doncaster,3,1.33,0.33,0.33,Don1-2Bar;Bar0-1Don;Don0-0Bar
+Mansfield,Peterboro,5,3.0,0.8,0.6,Pet0-3Man;Man4-2Pet;Man1-2Pet;Pet0-0Man;Pet2-1Man
+Blackpool,Stockport,5,2.6,0.8,0.6,Bla0-3Sto;Sto2-1Bla;Sto1-0Bla;Bla1-2Sto;Sto1-2Bla
+Plymouth,Wycombe,7,1.71,0.14,0.29,Wyc0-1Ply;Ply1-0Wyc;Wyc0-1Ply;Ply1-1Wyc;Wyc1-1Ply
+Luton,Reading,3,5.67,1.0,1.0,Rea3-2Lut;Lut2-3Rea;Rea3-4Lut
+AFC Wimbledon,Huddersfield,3,4.33,1.0,0.33,Hud3-3AFC;AFC0-4Hud;Hud3-0AFC
+Blackpool,Wycombe,7,1.86,0.14,0.57,Bla2-2Wyc;Wyc1-1Bla;Bla1-1Wyc;Wyc0-1Bla;Bla1-1Wyc
+Plymouth,Stockport,3,4.33,1.0,1.0,Ply4-2Sto;Sto2-1Ply;Ply1-3Sto
+Milton Keynes Dons,Oxford,5,2.6,0.6,0.8,Mil1-2Oxf;Oxf1-0Mil;Oxf1-2Mil;Mil1-1Oxf;Oxf2-2Mil
+Doncaster,Mansfield,3,2.67,0.67,0.67,Man1-2Don;Don0-2Man;Man2-1Don
+Burton,Stevenage,7,2.0,0.43,0.57,Bur0-0Ste;Ste0-1Bur;Ste2-2Bur;Bur0-1Ste;Bur1-1Ste
+Bradford,Peterboro,3,2.0,0.0,0.33,Pet1-1Bra;Bra2-0Pet;Bra2-0Pet
+Cambridge,Wigan,7,3.14,0.71,0.71,Wig2-1Cam;Cam3-1Wig;Cam2-0Wig;Wig1-0Cam;Cam3-2Wig
+Bolton,Luton,2,3.5,0.5,1.0,Lut1-1Bol;Bol2-3Lut
+Cardiff,Mansfield,2,6.0,1.0,0.5,Car3-0Man;Man5-4Car
+Rotherham,Wycombe,6,2.33,0.33,0.5,Wyc0-0Rot;Wyc2-0Rot;Rot2-3Wyc;Rot1-1Wyc;Wyc3-2Rot
+Lincoln,Port Vale,6,2.17,0.17,0.33,Lin3-2Por;Lin1-1Por;Por0-2Lin;Lin1-0Por;Por0-2Lin
+Bradford,Exeter,2,2.0,0.5,0.5,Bra1-0Exe;Exe1-2Bra
+Northampton,Plymouth,2,4.0,1.0,0.5,Ply0-3Nor;Nor2-3Ply
+Barnsley,Northampton,6,2.83,0.67,0.83,Bar1-1Nor;Bar2-2Nor;Nor1-2Bar;Bar2-2Nor;Nor0-1Bar
+Port Vale,Stockport,2,3.0,1.0,0.5,Por0-3Sto;Sto1-2Por
+Lincoln,Wycombe,10,2.8,0.4,0.5,Wyc1-1Lin;Lin2-3Wyc;Wyc1-0Lin;Wyc3-2Lin;Lin4-3Wyc
+Reading,Rotherham,4,2.5,0.5,1.0,Rot2-1Rea;Rea2-1Rot;Rea1-1Rot;Rot1-1Rea
+Plymouth,Port Vale,4,2.5,0.5,0.5,Ply0-2Por;Por1-3Ply;Por0-1Ply;Ply2-1Por
+Burton,Exeter,8,1.5,0.12,0.38,Exe1-0Bur;Bur1-2Exe;Exe0-0Bur;Exe1-1Bur;Bur1-1Exe
+Bolton,Bradford,2,1.0,0.0,0.5,Bol0-0Bra;Bra1-1Bol
+Cardiff,Northampton,2,5.0,1.0,1.0,Nor1-3Car;Car5-1Nor
+Cardiff,Port Vale,2,0.5,0.0,0.0,Por0-0Car;Car1-0Por
+Mansfield,Stockport,4,2.25,0.5,0.75,Man1-1Sto;Sto1-2Man;Man1-2Sto;Sto0-1Man
+Doncaster,Lincoln,4,1.5,0.25,0.25,Don0-0Lin;Lin0-1Don;Lin2-1Don;Don0-2Lin
+Luton,Rotherham,2,1.0,0.0,0.0,Lut0-0Rot;Rot0-2Lut
+Port Vale,Wigan,4,1.5,0.25,0.25,Por3-2Wig;Wig0-0Por;Wig1-0Por;Por0-0Wig
+Doncaster,Northampton,2,3.5,1.0,1.0,Don1-2Nor;Nor1-3Don
+Cardiff,Reading,2,3.5,1.0,1.0,Car2-1Rea;Rea1-3Car
+Exeter,Stockport,4,2.75,0.25,0.25,Sto2-0Exe;Exe0-2Sto;Sto1-0Exe;Exe3-3Sto
+Lincoln,Stevenage,6,1.17,0.17,0.17,Lin0-0Ste;Ste0-1Lin;Lin0-0Ste;Lin1-0Ste;Ste2-2Lin
+Leyton Orient,Rotherham,4,1.25,0.0,0.0,Ley1-0Rot;Rot1-0Ley;Rot1-0Ley;Ley0-2Rot
+Barnsley,Bradford,2,4.0,1.0,1.0,Bra2-2Bar;Bar2-2Bra
+Bolton,Huddersfield,4,3.5,0.75,0.5,Bol0-4Hud;Hud0-1Bol;Hud1-2Bol;Bol3-3Hud
+Peterboro,Port Vale,6,2.33,0.5,0.17,Por0-2Pet;Por0-1Pet;Pet3-0Por;Por0-1Pet;Pet1-3Por
+Luton,Northampton,2,2.0,0.5,0.5,Nor0-1Lut;Lut2-1Nor
+Cardiff,Huddersfield,2,3.5,0.5,1.0,Car3-2Hud;Hud1-1Car
+Bolton,Stevenage,6,3.0,0.5,0.67,Ste0-0Bol;Ste1-4Bol;Bol1-1Ste;Ste0-0Bol;Bol5-1Ste
+Rotherham,Wigan,6,2.0,0.33,0.33,Rot1-1Wig;Rot0-1Wig;Wig1-0Rot;Rot2-2Wig;Wig3-0Rot
+Barnsley,Port Vale,6,3.33,0.5,0.5,Por1-3Bar;Bar7-0Por;Por2-3Bar;Bar0-2Por;Por0-0Bar
+Leyton Orient,Mansfield,4,3.25,0.75,0.5,Ley3-0Man;Man2-3Ley;Man4-1Ley;Ley0-0Man
+Exeter,Plymouth,4,3.25,0.5,0.5,Ply4-2Exe;Exe0-1Ply;Exe2-0Ply;Ply2-2Exe
+Mansfield,Wigan,4,2.0,0.5,0.75,Wig1-2Man;Man0-0Wig;Man1-1Wig;Wig2-1Man
+Barnsley,Rotherham,4,2.0,0.25,0.25,Bar2-0Rot;Rot0-1Bar;Bar0-1Rot;Rot1-3Bar
+Doncaster,Reading,2,1.5,0.0,0.5,Rea1-1Don;Don1-0Rea
+Huddersfield,Wycombe,4,2.75,0.5,0.25,Wyc0-1Hud;Hud0-1Wyc;Wyc3-0Hud;Hud3-3Wyc
+Bolton,Cardiff,2,1.5,0.0,0.0,Bol1-0Car;Car2-0Bol
+Leyton Orient,Lincoln,6,2.33,0.5,0.5,Lin1-0Ley;Lin2-1Ley;Ley3-2Lin;Ley1-0Lin;Lin2-1Ley
+Port Vale,Rotherham,2,2.0,0.5,0.5,Rot2-1Por;Por1-0Rot
+Lincoln,Reading,6,2.0,0.17,0.5,Rea1-1Lin;Lin2-0Rea;Rea0-1Lin;Lin2-0Rea;Rea1-2Lin
+Huddersfield,Leyton Orient,4,3.25,0.75,0.5,Ley0-2Hud;Hud1-4Ley;Hud3-0Ley;Ley1-2Hud
+AFC Wimbledon,Luton,2,2.0,0.5,0.0,Lut1-0AFC;AFC0-3Lut
+Doncaster,Exeter,2,2.0,0.5,0.0,Don1-0Exe;Exe3-0Don
+Cardiff,Peterboro,2,2.5,0.5,1.0,Car2-1Pet;Pet1-1Car
+Blackpool,Stevenage,6,2.33,0.5,0.33,Ste1-0Bla;Bla0-0Ste;Ste1-3Bla;Bla2-3Ste;Ste1-0Bla
+Bradford,Wycombe,2,3.0,1.0,1.0,Bra2-1Wyc;Wyc1-2Bra
+Bolton,Stockport,4,3.0,0.5,0.25,Sto5-0Bol;Bol0-1Sto;Sto2-0Bol;Bol2-2Sto
+Northampton,Wigan,6,3.0,0.67,1.0,Nor1-1Wig;Wig2-1Nor;Nor1-1Wig;Wig3-1Nor;Nor1-3Wig
+Rotherham,Stevenage,4,1.25,0.0,0.25,Rot2-0Ste;Ste1-1Rot;Ste1-0Rot;Rot0-0Ste
+Huddersfield,Reading,4,1.75,0.25,0.5,Rea2-1Hud;Hud0-0Rea;Rea0-2Hud;Hud1-1Rea
+Barnsley,Burton,8,2.62,0.5,0.62,Bur1-3Bar;Bur1-2Bar;Bar0-0Bur;Bar3-2Bur;Bur1-1Bar
+Blackpool,Exeter,6,2.5,0.5,0.5,Bla2-0Exe;Bla2-1Exe;Exe1-3Bla;Exe4-1Bla;Bla1-0Exe
+AFC Wimbledon,Lincoln,4,1.5,0.0,0.0,Lin0-1AFC;AFC0-2Lin;AFC2-0Lin;Lin1-0AFC
+Bradford,Northampton,2,0.5,0.0,0.0,Nor0-0Bra;Bra1-0Nor
+Bolton,Plymouth,6,1.83,0.33,0.17,Bol0-1Ply;Ply2-0Bol;Bol0-0Ply;Bol2-0Ply;Ply1-2Bol
+Blackpool,Burton,6,1.67,0.17,0.17,Bur1-0Bla;Bla3-0Bur;Bur1-1Bla;Bur1-0Bla;Bla1-0Bur
+Port Vale,Wycombe,6,2.67,0.67,0.5,Por0-3Wyc;Wyc1-1Por;Por1-2Wyc;Por0-0Wyc;Wyc4-0Por
+Exeter,Leyton Orient,6,3.17,0.67,0.67,Ley2-2Exe;Ley0-1Exe;Exe2-6Ley;Ley2-1Exe;Exe0-0Ley
+Doncaster,Port Vale,2,1.0,0.0,0.0,Por0-1Don;Don1-0Por
+Lincoln,Rotherham,6,2.5,0.67,0.5,Rot2-1Lin;Rot2-1Lin;Lin0-1Rot;Rot3-0Lin;Lin3-0Rot
+Exeter,Wigan,6,1.83,0.17,0.5,Wig1-2Exe;Wig0-0Exe;Exe1-1Wig;Exe1-1Wig;Wig2-0Exe
+Mansfield,Northampton,4,2.75,0.5,0.5,Nor0-2Man;Man0-1Nor;Nor2-1Man;Man4-1Nor
+Blackpool,Cardiff,2,2.0,0.5,0.5,Bla3-1Car;Car0-0Bla
+Reading,Stevenage,6,1.5,0.0,0.33,Ste0-1Rea;Ste1-1Rea;Rea1-1Ste;Rea1-0Ste;Ste1-0Rea
+Bolton,Port Vale,6,1.83,0.33,0.17,Bol2-1Por;Por0-1Bol;Bol2-0Por;Bol4-0Por;Por1-0Bol
+AFC Wimbledon,Peterboro,2,3.5,0.5,0.5,Pet5-0AFC;AFC1-1Pet
+Burton,Reading,6,3.17,0.67,0.67,Bur3-2Rea;Rea3-1Bur;Bur3-2Rea;Rea2-0Bur;Bur1-2Rea
+Peterboro,Rotherham,4,4.0,0.75,0.5,Pet3-3Rot;Rot2-1Pet;Rot0-2Pet;Pet5-0Rot
+Huddersfield,Lincoln,4,2.75,0.5,0.75,Hud2-2Lin;Lin1-0Hud;Lin1-1Hud;Hud2-2Lin
+Cardiff,Wycombe,2,2.0,0.0,0.5,Wyc1-1Car;Car0-2Wyc
+Northampton,Stockport,4,1.75,0.25,0.75,Sto1-1Nor;Nor1-1Sto;Nor0-0Sto;Sto2-1Nor
+Bolton,Doncaster,4,2.0,0.5,0.5,Bol3-0Don;Don1-2Bol;Don1-1Bol;Bol0-0Don
+Exeter,Luton,2,3.0,0.5,0.5,Exe1-0Lut;Lut3-2Exe
+AFC Wimbledon,Leyton Orient,2,5.0,1.0,1.0,Ley1-3AFC;AFC2-4Ley
+Barnsley,Wigan,6,1.83,0.0,0.67,Bar1-1Wig;Bar0-1Wig;Wig1-1Bar;Wig1-1Bar;Bar1-1Wig
+Blackpool,Port Vale,4,3.5,0.75,0.5,Bla0-0Por;Por3-0Bla;Por5-1Bla;Bla3-2Por
+Leyton Orient,Peterboro,6,2.17,0.5,0.67,Ley1-2Pet;Ley2-2Pet;Pet0-0Ley;Pet1-0Ley;Ley2-1Pet
+Lincoln,Stockport,4,3.75,1.0,1.0,Lin2-1Sto;Sto3-2Lin;Sto1-2Lin;Lin3-1Sto
+Bradford,Wigan,2,2.5,0.5,0.5,Bra2-1Wig;Wig2-0Bra
+Burton,Northampton,6,2.17,0.17,0.17,Bur0-2Nor;Nor0-0Bur;Bur0-1Nor;Bur5-1Nor;Nor0-2Bur
+Blackpool,Doncaster,2,2.0,0.5,0.5,Bla1-0Don;Don2-1Bla
+Cardiff,Exeter,2,2.5,0.5,0.0,Car1-0Exe;Exe0-4Car
+Bolton,Rotherham,6,2.83,0.67,0.67,Rot2-1Bol;Rot3-1Bol;Bol0-1Rot;Bol2-1Rot;Rot2-2Bol
+AFC Wimbledon,Stevenage,2,0.5,0.0,0.0,AFC0-0Ste;Ste1-0AFC
+Huddersfield,Port Vale,2,2.5,0.5,0.0,Hud5-0Por;Por0-0Hud
+Barnsley,Mansfield,4,3.75,1.0,1.0,Bar1-2Man;Man2-1Bar;Bar2-3Man;Man2-2Bar
+Bradford,Port Vale,2,1.5,0.0,0.0,Bra1-0Por;Por0-2Bra
+AFC Wimbledon,Blackpool,2,3.5,0.5,0.5,Bla0-2AFC;AFC4-1Bla
+Barnsley,Cardiff,2,3.0,0.5,0.5,Car4-0Bar;Bar1-1Car
+Exeter,Lincoln,8,1.25,0.12,0.38,Lin1-0Exe;Exe0-0Lin;Lin0-0Exe;Lin0-1Exe;Exe0-1Lin
+Plymouth,Wigan,4,2.5,0.5,0.75,Ply1-2Wig;Wig1-1Ply;Ply1-1Wig;Wig0-3Ply
+AFC Wimbledon,Northampton,2,2.5,0.5,0.5,Nor3-1AFC;AFC1-0Nor
+Huddersfield,Rotherham,4,2.0,0.5,0.5,Rot2-1Hud;Hud0-0Rot;Rot1-3Hud;Hud1-0Rot
+Blackpool,Wigan,6,2.33,0.33,0.67,Wig1-0Bla;Bla2-2Wig;Wig1-1Bla;Wig0-2Bla;Bla1-1Wig
+Barnsley,Exeter,8,2.75,0.75,0.62,Bar1-2Exe;Exe1-2Bar;Bar1-2Exe;Exe3-0Bar;Bar2-1Exe
+Bolton,Wycombe,10,2.6,0.5,0.4,Bol2-1Wyc;Wyc0-0Bol;Bol0-2Wyc;Wyc2-1Bol;Bol3-2Wyc
+Cardiff,Lincoln,2,2.5,0.5,0.5,Lin2-1Car;Car0-2Lin
+Mansfield,Rotherham,4,2.5,0.5,0.5,Man1-0Rot;Rot3-3Man;Man2-1Rot;Rot0-0Man
+Barnsley,Wycombe,8,2.88,0.62,0.5,Wyc2-4Bar;Bar2-2Wyc;Wyc2-1Bar;Wyc2-2Bar;Bar0-1Wyc
+Luton,Port Vale,2,3.0,0.5,1.0,Lut2-2Por;Por1-1Lut
+Northampton,Peterboro,6,3.17,0.67,0.67,Pet5-1Nor;Nor2-1Pet;Pet0-4Nor;Pet2-1Nor;Nor1-1Pet
+Plymouth,Rotherham,4,1.25,0.0,0.0,Rot2-0Ply;Ply0-1Rot;Ply1-0Rot;Rot1-0Ply
+Blackpool,Lincoln,6,2.83,0.5,0.33,Bla2-0Lin;Bla1-1Lin;Lin0-2Bla;Bla2-2Lin;Lin4-0Bla
+Cardiff,Doncaster,2,5.5,1.0,0.5,Car4-3Don;Don0-4Car
+Bolton,Exeter,8,3.5,0.62,0.5,Exe2-2Bol;Bol0-2Exe;Exe1-2Bol;Bol2-1Exe;Exe1-5Bol
+Stevenage,Stockport,4,3.25,1.0,0.75,Ste2-1Sto;Sto3-0Ste;Sto1-3Ste;Ste2-1Sto
+Bradford,Rotherham,2,2.5,0.5,0.5,Rot2-2Bra;Bra1-0Rot
+Northampton,Port Vale,4,1.0,0.0,0.0,Por1-0Nor;Nor2-0Por;Por0-0Nor;Nor0-1Por
+Burton,Stockport,4,3.0,1.0,0.5,Bur0-3Sto;Sto2-1Bur;Sto2-1Bur;Bur3-0Sto
+Lincoln,Mansfield,4,3.0,0.5,0.5,Lin4-1Man;Man0-3Lin;Lin1-1Man;Man0-2Lin
+Leyton Orient,Northampton,6,3.17,0.67,0.67,Ley4-3Nor;Nor1-0Ley;Ley1-2Nor;Ley0-1Nor;Nor1-2Ley
+Stevenage,Wycombe,6,1.83,0.33,0.17,Ste1-0Wyc;Ste0-3Wyc;Wyc1-0Ste;Ste1-0Wyc;Wyc3-1Ste
+Burton,Luton,2,2.5,0.5,0.5,Bur0-3Lut;Lut1-1Bur
+Port Vale,Reading,4,1.5,0.0,0.25,Por1-0Rea;Rea2-0Por;Rea1-0Por;Por1-1Rea
+Cardiff,Plymouth,2,5.5,1.0,0.5,Car4-0Ply;Ply5-2Car
+AFC Wimbledon,Bradford,2,4.5,1.0,1.0,Bra3-2AFC;AFC3-1Bra
+Blackpool,Bolton,6,3.0,0.67,0.83,Bla4-1Bol;Bol2-1Bla;Bla2-1Bol;Bla1-1Bol;Bol2-2Bla
+Exeter,Peterboro,8,3.62,0.88,0.88,Pet2-1Exe;Exe1-2Pet;Pet1-1Exe;Exe3-0Pet;Pet3-3Exe
+Barnsley,Huddersfield,4,3.0,0.75,0.75,Hud2-0Bar;Bar1-2Hud;Bar3-1Hud;Hud2-1Bar
+Doncaster,Rotherham,4,2.75,0.5,0.25,Rot2-0Don;Don0-5Rot;Don1-0Rot;Rot1-2Don
+Luton,Wigan,2,1.0,0.0,0.0,Lut1-0Wig;Wig1-0Lut
+Port Vale,Stevenage,4,2.5,0.75,0.75,Ste0-0Por;Por2-2Ste;Por1-2Ste;Ste2-1Por
+AFC Wimbledon,Cardiff,2,3.0,0.5,0.5,AFC0-1Car;Car4-1AFC
+Lincoln,Northampton,6,2.67,0.67,0.5,Lin1-2Nor;Lin2-1Nor;Nor0-1Lin;Nor0-1Lin;Lin4-0Nor
+Bolton,Reading,6,3.67,0.5,0.83,Bol5-2Rea;Bol5-2Rea;Rea1-0Bol;Bol1-1Rea;Rea1-1Bol
+Bradford,Stockport,2,2.0,0.5,0.5,Sto1-2Bra;Bra1-0Sto
+Exeter,Wycombe,8,2.5,0.5,0.62,Exe1-0Wyc;Exe2-2Wyc;Wyc2-1Exe;Wyc0-1Exe;Exe1-1Wyc
+Burton,Rotherham,6,3.5,0.67,0.67,Bur2-0Rot;Rot2-2Bur;Bur4-2Rot;Rot2-2Bur;Bur1-0Rot
+Doncaster,Huddersfield,2,1.5,0.0,0.0,Hud2-0Don;Don1-0Hud
+Barnsley,Peterboro,8,2.88,0.62,0.75,Pet2-2Bar;Pet1-3Bar;Bar1-1Pet;Pet0-1Bar;Bar2-1Pet
+AFC Wimbledon,Barnsley,2,4.0,0.5,0.5,AFC2-0Bar;Bar3-3AFC
+Exeter,Northampton,6,2.0,0.33,0.5,Nor1-2Exe;Nor2-1Exe;Exe1-1Nor;Nor2-0Exe;Exe0-0Nor
+Bolton,Lincoln,10,2.6,0.4,0.5,Lin0-1Bol;Bol3-0Lin;Lin4-2Bol;Bol1-1Lin;Lin1-1Bol
+Huddersfield,Stevenage,4,2.0,0.5,0.5,Hud2-1Ste;Ste1-2Hud;Hud1-0Ste;Ste1-0Hud
+Cardiff,Luton,2,2.5,0.5,0.5,Lut0-1Car;Car3-1Lut
+Doncaster,Wycombe,4,2.5,0.25,0.25,Don0-2Wyc;Wyc2-0Don;Don1-1Wyc;Wyc4-0Don
+Cardiff,Rotherham,2,3.0,1.0,0.0,Car3-0Rot;Rot0-3Car
+Burton,Port Vale,6,2.83,0.5,0.5,Por2-3Bur;Por2-3Bur;Bur0-1Por;Bur0-0Por;Por2-2Bur
+Lincoln,Plymouth,6,3.5,0.67,0.83,Ply1-2Lin;Lin1-1Ply;Ply0-2Lin;Lin3-2Ply;Ply1-4Lin
+Exeter,Mansfield,4,2.0,0.5,0.25,Exe2-0Man;Man3-0Exe;Exe1-2Man;Man0-0Exe
+Northampton,Stevenage,6,2.0,0.33,0.17,Ste3-0Nor;Ste2-0Nor;Nor0-0Ste;Ste2-0Nor;Nor3-1Ste
+Blackpool,Huddersfield,4,3.75,0.75,0.75,Hud0-2Bla;Bla2-2Hud;Bla3-2Hud;Hud2-2Bla
+Barnsley,Bolton,8,3.0,0.62,0.75,Bar2-2Bol;Bol1-2Bar;Bar4-1Bol;Bar1-1Bol;Bol3-2Bar
+Leyton Orient,Stockport,4,2.5,0.5,0.5,Sto1-4Ley;Ley0-1Sto;Ley2-2Sto;Sto0-0Ley
+Peterboro,Wigan,6,3.5,0.67,0.5,Pet2-3Wig;Wig3-0Pet;Pet1-0Wig;Wig2-0Pet;Pet6-1Wig
+AFC Wimbledon,Port Vale,2,1.5,0.0,0.5,AFC1-1Por;Por0-1AFC
+Blackpool,Luton,2,2.5,0.5,0.5,Bla2-2Lut;Lut1-0Bla
+Bradford,Doncaster,2,2.5,0.5,0.5,Don3-1Bra;Bra1-0Don
+Burton,Cardiff,2,2.5,0.5,0.5,Car0-1Bur;Bur2-2Car
+Northampton,Reading,6,2.17,0.33,0.33,Rea1-0Nor;Rea4-1Nor;Nor0-0Rea;Rea1-0Nor;Nor0-2Rea
+Mansfield,Wycombe,4,1.5,0.25,0.25,Wyc1-0Man;Man1-2Wyc;Wyc2-0Man;Man0-0Wyc
+AFC Wimbledon,Bolton,4,3.5,0.75,0.25,AFC3-3Bol;Bol4-0AFC;Bol3-0AFC;AFC0-1Bol
+Leyton Orient,Port Vale,4,1.75,0.25,0.25,Por0-1Ley;Ley0-0Por;Por2-3Ley;Ley0-1Por
+Exeter,Rotherham,4,2.0,0.25,0.25,Exe1-0Rot;Rot1-1Exe;Rot1-0Exe;Exe0-4Rot
+Lincoln,Wigan,8,2.12,0.5,0.62,Lin1-2Wig;Lin0-0Wig;Wig1-1Lin;Lin2-2Wig;Wig0-1Lin
+Doncaster,Leyton Orient,2,3.5,1.0,0.0,Ley4-0Don;Don3-0Ley
+Bolton,Burton,10,2.4,0.6,0.7,Bol1-0Bur;Bol2-1Bur;Bur1-2Bol;Bur3-0Bol;Bol2-1Bur
+Exeter,Reading,6,2.83,0.67,0.83,Rea3-2Exe;Exe1-2Rea;Rea0-0Exe;Exe1-1Rea;Rea2-2Exe
+Northampton,Rotherham,4,2.75,0.75,0.5,Rot3-0Nor;Nor0-2Rot;Nor1-2Rot;Rot2-1Nor
+Mansfield,Plymouth,2,2.0,0.0,0.5,Man2-0Ply;Ply1-1Man
+Bradford,Lincoln,2,1.5,0.5,0.0,Bra0-0Lin;Lin3-0Bra
+Huddersfield,Luton,2,2.0,0.5,0.5,Lut2-1Hud;Hud1-0Lut
+Cardiff,Stockport,2,2.0,0.0,1.0,Sto1-1Car;Car1-1Sto
+Exeter,Port Vale,6,3.0,0.5,0.33,Por1-0Exe;Exe0-1Por;Por2-4Exe;Exe0-2Por;Por1-3Exe
+Blackpool,Northampton,6,1.5,0.17,0.17,Nor0-1Bla;Bla0-0Nor;Nor0-2Bla;Nor1-0Bla;Bla2-0Nor
+Peterboro,Wycombe,8,3.62,0.75,0.75,Wyc5-2Pet;Wyc3-1Pet;Pet1-1Wyc;Pet2-1Wyc;Wyc0-2Pet
+Doncaster,Wigan,4,3.75,1.0,0.75,Wig2-1Don;Don1-2Wig;Wig3-0Don;Don3-3Wig
+Mansfield,Stevenage,4,1.75,0.0,0.75,Man0-1Ste;Ste1-1Man;Man1-1Ste;Ste1-1Man
+AFC Wimbledon,Rotherham,4,2.25,0.5,0.5,Rot3-0AFC;AFC0-1Rot;AFC2-1Rot;Rot1-1AFC
+Bolton,Leyton Orient,6,2.83,0.67,0.83,Ley1-0Bol;Ley1-2Bol;Bol2-1Ley;Ley1-1Bol;Bol2-1Ley
+Luton,Plymouth,2,3.0,0.5,0.5,Lut2-3Ply;Ply1-0Lut
+Burton,Lincoln,10,2.2,0.5,0.4,Bur0-1Lin;Bur2-3Lin;Lin0-1Bur;Bur0-1Lin;Lin2-1Bur
+Northampton,Wycombe,6,1.83,0.33,0.33,Wyc2-0Nor;Nor1-2Wyc;Wyc0-0Nor;Wyc2-0Nor;Nor1-2Wyc
+Exeter,Stevenage,6,2.67,0.5,0.5,Exe1-0Ste;Exe2-0Ste;Ste4-1Exe;Ste2-1Exe;Exe3-0Ste
+Bradford,Cardiff,2,3.5,1.0,1.0,Car1-3Bra;Bra1-2Car
+Bolton,Wigan,8,2.5,0.38,0.25,Wig1-0Bol;Bol0-2Wig;Wig0-1Bol;Bol4-1Wig;Wig0-1Bol
+Peterboro,Plymouth,4,2.75,0.25,0.25,Ply2-0Pet;Pet5-2Ply;Ply0-1Pet;Pet0-1Ply
+Mansfield,Port Vale,2,3.0,1.0,0.5,Por2-1Man;Man3-0Por
+Rotherham,Stockport,4,3.0,0.5,0.75,Rot1-1Sto;Sto3-1Rot;Rot0-1Sto;Sto3-2Rot
+Lincoln,Luton,2,4.0,1.0,1.0,Lin3-1Lut;Lut2-2Lin
+Cardiff,Leyton Orient,2,4.5,0.5,1.0,Car4-3Ley;Ley1-1Car
+Huddersfield,Stockport,4,2.0,0.5,0.5,Hud1-0Sto;Sto2-1Hud;Hud1-2Sto;Sto1-0Hud
+Bolton,Peterboro,8,3.0,0.5,0.62,Pet3-3Bol;Bol1-0Pet;Pet1-1Bol;Bol2-1Pet;Pet3-1Bol
+Exeter,Huddersfield,4,2.75,0.5,0.5,Hud2-0Exe;Exe3-1Hud;Exe0-1Hud;Hud2-2Exe
+Cardiff,Wigan,2,1.5,0.0,0.0,Wig0-2Car;Car1-0Wig
+Lincoln,Peterboro,8,3.38,0.62,0.38,Lin0-0Pet;Pet1-1Lin;Lin5-1Pet;Pet0-3Lin;Lin5-2Pet
+Reading,Stockport,4,3.0,0.5,0.75,Sto4-1Rea;Rea1-3Sto;Sto1-1Rea;Rea1-0Sto
+Bolton,Northampton,6,2.83,0.5,0.67,Nor1-1Bol;Nor2-4Bol;Bol3-1Nor;Nor2-0Bol;Bol0-0Nor
+Blackpool,Bradford,2,2.0,0.5,0.5,Bra1-0Bla;Bla1-2Bra
+Blackpool,Rotherham,4,2.5,0.75,0.25,Bla0-0Rot;Rot2-1Bla;Rot0-3Bla;Bla4-0Rot
+Huddersfield,Northampton,4,3.25,0.5,0.75,Hud1-3Nor;Nor3-2Hud;Nor1-1Hud;Hud2-0Nor
+AFC Wimbledon,Exeter,2,1.0,0.0,0.0,Exe1-0AFC;AFC0-1Exe
+Bolton,Mansfield,4,2.25,0.5,0.5,Bol3-1Man;Man2-1Bol;Man0-1Bol;Bol0-1Man
+Barnsley,Lincoln,8,3.38,0.62,0.62,Bar1-5Lin;Lin1-2Bar;Bar4-3Lin;Lin3-1Bar;Bar0-2Lin
+Peterboro,Reading,6,2.83,0.67,0.83,Pet2-2Rea;Pet1-2Rea;Rea3-1Pet;Rea1-2Pet;Pet1-1Rea
+Cardiff,Stevenage,2,2.0,0.5,0.5,Ste0-1Car;Car2-1Ste
+Burton,Wigan,8,1.88,0.25,0.5,Wig1-1Bur;Wig1-2Bur;Bur1-1Wig;Wig1-0Bur;Bur0-2Wig
+Cambridge,Northampton,4,1.75,0.25,0.75,Nor2-1Cam;Cam1-1Nor;Nor0-0Cam;Cam1-1Nor
+Cambridge,Peterboro,6,2.83,0.33,0.17,Cam2-0Pet;Pet5-0Cam;Cam0-1Pet;Pet6-1Cam;Cam0-1Pet
+Cambridge,Stevenage,4,1.75,0.25,0.25,Cam1-2Ste;Ste1-0Cam;Ste0-2Cam;Cam0-1Ste
+Cambridge,Stockport,2,2.0,0.0,0.0,Sto2-0Cam;Cam2-0Sto
+Cambridge,Exeter,6,1.5,0.17,0.17,Exe2-0Cam;Cam2-0Exe;Exe0-0Cam;Exe1-0Cam;Cam0-1Exe
+Cambridge,Lincoln,8,2.75,0.38,0.25,Lin0-0Cam;Cam0-3Lin;Lin6-0Cam;Cam0-2Lin;Lin1-1Cam
+Cambridge,Rotherham,4,2.25,0.5,0.5,Rot3-1Cam;Cam0-1Rot;Cam0-1Rot;Rot2-1Cam
+Cambridge,Mansfield,2,4.0,1.0,1.0,Man2-1Cam;Cam3-2Man
+Bolton,Cambridge,8,2.0,0.25,0.5,Bol1-1Cam;Cam1-2Bol;Bol2-0Cam;Cam1-1Bol;Bol2-2Cam
+Exeter,Oxford,4,3.25,0.75,0.5,Exe2-4Oxf;Oxf0-1Exe;Oxf3-0Exe;Exe1-2Oxf
+Cambridge,Port Vale,4,1.25,0.0,0.25,Cam0-1Por;Por0-2Cam;Cam1-1Por;Por0-0Cam
+Lincoln,Oxford,6,2.17,0.33,0.33,Lin2-0Oxf;Oxf1-2Lin;Lin1-0Oxf;Lin0-2Oxf;Oxf0-1Lin
+Oxford,Peterboro,4,2.75,0.75,0.25,Oxf1-2Pet;Pet0-0Oxf;Pet3-0Oxf;Oxf5-0Pet
+Oxford,Port Vale,4,2.25,0.5,0.25,Oxf4-0Por;Por0-0Oxf;Oxf1-2Por;Por0-2Oxf
+Bolton,Oxford,6,3.0,0.67,0.5,Oxf2-3Bol;Bol1-3Oxf;Oxf0-1Bol;Oxf0-0Bol;Bol5-0Oxf
+Leyton Orient,Oxford,2,4.0,1.0,1.0,Ley2-3Oxf;Oxf1-2Ley
+Northampton,Oxford,2,3.5,1.0,1.0,Nor2-1Oxf;Oxf2-2Nor
+Oxford,Wycombe,6,1.5,0.17,0.17,Wyc2-0Oxf;Oxf0-1Wyc;Wyc2-0Oxf;Oxf2-2Wyc;Wyc0-0Oxf
+Blackpool,Oxford,2,2.0,0.0,1.0,Oxf1-1Bla;Bla1-1Oxf
+Oxford,Reading,2,2.0,0.0,1.0,Rea1-1Oxf;Oxf1-1Rea
+Burton,Milton Keynes Dons,4,1.0,0.0,0.25,Mil1-0Bur;Bur0-1Mil;Mil1-1Bur;Bur0-0Mil
+Barnsley,Milton Keynes Dons,2,6.0,1.0,1.0,Bar3-1Mil;Mil4-4Bar
+Exeter,Sheffield Weds,2,2.5,0.5,1.0,Exe1-1She;She2-1Exe
+Burton,Sheffield Weds,4,5.0,0.75,0.75,Bur0-2She;She5-2Bur;She4-2Bur;Bur3-2She
+Oxford,Sheffield Weds,4,2.5,0.5,0.75,She1-2Oxf;Oxf3-2She;She0-0Oxf;Oxf1-1She
+Lincoln,Sheffield Weds,4,2.5,0.25,1.0,She1-1Lin;Lin3-1She;Lin1-1She;She1-1Lin
+Barnsley,Sheffield Weds,2,4.0,0.5,0.5,She0-2Bar;Bar4-2She
+Bolton,Sheffield Weds,4,1.75,0.0,0.5,She1-0Bol;Bol1-1She;Bol0-2She;She1-1Bol
+Cambridge,Milton Keynes Dons,4,2.0,0.25,0.25,Mil4-1Cam;Cam0-1Mil;Cam1-0Mil;Mil1-0Cam
+Milton Keynes Dons,Port Vale,2,2.0,0.5,0.5,Mil2-1Por;Por1-0Mil
+Lincoln,Milton Keynes Dons,4,2.5,0.5,0.75,Lin2-3Mil;Mil2-1Lin;Mil0-0Lin;Lin1-1Mil
+Milton Keynes Dons,Sheffield Weds,4,4.0,0.75,0.75,She2-1Mil;Mil2-3She;Mil0-1She;She5-2Mil
+Bolton,Milton Keynes Dons,4,3.75,0.5,0.25,Bol3-3Mil;Mil2-0Bol;Mil0-2Bol;Bol5-0Mil
+Oxford,Plymouth,4,2.5,0.5,0.5,Oxf1-3Ply;Ply1-0Oxf;Ply1-0Oxf;Oxf1-3Ply
+Plymouth,Sheffield Weds,4,3.25,0.75,0.5,Ply3-0She;She4-2Ply;Ply2-1She;She1-0Ply
+Exeter,Milton Keynes Dons,2,1.5,0.0,0.0,Exe1-0Mil;Mil0-2Exe
+Milton Keynes Dons,Plymouth,4,4.0,0.75,0.75,Mil1-1Ply;Ply0-5Mil;Mil1-4Ply;Ply3-1Mil
+Port Vale,Sheffield Weds,2,1.5,0.0,0.0,Por0-1She;She2-0Por
+Doncaster,Oxford,2,2.5,0.5,1.0,Don1-2Oxf;Oxf1-1Don
+Oxford,Rotherham,2,1.5,0.5,0.5,Oxf0-0Rot;Rot2-1Oxf
+Milton Keynes Dons,Rotherham,2,3.0,1.0,0.5,Mil0-3Rot;Rot1-2Mil
+Rotherham,Sheffield Weds,2,2.0,0.0,0.0,Rot0-2She;She0-2Rot
+Cambridge,Doncaster,2,3.0,0.5,1.0,Don1-1Cam;Cam3-1Don
+AFC Wimbledon,Oxford,2,3.5,1.0,0.5,AFC3-1Oxf;Oxf3-0AFC

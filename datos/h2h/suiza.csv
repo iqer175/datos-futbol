@@ -1,0 +1,77 @@
+eq_a,eq_b,n,goles,over25,btts,ultimos
+Young Boys,Zurich,23,3.13,0.7,0.52,Zur2-3You;You3-0Zur;You3-0Zur;Zur2-4You;You3-5Zur
+Basel,Lugano,25,2.76,0.48,0.56,Bas0-1Lug;Bas1-1Lug;Lug4-0Bas;Bas1-3Lug;Lug2-1Bas
+Lausanne,Thun,5,4.2,0.8,0.8,Thu2-1Lau;Lau2-1Thu;Thu5-1Lau;Thu0-0Lau;Lau4-5Thu
+Grasshoppers,Vaduz,2,5.5,1.0,1.0,Vad5-2Gra;Gra2-2Vad
+Servette,St. Gallen,23,2.78,0.39,0.65,Ser1-4St.;St.2-4Ser;Ser1-1St.;Ser0-2St.;St.2-1Ser
+Luzern,Sion,20,2.5,0.4,0.6,Luz3-3Sio;Sio1-1Luz;Sio0-0Luz;Sio3-0Luz;Luz1-1Sio
+Lugano,Thun,5,2.2,0.4,0.4,Lug1-2Thu;Thu0-1Lug;Lug1-0Thu;Thu0-1Lug;Thu2-3Lug
+Lausanne,Sion,14,2.14,0.36,0.36,Lau2-0Sio;Sio0-0Lau;Lau2-2Sio;Sio3-0Lau;Sio1-0Lau
+Basel,Grasshoppers,19,2.53,0.47,0.53,Bas2-1Gra;Bas2-1Gra;Gra1-1Bas;Bas1-0Gra;Bas0-0Gra
+St. Gallen,Young Boys,24,3.33,0.79,0.71,You1-2St.;St.1-4You;St.2-1You;You1-2St.;You2-0St.
+Luzern,Zurich,23,3.09,0.61,0.7,Luz1-1Zur;Zur3-2Luz;Zur1-4Luz;Luz1-0Zur;Zur2-1Luz
+Servette,Vaduz,5,2.8,0.6,0.8,Vad0-2Ser;Ser1-1Vad;Ser1-2Vad;Vad1-3Ser;Ser2-1Vad
+Lausanne,St. Gallen,18,3.44,0.61,0.56,St.0-2Lau;Lau1-2St.;St.1-0Lau;Lau1-1St.;St.1-0Lau
+Basel,Vaduz,4,2.5,0.5,0.5,Vad0-2Bas;Bas1-2Vad;Vad1-1Bas;Vad3-0Bas
+Grasshoppers,Young Boys,18,2.56,0.39,0.44,Gra1-0You;Gra3-3You;You2-6Gra;Gra1-1You;Gra0-2You
+Lugano,Luzern,22,3.5,0.68,0.73,Luz0-2Lug;Lug2-0Luz;Luz2-5Lug;Lug1-3Luz;Lug4-0Luz
+Servette,Sion,19,3.42,0.68,0.63,Sio1-1Ser;Sio0-2Ser;Ser3-3Sio;Ser0-0Sio;Ser3-0Sio
+Thun,Zurich,4,4.75,1.0,0.75,Zur0-4Thu;Thu4-2Zur;Zur2-1Thu;Zur4-2Thu
+Lausanne,Lugano,19,2.47,0.42,0.47,Lau1-1Lug;Lug1-1Lau;Lau0-0Lug;Lug2-1Lau;Lau0-4Lug
+Basel,St. Gallen,22,2.77,0.55,0.64,St.2-1Bas;Bas0-0St.;St.3-0Bas;Bas1-3St.;Bas1-3St.
+Sion,Zurich,20,2.95,0.55,0.65,Sio2-1Zur;Zur2-3Sio;Sio2-2Zur;Zur1-2Sio;Sio1-1Zur
+Grasshoppers,Luzern,20,3.05,0.45,0.6,Gra2-3Luz;Luz6-0Gra;Luz4-3Gra;Gra1-2Luz;Luz5-1Gra
+Servette,Young Boys,23,2.91,0.57,0.57,Ser0-0You;You3-1Ser;Ser4-4You;You1-1Ser;You3-2Ser
+Servette,Thun,4,3.75,0.75,0.75,Thu3-1Ser;Ser0-1Thu;Ser1-3Thu;Thu2-4Ser
+Lugano,St. Gallen,23,2.57,0.43,0.65,St.1-0Lug;Lug1-3St.;St.1-1Lug;Lug1-2St.;Lug4-1St.
+Grasshoppers,Sion,16,3.31,0.62,0.62,Sio2-1Gra;Gra0-1Sio;Sio1-0Gra;Gra0-4Sio;Gra2-5Sio
+Basel,Luzern,23,3.13,0.57,0.65,Bas4-0Luz;Bas1-2Luz;Luz1-2Bas;Luz4-2Bas;Luz2-4Bas
+Lausanne,Servette,19,2.84,0.47,0.58,Lau1-3Ser;Ser0-1Lau;Lau3-3Ser;Ser2-0Lau;Lau0-1Ser
+Vaduz,Zurich,4,3.5,0.75,0.75,Zur0-1Vad;Vad3-2Zur;Zur4-1Vad;Zur2-1Vad
+Grasshoppers,Thun,6,3.0,0.5,0.83,Thu1-2Gra;Thu1-1Gra;Gra1-3Thu;Thu5-1Gra;Thu0-1Gra
+Sion,St. Gallen,20,3.35,0.65,0.65,Sio3-2St.;St.3-1Sio;Sio1-1St.;St.0-3Sio;St.0-3Sio
+Lugano,Young Boys,25,3.0,0.56,0.56,You3-1Lug;Lug3-0You;You1-1Lug;Lug1-0You;Lug2-2You
+Sion,Thun,7,3.14,0.57,0.57,Sio0-1Thu;Thu2-1Sio;Thu1-0Sio;Sio2-0Thu;Sio3-2Thu
+Grasshoppers,Zurich,20,3.0,0.75,0.8,Gra3-0Zur;Zur1-0Gra;Gra1-2Zur;Zur2-1Gra;Gra2-2Zur
+Lausanne,Vaduz,5,3.0,0.8,0.4,Lau3-0Vad;Vad0-2Lau;Vad0-3Lau;Lau2-1Vad;Vad3-1Lau
+Luzern,Young Boys,22,4.05,0.77,0.86,You2-1Luz;Luz1-2You;You2-0Luz;Luz1-2You;You3-3Luz
+Lugano,Servette,24,2.54,0.42,0.58,Ser4-1Lug;Ser2-1Lug;Lug4-2Ser;Lug1-1Ser;Lug1-0Ser
+Basel,Sion,20,3.1,0.55,0.6,Sio0-1Bas;Bas1-1Sio;Sio2-0Bas;Bas0-2Sio;Bas1-2Sio
+Grasshoppers,St. Gallen,19,3.16,0.58,0.63,Gra2-0St.;St.5-0Gra;Gra1-2St.;St.0-0Gra;Gra2-0St.
+Luzern,Vaduz,5,2.8,0.6,0.8,Luz1-1Vad;Luz4-0Vad;Vad1-1Luz;Vad1-2Luz;Luz2-1Vad
+St. Gallen,Thun,5,3.6,0.6,0.8,St.1-2Thu;Thu0-2St.;Thu2-2St.;St.1-1Thu;St.3-4Thu
+Lugano,Sion,19,3.21,0.68,0.68,Sio4-0Lug;Lug1-1Sio;Lug2-1Sio;Sio2-2Lug;Sio1-2Lug
+Basel,Young Boys,24,3.21,0.58,0.62,Bas4-1You;You0-0Bas;Bas3-3You;You3-0Bas;You3-3Bas
+Lausanne,Zurich,18,3.06,0.72,0.61,Lau1-2Zur;Zur1-2Lau;Zur1-2Lau;Lau3-0Zur;Lau2-3Zur
+Luzern,Servette,24,3.46,0.67,0.62,Ser2-2Luz;Luz2-2Ser;Ser3-0Luz;Luz3-3Ser;Ser1-1Luz
+Vaduz,Young Boys,4,2.5,0.25,0.5,Vad0-0You;You1-1Vad;Vad0-2You;You4-2Vad
+Lausanne,Luzern,20,2.7,0.6,0.6,Luz2-2Lau;Lau0-4Luz;Luz4-0Lau;Lau1-3Luz;Luz1-0Lau
+Basel,Zurich,22,3.18,0.55,0.5,Zur0-4Bas;Bas2-0Zur;Zur3-4Bas;Bas2-1Zur;Zur1-2Bas
+Lugano,Zurich,22,2.5,0.5,0.27,Lug0-3Zur;Lug1-0Zur;Zur0-1Lug;Zur0-1Lug;Lug5-0Zur
+Luzern,St. Gallen,21,3.33,0.62,0.76,Luz1-1St.;St.0-1Luz;Luz2-2St.;Luz2-2St.;St.2-2Luz
+Basel,Thun,5,4.2,1.0,1.0,Thu1-3Bas;Bas1-2Thu;Thu3-1Bas;Bas3-1Thu;Bas4-2Thu
+Sion,Vaduz,5,3.6,0.8,0.6,Vad4-1Sio;Sio2-1Vad;Sio0-2Vad;Vad3-0Sio;Sio3-2Vad
+Grasshoppers,Servette,19,3.16,0.58,0.68,Ser1-1Gra;Gra0-1Ser;Ser5-0Gra;Gra0-2Ser;Ser2-1Gra
+Lausanne,Young Boys,19,3.68,0.74,0.63,Lau3-2You;Lau5-0You;You1-3Lau;Lau0-2You;Lau2-2You
+St. Gallen,Vaduz,4,2.75,0.5,0.5,St.2-0Vad;Vad2-1St.;St.1-0Vad;Vad2-3St.
+Grasshoppers,Lugano,18,2.44,0.44,0.78,Lug1-1Gra;Lug2-1Gra;Gra1-1Lug;Gra1-0Lug;Gra1-4Lug
+Thun,Young Boys,5,6.2,1.0,0.8,You4-2Thu;Thu4-1You;You1-2Thu;Thu3-8You;Thu0-6You
+Basel,Lausanne,20,2.75,0.6,0.65,Lau2-3Bas;Lau5-1Bas;Bas0-0Lau;Lau1-2Bas;Bas0-1Lau
+Servette,Zurich,24,2.88,0.62,0.71,Zur2-1Ser;Ser1-1Zur;Ser2-1Zur;Zur0-2Ser;Zur2-1Ser
+Sion,Young Boys,19,3.47,0.74,0.63,You0-0Sio;Sio2-0You;Sio3-1You;You3-3Sio;You4-2Sio
+St. Gallen,Zurich,24,3.04,0.67,0.71,St.3-2Zur;Zur3-1St.;St.1-2Zur;St.2-1Zur;St.2-1Zur
+Lugano,Vaduz,4,2.5,0.5,0.5,Lug1-1Vad;Vad0-3Lug;Lug0-2Vad;Lug2-1Vad
+Luzern,Thun,4,3.75,1.0,1.0,Luz1-2Thu;Thu4-1Luz;Thu2-1Luz;Luz1-3Thu
+Basel,Servette,22,3.23,0.64,0.59,Bas5-1Ser;Ser0-3Bas;Bas1-1Ser;Bas3-1Ser;Ser0-1Bas
+Grasshoppers,Lausanne,16,3.12,0.62,0.69,Gra3-1Lau;Lau1-1Gra;Gra2-3Lau;Lau1-3Gra;Lau1-1Gra
+Luzern,Winterthur,14,3.64,0.86,0.71,Luz3-2Win;Win2-2Luz;Luz1-3Win;Luz1-2Win;Win0-3Luz
+Grasshoppers,Winterthur,15,2.33,0.4,0.4,Win2-0Gra;Gra2-2Win;Win0-1Gra;Win0-2Gra;Gra3-2Win
+Lausanne,Winterthur,10,2.8,0.5,0.6,Win1-0Lau;Lau3-2Win;Win2-1Lau;Lau2-1Win;Win2-1Lau
+Winterthur,Zurich,16,2.88,0.56,0.62,Zur4-1Win;Win1-3Zur;Zur2-2Win;Zur3-0Win;Win2-2Zur
+Servette,Winterthur,15,3.2,0.53,0.67,Ser3-1Win;Ser4-0Win;Win4-2Ser;Win1-1Ser;Ser5-3Win
+Basel,Winterthur,13,3.69,0.62,0.62,Bas5-0Win;Win0-2Bas;Bas3-0Win;Win1-2Bas;Win0-2Bas
+Sion,Winterthur,11,2.55,0.36,0.55,Sio1-2Win;Win2-0Sio;Win2-3Sio;Sio2-0Win;Sio1-1Win
+St. Gallen,Winterthur,15,3.6,0.73,0.6,Win4-0St.;St.1-4Win;St.5-0Win;Win1-5St.;St.2-1Win
+Thun,Winterthur,3,3.67,1.0,0.33,Thu3-0Win;Win1-4Thu;Win0-3Thu
+Winterthur,Young Boys,14,3.93,0.71,0.71,You0-0Win;Win1-0You;Win1-1You;You5-0Win;You6-1Win
+Lugano,Winterthur,14,3.93,0.86,0.93,Win2-3Lug;Lug2-1Win;Win2-4Lug;Lug4-1Win;Win1-1Lug

@@ -1,0 +1,60 @@
+eq_a,eq_b,n,goles,over25,btts,ultimos
+Hamilton,Montrose,10,2.6,0.4,0.4,Mon0-4Ham;Ham1-1Mon;Mon0-2Ham;Mon0-5Ham;Ham1-1Mon
+East Kilbride,Ross County,2,3.5,1.0,0.5,Ros4-0Eas;Eas1-2Ros
+East Fife,Queen of Sth,6,3.33,0.67,0.67,Que3-0Eas;Eas1-5Que;Que2-2Eas;Que1-1Eas;Eas2-0Que
+Alloa,Peterhead,14,2.79,0.5,0.43,All4-0Pet;Pet3-1All;All1-2Pet;All1-1Pet;Pet2-1All
+Airdrie Utd,Cove Rangers,6,1.33,0.0,0.33,Air0-2Cov;Cov1-1Air;Air1-1Cov;Cov0-0Air;Air0-1Cov
+Montrose,Peterhead,14,1.93,0.36,0.36,Pet1-1Mon;Mon1-1Pet;Pet1-1Mon;Pet0-3Mon;Mon3-0Pet
+East Fife,Hamilton,6,2.0,0.5,0.5,Eas1-1Ham;Ham1-0Eas;Eas0-3Ham;Eas0-0Ham;Ham2-1Eas
+Airdrie Utd,Ross County,2,4.0,1.0,0.5,Air1-3Ros;Ros4-0Air
+Alloa,Queen of Sth,18,2.72,0.39,0.61,All0-2Que;Que1-2All;All1-4Que;Que0-2All;All0-1Que
+Alloa,East Fife,10,2.3,0.4,0.4,All1-1Eas;Eas0-2All;All2-0Eas;All0-0Eas;Eas0-3All
+East Kilbride,Montrose,2,2.5,0.5,0.5,Mon3-0Eas;Eas1-1Mon
+Airdrie Utd,Hamilton,2,3.5,1.0,0.5,Ham4-0Air;Air1-2Ham
+Queen of Sth,Ross County,2,8.0,1.0,0.5,Ros8-0Que;Que1-7Ros
+Cove Rangers,Peterhead,10,3.1,0.7,0.4,Cov1-2Pet;Pet0-4Cov;Cov2-1Pet;Cov3-0Pet;Pet2-0Cov
+Cove Rangers,East Fife,10,3.4,0.5,0.6,Cov0-1Eas;Eas2-1Cov;Cov0-0Eas;Eas2-0Cov;Cov1-1Eas
+Peterhead,Queen of Sth,10,2.7,0.5,0.4,Pet3-0Que;Que0-2Pet;Pet1-1Que;Que0-1Pet;Pet0-1Que
+Alloa,Hamilton,10,1.7,0.4,0.2,Ham1-0All;All3-0Ham;Ham1-0All;Ham1-0All;All0-3Ham
+Montrose,Ross County,2,4.0,1.0,0.5,Ros2-1Mon;Mon0-5Ros
+Airdrie Utd,East Kilbride,2,3.0,0.5,1.0,Air1-1Eas;Eas2-2Air
+Cove Rangers,Queen of Sth,13,2.54,0.31,0.46,Cov0-2Que;Que1-1Cov;Cov1-1Que;Que2-0Cov;Que4-3Cov
+Airdrie Utd,Montrose,9,3.89,0.89,0.56,Mon4-2Air;Air4-0Mon;Mon2-4Air;Air3-0Mon;Air1-0Mon
+Hamilton,Peterhead,5,3.8,1.0,0.8,Pet2-2Ham;Ham3-0Pet;Pet2-3Ham;Ham3-1Pet;Ham2-1Pet
+East Fife,Montrose,9,2.56,0.44,0.56,Eas1-1Mon;Mon2-1Eas;Eas2-3Mon;Mon1-0Eas;Eas1-2Mon
+Hamilton,Queen of Sth,9,3.56,0.78,0.67,Que1-4Ham;Ham1-2Que;Que4-1Ham;Ham1-3Que;Ham4-1Que
+Airdrie Utd,Peterhead,9,3.22,0.56,0.56,Pet0-2Air;Air1-1Pet;Pet0-3Air;Air7-0Pet;Pet1-2Air
+Cove Rangers,Montrose,17,2.76,0.53,0.59,Cov3-3Mon;Mon0-3Cov;Cov3-1Mon;Mon2-3Cov;Mon2-1Cov
+Airdrie Utd,Alloa,9,2.44,0.44,0.33,Air2-0All;All2-0Air;Air4-0All;All0-1Air;Air1-0All
+Alloa,Cove Rangers,17,2.76,0.59,0.59,All2-1Cov;Cov0-0All;All2-2Cov;Cov0-1All;Cov1-1All
+Airdrie Utd,Queen of Sth,5,4.0,0.8,1.0,Que1-1Air;Air3-3Que;Que3-2Air;Air1-3Que;Que2-1Air
+Montrose,Queen of Sth,17,3.18,0.71,0.59,Mon2-1Que;Que1-0Mon;Mon3-2Que;Que2-2Mon;Mon2-1Que
+Airdrie Utd,East Fife,5,1.8,0.4,0.0,Air3-0Eas;Eas0-1Air;Air3-0Eas;Eas0-2Air;Air0-0Eas
+Cove Rangers,Hamilton,9,2.0,0.33,0.33,Ham0-0Cov;Cov2-1Ham;Ham2-0Cov;Cov2-2Ham;Ham1-0Cov
+East Fife,Peterhead,9,2.44,0.56,0.56,Pet4-1Eas;Eas0-1Pet;Pet3-1Eas;Eas2-1Pet;Pet2-1Eas
+Alloa,Montrose,21,3.38,0.71,0.62,All0-1Mon;Mon0-4All;All4-1Mon;Mon5-4All;All3-0Mon
+Hamilton,Inverness C,4,3.0,0.75,0.5,Ham3-1Inv;Inv4-0Ham;Ham0-1Inv;Inv2-1Ham
+Kelty Hearts,Peterhead,8,2.88,0.62,0.75,Kel2-1Pet;Kel1-2Pet;Pet3-2Kel;Kel1-1Pet;Pet0-2Kel
+Montrose,Stenhousemuir,8,3.12,0.75,0.38,Ste2-3Mon;Ste3-1Mon;Mon3-0Ste;Ste2-2Mon;Mon0-2Ste
+East Fife,Inverness C,4,3.0,0.5,0.5,Inv4-1Eas;Eas0-2Inv;Inv3-0Eas;Eas1-1Inv
+Cove Rangers,Kelty Hearts,12,2.92,0.5,0.5,Cov2-2Kel;Cov0-2Kel;Kel2-5Cov;Cov1-1Kel;Kel0-2Cov
+Alloa,Stenhousemuir,8,1.88,0.38,0.38,Ste1-4All;Ste1-2All;All0-0Ste;All0-0Ste;Ste1-0All
+Inverness C,Kelty Hearts,8,1.62,0.25,0.25,Inv0-2Kel;Kel0-3Inv;Inv2-2Kel;Kel0-0Inv;Inv1-0Kel
+Cove Rangers,Stenhousemuir,8,2.12,0.38,0.12,Cov0-0Ste;Ste1-0Cov;Cov0-1Ste;Ste1-0Cov;Cov2-0Ste
+Inverness C,Peterhead,4,2.25,0.25,0.25,Inv2-0Pet;Pet0-1Inv;Inv3-1Pet;Pet0-2Inv
+Inverness C,Stenhousemuir,8,2.0,0.25,0.62,Ste1-1Inv;Inv1-2Ste;Ste1-0Inv;Inv1-1Ste;Ste1-1Inv
+Kelty Hearts,Montrose,16,2.69,0.5,0.5,Kel0-0Mon;Mon1-2Kel;Kel0-3Mon;Mon1-1Kel;Kel3-1Mon
+Kelty Hearts,Queen of Sth,16,2.94,0.62,0.69,Kel1-3Que;Que2-1Kel;Kel1-1Que;Que3-1Kel;Kel1-1Que
+Hamilton,Stenhousemuir,4,1.5,0.25,0.0,Ham2-0Ste;Ste0-0Ham;Ham0-1Ste;Ste3-0Ham
+Hamilton,Kelty Hearts,8,3.12,0.62,0.5,Ham4-1Kel;Kel0-4Ham;Ham3-1Kel;Kel0-0Ham;Ham1-2Kel
+East Fife,Stenhousemuir,4,3.0,0.5,0.5,Ste1-1Eas;Eas1-0Ste;Ste5-0Eas;Eas2-2Ste
+Inverness C,Queen of Sth,8,3.0,0.5,0.5,Que4-1Inv;Que0-2Inv;Inv4-0Que;Que2-2Inv;Inv1-1Que
+Alloa,Inverness C,8,2.38,0.38,0.75,Inv1-1All;Inv1-0All;All1-1Inv;Inv3-1All;All1-1Inv
+Kelty Hearts,Stenhousemuir,8,1.75,0.25,0.25,Ste0-0Kel;Kel0-1Ste;Ste2-2Kel;Kel0-2Ste;Ste2-0Kel
+Peterhead,Stenhousemuir,4,3.5,0.75,0.75,Ste3-1Pet;Pet1-4Ste;Ste2-2Pet;Pet0-1Ste
+East Fife,Kelty Hearts,4,2.25,0.5,0.5,Eas2-1Kel;Kel0-3Eas;Eas0-1Kel;Kel1-1Eas
+Cove Rangers,Inverness C,8,2.12,0.38,0.5,Cov0-3Inv;Cov0-1Inv;Inv1-0Cov;Cov0-0Inv;Inv1-1Cov
+Inverness C,Montrose,8,2.62,0.38,0.62,Mon0-2Inv;Mon0-2Inv;Inv1-0Mon;Mon2-1Inv;Inv3-1Mon
+Alloa,Kelty Hearts,16,2.38,0.5,0.5,Kel2-1All;Kel0-2All;All3-0Kel;Kel1-1All;All2-1Kel
+Queen of Sth,Stenhousemuir,8,1.75,0.25,0.5,Que2-0Ste;Ste0-0Que;Que1-1Ste;Ste2-0Que;Que1-1Ste
+Airdrie Utd,Kelty Hearts,4,2.75,0.25,0.5,Kel1-0Air;Air1-0Kel;Kel1-1Air;Air6-1Kel

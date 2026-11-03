@@ -1,0 +1,310 @@
+eq_a,eq_b,n,goles,over25,btts,ultimos
+Aldershot,Gateshead,9,2.89,0.44,0.56,Gat2-2Ald;Ald3-1Gat;Gat3-3Ald;Ald0-1Gat;Ald1-0Gat
+Boston Utd,Scunthorpe,3,4.67,0.67,1.0,Bos1-1Scu;Scu3-6Bos;Bos2-1Scu
+Boreham Wood,Hartlepool,5,3.0,0.6,0.4,Bor1-0Har;Har3-1Bor;Har0-0Bor;Bor3-0Har;Bor4-3Har
+Southend,Wealdstone,11,2.55,0.55,0.64,Wea1-1Sou;Sou3-0Wea;Wea3-2Sou;Sou2-1Wea;Wea3-2Sou
+Kidderminster,Solihull,3,1.67,0.33,0.33,Kid0-1Sol;Sol0-1Kid;Sol2-1Kid
+Altrincham,Carlisle,3,4.33,1.0,1.0,Alt1-2Car;Car3-1Alt;Alt2-4Car
+Halifax,Yeovil,9,1.56,0.11,0.22,Yeo0-1Hal;Hal1-0Yeo;Hal3-2Yeo;Yeo0-0Hal;Hal2-0Yeo
+Tamworth,Woking,5,2.6,0.4,0.6,Tam3-2Wok;Wok1-1Tam;Tam0-1Wok;Wok3-1Tam;Tam0-1Wok
+Aldershot,Sutton,5,2.0,0.2,0.6,Sut1-1Ald;Ald1-1Sut;Sut0-0Ald;Ald2-2Sut;Sut2-0Ald
+Eastleigh,Forest Green,5,3.2,0.6,0.6,Eas1-3For;For2-1Eas;For1-0Eas;Eas2-4For;For2-0Eas
+Boston Utd,Gateshead,5,2.6,0.6,0.6,Gat2-0Bos;Bos2-1Gat;Gat1-3Bos;Bos1-0Gat;Bos2-1Gat
+Solihull,Wealdstone,11,2.55,0.45,0.64,Sol1-1Wea;Wea1-1Sol;Sol1-1Wea;Wea5-1Sol;Wea2-3Sol
+Boreham Wood,Woking,9,2.56,0.44,0.44,Bor4-2Wok;Wok0-1Bor;Bor1-0Wok;Wok2-2Bor;Wok1-2Bor
+Fylde,Hartlepool,5,3.2,0.8,0.8,Har3-1Fyl;Fyl2-1Har;Har2-0Fyl;Fyl2-1Har;Fyl3-1Har
+Scunthorpe,Tamworth,3,4.0,1.0,1.0,Tam1-2Scu;Scu3-1Tam;Tam4-1Scu
+Altrincham,Kidderminster,3,2.0,0.33,0.67,Alt1-1Kid;Kid1-3Alt;Alt0-0Kid
+Altrincham,Yeovil,9,1.89,0.33,0.56,Yeo0-0Alt;Alt2-1Yeo;Yeo1-0Alt;Alt0-1Yeo;Yeo1-2Alt
+Aldershot,Wealdstone,11,3.36,0.73,0.64,Ald0-2Wea;Wea1-3Ald;Ald4-1Wea;Wea3-0Ald;Ald0-1Wea
+Scunthorpe,Woking,5,3.2,0.6,0.6,Wok2-0Scu;Scu0-2Wok;Scu3-1Wok;Wok1-2Scu;Scu2-3Wok
+Carlisle,Solihull,3,3.67,0.67,1.0,Car1-1Sol;Sol3-3Car;Sol1-2Car
+Boreham Wood,Fylde,3,4.0,1.0,0.33,Fyl2-2Bor;Bor4-0Fyl;Bor4-0Fyl
+Halifax,Southend,11,3.09,0.64,0.55,Hal0-2Sou;Sou3-1Hal;Sou3-0Hal;Hal2-6Sou;Sou2-2Hal
+Boston Utd,Eastleigh,5,3.2,0.6,0.8,Eas1-1Bos;Bos1-2Eas;Eas2-0Bos;Bos1-2Eas;Eas4-2Bos
+Boston Utd,Southend,5,3.2,0.6,0.6,Sou2-0Bos;Bos3-0Sou;Sou1-1Bos;Bos3-3Sou;Bos1-2Sou
+Gateshead,Halifax,9,2.33,0.44,0.56,Hal1-1Gat;Gat1-3Hal;Gat1-2Hal;Hal1-2Gat;Hal4-1Gat
+Forest Green,Hartlepool,5,2.6,0.4,0.6,For1-0Har;Har1-1For;For1-0Har;Har2-1For;For2-4Har
+Aldershot,Altrincham,11,2.82,0.64,0.73,Ald2-1Alt;Alt1-2Ald;Alt3-2Ald;Ald2-1Alt;Alt3-1Ald
+Wealdstone,Yeovil,9,2.11,0.44,0.22,Wea0-3Yeo;Yeo1-2Wea;Yeo0-2Wea;Wea0-2Yeo;Wea0-6Yeo
+Boreham Wood,Sutton,3,3.33,0.33,0.33,Sut3-4Bor;Bor1-0Sut;Sut0-2Bor
+Altrincham,Boreham Wood,9,2.56,0.33,0.67,Alt1-1Bor;Bor0-1Alt;Bor3-1Alt;Alt3-1Bor;Bor3-1Alt
+Fylde,Southend,5,2.8,0.6,0.6,Sou1-2Fyl;Fyl0-2Sou;Fyl2-1Sou;Sou2-0Fyl;Sou3-1Fyl
+Halifax,Solihull,11,1.91,0.27,0.27,Hal0-1Sol;Sol0-2Hal;Hal3-0Sol;Sol0-3Hal;Sol0-2Hal
+Eastleigh,Woking,11,2.91,0.55,0.64,Eas2-2Wok;Wok2-2Eas;Eas1-1Wok;Wok3-3Eas;Eas1-3Wok
+Hartlepool,Tamworth,5,2.0,0.2,0.6,Tam0-1Har;Har2-2Tam;Har1-1Tam;Tam1-1Har;Har0-1Tam
+Aldershot,Carlisle,3,2.67,0.33,0.33,Car2-0Ald;Ald0-2Car;Ald1-3Car
+Boston Utd,Yeovil,5,3.8,1.0,0.6,Bos1-3Yeo;Yeo0-3Bos;Yeo2-1Bos;Bos2-1Yeo;Yeo6-0Bos
+Sutton,Tamworth,5,2.6,0.4,0.6,Tam1-1Sut;Sut1-2Tam;Sut2-3Tam;Tam0-1Sut;Tam2-0Sut
+Eastleigh,Southend,11,2.55,0.45,0.64,Sou2-0Eas;Eas1-2Sou;Eas2-1Sou;Sou4-1Eas;Eas1-1Sou
+Boreham Wood,Kidderminster,3,3.0,0.67,1.0,Bor1-1Kid;Kid1-2Bor;Bor3-1Kid
+Altrincham,Gateshead,9,2.67,0.44,0.44,Alt2-2Gat;Gat0-1Alt;Gat0-2Alt;Alt3-1Gat;Gat0-1Alt
+Solihull,Woking,11,2.55,0.45,0.36,Sol2-1Wok;Wok1-0Sol;Sol0-3Wok;Wok0-0Sol;Wok2-4Sol
+Boston Utd,Halifax,5,1.6,0.2,0.4,Bos0-1Hal;Hal1-0Bos;Bos0-1Hal;Hal2-1Bos;Hal1-1Bos
+Forest Green,Wealdstone,5,2.6,0.4,0.8,For2-2Wea;Wea2-1For;Wea1-1For;For2-0Wea;For1-1Wea
+Boreham Wood,Solihull,9,3.0,0.67,0.56,Bor1-2Sol;Sol2-0Bor;Bor2-1Sol;Sol4-1Bor;Sol0-3Bor
+Aldershot,Tamworth,5,4.0,0.8,1.0,Tam3-2Ald;Ald2-2Tam;Ald1-2Tam;Tam1-1Ald;Ald5-1Tam
+Gateshead,Wealdstone,9,3.0,0.67,0.44,Gat1-0Wea;Wea0-4Gat;Wea2-2Gat;Gat1-0Wea;Wea4-0Gat
+Forest Green,Sutton,5,3.6,0.8,0.8,Sut1-2For;For2-1Sut;For4-0Sut;Sut1-1For;Sut3-3For
+Hartlepool,Scunthorpe,3,2.67,0.67,0.67,Har1-2Scu;Scu0-0Har;Scu4-1Har
+Carlisle,Woking,3,4.33,0.67,0.67,Wok0-2Car;Car1-3Wok;Car2-5Wok
+Boston Utd,Fylde,3,2.33,0.67,0.67,Bos1-2Fyl;Fyl1-2Bos;Bos0-1Fyl
+Tamworth,Wealdstone,5,3.2,0.6,0.8,Wea0-1Tam;Tam4-1Wea;Tam1-1Wea;Wea3-2Tam;Tam2-1Wea
+Halifax,Sutton,5,2.2,0.4,0.4,Hal0-0Sut;Sut0-3Hal;Sut2-0Hal;Hal2-2Sut;Hal1-1Sut
+Altrincham,Fylde,5,4.0,1.0,0.8,Fyl3-3Alt;Alt2-1Fyl;Fyl0-5Alt;Alt1-2Fyl;Fyl1-2Alt
+Carlisle,Eastleigh,3,2.0,0.33,0.67,Car1-1Eas;Eas1-2Car;Eas1-0Car
+Boston Utd,Forest Green,5,2.8,0.6,0.4,Bos0-4For;For1-0Bos;Bos0-0For;For2-3Bos;For1-3Bos
+Gateshead,Southend,9,2.67,0.44,0.56,Sou1-3Gat;Gat0-0Sou;Gat0-3Sou;Sou1-1Gat;Gat1-6Sou
+Kidderminster,Woking,3,1.0,0.33,0.33,Kid0-0Wok;Wok2-1Kid;Wok0-0Kid
+Solihull,Yeovil,9,2.22,0.44,0.33,Yeo0-1Sol;Sol0-3Yeo;Sol0-1Yeo;Yeo1-4Sol;Yeo4-1Sol
+Gateshead,Kidderminster,3,2.0,0.33,0.0,Gat3-0Kid;Kid0-2Gat;Kid1-0Gat
+Altrincham,Hartlepool,7,2.86,0.57,0.71,Alt1-1Har;Har1-2Alt;Alt0-2Har;Har1-0Alt;Alt2-1Har
+Boreham Wood,Scunthorpe,5,2.6,0.4,0.6,Scu0-2Bor;Bor2-0Scu;Scu1-1Bor;Bor1-3Scu;Scu1-2Bor
+Boston Utd,Woking,5,2.6,0.4,0.8,Wok1-0Bos;Bos2-2Wok;Wok1-1Bos;Bos2-2Wok;Bos1-1Wok
+Halifax,Wealdstone,11,2.55,0.45,0.36,Hal2-2Wea;Wea3-1Hal;Wea2-1Hal;Hal2-2Wea;Wea0-1Hal
+Southend,Tamworth,5,2.6,0.4,0.6,Sou2-0Tam;Tam1-1Sou;Sou2-0Tam;Tam2-1Sou;Sou3-1Tam
+Eastleigh,Sutton,5,2.2,0.4,0.6,Eas1-1Sut;Sut1-0Eas;Sut2-1Eas;Eas0-2Sut;Sut2-1Eas
+Aldershot,Yeovil,9,2.67,0.44,0.78,Yeo1-1Ald;Ald2-1Yeo;Ald1-4Yeo;Yeo1-2Ald;Ald1-1Yeo
+Carlisle,Forest Green,3,4.0,0.67,1.0,Car4-2For;For1-3Car;Car1-1For
+Aldershot,Solihull,11,3.55,0.82,0.91,Sol2-1Ald;Ald3-1Sol;Sol1-5Ald;Ald1-5Sol;Sol1-2Ald
+Fylde,Yeovil,3,4.33,0.67,0.67,Fyl3-4Yeo;Yeo1-0Fyl;Yeo1-4Fyl
+Scunthorpe,Sutton,3,3.33,0.67,0.67,Sut2-3Scu;Scu1-2Sut;Sut0-2Scu
+Boston Utd,Wealdstone,5,2.4,0.4,0.6,Wea1-0Bos;Bos2-0Wea;Bos2-1Wea;Wea1-1Bos;Bos1-3Wea
+Altrincham,Woking,11,3.36,0.64,0.82,Alt1-0Wok;Wok2-1Alt;Alt1-3Wok;Wok1-1Alt;Wok5-1Alt
+Forest Green,Gateshead,5,3.4,0.6,0.4,Gat0-2For;For2-3Gat;For3-1Gat;Gat0-2For;For4-0Gat
+Carlisle,Southend,3,3.67,1.0,1.0,Sou1-2Car;Car2-2Sou;Car2-2Sou
+Boreham Wood,Eastleigh,9,2.56,0.33,0.56,Eas2-1Bor;Bor4-4Eas;Bor2-0Eas;Eas2-2Bor;Eas1-1Bor
+Hartlepool,Kidderminster,3,1.67,0.0,0.33,Kid1-1Har;Har0-1Kid;Kid2-0Har
+Gateshead,Solihull,9,2.67,0.44,0.67,Gat1-0Sol;Sol1-3Gat;Gat0-2Sol;Sol1-2Gat;Gat1-1Sol
+Boston Utd,Tamworth,5,2.6,0.6,0.6,Bos1-1Tam;Tam3-0Bos;Tam1-3Bos;Bos0-0Tam;Tam2-2Bos
+Aldershot,Halifax,11,3.18,0.45,0.55,Hal0-1Ald;Ald3-4Hal;Hal4-2Ald;Ald3-2Hal;Ald1-0Hal
+Hartlepool,Woking,7,2.71,0.43,0.43,Wok3-2Har;Har1-1Wok;Har3-0Wok;Wok4-0Har;Har1-0Wok
+Boreham Wood,Carlisle,3,3.67,0.67,0.67,Car3-3Bor;Bor2-0Car;Bor2-1Car
+Kidderminster,Wealdstone,3,2.67,0.33,0.67,Kid1-0Wea;Wea1-1Kid;Wea1-4Kid
+Southend,Yeovil,9,2.44,0.44,0.44,Sou0-1Yeo;Yeo2-2Sou;Yeo0-1Sou;Sou2-1Yeo;Sou3-2Yeo
+Altrincham,Eastleigh,11,3.0,0.82,0.64,Alt0-1Eas;Eas1-2Alt;Eas2-1Alt;Alt1-0Eas;Alt2-1Eas
+Halifax,Hartlepool,7,1.14,0.14,0.14,Har0-0Hal;Hal0-1Har;Hal0-1Har;Har0-1Hal;Hal1-0Har
+Tamworth,Yeovil,5,2.2,0.4,0.4,Tam0-0Yeo;Yeo2-1Tam;Tam1-0Yeo;Yeo2-0Tam;Yeo3-2Tam
+Carlisle,Scunthorpe,3,4.0,0.67,0.67,Scu0-1Car;Car3-2Scu;Car4-2Scu
+Southend,Woking,11,2.09,0.18,0.64,Wok0-0Sou;Sou2-2Wok;Wok1-1Sou;Sou1-1Wok;Wok1-1Sou
+Altrincham,Forest Green,5,2.6,0.6,1.0,For2-1Alt;Alt1-1For;Alt1-2For;For1-1Alt;For1-2Alt
+Aldershot,Eastleigh,11,3.55,0.64,0.55,Ald2-1Eas;Eas2-0Ald;Ald2-3Eas;Eas1-4Ald;Eas1-1Ald
+Fylde,Solihull,5,4.2,1.0,1.0,Sol2-1Fyl;Fyl2-2Sol;Fyl3-2Sol;Sol4-1Fyl;Sol1-3Fyl
+Sutton,Wealdstone,5,3.2,0.6,0.4,Wea0-1Sut;Sut2-2Wea;Wea4-2Sut;Sut3-0Wea;Sut0-2Wea
+Kidderminster,Southend,3,3.33,1.0,1.0,Sou2-1Kid;Kid1-2Sou;Sou1-3Kid
+Altrincham,Halifax,11,2.18,0.55,0.55,Alt0-0Hal;Hal0-3Alt;Hal2-1Alt;Alt0-1Hal;Alt2-1Hal
+Carlisle,Wealdstone,3,1.67,0.0,0.33,Wea0-1Car;Car2-0Wea;Wea1-1Car
+Forest Green,Fylde,3,2.67,0.67,0.0,For3-0Fyl;Fyl3-0For;Fyl2-0For
+Scunthorpe,Solihull,5,4.8,1.0,0.8,Scu3-4Sol;Sol3-1Scu;Sol3-0Scu;Scu3-3Sol;Scu3-1Sol
+Gateshead,Sutton,5,3.4,0.4,0.6,Sut0-1Gat;Gat4-3Sut;Sut4-2Gat;Gat1-1Sut;Gat0-1Sut
+Eastleigh,Hartlepool,7,1.71,0.14,0.43,Har0-0Eas;Eas1-1Har;Eas0-2Har;Har1-0Eas;Har0-1Eas
+Boreham Wood,Boston Utd,3,2.67,0.67,0.67,Bos0-2Bor;Bor1-2Bos;Bor2-1Bos
+Boreham Wood,Forest Green,3,2.67,0.67,0.67,For2-1Bor;Bor1-1For;For0-3Bor
+Fylde,Woking,5,2.6,0.4,0.4,Fyl0-2Wok;Wok3-0Fyl;Fyl1-1Wok;Wok1-0Fyl;Wok3-2Fyl
+Altrincham,Boston Utd,5,2.2,0.4,0.4,Alt2-2Bos;Bos1-0Alt;Alt1-0Bos;Bos2-2Alt;Bos1-0Alt
+Aldershot,Kidderminster,3,3.0,0.33,0.67,Ald1-0Kid;Kid4-2Ald;Kid1-1Ald
+Hartlepool,Sutton,5,4.2,0.8,0.8,Har4-3Sut;Sut1-2Har;Sut3-3Har;Har0-2Sut;Sut2-1Har
+Gateshead,Yeovil,7,3.57,0.86,0.57,Gat3-1Yeo;Yeo0-0Gat;Yeo3-4Gat;Gat2-1Yeo;Yeo3-0Gat
+Eastleigh,Scunthorpe,5,2.2,0.2,0.4,Eas2-0Scu;Scu0-1Eas;Eas1-1Scu;Scu0-1Eas;Eas3-2Scu
+Solihull,Southend,11,2.82,0.55,0.45,Sol2-4Sou;Sou0-1Sol;Sol1-2Sou;Sou0-0Sol;Sol1-3Sou
+Halifax,Tamworth,5,3.8,0.8,0.8,Hal3-2Tam;Tam1-2Hal;Tam0-2Hal;Hal2-2Tam;Hal4-1Tam
+Eastleigh,Kidderminster,3,1.67,0.33,0.33,Eas2-1Kid;Kid0-1Eas;Kid1-0Eas
+Carlisle,Yeovil,3,2.33,0.33,0.67,Yeo1-1Car;Car3-0Yeo;Yeo1-1Car
+Altrincham,Sutton,5,2.6,0.6,0.4,Sut5-0Alt;Alt1-0Sut;Alt2-1Sut;Sut1-2Alt;Sut1-0Alt
+Fylde,Tamworth,3,4.33,1.0,1.0,Fyl1-2Tam;Tam4-3Fyl;Tam1-2Fyl
+Aldershot,Hartlepool,7,2.43,0.43,0.29,Har2-0Ald;Ald3-2Har;Ald1-0Har;Har0-3Ald;Ald0-1Har
+Scunthorpe,Southend,5,2.2,0.4,0.2,Sou3-0Scu;Scu1-3Sou;Sou0-2Scu;Scu1-0Sou;Sou1-0Scu
+Gateshead,Woking,9,3.56,0.78,0.44,Wok0-2Gat;Gat4-0Wok;Wok5-0Gat;Gat0-3Wok;Gat2-0Wok
+Boreham Wood,Halifax,9,2.78,0.56,0.67,Bor2-0Hal;Hal2-1Bor;Bor2-1Hal;Hal3-2Bor;Hal1-3Bor
+Boston Utd,Solihull,5,2.8,0.6,0.4,Bos0-1Sol;Sol3-2Bos;Bos1-2Sol;Sol0-3Bos;Sol0-2Bos
+Fylde,Wealdstone,5,3.0,0.6,0.6,Wea3-2Fyl;Fyl1-2Wea;Wea1-0Fyl;Fyl2-0Wea;Fyl2-2Wea
+Forest Green,Halifax,5,3.2,0.8,1.0,For1-1Hal;Hal2-1For;Hal1-2For;For2-1Hal;For3-2Hal
+Altrincham,Southend,11,2.55,0.55,0.45,Alt2-0Sou;Sou2-1Alt;Sou3-0Alt;Alt1-0Sou;Alt1-3Sou
+Aldershot,Boston Utd,5,2.6,0.4,0.6,Bos1-1Ald;Ald1-2Bos;Ald2-3Bos;Bos0-2Ald;Bos0-1Ald
+Scunthorpe,Yeovil,5,1.8,0.4,0.4,Scu2-1Yeo;Yeo0-0Scu;Scu1-0Yeo;Yeo0-3Scu;Scu1-1Yeo
+Boreham Wood,Tamworth,3,4.67,1.0,1.0,Bor1-2Tam;Tam3-2Bor;Bor3-3Tam
+Sutton,Woking,5,2.6,0.6,0.8,Wok1-2Sut;Sut1-1Wok;Wok1-1Sut;Sut2-1Wok;Wok0-3Sut
+Eastleigh,Gateshead,9,3.44,0.56,0.78,Gat2-1Eas;Eas1-1Gat;Eas0-2Gat;Gat1-3Eas;Eas2-1Gat
+Boston Utd,Hartlepool,4,3.5,0.75,1.0,Bos1-2Har;Har4-1Bos;Har1-1Bos;Bos3-1Har
+Braintree Town,Tamworth,4,4.0,0.75,0.75,Bra0-1Tam;Tam4-2Bra;Bra1-2Tam;Tam5-1Bra
+Forest Green,Morecambe,2,4.5,1.0,0.5,Mor1-3For;For5-0Mor
+Aldershot,Truro,2,3.0,0.5,0.5,Tru2-2Ald;Ald0-2Tru
+Rochdale,York,6,2.67,0.5,0.5,Roc0-0Yor;Yor1-0Roc;Roc0-4Yor;Yor4-1Roc;Roc1-1Yor
+Brackley Town,Carlisle,2,2.0,0.5,0.0,Bra0-1Car;Car3-0Bra
+Halifax,Woking,10,2.3,0.5,0.5,Hal2-1Wok;Hal1-0Wok;Wok0-0Hal;Hal1-1Wok;Wok0-1Hal
+Hartlepool,Southend,6,2.33,0.33,0.5,Har0-0Sou;Har0-0Sou;Sou0-0Har;Sou1-1Har;Har4-3Sou
+Eastleigh,Tamworth,4,1.5,0.0,0.25,Eas1-0Tam;Tam2-0Eas;Tam1-0Eas;Eas1-1Tam
+Scunthorpe,Wealdstone,4,3.5,0.75,1.0,Wea3-1Scu;Scu4-1Wea;Scu2-1Wea;Wea1-1Scu
+Carlisle,Truro,2,2.0,0.5,0.0,Car3-0Tru;Tru0-1Car
+Yeovil,York,6,2.67,0.67,0.33,Yor2-1Yeo;Yor4-0Yeo;Yeo0-1Yor;Yeo1-3Yor;Yor3-0Yeo
+Braintree Town,Rochdale,4,2.0,0.25,0.25,Roc1-0Bra;Bra2-0Roc;Roc2-0Bra;Bra1-2Roc
+Aldershot,Brackley Town,2,3.5,1.0,1.0,Ald2-2Bra;Bra2-1Ald
+Boreham Wood,Morecambe,2,3.0,1.0,0.0,Bor3-0Mor;Mor0-3Bor
+Aldershot,Southend,10,2.7,0.5,0.6,Sou4-1Ald;Ald0-0Sou;Sou2-1Ald;Sou3-0Ald;Ald0-2Sou
+Morecambe,Woking,2,4.0,0.5,0.5,Mor0-2Wok;Wok5-1Mor
+Tamworth,York,4,2.25,0.25,0.25,Yor2-0Tam;Tam1-1Yor;Yor4-0Tam;Tam0-1Yor
+Brackley Town,Scunthorpe,2,1.5,0.0,0.5,Bra1-1Scu;Scu1-0Bra
+Carlisle,Sutton,2,3.0,1.0,0.5,Sut2-1Car;Car3-0Sut
+Boston Utd,Truro,2,2.0,0.5,0.0,Tru3-0Bos;Bos1-0Tru
+Braintree Town,Forest Green,4,2.25,0.5,0.5,For2-1Bra;Bra2-0For;Bra0-0For;For3-1Bra
+Rochdale,Wealdstone,6,3.67,0.83,0.67,Roc3-0Wea;Wea2-0Roc;Roc4-1Wea;Wea1-3Roc;Roc2-1Wea
+Hartlepool,Rochdale,6,3.17,0.67,0.67,Roc1-1Har;Har0-3Roc;Roc5-1Har;Roc1-2Har;Har0-0Roc
+Gateshead,Scunthorpe,4,2.5,0.25,0.25,Scu3-1Gat;Gat2-0Scu;Scu2-0Gat;Gat2-0Scu
+Braintree Town,Woking,4,1.0,0.25,0.25,Bra0-0Wok;Wok2-1Bra;Wok0-1Bra;Bra0-0Wok
+Altrincham,York,8,3.62,1.0,0.88,Alt6-1Yor;Alt3-0Yor;Yor1-2Alt;Alt1-2Yor;Yor2-1Alt
+Eastleigh,Yeovil,8,2.0,0.38,0.62,Yeo1-0Eas;Yeo2-2Eas;Eas1-0Yeo;Yeo1-1Eas;Eas2-1Yeo
+Southend,Sutton,4,2.5,0.5,0.5,Sou1-3Sut;Sut1-1Sou;Sou1-0Sut;Sut0-3Sou
+Boston Utd,Brackley Town,2,2.5,0.5,1.0,Bos1-2Bra;Bra1-1Bos
+Carlisle,Morecambe,2,2.5,0.5,0.5,Car1-0Mor;Mor2-2Car
+Forest Green,Truro,2,2.0,0.0,1.0,For1-1Tru;Tru1-1For
+Solihull,Tamworth,4,3.5,0.5,0.5,Sol2-0Tam;Tam1-2Sol;Sol7-1Tam;Tam1-0Sol
+Braintree Town,Southend,4,1.75,0.25,0.25,Bra0-1Sou;Sou0-0Bra;Bra0-1Sou;Sou3-2Bra
+Brackley Town,Forest Green,2,2.5,0.5,0.0,Bra1-0For;For4-0Bra
+Boreham Wood,Wealdstone,8,2.88,0.5,0.38,Bor1-0Wea;Wea1-1Bor;Bor4-0Wea;Wea0-4Bor;Bor5-1Wea
+Truro,Yeovil,2,1.0,0.0,0.0,Tru1-0Yeo;Yeo1-0Tru
+Boston Utd,York,4,2.75,0.5,0.5,Yor0-2Bos;Bos3-1Yor;Yor2-2Bos;Bos0-1Yor
+Carlisle,Gateshead,2,1.5,0.5,0.0,Gat0-3Car;Car0-0Gat
+Morecambe,Rochdale,2,4.5,1.0,1.0,Mor1-2Roc;Roc2-4Mor
+Hartlepool,Wealdstone,6,4.0,0.5,0.83,Wea4-4Har;Har1-1Wea;Wea1-1Har;Har1-1Wea;Wea7-0Har
+Boreham Wood,Truro,2,1.5,0.5,0.5,Bor2-1Tru;Tru0-0Bor
+Rochdale,Sutton,4,2.0,0.5,0.5,Roc2-1Sut;Sut1-0Roc;Roc1-0Sut;Sut1-2Roc
+Altrincham,Solihull,10,3.8,0.6,0.6,Sol0-1Alt;Sol3-3Alt;Alt1-1Sol;Alt2-0Sol;Sol1-0Alt
+Brackley Town,Tamworth,2,1.5,0.0,0.5,Tam1-1Bra;Bra0-1Tam
+Aldershot,Morecambe,2,3.0,0.5,0.0,Ald4-0Mor;Mor0-2Ald
+Halifax,Scunthorpe,4,2.0,0.25,0.5,Scu0-2Hal;Hal0-1Scu;Scu1-1Hal;Hal1-2Scu
+Woking,York,8,2.12,0.25,0.38,Yor2-0Wok;Wok1-1Yor;Yor3-0Wok;Wok1-1Yor;Yor1-0Wok
+Braintree Town,Carlisle,2,4.0,1.0,0.5,Car5-0Bra;Bra1-2Car
+Rochdale,Scunthorpe,2,3.0,0.5,1.0,Roc1-1Scu;Scu2-2Roc
+Solihull,Truro,2,3.0,0.5,0.5,Sol4-0Tru;Tru1-1Sol
+Forest Green,Tamworth,4,3.0,0.5,0.5,Tam1-1For;For3-0Tam;For4-2Tam;Tam1-0For
+Hartlepool,Morecambe,2,3.5,0.5,1.0,Har1-1Mor;Mor2-3Har
+Aldershot,Boreham Wood,8,2.25,0.62,0.5,Ald0-1Bor;Bor1-2Ald;Ald0-3Bor;Bor1-0Ald;Ald1-2Bor
+Gateshead,York,8,3.0,0.62,0.5,Yor2-0Gat;Yor1-0Gat;Gat1-3Yor;Yor4-0Gat;Gat3-1Yor
+Brackley Town,Braintree Town,2,1.5,0.0,0.5,Bra0-1Bra;Bra1-1Bra
+Carlisle,Halifax,2,1.5,0.0,0.0,Car2-0Hal;Hal0-1Car
+Braintree Town,Scunthorpe,2,3.5,0.5,1.0,Scu1-1Bra;Bra2-3Scu
+Boston Utd,Carlisle,2,5.5,1.0,1.0,Bos1-2Car;Car6-2Bos
+Morecambe,Yeovil,2,2.5,0.5,0.5,Mor0-0Yeo;Yeo3-2Mor
+Rochdale,Tamworth,4,3.25,0.75,0.75,Roc3-0Tam;Tam1-1Roc;Tam1-2Roc;Roc3-2Tam
+Boreham Wood,Gateshead,6,2.67,0.5,0.5,Bor0-2Gat;Gat2-2Bor;Bor1-1Gat;Gat0-3Bor;Bor3-0Gat
+Aldershot,Woking,10,3.5,0.8,0.8,Wok2-3Ald;Ald2-2Wok;Wok3-0Ald;Ald1-2Wok;Wok3-2Ald
+Brackley Town,York,2,4.5,1.0,0.5,Bra2-3Yor;Yor4-0Bra
+Sutton,Truro,2,4.0,1.0,0.5,Tru2-3Sut;Sut0-3Tru
+Woking,Yeovil,8,1.38,0.0,0.12,Yeo0-1Wok;Wok0-2Yeo;Yeo1-1Wok;Yeo1-0Wok;Wok1-0Yeo
+Scunthorpe,Truro,2,3.5,1.0,0.5,Scu4-0Tru;Tru1-2Scu
+Brackley Town,Solihull,2,1.5,0.0,0.5,Sol1-0Bra;Bra1-1Sol
+Rochdale,Southend,6,3.0,0.67,0.83,Sou1-2Roc;Roc0-1Sou;Sou1-1Roc;Roc2-1Sou;Sou3-2Roc
+Brackley Town,Woking,2,3.5,0.5,0.5,Wok2-0Bra;Bra1-4Wok
+Carlisle,Tamworth,2,3.0,1.0,1.0,Car2-1Tam;Tam2-1Car
+Aldershot,York,8,3.5,0.62,0.62,Yor1-0Ald;Ald0-0Yor;Yor7-2Ald;Yor5-1Ald;Ald0-3Yor
+Braintree Town,Morecambe,2,1.5,0.0,0.5,Bra1-0Mor;Mor1-1Bra
+Hartlepool,Truro,2,2.5,0.5,0.5,Har3-1Tru;Tru0-1Har
+Eastleigh,Rochdale,6,3.83,0.67,0.5,Eas1-4Roc;Eas4-2Roc;Roc4-0Eas;Roc2-0Eas;Eas1-3Roc
+Altrincham,Scunthorpe,4,3.75,0.75,0.75,Alt2-2Scu;Scu2-0Alt;Alt4-2Scu;Scu2-1Alt
+Forest Green,Southend,4,3.25,0.75,0.75,Sou2-2For;For2-2Sou;For2-1Sou;Sou2-0For
+Brackley Town,Eastleigh,2,2.0,0.5,0.5,Bra1-0Eas;Eas2-1Bra
+Aldershot,Forest Green,4,4.0,0.75,1.0,Ald3-3For;For1-1Ald;Ald2-3For;For2-1Ald
+Morecambe,Sutton,2,4.5,1.0,0.5,Mor2-2Sut;Sut0-5Mor
+Boston Utd,Rochdale,4,3.25,0.75,0.5,Bos0-3Roc;Roc2-3Bos;Bos1-3Roc;Roc1-0Bos
+Braintree Town,Wealdstone,4,3.5,0.75,0.75,Wea3-2Bra;Bra1-2Wea;Wea1-0Bra;Bra1-4Wea
+Boreham Wood,Brackley Town,2,6.0,1.0,1.0,Bra1-3Bor;Bor5-3Bra
+Eastleigh,York,8,2.38,0.38,0.38,Yor0-1Eas;Yor0-0Eas;Eas0-2Yor;Eas2-4Yor;Yor3-1Eas
+Altrincham,Truro,2,1.5,0.0,0.0,Tru0-1Alt;Alt2-0Tru
+Braintree Town,Gateshead,4,3.0,0.75,0.75,Bra2-2Gat;Gat1-3Bra;Bra1-2Gat;Gat1-0Bra
+Morecambe,Wealdstone,2,6.0,1.0,1.0,Mor4-3Wea;Wea2-3Mor
+Brackley Town,Rochdale,2,4.0,1.0,1.0,Bra2-1Roc;Roc3-2Bra
+Southend,Truro,2,1.5,0.0,0.5,Tru0-1Sou;Sou1-1Tru
+Boreham Wood,York,6,3.17,0.5,1.0,Yor1-1Bor;Yor2-2Bor;Bor1-1Yor;Yor2-2Bor;Bor3-2Yor
+Braintree Town,Truro,2,3.5,0.5,0.5,Bra2-0Tru;Tru2-3Bra
+Morecambe,York,2,3.5,0.5,0.5,Yor4-2Mor;Mor0-1Yor
+Aldershot,Rochdale,6,2.67,0.5,0.33,Ald3-1Roc;Ald0-2Roc;Roc4-0Ald;Roc1-0Ald;Ald0-2Roc
+Altrincham,Brackley Town,2,2.5,0.5,0.5,Alt2-1Bra;Bra0-2Alt
+Aldershot,Braintree Town,4,3.0,0.75,1.0,Bra2-1Ald;Ald2-2Bra;Ald1-1Bra;Bra1-2Ald
+Sutton,Yeovil,4,2.75,0.75,0.75,Sut0-0Yeo;Yeo1-2Sut;Sut1-2Yeo;Yeo3-2Sut
+Eastleigh,Truro,2,2.5,0.5,0.5,Tru0-2Eas;Eas2-1Tru
+Gateshead,Morecambe,2,7.5,1.0,1.0,Mor2-5Gat;Gat4-4Mor
+Carlisle,Hartlepool,2,4.0,1.0,1.0,Car3-1Har;Har3-1Car
+Boreham Wood,Southend,8,2.0,0.12,0.38,Bor1-0Sou;Bor1-1Sou;Sou4-2Bor;Bor1-1Sou;Sou0-2Bor
+Scunthorpe,York,4,2.25,0.5,0.5,Scu1-1Yor;Yor0-0Scu;Yor1-3Scu;Scu0-3Yor
+Halifax,Rochdale,6,2.5,0.67,0.67,Hal2-2Roc;Roc2-1Hal;Hal0-0Roc;Roc1-2Hal;Hal2-2Roc
+Brackley Town,Wealdstone,2,2.5,0.5,0.5,Bra0-2Wea;Wea2-1Bra
+Altrincham,Tamworth,4,3.5,0.75,1.0,Tam1-2Alt;Alt1-1Tam;Alt1-2Tam;Tam5-1Alt
+Rochdale,Woking,6,2.67,0.67,0.5,Roc2-1Wok;Roc3-0Wok;Wok1-1Roc;Wok0-0Roc;Roc3-0Wok
+Altrincham,Braintree Town,4,2.25,0.5,0.5,Bra2-0Alt;Alt3-1Bra;Bra0-0Alt;Alt2-1Bra
+Aldershot,Scunthorpe,4,4.0,1.0,1.0,Scu3-3Ald;Ald2-1Scu;Scu2-1Ald;Ald3-1Scu
+Halifax,York,8,2.75,0.5,0.75,Hal1-1Yor;Hal1-2Yor;Yor2-2Hal;Hal1-1Yor;Yor4-1Hal
+Eastleigh,Morecambe,2,3.5,1.0,0.5,Eas2-1Mor;Mor4-0Eas
+Gateshead,Truro,2,3.5,1.0,1.0,Gat2-2Tru;Tru1-2Gat
+Hartlepool,Solihull,6,3.83,0.5,0.67,Sol2-1Har;Sol3-4Har;Har1-1Sol;Har2-0Sol;Sol3-4Har
+Brackley Town,Southend,2,2.5,0.5,0.0,Sou2-0Bra;Bra0-3Sou
+Braintree Town,Solihull,4,1.25,0.0,0.25,Sol1-1Bra;Bra1-0Sol;Sol2-0Bra;Bra0-0Sol
+Brackley Town,Gateshead,2,1.5,0.5,0.5,Bra0-0Gat;Gat1-2Bra
+Rochdale,Yeovil,4,2.5,0.5,0.25,Yeo0-1Roc;Roc4-0Yeo;Roc3-0Yeo;Yeo1-1Roc
+Halifax,Truro,2,2.0,0.5,0.5,Tru2-1Hal;Hal1-0Tru
+Wealdstone,York,8,3.38,0.88,0.5,Yor2-3Wea;Wea0-2Yor;Yor3-0Wea;Yor4-0Wea;Wea0-3Yor
+Morecambe,Southend,2,4.5,1.0,0.5,Mor0-3Sou;Sou5-1Mor
+Hartlepool,York,6,4.0,0.83,0.83,Har2-1Yor;Yor5-3Har;Har0-1Yor;Har1-2Yor;Yor3-2Har
+Brackley Town,Halifax,2,2.0,0.0,0.5,Hal2-0Bra;Bra1-1Hal
+Braintree Town,Sutton,4,1.25,0.0,0.5,Bra0-1Sut;Sut1-1Bra;Bra0-0Sut;Sut1-1Bra
+Forest Green,Rochdale,4,1.25,0.25,0.25,Roc0-0For;For1-0Roc;For0-1Roc;Roc2-1For
+Boreham Wood,Yeovil,6,3.0,0.67,0.67,Yeo2-2Bor;Yeo1-1Bor;Bor1-0Yeo;Yeo0-3Bor;Bor3-2Yeo
+Morecambe,Tamworth,2,3.0,0.5,1.0,Tam1-1Mor;Mor2-2Tam
+Altrincham,Wealdstone,10,2.7,0.4,0.4,Alt4-1Wea;Wea3-3Alt;Alt0-1Wea;Wea1-1Alt;Alt1-0Wea
+Eastleigh,Solihull,10,3.0,0.5,0.6,Eas3-3Sol;Eas2-1Sol;Sol0-1Eas;Eas1-1Sol;Sol2-3Eas
+Truro,Woking,2,3.0,0.5,0.5,Wok2-2Tru;Tru0-2Wok
+Forest Green,York,4,2.25,0.25,0.75,For2-0Yor;Yor1-1For;For1-1Yor;Yor2-1For
+Eastleigh,Wealdstone,10,2.6,0.5,0.6,Wea0-1Eas;Eas1-1Wea;Wea3-3Eas;Wea0-0Eas;Eas2-2Wea
+Carlisle,Rochdale,2,1.5,0.0,0.0,Car0-2Roc;Roc1-0Car
+Morecambe,Truro,2,4.0,1.0,0.5,Tru5-0Mor;Mor1-2Tru
+Boston Utd,Sutton,4,2.25,0.5,0.5,Sut0-3Bos;Bos2-1Sut;Sut1-1Bos;Bos1-0Sut
+Altrincham,Morecambe,2,2.5,0.5,1.0,Mor2-1Alt;Alt1-1Mor
+Boreham Wood,Rochdale,4,2.25,0.25,0.5,Bor1-1Roc;Roc0-0Bor;Bor0-2Roc;Roc4-1Bor
+Forest Green,Woking,4,3.0,0.25,0.75,Wok1-1For;For1-1Wok;Wok0-2For;For4-2Wok
+Solihull,York,8,2.5,0.38,0.38,Sol1-0Yor;Sol0-3Yor;Yor2-0Sol;Yor0-1Sol;Sol0-2Yor
+Braintree Town,Eastleigh,4,2.75,0.75,0.75,Eas1-2Bra;Bra1-0Eas;Eas1-3Bra;Bra2-1Eas
+Brackley Town,Sutton,2,1.5,0.0,0.5,Bra1-0Sut;Sut1-1Bra
+Eastleigh,Halifax,10,3.3,0.7,0.7,Eas0-3Hal;Hal3-1Eas;Eas1-1Hal;Hal2-2Eas;Eas2-3Hal
+Morecambe,Solihull,2,5.0,0.5,0.5,Sol4-4Mor;Mor0-2Sol
+Brackley Town,Hartlepool,2,0.0,0.0,0.0,Har0-0Bra;Bra0-0Har
+Forest Green,Scunthorpe,2,3.5,0.5,1.0,For1-1Scu;Scu3-2For
+Rochdale,Truro,2,1.5,0.0,0.0,Tru0-1Roc;Roc2-0Tru
+Braintree Town,York,4,4.0,1.0,0.75,Yor2-1Bra;Bra2-1Yor;Bra2-3Yor;Yor5-0Bra
+Halifax,Morecambe,2,2.0,0.5,0.5,Mor1-2Hal;Hal1-0Mor
+Carlisle,York,2,4.0,1.0,0.0,Yor5-0Car;Car0-3Yor
+Rochdale,Solihull,6,2.5,0.5,0.5,Roc1-2Sol;Roc1-2Sol;Sol0-1Roc;Roc4-1Sol;Sol0-1Roc
+Brackley Town,Truro,2,3.5,0.5,0.5,Bra1-0Tru;Tru3-3Bra
+Gateshead,Hartlepool,6,4.5,0.83,0.83,Gat7-1Har;Gat4-3Har;Har3-2Gat;Gat0-1Har;Har2-1Gat
+Southend,York,8,1.88,0.25,0.25,Sou0-1Yor;Sou1-1Yor;Yor3-0Sou;Sou0-0Yor;Yor1-1Sou
+Tamworth,Truro,2,1.0,0.0,0.0,Tam2-0Tru;Tru0-0Tam
+Morecambe,Scunthorpe,2,4.0,1.0,1.0,Scu3-1Mor;Mor2-2Scu
+Boreham Wood,Braintree Town,2,3.0,1.0,0.5,Bor2-1Bra;Bra0-3Bor
+Brackley Town,Yeovil,2,3.0,1.0,1.0,Yeo2-1Bra;Bra2-1Yeo
+Wealdstone,Woking,10,1.8,0.2,0.5,Wok1-1Wea;Wok1-0Wea;Wea1-0Wok;Wok1-2Wea;Wea1-0Wok
+Gateshead,Rochdale,6,2.17,0.33,0.17,Gat1-0Roc;Gat0-1Roc;Roc1-0Gat;Roc4-0Gat;Gat0-2Roc
+Boston Utd,Braintree Town,4,1.75,0.25,0.25,Bos3-1Bra;Bra0-1Bos;Bos2-0Bra;Bra0-0Bos
+Sutton,York,4,3.5,1.0,1.0,Sut2-2Yor;Yor1-2Sut;Yor2-2Sut;Sut1-2Yor
+Braintree Town,Yeovil,4,2.5,0.5,0.5,Bra0-1Yeo;Yeo3-1Bra;Bra1-0Yeo;Yeo3-1Bra
+Gateshead,Tamworth,4,3.0,0.75,0.75,Tam2-1Gat;Gat0-2Tam;Gat2-1Tam;Tam3-1Gat
+Brackley Town,Morecambe,2,2.0,0.0,0.0,Mor2-0Bra;Bra0-2Mor
+Braintree Town,Hartlepool,4,1.0,0.0,0.25,Har0-0Bra;Bra1-1Har;Har2-0Bra;Bra0-0Har
+Solihull,Sutton,4,2.0,0.25,0.5,Sut1-0Sol;Sol1-1Sut;Sut0-0Sol;Sol4-1Sut
+Forest Green,Yeovil,4,2.25,0.25,0.5,For2-1Yeo;Yeo1-1For;For2-0Yeo;Yeo0-2For
+Truro,York,2,3.0,0.5,0.0,Tru0-2Yor;Yor4-0Tru
+Altrincham,Rochdale,6,3.0,1.0,0.33,Alt3-0Roc;Roc3-0Alt;Alt1-2Roc;Roc2-1Alt;Alt0-3Roc
+Truro,Wealdstone,2,2.0,0.0,0.0,Wea2-0Tru;Tru2-0Wea
+Hartlepool,Yeovil,4,1.5,0.25,0.25,Yeo0-1Har;Har2-1Yeo;Yeo0-0Har;Har0-2Yeo
+Braintree Town,Halifax,4,2.25,0.5,0.0,Bra1-0Hal;Hal1-0Bra;Bra3-0Hal;Hal4-0Bra
+Forest Green,Solihull,4,2.0,0.25,0.5,Sol0-1For;For1-0Sol;Sol2-2For;For1-1Sol
+Boston Utd,Morecambe,2,3.5,1.0,0.0,Bos0-4Mor;Mor0-3Bos
+Fylde,Rochdale,4,2.0,0.25,0.25,Roc2-0Fyl;Fyl2-0Roc;Fyl1-3Roc;Roc0-0Fyl
+Fylde,Halifax,4,3.0,0.75,0.75,Hal2-2Fyl;Fyl2-2Hal;Hal1-2Fyl;Fyl0-1Hal
+Fylde,York,4,3.25,0.75,0.5,Fyl0-2Yor;Yor1-3Fyl;Yor3-0Fyl;Fyl1-3Yor
+Aldershot,Fylde,4,4.0,0.5,0.25,Fyl0-2Ald;Ald0-5Fyl;Fyl5-2Ald;Ald2-0Fyl
+Fylde,Sutton,2,2.5,0.5,0.5,Sut2-0Fyl;Fyl1-2Sut
+Braintree Town,Fylde,2,1.5,0.0,0.0,Bra1-0Fyl;Fyl0-2Bra
+Fylde,Gateshead,4,2.75,0.5,0.25,Gat0-4Fyl;Fyl2-0Gat;Fyl3-0Gat;Gat1-1Fyl
+Eastleigh,Fylde,4,4.0,1.0,1.0,Fyl1-2Eas;Eas1-2Fyl;Eas4-2Fyl;Fyl2-2Eas
+Halifax,Kidderminster,2,2.5,0.5,0.5,Hal2-1Kid;Kid0-2Hal
+Fylde,Kidderminster,2,2.5,0.5,1.0,Fyl2-1Kid;Kid1-1Fyl
+Kidderminster,York,2,0.5,0.0,0.0,Yor0-1Kid;Kid0-0Yor
+Kidderminster,Rochdale,2,2.0,0.0,0.5,Kid1-1Roc;Roc2-0Kid

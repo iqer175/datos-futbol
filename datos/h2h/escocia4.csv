@@ -1,0 +1,52 @@
+eq_a,eq_b,n,goles,over25,btts,ultimos
+Dumbarton,Edinburgh City,6,4.0,1.0,0.67,Edi4-3Dum;Dum1-2Edi;Edi5-0Dum;Dum0-3Edi;Edi2-1Dum
+Annan Athletic,Spartans,6,3.33,0.5,0.5,Ann1-1Spa;Spa4-0Ann;Ann0-2Spa;Ann2-4Spa;Spa3-2Ann
+Forfar,Stirling,18,2.83,0.56,0.44,Sti0-4For;For0-1Sti;Sti0-3For;For3-0Sti;Sti5-2For
+Clyde,Stranraer,14,2.07,0.36,0.5,Cly0-0Str;Cly2-1Str;Str3-1Cly;Cly3-1Str;Str0-0Cly
+Elgin,Kelty Hearts,6,2.33,0.33,0.33,Elg2-0Kel;Kel4-0Elg;Elg0-0Kel;Elg4-1Kel;Kel0-1Elg
+Annan Athletic,Clyde,6,3.5,0.67,0.67,Cly1-0Ann;Ann1-1Cly;Cly3-1Ann;Ann1-2Cly;Cly4-1Ann
+Edinburgh City,Elgin,14,3.07,0.57,0.43,Edi1-3Elg;Elg3-0Edi;Edi0-3Elg;Edi0-5Elg;Elg0-0Edi
+Forfar,Kelty Hearts,6,2.0,0.33,0.5,Kel1-0For;For1-0Kel;Kel1-1For;For1-0Kel;Kel2-1For
+Spartans,Stranraer,14,2.93,0.64,0.5,Spa0-4Str;Str2-1Spa;Spa1-2Str;Str1-0Spa;Spa0-2Str
+Dumbarton,Stirling,10,2.8,0.5,0.6,Dum1-2Sti;Sti1-1Dum;Dum2-1Sti;Sti2-0Dum;Dum1-1Sti
+Elgin,Forfar,22,2.14,0.36,0.59,For4-2Elg;Elg2-0For;For2-1Elg;Elg1-1For;For1-2Elg
+Annan Athletic,Stranraer,14,2.36,0.36,0.5,Ann2-2Str;Str0-0Ann;Ann1-0Str;Str0-1Ann;Ann1-6Str
+Clyde,Dumbarton,10,2.8,0.5,0.4,Cly3-1Dum;Dum0-0Cly;Cly2-0Dum;Dum1-0Cly;Cly2-1Dum
+Edinburgh City,Spartans,10,2.8,0.6,0.4,Edi1-3Spa;Spa0-0Edi;Edi0-3Spa;Spa2-2Edi;Edi1-3Spa
+Kelty Hearts,Stirling,6,3.17,0.67,0.83,Kel1-1Sti;Sti0-3Kel;Kel1-1Sti;Kel3-2Sti;Sti2-1Kel
+Dumbarton,Forfar,13,3.31,0.69,0.69,For2-3Dum;Dum1-4For;For2-0Dum;Dum2-2For;Dum2-1For
+Annan Athletic,Stirling,13,2.77,0.54,0.54,Sti0-0Ann;Ann1-1Sti;Sti2-0Ann;Ann3-3Sti;Ann0-1Sti
+Edinburgh City,Stranraer,13,2.31,0.46,0.54,Str1-2Edi;Edi1-3Str;Str1-1Edi;Edi4-1Str;Str0-0Edi
+Clyde,Elgin,13,2.62,0.46,0.54,Cly0-0Elg;Elg1-1Cly;Cly1-1Elg;Elg2-0Cly;Elg6-2Cly
+Edinburgh City,Kelty Hearts,5,3.2,0.6,0.8,Kel1-0Edi;Edi2-3Kel;Kel2-2Edi;Edi1-1Kel;Kel1-3Edi
+Elgin,Stranraer,21,2.62,0.52,0.62,Str1-1Elg;Elg1-2Str;Str1-2Elg;Elg0-1Str;Elg1-5Str
+Annan Athletic,Forfar,13,2.92,0.54,0.62,For1-0Ann;Ann3-1For;For2-1Ann;Ann1-1For;For1-0Ann
+Dumbarton,Spartans,9,2.89,0.56,0.44,Spa1-2Dum;Dum1-2Spa;Spa2-0Dum;Dum3-0Spa;Dum3-0Spa
+Clyde,Stirling,9,3.44,0.67,0.67,Sti2-4Cly;Cly1-2Sti;Sti0-3Cly;Cly3-1Sti;Sti1-1Cly
+Dumbarton,Stranraer,13,2.77,0.46,0.62,Dum1-2Str;Str1-1Dum;Dum2-0Str;Str1-1Dum;Str3-1Dum
+Annan Athletic,Elgin,13,3.38,0.62,0.62,Ann3-2Elg;Elg2-0Ann;Ann2-1Elg;Elg0-3Ann;Ann2-0Elg
+Edinburgh City,Stirling,13,3.77,0.77,0.62,Edi1-2Sti;Sti0-1Edi;Edi1-4Sti;Sti1-0Edi;Edi7-3Sti
+Forfar,Spartans,13,2.08,0.23,0.38,Spa1-0For;For1-1Spa;Spa1-0For;For1-1Spa;Spa5-1For
+Dumbarton,Elgin,13,2.46,0.46,0.54,Dum1-1Elg;Elg2-0Dum;Dum2-2Elg;Elg1-1Dum;Dum2-1Elg
+Clyde,Edinburgh City,9,3.11,0.56,0.56,Cly2-1Edi;Edi1-4Cly;Cly5-0Edi;Edi0-2Cly;Cly3-2Edi
+Annan Athletic,Kelty Hearts,5,3.8,1.0,1.0,Kel2-1Ann;Ann5-1Kel;Kel3-1Ann;Ann1-2Kel;Kel2-1Ann
+Spartans,Stirling,9,2.44,0.44,0.44,Spa1-3Sti;Sti1-1Spa;Spa2-0Sti;Sti2-2Spa;Sti0-2Spa
+Forfar,Stranraer,21,2.24,0.38,0.43,For1-0Str;Str3-1For;For2-2Str;Str0-1For;For0-3Str
+Clyde,Spartans,13,2.77,0.46,0.77,Cly1-3Spa;Spa1-1Cly;Cly2-1Spa;Spa2-1Cly;Spa3-3Cly
+Kelty Hearts,Stranraer,5,3.0,0.6,0.2,Kel1-0Str;Str0-4Kel;Kel3-2Str;Str0-3Kel;Str2-0Kel
+Annan Athletic,Dumbarton,9,3.11,0.67,0.56,Ann3-4Dum;Dum2-1Ann;Ann1-0Dum;Dum2-1Ann;Ann2-0Dum
+Elgin,Stirling,17,2.76,0.53,0.41,Elg3-0Sti;Sti1-1Elg;Elg1-0Sti;Sti2-2Elg;Elg4-0Sti
+Edinburgh City,Forfar,13,2.46,0.38,0.31,Edi1-1For;For2-3Edi;Edi0-0For;For4-0Edi;Edi1-1For
+Elgin,Spartans,13,3.46,0.69,0.77,Elg2-3Spa;Spa1-0Elg;Elg3-3Spa;Spa1-1Elg;Spa3-3Elg
+Stirling,Stranraer,17,2.88,0.47,0.65,Sti1-0Str;Str3-2Sti;Sti1-1Str;Str1-1Sti;Sti2-2Str
+Clyde,Forfar,13,1.46,0.15,0.38,Cly0-0For;For0-0Cly;Cly1-1For;For1-1Cly;Cly3-0For
+Annan Athletic,Edinburgh City,9,2.78,0.67,0.67,Edi2-2Ann;Ann1-1Edi;Edi2-2Ann;Ann3-0Edi;Edi1-0Ann
+Clyde,East Kilbride,4,3.75,0.75,0.75,Cly2-2Eas;Eas1-1Cly;Cly1-3Eas;Eas5-0Cly
+Dumbarton,East Kilbride,4,2.25,0.25,0.5,Eas1-1Dum;Dum2-0Eas;Eas3-1Dum;Dum0-1Eas
+East Kilbride,Edinburgh City,4,3.0,0.5,0.5,Edi2-2Eas;Eas1-1Edi;Edi0-2Eas;Eas4-0Edi
+East Kilbride,Forfar,4,3.25,0.75,0.25,Eas5-0For;For0-3Eas;Eas3-1For;For1-0Eas
+Annan Athletic,East Kilbride,4,4.25,1.0,1.0,Ann3-1Eas;Eas1-3Ann;Ann2-4Eas;Eas2-1Ann
+East Kilbride,Spartans,4,3.75,0.75,0.75,Eas1-3Spa;Spa2-1Eas;Eas0-6Spa;Spa1-1Eas
+East Kilbride,Stirling,4,3.75,0.75,0.75,Sti2-3Eas;Eas2-0Sti;Sti1-2Eas;Eas3-2Sti
+East Kilbride,Stranraer,4,3.25,0.75,0.75,Eas3-1Str;Str1-3Eas;Eas0-2Str;Str2-1Eas
+East Kilbride,Elgin,4,3.5,0.75,0.25,Elg0-1Eas;Eas3-0Elg;Elg1-6Eas;Eas3-0Elg

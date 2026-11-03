@@ -1,0 +1,164 @@
+eq_a,eq_b,n,goles,over25,btts,ultimos
+Kalmar,Mjallby,10,2.5,0.5,0.5,Kal0-2Mja;Mja3-2Kal;Kal0-3Mja;Kal2-1Mja;Mja0-0Kal
+AIK,GAIS,6,1.83,0.17,0.33,AIK0-1GAI;GAI0-1AIK;AIK1-1GAI;AIK2-0GAI;GAI2-1AIK
+Hammarby,Malmo FF,13,3.23,0.69,0.69,Ham2-2Mal;Ham2-0Mal;Mal1-3Ham;Ham4-1Mal;Mal1-2Ham
+Degerfors,Djurgarden,10,3.4,0.7,0.7,Dju4-1Deg;Dju5-1Deg;Deg1-1Dju;Deg0-1Dju;Dju2-1Deg
+Brommapojkarna,Vasteras SK,4,2.25,0.5,0.75,Vas1-1Bro;Bro2-1Vas;Bro1-2Vas;Vas1-0Bro
+Elfsborg,Orgryte,2,3.5,1.0,1.0,Org2-2Elf;Elf2-1Org
+Goteborg,Hacken,13,3.38,0.54,0.62,Hac3-3Got;Got2-3Hac;Hac1-2Got;Got0-2Hac;Hac1-0Got
+Hammarby,Sirius,12,3.08,0.67,0.5,Sir0-3Ham;Ham3-2Sir;Sir3-1Ham;Sir2-0Ham;Ham2-0Sir
+GAIS,Kalmar,4,2.75,0.5,0.5,Kal2-3GAI;GAI1-1Kal;GAI3-0Kal;Kal0-1GAI
+Mjallby,Orgryte,2,2.5,0.5,0.5,Mja0-2Org;Org1-2Mja
+Djurgarden,Goteborg,12,2.5,0.5,0.5,Dju1-1Got;Got1-2Dju;Dju0-0Got;Dju6-0Got;Got1-1Dju
+Degerfors,Vasteras SK,2,2.5,0.5,0.0,Vas2-0Deg;Deg0-3Vas
+Halmstad,Malmo FF,10,2.8,0.6,0.2,Hal0-1Mal;Mal3-0Hal;Hal0-4Mal;Mal5-2Hal;Hal0-3Mal
+Brommapojkarna,Hacken,8,3.75,0.75,0.75,Bro1-3Hac;Hac2-0Bro;Bro1-3Hac;Hac2-2Bro;Bro0-0Hac
+AIK,Elfsborg,13,3.31,0.69,0.62,AIK2-1Elf;AIK2-0Elf;Elf0-3AIK;Elf1-1AIK;AIK2-2Elf
+Hammarby,Mjallby,12,2.5,0.58,0.17,Ham3-0Mja;Mja3-1Ham;Ham1-2Mja;Ham3-0Mja;Mja0-2Ham
+GAIS,Goteborg,6,2.33,0.33,0.67,Got2-0GAI;Got1-1GAI;GAI0-1Got;Got2-2GAI;GAI1-1Got
+AIK,Sirius,12,2.67,0.58,0.58,Sir0-1AIK;Sir3-1AIK;AIK2-1Sir;AIK0-3Sir;Sir1-2AIK
+Brommapojkarna,Kalmar,6,2.83,0.67,0.5,Bro2-3Kal;Kal0-1Bro;Bro1-2Kal;Bro1-0Kal;Kal0-3Bro
+Degerfors,Hacken,10,3.3,0.6,0.5,Deg1-0Hac;Hac3-4Deg;Deg0-0Hac;Deg1-1Hac;Hac4-0Deg
+Djurgarden,Orgryte,2,2.0,0.5,0.5,Org0-0Dju;Dju2-2Org
+Halmstad,Vasteras SK,4,2.25,0.5,0.5,Vas0-1Hal;Hal0-1Vas;Hal1-3Vas;Vas1-2Hal
+Elfsborg,Malmo FF,12,2.67,0.67,0.67,Mal2-1Elf;Mal2-1Elf;Elf2-2Mal;Mal1-2Elf;Elf0-0Mal
+Degerfors,Kalmar,8,3.0,0.75,0.75,Deg2-1Kal;Kal2-1Deg;Deg1-3Kal;Kal2-1Deg;Deg1-2Kal
+Hacken,Malmo FF,12,3.5,0.83,0.75,Mal4-0Hac;Mal3-0Hac;Hac1-1Mal;Hac3-2Mal;Mal0-1Hac
+Mjallby,Vasteras SK,4,1.75,0.5,0.5,Vas2-1Mja;Mja2-1Vas;Mja0-0Vas;Vas1-0Mja
+Elfsborg,Sirius,13,3.54,0.62,0.46,Sir4-1Elf;Elf4-3Sir;Sir4-0Elf;Elf1-3Sir;Sir2-2Elf
+GAIS,Orgryte,2,5.0,1.0,0.5,GAI4-0Org;Org4-2GAI
+Halmstad,Hammarby,10,1.6,0.2,0.4,Ham1-0Hal;Ham2-0Hal;Hal1-0Ham;Ham1-1Hal;Hal0-1Ham
+AIK,Goteborg,12,3.08,0.67,0.67,Got1-2AIK;AIK3-0Got;Got2-1AIK;Got1-2AIK;AIK2-2Got
+Brommapojkarna,Djurgarden,8,2.75,0.62,0.5,Dju2-1Bro;Bro0-1Dju;Dju1-0Bro;Dju1-2Bro;Bro0-2Dju
+Elfsborg,Halmstad,10,3.1,0.5,0.5,Hal0-1Elf;Hal1-4Elf;Elf1-2Hal;Hal1-1Elf;Elf4-0Hal
+Kalmar,Malmo FF,10,2.3,0.4,0.3,Kal1-0Mal;Mal5-0Kal;Kal2-2Mal;Kal2-2Mal;Mal1-0Kal
+Djurgarden,Hammarby,12,2.75,0.42,0.42,Ham2-0Dju;Ham2-0Dju;Dju3-3Ham;Dju1-1Ham;Ham0-1Dju
+Hacken,Orgryte,2,5.0,1.0,0.5,Org4-3Hac;Hac3-0Org
+Degerfors,Mjallby,10,2.4,0.4,0.5,Deg1-2Mja;Mja4-1Deg;Deg0-1Mja;Deg1-4Mja;Mja1-1Deg
+GAIS,Sirius,6,2.83,0.83,0.67,GAI2-1Sir;GAI2-1Sir;Sir3-0GAI;Sir2-1GAI;GAI0-1Sir
+AIK,Brommapojkarna,8,4.0,0.75,0.75,AIK2-1Bro;Bro0-1AIK;AIK2-1Bro;Bro2-2AIK;AIK5-6Bro
+Goteborg,Vasteras SK,4,3.5,0.25,0.75,Got1-1Vas;Vas1-1Got;Vas4-5Got;Got1-0Vas
+AIK,Halmstad,10,2.6,0.5,0.6,AIK5-1Hal;Hal2-0AIK;AIK0-2Hal;AIK2-1Hal;Hal2-1AIK
+Degerfors,Hammarby,10,3.4,0.6,0.6,Deg2-2Ham;Ham1-0Deg;Deg1-1Ham;Ham4-0Deg;Deg0-1Ham
+Hacken,Kalmar,11,3.0,0.55,0.64,Kal1-0Hac;Hac3-1Kal;Kal1-0Hac;Hac1-1Kal;Kal0-5Hac
+GAIS,Mjallby,6,2.0,0.33,0.5,Mja1-1GAI;Mja1-1GAI;GAI0-2Mja;GAI0-0Mja;Mja0-3GAI
+Djurgarden,Elfsborg,12,2.5,0.58,0.42,Elf1-2Dju;Elf4-0Dju;Dju1-0Elf;Elf2-1Dju;Dju1-2Elf
+Orgryte,Sirius,2,2.5,0.5,0.5,Sir2-0Org;Org1-2Sir
+Malmo FF,Vasteras SK,4,2.5,0.25,0.5,Mal1-0Vas;Vas1-1Mal;Mal2-3Vas;Vas2-0Mal
+Brommapojkarna,Goteborg,8,2.5,0.5,0.38,Got3-4Bro;Bro1-3Got;Got0-1Bro;Got2-1Bro;Bro0-1Got
+AIK,Mjallby,12,1.83,0.33,0.5,AIK1-0Mja;AIK2-1Mja;Mja2-0AIK;Mja1-2AIK;AIK1-1Mja
+Degerfors,Sirius,10,2.6,0.5,0.4,Sir3-2Deg;Deg1-1Sir;Sir1-3Deg;Deg0-3Sir;Sir2-0Deg
+Djurgarden,GAIS,6,2.0,0.33,0.17,GAI3-0Dju;Dju0-0GAI;GAI3-2Dju;GAI0-1Dju;Dju2-0GAI
+Brommapojkarna,Hammarby,8,3.12,0.5,0.62,Ham3-3Bro;Bro0-2Ham;Ham3-2Bro;Bro1-1Ham;Ham3-1Bro
+Elfsborg,Kalmar,10,2.8,0.7,0.4,Elf0-3Kal;Elf1-2Kal;Kal1-3Elf;Kal2-1Elf;Elf1-0Kal
+Malmo FF,Orgryte,2,3.5,0.5,1.0,Org1-1Mal;Mal4-1Org
+Goteborg,Halmstad,10,1.6,0.2,0.4,Got1-1Hal;Got1-0Hal;Hal0-3Got;Hal1-1Got;Got2-1Hal
+AIK,Vasteras SK,4,2.75,0.5,0.75,AIK1-0Vas;Vas1-2AIK;Vas1-1AIK;AIK1-4Vas
+Hacken,Mjallby,12,1.92,0.42,0.42,Mja2-1Hac;Hac0-3Mja;Mja1-0Hac;Mja0-1Hac;Hac1-1Mja
+Goteborg,Mjallby,12,2.5,0.33,0.5,Mja1-0Got;Mja1-0Got;Got0-2Mja;Got1-1Mja;Mja1-4Got
+Djurgarden,Kalmar,11,3.0,0.64,0.64,Kal2-1Dju;Kal2-1Dju;Dju1-1Kal;Dju3-2Kal;Kal0-1Dju
+AIK,Malmo FF,12,1.5,0.25,0.17,AIK0-0Mal;AIK0-0Mal;Mal0-0AIK;AIK0-1Mal;Mal0-0AIK
+Hammarby,Orgryte,2,5.5,0.5,1.0,Ham8-1Org;Org1-1Ham
+Brommapojkarna,Elfsborg,8,4.0,0.88,0.38,Bro3-3Elf;Elf4-3Bro;Bro3-0Elf;Elf2-0Bro;Bro2-1Elf
+GAIS,Hacken,6,2.67,0.83,0.67,Hac1-2GAI;Hac1-3GAI;GAI2-1Hac;Hac2-1GAI;GAI0-0Hac
+Degerfors,Halmstad,8,2.25,0.5,0.25,Hal0-0Deg;Hal0-5Deg;Deg0-1Hal;Hal0-3Deg;Deg2-0Hal
+Sirius,Vasteras SK,4,2.25,0.5,0.5,Sir0-0Vas;Vas1-2Sir;Sir4-1Vas;Vas0-1Sir
+Djurgarden,Mjallby,13,2.08,0.31,0.38,Dju1-1Mja;Dju1-3Mja;Mja1-1Dju;Dju4-0Mja;Mja0-2Dju
+Malmo FF,Sirius,13,3.77,0.77,0.62,Mal0-1Sir;Mal1-1Sir;Sir5-1Mal;Mal2-3Sir;Sir0-1Mal
+Brommapojkarna,GAIS,6,2.67,0.33,0.33,Bro2-0GAI;GAI1-1Bro;Bro0-2GAI;Bro1-1GAI;GAI4-0Bro
+AIK,Hammarby,12,3.0,0.58,0.58,AIK1-0Ham;AIK0-0Ham;Ham2-1AIK;Ham1-2AIK;AIK3-2Ham
+Goteborg,Orgryte,2,3.0,0.5,0.5,Org2-3Got;Got1-0Org
+Hacken,Vasteras SK,4,4.25,1.0,0.75,Vas1-2Hac;Hac4-0Vas;Vas3-3Hac;Hac1-3Vas
+Degerfors,Elfsborg,10,2.8,0.6,0.5,Elf2-2Deg;Deg0-1Elf;Elf1-2Deg;Deg0-1Elf;Elf2-0Deg
+Halmstad,Kalmar,8,2.75,0.38,0.38,Hal3-0Kal;Kal5-2Hal;Hal2-2Kal;Kal2-0Hal;Hal1-0Kal
+Djurgarden,Malmo FF,12,2.33,0.42,0.25,Mal4-0Dju;Dju0-1Mal;Mal0-1Dju;Dju0-1Mal;Mal0-3Dju
+Kalmar,Vasteras SK,4,2.0,0.5,0.25,Kal0-4Vas;Vas2-1Kal;Kal0-1Vas;Vas0-0Kal
+Elfsborg,Goteborg,12,2.83,0.5,0.67,Elf3-1Got;Got1-2Elf;Elf4-3Got;Elf2-0Got;Got1-1Elf
+GAIS,Hammarby,6,2.0,0.33,0.33,Ham0-0GAI;GAI3-2Ham;Ham1-2GAI;GAI2-0Ham;Ham2-0GAI
+Brommapojkarna,Degerfors,6,3.0,0.67,0.5,Deg2-0Bro;Deg0-3Bro;Bro1-3Deg;Deg2-2Bro;Bro2-0Deg
+Halmstad,Orgryte,2,2.0,0.0,0.5,Hal2-0Org;Org1-1Hal
+Hacken,Sirius,12,3.33,0.67,0.5,Hac2-0Sir;Sir2-0Hac;Hac1-1Sir;Hac2-2Sir;Sir0-3Hac
+Hacken,Halmstad,10,2.4,0.4,0.3,Hac0-1Hal;Hac4-1Hal;Hal0-0Hac;Hal0-2Hac;Hac1-0Hal
+GAIS,Malmo FF,6,1.5,0.33,0.33,GAI0-0Mal;GAI0-0Mal;Mal2-1GAI;Mal3-1GAI;GAI0-1Mal
+AIK,Djurgarden,13,2.31,0.31,0.38,Dju0-2AIK;Dju1-1AIK;AIK0-0Dju;AIK2-4Dju;Dju1-3AIK
+Degerfors,Goteborg,10,3.3,0.7,0.4,Deg1-2Got;Deg1-3Got;Got3-0Deg;Got2-0Deg;Deg3-0Got
+Hammarby,Kalmar,10,3.8,0.7,0.6,Kal0-0Ham;Ham3-1Kal;Kal1-4Ham;Ham2-0Kal;Kal0-4Ham
+Brommapojkarna,Orgryte,2,3.5,1.0,1.0,Org1-2Bro;Bro3-1Org
+Mjallby,Sirius,13,3.77,0.77,0.69,Sir1-1Mja;Sir1-2Mja;Mja2-1Sir;Sir4-4Mja;Mja4-3Sir
+Elfsborg,Vasteras SK,4,2.25,0.5,0.25,Vas0-1Elf;Elf1-0Vas;Vas2-2Elf;Elf3-0Vas
+Brommapojkarna,Sirius,8,3.88,0.88,0.88,Sir3-2Bro;Sir0-3Bro;Bro2-4Sir;Bro1-2Sir;Sir2-2Bro
+Djurgarden,Vasteras SK,4,3.0,0.5,0.25,Vas0-2Dju;Dju2-1Vas;Dju6-0Vas;Vas1-0Dju
+Hacken,Hammarby,12,3.08,0.58,0.75,Ham2-0Hac;Hac1-1Ham;Ham4-0Hac;Hac3-2Ham;Ham3-0Hac
+Goteborg,Kalmar,10,2.0,0.2,0.4,Got2-0Kal;Kal0-1Got;Got1-1Kal;Kal1-1Got;Got3-2Kal
+GAIS,Halmstad,6,3.17,0.67,0.5,GAI3-1Hal;Hal1-3GAI;GAI3-0Hal;GAI1-1Hal;Hal0-2GAI
+Degerfors,Malmo FF,10,3.3,0.7,0.5,Deg1-2Mal;Deg1-4Mal;Mal1-1Deg;Deg0-1Mal;Mal1-2Deg
+AIK,Orgryte,2,5.0,1.0,0.5,AIK0-3Org;Org3-4AIK
+Elfsborg,Mjallby,12,2.25,0.25,0.42,Mja1-1Elf;Elf2-2Mja;Mja2-0Elf;Elf1-1Mja;Mja0-1Elf
+Halmstad,Sirius,9,2.33,0.44,0.56,Sir3-0Hal;Hal3-1Sir;Sir1-1Hal;Hal0-1Sir;Hal0-2Sir
+Brommapojkarna,Malmo FF,7,3.43,1.0,1.0,Bro2-2Mal;Mal2-1Bro;Mal1-2Bro;Bro2-3Mal;Bro1-2Mal
+AIK,Hacken,11,3.36,0.73,0.73,Hac4-1AIK;AIK0-2Hac;Hac3-3AIK;AIK2-2Hac;Hac0-0AIK
+Goteborg,Sirius,12,3.0,0.5,0.58,Sir2-2Got;Got1-1Sir;Got3-1Sir;Sir0-1Got;Sir4-1Got
+Djurgarden,Halmstad,9,1.44,0.11,0.11,Dju2-0Hal;Hal1-0Dju;Hal1-0Dju;Dju1-1Hal;Dju3-0Hal
+Goteborg,Malmo FF,11,2.45,0.55,0.36,Got0-3Mal;Mal2-1Got;Got1-0Mal;Mal0-0Got;Mal4-0Got
+Elfsborg,GAIS,5,2.2,0.4,0.4,GAI2-1Elf;Elf2-1GAI;Elf2-0GAI;GAI2-0Elf;GAI1-0Elf
+Djurgarden,Hacken,11,3.45,0.64,0.73,Dju3-3Hac;Hac1-2Dju;Dju1-1Hac;Hac1-6Dju;Hac2-4Dju
+Elfsborg,Hammarby,11,2.36,0.55,0.27,Ham3-0Elf;Elf0-0Ham;Elf0-2Ham;Ham3-0Elf;Elf1-2Ham
+Elfsborg,Hacken,11,3.91,0.55,0.82,Hac3-5Elf;Elf1-3Hac;Elf0-2Hac;Hac1-2Elf;Elf1-1Hac
+Djurgarden,Sirius,11,3.36,0.45,0.36,Dju2-0Sir;Sir0-1Dju;Sir0-1Dju;Dju8-2Sir;Dju2-3Sir
+Degerfors,GAIS,3,2.33,0.33,0.33,GAI2-0Deg;Deg0-3GAI;GAI1-1Deg
+GAIS,Vasteras SK,3,2.67,0.33,0.33,GAI2-0Vas;Vas2-3GAI;Vas0-1GAI
+Goteborg,Hammarby,11,1.91,0.36,0.27,Ham0-1Got;Got0-1Ham;Ham4-0Got;Got1-2Ham;Got0-1Ham
+Brommapojkarna,Halmstad,7,2.57,0.43,0.43,Hal0-2Bro;Bro4-1Hal;Bro0-1Hal;Hal0-0Bro;Hal1-3Bro
+Hammarby,Vasteras SK,3,2.33,0.67,0.33,Ham2-1Vas;Vas1-0Ham;Ham3-0Vas
+Malmo FF,Mjallby,11,2.45,0.36,0.55,Mja2-1Mal;Mal2-0Mja;Mja1-1Mal;Mal1-3Mja;Mal2-3Mja
+Kalmar,Sirius,9,3.0,0.67,0.78,Kal2-2Sir;Sir3-0Kal;Kal1-2Sir;Sir3-1Kal;Sir3-2Kal
+Halmstad,Mjallby,9,2.33,0.33,0.56,Hal1-3Mja;Mja3-1Hal;Hal1-3Mja;Mja1-0Hal;Mja2-0Hal
+AIK,Degerfors,9,2.33,0.44,0.56,Deg2-1AIK;AIK2-0Deg;AIK3-0Deg;Deg0-1AIK;Deg2-1AIK
+AIK,Kalmar,10,1.6,0.1,0.4,AIK1-1Kal;Kal1-1AIK;AIK1-2Kal;Kal0-1AIK;AIK1-0Kal
+Brommapojkarna,Mjallby,7,1.71,0.29,0.29,Mja1-1Bro;Bro0-0Mja;Mja1-0Bro;Bro0-1Mja;Mja3-0Bro
+Djurgarden,Oster,2,2.5,0.5,0.5,Dju1-0Ost;Ost1-3Dju
+Goteborg,Norrkoping,10,2.6,0.4,0.5,Nor3-0Got;Got1-1Nor;Nor0-2Got;Nor2-3Got;Got2-0Nor
+Sirius,Varnamo,8,2.75,0.5,0.5,Var0-1Sir;Sir0-1Var;Var2-4Sir;Var1-2Sir;Sir3-1Var
+Mjallby,Varnamo,8,2.88,0.5,0.62,Mja2-3Var;Var1-2Mja;Mja1-1Var;Mja2-0Var;Var0-5Mja
+GAIS,Oster,2,2.0,0.0,1.0,Ost1-1GAI;GAI1-1Ost
+Norrkoping,Sirius,10,2.9,0.4,0.6,Sir2-0Nor;Sir5-1Nor;Nor0-2Sir;Sir1-2Nor;Nor1-2Sir
+Mjallby,Norrkoping,11,2.64,0.55,0.64,Nor0-2Mja;Mja3-0Nor;Nor1-2Mja;Nor1-1Mja;Mja2-1Nor
+Djurgarden,Varnamo,8,2.88,0.5,0.5,Dju1-2Var;Dju1-0Var;Var1-1Dju;Var1-0Dju;Dju6-2Var
+Degerfors,Oster,2,3.0,1.0,1.0,Deg1-2Ost;Ost1-2Deg
+Brommapojkarna,Varnamo,6,2.17,0.17,0.5,Bro0-2Var;Var1-1Bro;Bro0-1Var;Bro3-2Var;Var1-1Bro
+Elfsborg,Oster,2,3.5,0.5,0.5,Ost0-1Elf;Elf5-1Ost
+Malmo FF,Norrkoping,10,3.1,0.6,0.6,Nor0-1Mal;Nor1-5Mal;Mal2-1Nor;Mal3-1Nor;Nor0-2Mal
+AIK,Varnamo,8,3.12,0.62,0.62,AIK3-1Var;AIK2-0Var;Var0-1AIK;Var1-2AIK;AIK2-3Var
+Halmstad,Oster,2,2.0,0.5,0.0,Hal1-0Ost;Ost3-0Hal
+GAIS,Norrkoping,4,2.0,0.5,0.25,Nor1-0GAI;GAI0-1Nor;Nor0-3GAI;GAI2-1Nor
+Goteborg,Oster,2,1.5,0.0,0.0,Got0-1Ost;Ost0-2Got
+Malmo FF,Varnamo,8,2.88,0.62,0.62,Mal3-1Var;Var0-4Mal;Mal1-1Var;Var2-2Mal;Mal3-2Var
+Hacken,Norrkoping,10,3.6,0.6,0.6,Hac4-1Nor;Hac1-2Nor;Nor3-3Hac;Nor0-2Hac;Hac2-0Nor
+AIK,Norrkoping,10,3.7,0.6,0.5,Nor3-1AIK;AIK6-2Nor;Nor1-0AIK;AIK4-3Nor;Nor3-1AIK
+Halmstad,Varnamo,6,3.0,0.67,0.67,Var0-0Hal;Var1-3Hal;Hal1-0Var;Hal4-2Var;Var1-2Hal
+Mjallby,Oster,2,1.5,0.0,0.5,Ost0-1Mja;Mja1-1Ost
+Oster,Varnamo,2,4.5,0.5,1.0,Var1-1Ost;Ost4-3Var
+Halmstad,Norrkoping,8,2.38,0.62,0.62,Hal1-3Nor;Nor1-0Hal;Hal0-0Nor;Nor3-0Hal;Hal1-1Nor
+Hammarby,Oster,2,3.5,1.0,0.0,Ost0-3Ham;Ham4-0Ost
+Djurgarden,Norrkoping,10,2.7,0.5,0.6,Nor0-2Dju;Nor1-3Dju;Dju3-1Nor;Dju1-1Nor;Nor0-4Dju
+Goteborg,Varnamo,8,2.12,0.38,0.38,Var3-1Got;Var2-0Got;Got0-0Var;Var0-1Got;Got1-0Var
+Norrkoping,Oster,2,5.0,1.0,1.0,Nor4-3Ost;Ost1-2Nor
+Hacken,Varnamo,8,3.38,0.62,0.75,Var1-0Hac;Var2-2Hac;Hac1-1Var;Hac2-0Var;Var1-5Hac
+Degerfors,Varnamo,6,1.83,0.17,0.17,Deg0-0Var;Deg0-2Var;Var0-1Deg;Deg1-0Var;Var3-2Deg
+Hacken,Oster,2,2.0,0.0,0.0,Ost2-0Hac;Hac0-2Ost
+Elfsborg,Norrkoping,10,3.5,0.7,0.8,Elf3-2Nor;Nor4-2Elf;Elf2-2Nor;Elf2-0Nor;Nor2-1Elf
+Elfsborg,Varnamo,8,2.25,0.38,0.5,Var1-0Elf;Elf2-2Var;Var0-0Elf;Var0-0Elf;Elf2-2Var
+Brommapojkarna,Oster,2,2.0,0.0,0.5,Bro2-0Ost;Ost1-1Bro
+Hammarby,Norrkoping,11,2.73,0.55,0.64,Ham2-1Nor;Nor1-2Ham;Ham1-1Nor;Ham1-1Nor;Nor0-2Ham
+Oster,Sirius,2,3.0,0.5,1.0,Ost2-2Sir;Sir1-1Ost
+Brommapojkarna,Norrkoping,6,3.67,0.5,0.67,Bro2-2Nor;Bro2-1Nor;Nor1-1Bro;Nor0-1Bro;Bro6-4Nor
+GAIS,Varnamo,4,2.25,0.5,0.75,Var1-2GAI;GAI0-0Var;GAI1-1Var;Var2-2GAI
+AIK,Oster,2,0.5,0.0,0.0,Ost0-1AIK;AIK0-0Ost
+Hammarby,Varnamo,8,2.25,0.5,0.38,Var0-0Ham;Ham1-2Var;Var0-3Ham;Ham1-0Var;Var2-3Ham
+Degerfors,Norrkoping,8,2.12,0.25,0.5,Nor2-0Deg;Deg0-2Nor;Nor1-0Deg;Nor1-2Deg;Deg0-0Nor
+Norrkoping,Varnamo,8,3.12,0.75,0.75,Var2-1Nor;Nor0-4Var;Var1-2Nor;Var1-3Nor;Nor3-1Var
+Malmo FF,Oster,2,2.0,0.0,0.0,Mal2-0Ost;Ost0-2Mal
+Varnamo,Vasteras SK,2,2.0,0.0,0.0,Vas0-2Var;Var2-0Vas
+Kalmar,Varnamo,6,2.67,0.5,0.5,Var1-3Kal;Var0-1Kal;Kal1-3Var;Var0-2Kal;Kal3-1Var
+Norrkoping,Vasteras SK,2,3.0,1.0,1.0,Vas2-1Nor;Nor2-1Vas
+Kalmar,Norrkoping,8,2.38,0.5,0.62,Nor2-2Kal;Kal2-1Nor;Nor1-0Kal;Kal1-1Nor;Nor2-0Kal

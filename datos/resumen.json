@@ -1,13 +1,17 @@
 {
-  "actualizado": "2026-11-03T13:56:11+00:00",
-  "partidos_totales": 29220,
-  "equipos_activos": 310,
+  "actualizado": "2026-11-03T19:41:22+00:00",
+  "partidos_totales": 62350,
+  "equipos_activos": 658,
   "temporadas_descargadas": 6,
   "ultimo_partido": "2026-11-03",
   "cobertura": {
     "2. Bundesliga": {
       "partidos": 1620,
       "ultimo": "2026-11-01"
+    },
+    "Allsvenskan": {
+      "partidos": 1455,
+      "ultimo": "2026-11-02"
     },
     "Brasileirao": {
       "partidos": 2428,
@@ -17,12 +21,32 @@
       "partidos": 1602,
       "ultimo": "2026-11-01"
     },
+    "Bundesliga Austria": {
+      "partidos": 1196,
+      "ultimo": "2026-11-01"
+    },
     "Championship": {
       "partidos": 2916,
       "ultimo": "2026-10-31"
     },
+    "Ekstraklasa": {
+      "partidos": 1822,
+      "ultimo": "2026-11-02"
+    },
+    "Eliteserien": {
+      "partidos": 1464,
+      "ultimo": "2026-11-01"
+    },
     "Eredivisie": {
       "partidos": 1629,
+      "ultimo": "2026-11-01"
+    },
+    "J1 League": {
+      "partidos": 1952,
+      "ultimo": "2026-11-01"
+    },
+    "Jupiler Pro League": {
+      "partidos": 1636,
       "ultimo": "2026-11-01"
     },
     "LaLiga": {
@@ -32,6 +56,14 @@
     "LaLiga Hypermotion": {
       "partidos": 2441,
       "ultimo": "2026-11-02"
+    },
+    "League One": {
+      "partidos": 2915,
+      "ultimo": "2026-11-01"
+    },
+    "League Two": {
+      "partidos": 2923,
+      "ultimo": "2026-10-31"
     },
     "Liga Portugal": {
       "partidos": 1620,
@@ -45,6 +77,18 @@
       "partidos": 1849,
       "ultimo": "2026-11-02"
     },
+    "MLS": {
+      "partidos": 3075,
+      "ultimo": "2026-11-02"
+    },
+    "National League": {
+      "partidos": 2903,
+      "ultimo": "2026-10-31"
+    },
+    "Premier Division Irlanda": {
+      "partidos": 1098,
+      "ultimo": "2026-10-30"
+    },
     "Premier League": {
       "partidos": 1990,
       "ultimo": "2026-11-02"
@@ -53,6 +97,22 @@
       "partidos": 3357,
       "ultimo": "2026-11-03"
     },
+    "Scottish Championship": {
+      "partidos": 964,
+      "ultimo": "2026-10-31"
+    },
+    "Scottish League One": {
+      "partidos": 964,
+      "ultimo": "2026-10-31"
+    },
+    "Scottish League Two": {
+      "partidos": 960,
+      "ultimo": "2026-10-31"
+    },
+    "Scottish Premiership": {
+      "partidos": 1209,
+      "ultimo": "2026-11-01"
+    },
     "Serie A": {
       "partidos": 2000,
       "ultimo": "2026-11-02"
@@ -60,6 +120,26 @@
     "Serie B": {
       "partidos": 2000,
       "ultimo": "2026-11-01"
+    },
+    "Super League Grecia": {
+      "partidos": 1251,
+      "ultimo": "2026-11-02"
+    },
+    "Super League Suiza": {
+      "partidos": 1280,
+      "ultimo": "2026-11-01"
+    },
+    "Super Lig": {
+      "partidos": 1840,
+      "ultimo": "2026-11-02"
+    },
+    "Superliga Dinamarca": {
+      "partidos": 1192,
+      "ultimo": "2026-11-02"
+    },
+    "Veikkausliiga": {
+      "partidos": 1031,
+      "ultimo": "2026-11-02"
     }
   },
   "aviso_pinnacle": "Desde 23/07/2025 las cuotas de Pinnacle en la fuente son poco fiables y ya no entran en la media de mercado. Usa avgc_* como referencia de cierre."

@@ -1,0 +1,163 @@
+eq_a,eq_b,n,goles,over25,btts,ultimos
+Brann,Molde,10,3.4,0.8,0.5,Mol2-1Bra;Bra0-3Mol;Mol4-0Bra;Mol1-2Bra;Bra3-2Mol
+Kristiansund,Sarpsborg 08,11,2.64,0.45,0.55,Sar0-2Kri;Kri0-0Sar;Sar0-1Kri;Kri0-0Sar;Sar2-4Kri
+Tromso,Valerenga,10,2.0,0.3,0.4,Val1-1Tro;Tro2-1Val;Val1-0Tro;Tro4-0Val;Val4-0Tro
+HamKam,KFUM Oslo,6,2.67,0.5,0.5,Ham0-2KFU;Ham0-0KFU;KFU2-2Ham;Ham4-0KFU;KFU2-2Ham
+Lillestrom,Start,2,2.5,0.5,0.5,Lil3-1Sta;Sta0-1Lil
+Fredrikstad,Rosenborg,6,2.67,0.5,0.33,Fre2-2Ros;Ros1-0Fre;Fre0-2Ros;Ros4-0Fre;Fre0-3Ros
+Aalesund,Sandefjord,7,3.0,0.57,0.29,Aal1-0San;San4-0Aal;Aal0-3San;San1-0Aal;Aal3-4San
+Bodo/Glimt,Viking,13,4.46,0.77,0.69,Vik1-1Bod;Bod2-4Vik;Vik2-4Bod;Vik5-0Bod;Bod3-2Vik
+Fredrikstad,Molde,5,4.4,0.8,0.8,Fre0-0Mol;Mol6-1Fre;Fre4-2Mol;Mol1-2Fre;Mol5-1Fre
+Sandefjord,Start,2,2.0,0.5,0.0,San3-0Sta;Sta1-0San
+Brann,Lillestrom,8,3.25,0.62,0.75,Lil0-2Bra;Lil0-2Bra;Bra2-1Lil;Bra1-2Lil;Lil3-2Bra
+Aalesund,Sarpsborg 08,6,4.17,1.0,1.0,Aal1-3Sar;Sar3-1Aal;Aal3-2Sar;Aal2-4Sar;Sar2-1Aal
+Tromso,Viking,11,3.73,0.64,0.82,Vik2-1Tro;Tro2-2Vik;Vik4-4Tro;Tro1-3Vik;Vik3-1Tro
+KFUM Oslo,Kristiansund,6,3.17,0.67,0.83,KFU1-2Kri;Kri0-5KFU;KFU1-1Kri;KFU2-1Kri;Kri2-2KFU
+Bodo/Glimt,Valerenga,10,4.2,0.7,0.7,Bod4-2Val;Bod7-2Val;Val3-1Bod;Val1-2Bod;Bod0-1Val
+HamKam,Rosenborg,6,2.67,0.5,0.0,Ham0-2Ros;Ros2-0Ham;Ham4-0Ros;Ros4-0Ham;Ham0-3Ros
+Lillestrom,Sandefjord,10,2.9,0.5,0.4,San1-0Lil;San0-1Lil;Lil0-3San;Lil3-1San;San0-2Lil
+Molde,Start,2,4.5,0.5,1.0,Sta1-1Mol;Mol6-1Sta
+Brann,Valerenga,8,3.88,0.88,0.75,Val1-2Bra;Val2-4Bra;Bra3-2Val;Bra2-3Val;Val3-1Bra
+KFUM Oslo,Tromso,6,2.0,0.33,0.5,KFU0-1Tro;KFU1-3Tro;Tro2-0KFU;KFU0-0Tro;Tro1-1KFU
+Rosenborg,Sarpsborg 08,12,3.67,0.75,0.75,Ros1-1Sar;Sar2-2Ros;Ros2-3Sar;Ros2-1Sar;Sar0-3Ros
+Aalesund,Kristiansund,4,3.0,0.5,0.5,Aal1-0Kri;Kri4-0Aal;Aal1-1Kri;Kri1-4Aal
+Fredrikstad,Viking,6,3.17,0.67,0.67,Fre3-2Vik;Vik3-0Fre;Fre0-1Vik;Fre1-2Vik;Vik3-2Fre
+Bodo/Glimt,HamKam,6,2.67,0.67,0.17,Bod3-0Ham;Bod3-0Ham;Ham1-3Bod;Bod3-0Ham;Ham0-2Bod
+KFUM Oslo,Valerenga,4,2.5,0.5,0.75,KFU0-1Val;Val1-1KFU;Val2-2KFU;KFU2-1Val
+HamKam,Start,2,4.5,1.0,1.0,Ham2-1Sta;Sta2-4Ham
+Fredrikstad,Tromso,6,1.67,0.33,0.17,Tro3-0Fre;Fre0-1Tro;Tro0-0Fre;Tro4-0Fre;Fre1-1Tro
+Lillestrom,Molde,10,3.0,0.7,0.6,Mol4-0Lil;Mol3-0Lil;Lil1-2Mol;Mol0-1Lil;Lil2-2Mol
+Rosenborg,Sandefjord,13,2.62,0.38,0.54,San0-1Ros;San2-0Ros;Ros1-1San;San0-0Ros;Ros1-1San
+Bodo/Glimt,Kristiansund,10,3.9,0.7,0.4,Bod4-0Kri;Kri1-1Bod;Bod7-1Kri;Kri0-3Bod;Bod3-1Kri
+Brann,Viking,11,2.91,0.45,0.55,Bra1-1Vik;Bra3-1Vik;Vik3-0Bra;Vik3-2Bra;Bra0-2Vik
+HamKam,Tromso,7,3.43,0.71,0.71,Tro3-3Ham;Ham1-3Tro;Tro1-0Ham;Ham1-4Tro;Tro3-2Ham
+Lillestrom,Viking,10,3.6,0.8,0.6,Lil1-3Vik;Vik1-4Lil;Lil1-4Vik;Lil1-2Vik;Vik3-0Lil
+Bodo/Glimt,Brann,10,4.1,1.0,0.9,Bra4-1Bod;Bod3-0Bra;Bra1-2Bod;Bod3-1Bra;Bra2-1Bod
+Fredrikstad,Valerenga,4,2.0,0.0,0.75,Fre2-0Val;Val1-1Fre;Fre1-1Val;Val1-1Fre
+Kristiansund,Rosenborg,10,3.5,0.7,0.6,Kri0-4Ros;Ros1-1Kri;Kri4-1Ros;Ros3-0Kri;Kri1-3Ros
+Aalesund,Molde,7,3.14,0.86,0.57,Mol3-0Aal;Mol3-0Aal;Aal3-1Mol;Aal2-2Mol;Mol1-2Aal
+KFUM Oslo,Sarpsborg 08,6,2.83,0.67,0.67,KFU1-2Sar;KFU1-3Sar;Sar2-1KFU;KFU1-0Sar;Sar1-3KFU
+Bodo/Glimt,Sandefjord,12,3.5,0.67,0.67,San2-1Bod;Bod2-0San;San1-2Bod;San0-3Bod;Bod3-2San
+Fredrikstad,Sarpsborg 08,6,2.33,0.33,0.67,Sar0-1Fre;Fre1-1Sar;Sar0-2Fre;Sar2-1Fre;Fre1-1Sar
+Aalesund,KFUM Oslo,2,3.5,1.0,1.0,Aal2-2KFU;KFU2-1Aal
+Kristiansund,Viking,10,3.6,0.7,0.7,Kri0-1Vik;Vik3-1Kri;Kri0-1Vik;Kri1-2Vik;Vik8-1Kri
+HamKam,Molde,7,3.0,0.57,0.57,Mol3-0Ham;Ham2-1Mol;Mol1-0Ham;Mol4-1Ham;Ham1-5Mol
+Brann,Start,3,2.33,0.33,0.67,Sta1-1Bra;Bra2-1Sta;Sta2-0Bra
+Lillestrom,Valerenga,8,2.88,0.38,0.38,Val3-1Lil;Val3-4Lil;Lil2-0Val;Val0-2Lil;Lil2-0Val
+Rosenborg,Tromso,12,4.0,0.75,0.67,Ros1-0Tro;Ros4-1Tro;Tro1-0Ros;Tro2-0Ros;Ros5-3Tro
+Kristiansund,Tromso,10,2.1,0.3,0.5,Tro0-0Kri;Tro2-3Kri;Kri1-3Tro;Tro2-0Kri;Kri2-0Tro
+KFUM Oslo,Molde,6,3.33,0.5,0.67,KFU1-1Mol;Mol2-3KFU;KFU0-0Mol;KFU2-4Mol;Mol2-0KFU
+Sarpsborg 08,Valerenga,11,3.55,0.64,0.73,Sar3-2Val;Sar1-1Val;Val4-0Sar;Val3-2Sar;Sar2-2Val
+Sandefjord,Viking,13,3.62,0.92,0.85,Vik3-2San;Vik3-1San;San1-2Vik;Vik2-1San;San1-1Vik
+Aalesund,Start,2,2.0,0.0,0.5,Sta1-1Aal;Aal2-0Sta
+Bodo/Glimt,Fredrikstad,6,2.67,0.5,0.33,Bod2-2Fre;Fre0-1Bod;Bod5-0Fre;Bod1-0Fre;Fre1-2Bod
+Aalesund,Viking,6,2.83,0.67,0.67,Aal2-1Vik;Vik3-1Aal;Aal0-4Vik;Aal1-1Vik;Vik2-1Aal
+KFUM Oslo,Start,2,3.5,0.5,0.5,KFU2-0Sta;Sta4-1KFU
+HamKam,Kristiansund,6,2.67,0.5,0.83,Ham1-0Kri;Ham2-1Kri;Kri1-3Ham;Kri1-1Ham;Ham2-2Kri
+Bodo/Glimt,Rosenborg,13,3.92,0.77,0.85,Bod2-3Ros;Bod4-0Ros;Ros1-1Bod;Ros2-2Bod;Bod4-2Ros
+Molde,Valerenga,10,3.8,0.7,0.7,Mol0-0Val;Val2-3Mol;Mol4-1Val;Mol5-1Val;Val3-4Mol
+Sarpsborg 08,Tromso,12,2.58,0.5,0.33,Sar2-1Tro;Sar0-1Tro;Tro4-0Sar;Sar0-1Tro;Tro0-0Sar
+Brann,Sandefjord,10,2.3,0.5,0.5,San2-2Bra;Bra1-0San;San0-3Bra;Bra0-1San;San0-0Bra
+Fredrikstad,Lillestrom,4,3.25,0.75,0.5,Lil0-3Fre;Fre2-1Lil;Fre0-2Lil;Lil1-4Fre
+Brann,HamKam,6,3.17,0.67,0.67,Ham1-2Bra;Ham1-1Bra;Bra3-1Ham;Ham1-5Bra;Bra3-0Ham
+Fredrikstad,Kristiansund,6,2.33,0.33,0.5,Fre1-1Kri;Kri0-1Fre;Fre3-1Kri;Kri2-0Fre;Fre1-0Kri
+Aalesund,Valerenga,7,4.57,0.71,0.71,Val4-0Aal;Aal0-1Val;Val3-1Aal;Val6-1Aal;Aal5-5Val
+Molde,Tromso,12,3.5,0.5,0.42,Mol5-3Tro;Tro1-0Mol;Mol2-0Tro;Tro2-0Mol;Mol3-2Tro
+Sandefjord,Sarpsborg 08,13,3.85,0.69,0.69,Sar2-1San;San3-2Sar;Sar2-1San;San0-2Sar;Sar1-2San
+KFUM Oslo,Lillestrom,4,2.5,0.5,0.75,Lil2-1KFU;KFU2-0Lil;Lil2-1KFU;KFU1-1Lil
+Rosenborg,Viking,13,3.46,0.77,0.69,Ros2-1Vik;Ros1-1Vik;Vik2-1Ros;Vik3-0Ros;Ros2-1Vik
+Lillestrom,Rosenborg,10,3.0,0.6,0.5,Lil3-0Ros;Ros4-0Lil;Lil1-1Ros;Ros2-0Lil;Lil0-2Ros
+Aalesund,HamKam,2,3.0,0.5,1.0,Aal2-2Ham;Ham1-1Aal
+Kristiansund,Molde,11,2.73,0.55,0.45,Kri0-4Mol;Mol0-1Kri;Kri2-1Mol;Mol1-0Kri;Kri2-1Mol
+Fredrikstad,Start,2,2.0,0.5,0.5,Fre2-1Sta;Sta0-1Fre
+Sarpsborg 08,Viking,13,2.46,0.62,0.62,Sar1-2Vik;Vik0-0Sar;Sar3-3Vik;Sar1-0Vik;Vik2-1Sar
+KFUM Oslo,Sandefjord,6,3.17,0.67,0.67,San2-1KFU;KFU3-1San;San2-0KFU;KFU1-2San;San0-1KFU
+Aalesund,Tromso,6,4.33,0.83,1.0,Tro2-2Aal;Aal2-3Tro;Tro1-2Aal;Tro1-1Aal;Aal2-6Tro
+Brann,Rosenborg,11,3.45,0.73,0.73,Ros1-2Bra;Bra0-0Ros;Ros2-3Bra;Ros1-1Bra;Bra3-2Ros
+Molde,Sarpsborg 08,13,3.92,0.77,0.69,Sar2-2Mol;Mol0-2Sar;Sar1-0Mol;Sar2-1Mol;Mol3-3Sar
+Fredrikstad,Sandefjord,6,1.5,0.17,0.33,San0-1Fre;Fre3-1San;San0-0Fre;San1-1Fre;Fre1-0San
+Start,Viking,3,5.67,1.0,0.67,Vik4-1Sta;Vik6-3Sta;Sta0-3Vik
+Bodo/Glimt,Lillestrom,10,3.5,0.6,0.5,Bod3-1Lil;Lil0-5Bod;Bod5-2Lil;Lil0-2Bod;Bod4-0Lil
+HamKam,Valerenga,5,2.2,0.4,0.4,Ham0-2Val;Val1-1Ham;Ham2-1Val;Ham1-0Val;Val0-3Ham
+HamKam,Sarpsborg 08,6,3.5,0.5,0.5,Sar1-7Ham;Ham0-2Sar;Sar4-0Ham;Ham1-3Sar;Sar1-0Ham
+HamKam,Sandefjord,6,2.67,0.5,0.67,San1-2Ham;Ham1-1San;San2-0Ham;Ham3-1San;San2-2Ham
+Bodo/Glimt,KFUM Oslo,5,2.8,0.6,0.6,Bod2-2KFU;KFU1-1Bod;Bod3-0KFU;KFU1-2Bod;KFU0-2Bod
+Molde,Sandefjord,11,3.64,0.91,0.73,San3-1Mol;Mol0-1San;San3-0Mol;Mol1-3San;Mol2-1San
+Brann,Sarpsborg 08,10,2.7,0.6,0.8,Sar1-1Bra;Bra1-3Sar;Bra2-2Sar;Sar1-4Bra;Bra1-2Sar
+Kristiansund,Valerenga,9,3.33,0.67,0.56,Kri0-2Val;Val0-2Kri;Kri0-2Val;Val3-3Kri;Val3-1Kri
+Start,Valerenga,2,3.0,0.5,0.0,Val4-0Sta;Sta2-0Val
+KFUM Oslo,Rosenborg,5,2.8,0.4,0.6,Ros1-3KFU;KFU1-0Ros;Ros1-1KFU;KFU4-1Ros;KFU2-0Ros
+HamKam,Lillestrom,3,3.0,0.33,0.33,Lil1-1Ham;Ham5-0Lil;Ham2-0Lil
+Aalesund,Brann,4,4.25,1.0,1.0,Bra3-1Aal;Aal1-3Bra;Bra5-1Aal;Aal2-1Bra
+Bodo/Glimt,Start,3,4.0,0.67,0.67,Sta1-1Bod;Bod5-0Sta;Sta1-4Bod
+Kristiansund,Lillestrom,7,2.57,0.57,0.71,Kri1-3Lil;Lil1-1Kri;Lil2-3Kri;Kri2-1Lil;Lil1-2Kri
+Brann,KFUM Oslo,5,1.8,0.2,0.4,KFU0-0Bra;Bra2-0KFU;KFU2-0Bra;Bra1-1KFU;Bra2-1KFU
+Bodo/Glimt,Tromso,11,3.27,0.64,0.55,Bod4-0Tro;Tro0-0Bod;Tro2-1Bod;Bod1-1Tro;Bod5-0Tro
+Aalesund,Rosenborg,5,2.6,0.6,0.4,Aal0-0Ros;Ros2-1Aal;Aal1-0Ros;Ros4-0Aal;Ros2-3Aal
+Fredrikstad,HamKam,5,1.8,0.2,0.6,Ham0-1Fre;Fre1-0Ham;Ham1-1Fre;Fre1-1Ham;Fre2-1Ham
+Kristiansund,Sandefjord,9,3.22,0.56,0.44,San1-0Kri;Kri2-1San;San6-0Kri;Kri2-2San;San2-0Kri
+KFUM Oslo,Viking,5,2.8,0.6,0.6,KFU1-2Vik;Vik1-0KFU;Vik3-1KFU;KFU2-2Vik;KFU0-2Vik
+Bodo/Glimt,Molde,11,3.55,0.64,0.73,Bod1-1Mol;Mol3-3Bod;Mol2-2Bod;Bod4-1Mol;Bod0-1Mol
+Lillestrom,Sarpsborg 08,9,2.67,0.56,0.44,Lil1-2Sar;Sar3-1Lil;Sar1-0Lil;Lil2-2Sar;Lil4-0Sar
+Brann,Fredrikstad,5,2.8,0.6,0.2,Bra0-2Fre;Fre0-4Bra;Fre3-0Bra;Bra1-0Fre;Bra3-1Fre
+Brann,Tromso,10,3.6,0.8,0.8,Bra4-0Tro;Bra3-1Tro;Tro1-2Bra;Bra1-2Tro;Tro0-5Bra
+Sandefjord,Tromso,11,2.36,0.55,0.45,San1-2Tro;Tro3-0San;Tro0-1San;San1-0Tro;Tro3-1San
+Aalesund,Bodo/Glimt,6,3.17,0.67,0.17,Bod2-0Aal;Aal1-2Bod;Aal0-3Bod;Bod1-0Aal;Bod3-0Aal
+Bodo/Glimt,Sarpsborg 08,11,3.82,0.73,0.73,Sar1-2Bod;Bod6-0Sar;Bod1-2Sar;Sar2-5Bod;Sar1-1Bod
+Lillestrom,Tromso,9,2.33,0.56,0.67,Lil0-1Tro;Tro3-1Lil;Tro1-2Lil;Lil0-1Tro;Tro0-0Lil
+Valerenga,Viking,10,3.6,0.7,0.9,Val1-2Vik;Vik1-1Val;Val3-1Vik;Vik5-1Val;Val0-1Vik
+Sarpsborg 08,Start,2,3.5,0.5,1.0,Sta3-2Sar;Sar1-1Sta
+Fredrikstad,KFUM Oslo,5,2.6,0.6,0.6,KFU1-4Fre;Fre0-0KFU;Fre1-0KFU;KFU2-1Fre;Fre3-1KFU
+Rosenborg,Valerenga,10,2.7,0.5,0.4,Ros1-3Val;Val1-3Ros;Val0-2Ros;Ros1-0Val;Ros0-2Val
+Molde,Viking,11,4.0,0.73,0.64,Mol2-2Vik;Vik1-0Mol;Mol0-1Vik;Vik1-0Mol;Vik4-1Mol
+Sandefjord,Valerenga,9,3.33,0.89,0.67,Val2-3San;San1-2Val;San2-1Val;Val2-1San;Val1-0San
+Brann,Kristiansund,7,4.43,1.0,1.0,Kri2-2Bra;Bra2-1Kri;Bra4-2Kri;Kri2-2Bra;Kri3-2Bra
+Aalesund,Lillestrom,5,3.4,0.6,0.8,Lil2-0Aal;Aal2-1Lil;Lil5-1Aal;Aal1-1Lil;Aal1-3Lil
+Molde,Rosenborg,12,3.17,0.67,0.75,Mol2-2Ros;Ros2-1Mol;Ros0-0Mol;Mol4-2Ros;Mol2-0Ros
+HamKam,Viking,6,4.17,1.0,0.5,Vik3-0Ham;Ham3-3Vik;Ham2-5Vik;Vik3-0Ham;Ham2-1Vik
+Rosenborg,Stromsgodset,10,2.9,0.7,0.4,Ros1-3Str;Str1-0Ros;Ros1-0Str;Str1-2Ros;Ros6-0Str
+Bryne,Haugesund,2,4.5,1.0,1.0,Bry3-1Hau;Hau1-4Bry
+HamKam,Haugesund,5,3.2,0.8,0.2,Ham0-3Hau;Ham2-2Hau;Hau0-1Ham;Hau0-3Ham;Ham5-0Hau
+Bryne,Sarpsborg 08,2,2.5,0.5,0.5,Sar1-1Bry;Bry0-3Sar
+Sandefjord,Stromsgodset,10,3.7,0.6,0.5,San2-0Str;Str1-1San;San2-2Str;San3-2Str;Str2-6San
+Bodo/Glimt,Bryne,2,3.0,0.5,0.0,Bry0-1Bod;Bod5-0Bry
+Haugesund,Molde,11,3.0,0.64,0.55,Hau1-2Mol;Mol2-1Hau;Hau0-3Mol;Mol2-1Hau;Hau0-2Mol
+Kristiansund,Stromsgodset,9,2.78,0.78,0.67,Str4-1Kri;Str2-2Kri;Kri0-0Str;Str1-2Kri;Kri2-1Str
+Brann,Bryne,2,4.0,1.0,1.0,Bra3-2Bry;Bry2-1Bra
+Stromsgodset,Viking,10,2.3,0.3,0.5,Str1-0Vik;Str0-1Vik;Vik5-2Str;Vik1-0Str;Str1-2Vik
+Haugesund,KFUM Oslo,4,2.0,0.25,0.25,Hau0-1KFU;KFU0-0Hau;Hau0-2KFU;KFU1-4Hau
+Stromsgodset,Valerenga,8,3.0,0.62,0.5,Val4-0Str;Val0-1Str;Str1-3Val;Str0-2Val;Val2-1Str
+Haugesund,Tromso,10,2.5,0.5,0.5,Tro2-1Hau;Tro0-1Hau;Hau2-0Tro;Tro1-0Hau;Hau2-3Tro
+Bryne,Viking,2,5.0,1.0,1.0,Bry1-3Vik;Vik5-1Bry
+Fredrikstad,Stromsgodset,4,3.75,0.75,0.5,Fre4-1Str;Str2-0Fre;Fre3-2Str;Str0-3Fre
+Brann,Haugesund,9,2.56,0.44,0.44,Hau0-2Bra;Bra1-1Hau;Hau0-1Bra;Hau0-2Bra;Bra4-1Hau
+Bryne,Rosenborg,2,3.5,1.0,0.5,Ros3-0Bry;Bry2-2Ros
+Bodo/Glimt,Haugesund,11,3.36,0.64,0.55,Hau1-3Bod;Hau0-1Bod;Bod4-2Hau;Hau0-4Bod;Bod2-0Hau
+KFUM Oslo,Stromsgodset,4,3.0,0.5,0.5,KFU1-3Str;Str1-0KFU;KFU5-0Str;Str1-1KFU
+Bryne,Sandefjord,2,3.0,0.5,0.5,Bry3-2San;San1-0Bry
+Haugesund,Sandefjord,11,3.82,0.82,0.82,San0-0Hau;Hau2-1San;San4-3Hau;San4-0Hau;Hau2-3San
+Stromsgodset,Tromso,10,2.2,0.3,0.5,Tro0-1Str;Str0-1Tro;Tro2-0Str;Str2-3Tro;Tro3-1Str
+Bryne,Kristiansund,2,2.5,0.5,0.5,Kri2-1Bry;Bry2-0Kri
+Haugesund,Kristiansund,9,2.44,0.44,0.33,Kri0-1Hau;Hau1-0Kri;Kri2-2Hau;Hau0-0Kri;Kri2-0Hau
+Sarpsborg 08,Stromsgodset,10,4.1,0.9,0.8,Sar1-2Str;Sar1-3Str;Str2-1Sar;Sar2-3Str;Str2-1Sar
+Bryne,Fredrikstad,2,4.5,0.5,1.0,Bry4-3Fre;Fre1-1Bry
+HamKam,Stromsgodset,5,2.0,0.4,0.4,Str0-1Ham;Ham0-1Str;Str1-1Ham;Str0-3Ham;Ham1-2Str
+Bryne,Tromso,2,3.0,0.5,0.5,Tro3-1Bry;Bry0-2Tro
+Haugesund,Rosenborg,10,2.5,0.6,0.4,Hau1-2Ros;Hau1-3Ros;Ros4-0Hau;Ros1-0Hau;Hau0-3Ros
+Molde,Stromsgodset,10,3.7,0.8,0.5,Str1-1Mol;Mol4-0Str;Str1-0Mol;Mol4-1Str;Str3-1Mol
+Fredrikstad,Haugesund,4,1.5,0.25,0.25,Fre1-0Hau;Hau1-0Fre;Hau0-0Fre;Fre2-2Hau
+Bryne,Valerenga,2,3.0,0.5,0.5,Bry1-0Val;Val3-2Bry
+Haugesund,Valerenga,8,3.0,0.62,0.88,Hau1-1Val;Hau1-1Val;Val1-1Hau;Val3-0Hau;Hau2-3Val
+Bryne,Stromsgodset,2,3.0,0.5,0.5,Str0-2Bry;Bry2-2Str
+Bryne,HamKam,2,1.5,0.0,0.5,Bry1-1Ham;Ham1-0Bry
+Bodo/Glimt,Stromsgodset,11,3.27,0.45,0.45,Bod2-0Str;Bod1-0Str;Str0-1Bod;Bod1-0Str;Str0-5Bod
+Bryne,KFUM Oslo,2,1.0,0.0,0.5,KFU1-1Bry;Bry0-0KFU
+Haugesund,Sarpsborg 08,10,3.0,0.8,0.7,Sar2-1Hau;Hau1-2Sar;Sar2-2Hau;Sar3-1Hau;Hau3-2Sar
+Bryne,Molde,2,2.5,0.5,0.0,Bry0-3Mol;Mol2-0Bry
+Haugesund,Stromsgodset,11,2.18,0.45,0.36,Hau1-0Str;Str2-0Hau;Hau0-0Str;Hau0-5Str;Str2-0Hau
+Haugesund,Viking,10,4.2,0.6,0.7,Hau0-2Vik;Hau1-0Vik;Vik5-1Hau;Vik5-1Hau;Hau1-4Vik
+Brann,Stromsgodset,8,2.75,0.75,0.5,Str3-0Bra;Bra0-0Str;Str2-3Bra;Bra2-1Str;Str1-2Bra
+Haugesund,Lillestrom,8,1.62,0.25,0.12,Hau0-1Lil;Hau1-0Lil;Lil1-0Hau;Hau0-2Lil;Lil0-1Hau
+Lillestrom,Stromsgodset,8,4.25,1.0,0.88,Lil2-1Str;Lil4-3Str;Str1-2Lil;Lil3-1Str;Str3-2Lil
+Aalesund,Haugesund,4,3.5,0.75,0.75,Hau2-2Aal;Aal1-2Hau;Aal0-0Hau;Hau6-1Aal
+Aalesund,Stromsgodset,5,2.2,0.4,0.4,Aal1-4Str;Aal1-0Str;Str1-2Aal;Str1-0Aal;Aal1-0Str

@@ -1,0 +1,56 @@
+eq_a,eq_b,n,goles,over25,btts,ultimos
+Derry City,Sligo Rovers,24,1.83,0.33,0.42,Der1-0Sli;Der2-1Sli;Sli0-0Der;Der2-0Sli;Sli2-2Der
+Bohemians,St. Patricks,25,2.52,0.56,0.48,Boh0-0St.;Boh0-0St.;St.3-1Boh;Boh2-0St.;St.2-3Boh
+Dundalk,Shamrock Rovers,20,2.1,0.35,0.35,Dun0-1Sha;Sha1-1Dun;Dun1-0Sha;Sha3-2Dun;Dun3-1Sha
+Shelbourne,Waterford,12,2.33,0.42,0.58,She2-1Wat;Wat1-1She;She2-1Wat;Wat1-0She;She2-3Wat
+Drogheda,Galway,12,2.0,0.33,0.42,Gal1-1Dro;Gal0-1Dro;Dro2-3Gal;Gal0-0Dro;Dro2-0Gal
+Galway,St. Patricks,12,2.33,0.5,0.58,St.1-1Gal;St.1-0Gal;Gal2-2St.;St.3-0Gal;Gal0-0St.
+Derry City,Dundalk,20,2.65,0.6,0.7,Dun0-2Der;Der2-2Dun;Dun2-2Der;Dun2-1Der;Der2-1Dun
+Bohemians,Shelbourne,20,2.15,0.3,0.55,Boh2-3She;She0-0Boh;Boh2-2She;She0-3Boh;Boh0-1She
+Drogheda,Waterford,16,3.0,0.5,0.44,Wat2-0Dro;Dro2-0Wat;Wat2-1Dro;Dro3-3Wat;Wat3-1Dro
+Shamrock Rovers,Sligo Rovers,24,2.79,0.58,0.54,Sha1-2Sli;Sli0-2Sha;Sha1-2Sli;Sli1-2Sha;Sha4-0Sli
+Derry City,St. Patricks,24,2.0,0.33,0.33,Der2-2St.;St.0-0Der;Der0-0St.;St.1-1Der;Der1-0St.
+Galway,Waterford,12,2.58,0.42,0.58,Wat1-1Gal;Gal4-3Wat;Wat1-1Gal;Gal0-0Wat;Wat3-2Gal
+Dundalk,Sligo Rovers,21,2.33,0.33,0.48,Sli2-1Dun;Dun1-0Sli;Sli2-0Dun;Dun1-1Sli;Sli1-1Dun
+Derry City,Drogheda,24,2.42,0.42,0.54,Dro1-1Der;Der2-2Dro;Dro1-0Der;Der2-0Dro;Dro2-0Der
+Shelbourne,St. Patricks,20,2.6,0.6,0.5,She0-0St.;She2-3St.;St.0-1She;She1-2St.;St.1-2She
+Galway,Shamrock Rovers,12,1.83,0.25,0.42,Sha1-0Gal;Sha2-0Gal;Gal1-3Sha;Sha3-1Gal;Gal2-0Sha
+Bohemians,Waterford,16,2.56,0.62,0.62,Boh2-1Wat;Wat0-1Boh;Boh1-1Wat;Wat3-1Boh;Boh2-1Wat
+Bohemians,Shamrock Rovers,24,2.62,0.54,0.58,Sha2-1Boh;Boh3-2Sha;Sha2-1Boh;Boh1-2Sha;Sha2-1Boh
+Shelbourne,Sligo Rovers,20,2.55,0.55,0.55,She3-1Sli;Sli0-1She;She0-0Sli;Sli2-2She;She5-1Sli
+Drogheda,Shamrock Rovers,24,2.33,0.46,0.54,Sha2-1Dro;Dro0-0Sha;Sha4-1Dro;Dro0-0Sha;Sha3-1Dro
+Bohemians,Dundalk,20,2.85,0.55,0.7,Dun0-2Boh;Boh1-1Dun;Dun1-3Boh;Boh1-2Dun;Dun1-2Boh
+Galway,Shelbourne,12,1.83,0.08,0.58,She1-0Gal;She1-1Gal;She1-1Gal;Gal1-1She;Gal1-1She
+Sligo Rovers,St. Patricks,24,2.33,0.33,0.33,Sli1-0St.;St.4-1Sli;Sli1-1St.;St.2-0Sli;Sli0-1St.
+Shamrock Rovers,Waterford,16,2.94,0.62,0.62,Wat1-2Sha;Wat1-1Sha;Sha1-0Wat;Wat0-2Sha;Sha3-2Wat
+Derry City,Galway,12,2.08,0.33,0.58,Gal1-2Der;Gal2-1Der;Der1-1Gal;Gal2-1Der;Der1-0Gal
+Bohemians,Drogheda,24,2.42,0.42,0.5,Dro1-4Boh;Dro0-0Boh;Boh2-1Dro;Dro0-2Boh;Boh2-1Dro
+Dundalk,Shelbourne,16,2.12,0.44,0.62,Dun0-1She;She2-3Dun;Dun1-2She;She2-1Dun;Dun2-3She
+Drogheda,Shelbourne,20,3.1,0.6,0.7,Dro2-1She;Dro1-2She;She3-4Dro;Dro2-2She;She1-2Dro
+Dundalk,St. Patricks,20,2.55,0.45,0.5,Dun1-2St.;St.4-0Dun;Dun2-0St.;St.1-1Dun;Dun0-4St.
+Galway,Sligo Rovers,12,2.42,0.5,0.5,Gal0-1Sli;Gal1-0Sli;Sli1-4Gal;Gal3-2Sli;Sli1-3Gal
+Derry City,Waterford,16,3.56,0.75,0.62,Wat1-2Der;Der4-2Wat;Wat2-2Der;Der2-4Wat;Wat2-2Der
+Drogheda,Sligo Rovers,24,2.58,0.5,0.5,Sli1-1Dro;Sli2-1Dro;Dro1-0Sli;Sli2-2Dro;Dro2-0Sli
+Derry City,Shelbourne,20,1.45,0.2,0.4,Der1-1She;Der1-2She;She1-2Der;Der0-0She;She0-1Der
+Dundalk,Waterford,12,3.17,0.58,0.58,Wat2-1Dun;Dun5-0Wat;Wat3-3Dun;Dun2-3Wat;Wat1-1Dun
+Shamrock Rovers,St. Patricks,25,2.48,0.48,0.44,St.1-0Sha;Sha2-0St.;St.0-1Sha;Sha1-0St.;St.2-0Sha
+Bohemians,Galway,12,2.58,0.33,0.5,Gal2-0Boh;Boh1-0Gal;Gal2-4Boh;Boh1-1Gal;Gal2-3Boh
+Shamrock Rovers,Shelbourne,21,2.29,0.43,0.52,Sha0-1She;She2-2Sha;Sha3-2She;She2-1Sha;Sha0-0She
+Derry City,Shamrock Rovers,25,2.28,0.36,0.52,Der2-1Sha;Sha1-0Der;Der1-0Sha;Sha1-1Der;Der3-3Sha
+Drogheda,Dundalk,20,2.55,0.5,0.6,Dro0-0Dun;Dun1-1Dro;Dro1-1Dun;Dun1-2Dro;Dro2-3Dun
+St. Patricks,Waterford,16,2.38,0.38,0.56,St.1-1Wat;Wat0-2St.;St.4-1Wat;Wat1-1St.;St.0-2Wat
+Bohemians,Sligo Rovers,24,2.79,0.58,0.5,Sli0-0Boh;Sli0-4Boh;Boh1-2Sli;Sli1-3Boh;Boh3-0Sli
+Dundalk,Galway,8,2.38,0.38,0.5,Gal1-1Dun;Gal2-2Dun;Dun2-1Gal;Gal0-1Dun;Dun1-2Gal
+Drogheda,St. Patricks,24,2.25,0.46,0.38,Dro0-1St.;St.4-1Dro;Dro1-3St.;St.2-0Dro;Dro0-2St.
+Bohemians,Derry City,24,2.75,0.42,0.67,Boh3-4Der;Der0-1Boh;Boh1-1Der;Der4-1Boh;Boh5-3Der
+Sligo Rovers,Waterford,16,2.31,0.44,0.31,Wat1-2Sli;Wat0-0Sli;Sli2-0Wat;Wat4-0Sli;Sli0-0Wat
+Cork City,Derry City,9,2.0,0.33,0.44,Cor0-1Der;Der2-1Cor;Cor1-2Der;Der0-0Cor;Cor0-1Der
+Cork City,Sligo Rovers,8,2.75,0.5,0.62,Cor3-0Sli;Cor1-1Sli;Sli1-1Cor;Cor2-3Sli;Sli1-1Cor
+Cork City,Drogheda,8,2.38,0.25,0.75,Dro3-1Cor;Cor1-1Dro;Dro3-2Cor;Cor1-1Dro;Dro1-0Cor
+Cork City,Shelbourne,8,2.62,0.5,0.75,She2-1Cor;She1-1Cor;Cor1-1She;She3-1Cor;Cor1-2She
+Cork City,Galway,4,2.75,0.75,0.75,Cor2-2Gal;Gal2-1Cor;Cor1-0Gal;Gal2-1Cor
+Cork City,St. Patricks,8,2.88,0.5,0.38,Cor0-1St.;Cor0-2St.;St.3-2Cor;Cor0-0St.;St.4-0Cor
+Cork City,Shamrock Rovers,8,3.25,0.5,0.75,Cor0-0Sha;Sha4-1Cor;Cor1-1Sha;Sha4-1Cor;Cor1-1Sha
+Cork City,Waterford,5,2.4,0.4,0.6,Wat1-1Cor;Wat2-1Cor;Cor2-1Wat;Wat2-0Cor;Cor2-0Wat
+Bohemians,Cork City,8,3.0,0.75,0.38,Boh4-0Cor;Cor2-1Boh;Boh1-0Cor;Cor0-2Boh;Boh3-0Cor
+Cork City,Dundalk,4,3.0,0.75,0.5,Cor1-0Dun;Dun2-1Cor;Cor1-2Dun;Dun5-0Cor
