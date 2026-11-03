@@ -17,7 +17,7 @@ AVS,Sp Braga,4,3.5,0.75,0.5,AVS0-1Sp ;Sp 4-1AVS;Sp 2-2AVS;AVS0-4Sp
 AVS,Sp Lisbon,4,3.75,0.75,0.5,Sp 3-0AVS;AVS2-2Sp ;Sp 6-0AVS;AVS1-1Sp 
 AVS,Tondela,2,2.0,0.5,0.5,AVS2-2Ton;Ton0-0AVS
 Alverca,Arouca,3,1.67,0.33,0.33,Aro1-0Alv;Alv2-1Aro;Alv0-1Aro
-Alverca,Benfica,2,3.0,1.0,1.0,Alv1-2Ben;Ben2-1Alv
+Alverca,Benfica,3,2.33,0.67,0.67,Alv1-2Ben;Ben2-1Alv;Ben1-0Alv
 Alverca,Casa Pia,2,3.0,0.5,0.5,Cas0-2Alv;Alv3-1Cas
 Alverca,Estoril,2,3.5,0.5,1.0,Est4-1Alv;Alv1-1Est
 Alverca,Estrela,3,3.33,0.67,1.0,Est2-2Alv;Alv1-1Est;Alv2-2Est
@@ -112,7 +112,7 @@ Famalicao,Santa Clara,9,2.0,0.44,0.33,Fam1-2San;San2-1Fam;Fam3-0San;San0-1Fam;Sa
 Famalicao,Sp Braga,11,3.73,0.91,0.82,Sp 3-3Fam;Fam1-1Sp ;Fam1-2Sp ;Sp 2-2Fam;Sp 3-0Fam
 Famalicao,Sp Lisbon,11,2.27,0.45,0.55,Fam0-3Sp ;Sp 3-1Fam;Fam1-2Sp ;Sp 1-0Fam;Fam1-1Sp 
 Famalicao,Tondela,4,3.0,0.75,0.5,Ton3-2Fam;Fam2-1Ton;Ton0-1Fam;Fam3-0Ton
-Gil Vicente,Guimaraes,10,2.4,0.5,0.3,Gil1-0Gui;Gui4-0Gil;Gil0-1Gui;Gui0-0Gil;Gil0-1Gui
+Gil Vicente,Guimaraes,11,2.18,0.45,0.27,Gui4-0Gil;Gil0-1Gui;Gui0-0Gil;Gil0-1Gui;Gil0-0Gui
 Gil Vicente,Maritimo,5,2.4,0.4,0.8,Mar1-2Gil;Gil1-1Mar;Mar1-2Gil;Gil2-0Mar;Gil1-1Mar
 Gil Vicente,Moreirense,9,2.44,0.44,0.56,Mor3-2Gil;Gil0-1Mor;Gil2-0Mor;Mor1-2Gil;Mor0-1Gil
 Gil Vicente,Nacional,4,2.75,0.75,0.5,Gil2-1Nac;Nac0-3Gil;Nac0-2Gil;Gil2-1Nac

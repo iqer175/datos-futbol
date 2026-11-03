@@ -37,7 +37,7 @@ Auxerre,Troyes,2,1.5,0.0,0.5,Tro1-1Aux;Aux1-0Tro
 Brest,Le Havre,7,1.86,0.29,0.29,Bre2-0Le ;Le 0-1Bre;Le 1-0Bre;Bre2-0Le ;Le 1-2Bre
 Brest,Lens,10,3.4,0.6,0.6,Len1-0Bre;Len2-0Bre;Bre1-3Len;Len3-1Bre;Bre3-3Len
 Brest,Lille,11,2.36,0.27,0.64,Lil3-1Bre;Bre2-0Lil;Bre3-3Lil;Lil1-1Bre;Lil1-1Bre
-Brest,Lorient,8,2.88,0.62,0.5,Lor2-1Bre;Bre4-0Lor;Lor0-1Bre;Lor3-3Bre;Bre2-0Lor
+Brest,Lorient,9,2.78,0.56,0.44,Bre4-0Lor;Lor0-1Bre;Lor3-3Bre;Bre2-0Lor;Lor0-2Bre
 Brest,Lyon,10,2.8,0.6,0.7,Lyo4-3Bre;Bre2-1Lyo;Lyo2-1Bre;Bre0-0Lyo;Lyo2-1Bre
 Brest,Marseille,10,3.2,0.6,0.6,Bre1-0Mar;Bre1-5Mar;Mar4-1Bre;Mar3-0Bre;Bre2-0Mar
 Brest,Metz,6,3.0,0.5,0.5,Met0-1Bre;Met0-1Bre;Bre4-3Met;Bre3-2Met;Met0-1Bre

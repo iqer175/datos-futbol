@@ -166,7 +166,7 @@ Montpellier,Rodez,3,2.0,0.33,0.0,Mon2-0Rod;Rod1-0Mon;Rod0-3Mon
 Montpellier,St Etienne,3,2.33,0.33,0.33,Mon0-2St ;St 1-0Mon;St 3-1Mon
 Montpellier,Troyes,2,2.5,0.5,0.5,Tro1-0Mon;Mon2-2Tro
 Nancy,Pau FC,5,3.4,0.8,0.8,Pau2-1Nan;Nan2-3Pau;Nan2-2Pau;Pau1-3Nan;Pau0-1Nan
-Nancy,Red Star,2,2.0,0.5,0.5,Nan0-1Red;Red2-1Nan
+Nancy,Red Star,3,3.0,0.67,0.67,Nan0-1Red;Red2-1Nan;Red1-4Nan
 Nancy,Reims,3,2.0,0.33,0.67,Nan0-1Rei;Rei1-1Nan;Nan1-2Rei
 Nancy,Rodez,5,3.0,0.4,0.6,Nan0-2Rod;Rod1-1Nan;Rod0-0Nan;Nan1-3Rod;Rod3-4Nan
 Nancy,Sochaux,2,0.5,0.0,0.0,Nan0-0Soc;Soc1-0Nan

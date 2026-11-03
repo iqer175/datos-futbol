@@ -253,7 +253,7 @@ La Coruna,Zaragoza,4,2.0,0.25,0.5,La 1-1Zar;Zar1-0La ;Zar0-2La ;La 2-1Zar
 Las Palmas,Leganes,7,2.14,0.29,0.29,Las1-0Leg;Leg0-0Las;Leg0-1Las;Las2-0Leg;Las0-0Leg
 Las Palmas,Malaga,6,2.83,0.67,0.5,Las2-1Mal;Mal0-4Las;Las2-2Mal;Las0-1Mal;Mal2-0Las
 Las Palmas,Mirandes,6,3.0,0.5,0.67,Las1-0Mir;Mir3-3Las;Las2-1Mir;Las0-0Mir;Mir1-1Las
-Las Palmas,Oviedo,4,1.5,0.25,0.5,Ovi1-1Las;Las2-1Ovi;Ovi0-0Las;Las0-1Ovi
+Las Palmas,Oviedo,5,2.2,0.4,0.6,Ovi1-1Las;Las2-1Ovi;Ovi0-0Las;Las0-1Ovi;Ovi2-3Las
 Las Palmas,Santander,4,2.75,0.5,0.75,San0-0Las;Las1-1San;Las3-1San;San4-1Las
 Las Palmas,Sociedad B,5,1.4,0.2,0.4,Soc0-1Las;Las0-0Soc;Las2-1Soc;Soc1-1Las;Las1-0Soc
 Las Palmas,Sp Gijon,6,1.0,0.0,0.17,Sp 0-1Las;Sp 0-1Las;Las1-1Sp ;Sp 0-0Las;Las1-0Sp 
@@ -267,7 +267,7 @@ Leganes,Santander,6,2.33,0.67,0.83,San2-1Leg;Leg2-1San;San2-1Leg;San1-1Leg;Leg1-
 Leganes,Sociedad B,4,2.0,0.25,0.5,Soc1-0Leg;Leg1-1Soc;Soc2-1Leg;Leg2-0Soc
 Leganes,Sp Gijon,8,2.0,0.38,0.62,Leg1-0Sp ;Sp 1-1Leg;Leg2-1Sp ;Leg0-1Sp ;Sp 0-0Leg
 Leganes,Tenerife,7,1.57,0.29,0.43,Leg2-1Ten;Ten1-0Leg;Leg1-1Ten;Ten0-0Leg;Ten2-0Leg
-Leganes,Valladolid,6,2.17,0.33,0.33,Val1-0Leg;Val1-1Leg;Leg0-0Val;Leg3-0Val;Val3-2Leg
+Leganes,Valladolid,7,2.86,0.43,0.43,Val1-1Leg;Leg0-0Val;Leg3-0Val;Val3-2Leg;Val4-3Leg
 Leganes,Zaragoza,8,2.62,0.5,0.62,Zar3-0Leg;Zar1-0Leg;Leg1-1Zar;Zar3-2Leg;Leg1-1Zar
 Malaga,Mirandes,8,3.0,0.62,0.62,Mal2-0Mir;Mal1-1Mir;Mir3-2Mal;Mal3-2Mir;Mir2-1Mal
 Malaga,Oviedo,6,1.33,0.33,0.33,Mal0-0Ovi;Ovi1-0Mal;Mal0-1Ovi;Mal0-0Ovi;Ovi2-1Mal

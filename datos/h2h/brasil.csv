@@ -97,7 +97,7 @@ Bragantino,Juventude,8,2.0,0.38,0.5,Bra1-0Juv;Bra2-1Juv;Juv1-1Bra;Bra1-0Juv;Juv1
 Bragantino,Mirassol,4,1.5,0.0,0.5,Bra1-0Mir;Mir1-1Bra;Mir0-1Bra;Bra1-1Mir
 Bragantino,Palmeiras,13,2.85,0.54,0.62,Bra0-0Pal;Bra1-2Pal;Pal5-1Bra;Bra0-1Pal;Pal2-0Bra
 Bragantino,Remo,2,4.0,0.5,1.0,Bra4-2Rem;Rem1-1Bra
-Bragantino,Santos,10,2.9,0.5,0.6,Bra2-0San;San1-3Bra;San1-2Bra;Bra2-2San;San2-0Bra
+Bragantino,Santos,11,2.91,0.55,0.64,San1-3Bra;San1-2Bra;Bra2-2San;San2-0Bra;Bra2-1San
 Bragantino,Sao Paulo,13,2.38,0.46,0.54,Bra1-1Sao;Bra2-2Sao;Sao0-1Bra;Bra1-2Sao;Sao2-1Bra
 Bragantino,Sport Recife,5,1.2,0.2,0.2,Spo0-0Bra;Spo0-0Bra;Bra3-0Spo;Spo0-1Bra;Bra1-1Spo
 Bragantino,Vasco,8,3.12,0.75,0.62,Bra2-1Vas;Vas2-2Bra;Vas0-2Bra;Bra0-3Vas;Vas0-3Bra
@@ -140,7 +140,7 @@ Corinthians,Fortaleza,11,1.36,0.18,0.36,For2-1Cor;Cor0-0For;For1-0Cor;Cor1-1For;
 Corinthians,Gremio,10,2.7,0.4,0.5,Cor2-2Gre;Gre0-3Cor;Gre1-1Cor;Cor2-0Gre;Gre1-3Cor
 Corinthians,Internacional,13,2.92,0.62,0.77,Cor2-2Int;Cor4-2Int;Int1-1Cor;Cor0-1Int;Int2-1Cor
 Corinthians,Juventude,8,2.25,0.25,0.62,Juv2-2Cor;Juv2-0Cor;Cor1-1Juv;Juv2-1Cor;Cor1-1Juv
-Corinthians,Mirassol,3,3.0,1.0,0.67,Mir2-1Cor;Cor3-0Mir;Mir2-1Cor
+Corinthians,Mirassol,4,2.75,0.75,0.5,Mir2-1Cor;Cor3-0Mir;Mir2-1Cor;Cor2-0Mir
 Corinthians,Palmeiras,13,2.23,0.38,0.38,Cor2-0Pal;Pal2-0Cor;Cor1-1Pal;Cor0-0Pal;Pal4-1Cor
 Corinthians,Santos,11,1.45,0.09,0.27,Cor1-1San;Cor1-0San;San3-1Cor;San1-1Cor;Cor0-1San
 Corinthians,Sao Paulo,12,2.5,0.42,0.67,Cor2-2Sao;Sao3-1Cor;Sao2-0Cor;Cor3-1Sao;Cor3-2Sao
@@ -160,6 +160,7 @@ Coritiba,Remo,2,3.0,0.5,0.5,Cor1-0Rem;Rem2-3Cor
 Coritiba,Santos,6,2.33,0.67,0.5,San2-1Cor;Cor1-2San;Cor0-0San;San2-1Cor;San0-3Cor
 Coritiba,Sao Paulo,7,2.29,0.29,0.86,Sao3-1Cor;Cor1-1Sao;Sao2-1Cor;Cor0-1Sao;Sao1-1Cor
 Coritiba,Vasco,5,3.2,0.4,0.6,Vas0-1Cor;Cor1-1Vas;Vas5-1Cor;Cor1-1Vas;Vas5-0Cor
+Coritiba,Vitoria,2,3.5,0.5,0.5,Vit4-1Cor;Cor2-0Vit
 Cruzeiro,Flamengo RJ,8,2.0,0.38,0.5,Cru0-1Fla;Cru2-1Fla;Fla0-0Cru;Fla2-0Cru;Cru2-1Fla
 Cruzeiro,Fluminense,7,1.43,0.0,0.14,Cru2-0Flu;Flu1-0Cru;Flu0-2Cru;Cru0-0Flu;Cru1-1Flu
 Cruzeiro,Fortaleza,6,1.67,0.17,0.33,For0-1Cru;For1-1Cru;Cru1-2For;For0-2Cru;Cru1-0For

@@ -13,7 +13,7 @@ Atalanta,Lecce,8,2.88,0.62,0.5,Lec0-2Ata;Lec0-4Ata;Ata1-1Lec;Ata4-1Lec;Lec0-3Ata
 Atalanta,Milan,11,3.09,0.45,0.73,Ata2-1Mil;Mil0-1Ata;Ata1-1Mil;Mil2-3Ata;Mil3-2Ata
 Atalanta,Monza,6,3.5,0.67,0.33,Ata5-2Mon;Ata3-0Mon;Mon1-2Ata;Ata2-0Mon;Mon0-4Ata
 Atalanta,Napoli,10,3.5,0.9,0.7,Nap0-3Ata;Nap0-3Ata;Ata2-3Nap;Nap3-1Ata;Ata2-1Nap
-Atalanta,Parma,4,3.75,0.75,0.75,Par1-3Ata;Ata2-3Par;Par1-1Ata;Ata4-0Par
+Atalanta,Parma,5,3.6,0.8,0.6,Par1-3Ata;Ata2-3Par;Par1-1Ata;Ata4-0Par;Ata0-3Par
 Atalanta,Pisa,2,2.0,0.0,1.0,Ata1-1Pis;Pis1-1Ata
 Atalanta,Roma,11,2.45,0.45,0.64,Rom0-2Ata;Ata2-1Rom;Ata1-0Rom;Rom1-1Ata;Rom2-1Ata
 Atalanta,Sassuolo,9,2.67,0.78,0.56,Sas0-2Ata;Ata3-0Sas;Ata0-3Sas;Sas2-1Ata;Ata2-1Sas
@@ -108,7 +108,7 @@ Fiorentina,Napoli,11,2.91,0.73,0.73,Fio0-3Nap;Nap2-1Fio;Fio1-3Nap;Nap2-1Fio;Fio1
 Fiorentina,Parma,4,0.75,0.0,0.25,Par1-1Fio;Fio0-0Par;Par1-0Fio;Fio0-0Par
 Fiorentina,Pisa,2,0.5,0.0,0.0,Pis0-0Fio;Fio1-0Pis
 Fiorentina,Roma,11,3.18,0.64,0.55,Fio5-1Rom;Rom1-0Fio;Fio1-2Rom;Rom4-0Fio;Rom4-0Fio
-Fiorentina,Sassuolo,8,3.12,0.75,0.75,Sas1-3Fio;Sas1-0Fio;Fio5-1Sas;Sas3-1Fio;Fio0-0Sas
+Fiorentina,Sassuolo,9,3.44,0.78,0.78,Sas1-0Fio;Fio5-1Sas;Sas3-1Fio;Fio0-0Sas;Sas2-4Fio
 Fiorentina,Torino,11,1.91,0.36,0.45,Tor0-1Fio;Fio1-1Tor;Tor0-0Fio;Fio2-2Tor;Fio1-2Tor
 Fiorentina,Udinese,10,3.1,0.6,0.4,Fio2-2Udi;Fio1-2Udi;Udi2-3Fio;Fio5-1Udi;Udi3-0Fio
 Fiorentina,Venezia,5,2.2,0.4,0.4,Ven1-0Fio;Fio1-0Ven;Fio0-0Ven;Ven2-1Fio;Ven2-4Fio
