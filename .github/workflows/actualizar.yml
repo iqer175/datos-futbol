@@ -73,11 +73,18 @@ jobs:
           find datos/agregados datos/h2h datos/cierres -name '*.csv' -exec ls -lh {} \; | awk '{print $9, $5}'
       # ---------------------------
 
+      # Evaluacion fuera de muestra de la variante O/U con xG congelada el
+      # 2026-11-04. No falla el workflow si da error: es un informe, no un dato.
+      - name: Seguimiento variante O/U xG
+        continue-on-error: true
+        run: python seguimiento_ou_xg.py
+
       - name: Publicar cambios
         run: |
           git config user.name  "actualizador-futbol"
           git config user.email "actions@github.com"
           git add datos/
+          git add resultados/seguimiento_ou_xg.* 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "Sin cambios que publicar."
           else

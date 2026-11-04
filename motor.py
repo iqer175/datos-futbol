@@ -81,6 +81,18 @@ CAL_EMPATE = 0.1972   # idem para el empate
 K_SHRINK  = 6.0
 MAX_N     = 40
 
+# --- variante CONGELADA Mas/Menos 2,5 con xG (2026-11-04) ---------------------
+# Elegida en backtest_xg.py sobre 1.161 partidos (2026-09-07..2026-11-02), la
+# mejor de 45 variantes: el resultado esta sesgado a favor por la busqueda.
+# NO TOCAR estos valores: se evaluan solo con partidos posteriores a la fecha
+# de congelacion (seguimiento_ou_xg.py). Si no pasan, se descartan, no se reajustan.
+#   total O/U = GLM ajustado SOLO a xG (alpha=0) + CAL_TOTAL, sin linea Elo
+#   p_final   = logit-mezcla: 0.2·motor + 0.8·apertura bet365 sin margen (potencia)
+# Solo vale en ligas con xG en la temporada (ver ligas_con_xg).
+OU_XG_FECHA_CONGELACION = '2026-11-04'
+OU_XG_ALPHA   = 0.0       # peso de los goles en el objetivo del GLM (0 = solo xG)
+OU_XG_W_MOTOR = 0.2       # peso del motor en la mezcla con la apertura de bet365
+
 
 # ---------------------------------------------------------------- carga y coefs
 def cargar(path):
@@ -105,15 +117,40 @@ def coeficientes(df, hasta=None):
 
 
 # ---------------------------------------------------------------------- GLM
-def ajustar_glm(df, hasta, ridge=RIDGE, ventana=VENTANA, half=HALF_LIFE):
-    d = df[(df.fecha < hasta) & (df.fecha >= hasta - pd.Timedelta(days=ventana))]
+def objetivo_xg(df, alpha):
+    """Objetivo mixto alpha·goles + (1-alpha)·xG; en partidos sin xG, goles."""
+    gl, gv = df.gl.values.astype(float), df.gv.values.astype(float)
+    if 'xg_l' not in df:
+        return gl, gv
+    hay = (df.xg_l.notna() & df.xg_v.notna()).values
+    xl = np.where(hay, df.xg_l.values, gl); xv = np.where(hay, df.xg_v.values, gv)
+    return alpha*gl + (1-alpha)*xl, alpha*gv + (1-alpha)*xv
+
+
+def ligas_con_xg(df, hasta, minimo=0.8, dias=60):
+    """Ligas donde al menos el 80 % de los partidos de los ultimos 60 dias trae xG.
+    (Con 120 dias, en septiembre entraban partidos de mayo sin xG y se perdian ligas.)"""
+    if 'xg_l' not in df:
+        return set()
+    d = df[(df.fecha < hasta) & (df.fecha >= hasta - pd.Timedelta(days=dias))]
+    c = d.groupby('liga').xg_l.apply(lambda s: s.notna().mean())
+    return set(c[c >= minimo].index)
+
+
+def ajustar_glm(df, hasta, ridge=RIDGE, ventana=VENTANA, half=HALF_LIFE, y=None):
+    """y = (y_local, y_visitante) alineados con df; por defecto, los goles."""
+    m = ((df.fecha < hasta) & (df.fecha >= hasta - pd.Timedelta(days=ventana))).values
+    d = df[m]
     if len(d) < 500: return None
     eqs = pd.Index(sorted(set(d.local) | set(d.visitante)))
     lgs = pd.Index(sorted(d.liga.unique()))
     il, iv = eqs.get_indexer(d.local.values), eqs.get_indexer(d.visitante.values)
     ig = lgs.get_indexer(d.liga.values)
     w = 0.5 ** ((hasta - d.fecha).dt.days.values / half)
-    gl, gv = d.gl.values.astype(float), d.gv.values.astype(float)
+    if y is None:
+        gl, gv = d.gl.values.astype(float), d.gv.values.astype(float)
+    else:
+        gl, gv = np.asarray(y[0], float)[m], np.asarray(y[1], float)[m]
     ne, nl = len(eqs), len(lgs)
 
     def obj(p):
@@ -162,6 +199,10 @@ class Base:
         ])[['eq','liga','pais','fecha','cf','cc','am','elo']].sort_values(['eq','fecha'])
         self.idx = {eq: g for eq, g in L.groupby('eq')}
         self.glm = ajustar_glm(df, self.hasta)
+        # GLM de la variante congelada O/U con xG
+        self.ligas_xg = ligas_con_xg(df, self.hasta)
+        self.glm_xg = (ajustar_glm(df, self.hasta, y=objetivo_xg(df, OU_XG_ALPHA))
+                       if self.ligas_xg else None)
 
     def elo(self, eq, hasta=None):
         """Devuelve (elo, dias desde el ultimo partido, partidos totales en la base).
@@ -243,10 +284,40 @@ def analizar(B, local, visit, liga, hasta=None):
     else:
         fiab = 'alta'
 
+    # variante congelada O/U con xG: solo el Mas 2,5 del motor, antes de mezclar
+    # con el mercado (eso lo hace ou_xg_congelado, que necesita la cuota de bet365)
+    tg_xg = total_glm(getattr(B, 'glm_xg', None), local, visit, liga) \
+        if liga in getattr(B, 'ligas_xg', set()) else None
+    over_xg = None if tg_xg is None else float(1 - sum(pois(k, tg_xg + CAL_TOTAL) for k in range(3)))
+
     return dict(liga=liga, elo_l=el, elo_v=ev, gap_l=gap_l, gap_v=gap_v,
                 nb_l=nb_l, nb_v=nb_v, fiabilidad=fiab,
                 lh=lh, la=la, lc=lc, lt=lt, sup=sup, tot=tot, tot_elo=tot_elo, tot_glm=tg,
+                tot_glm_xg=tg_xg, over25_xg_motor=over_xg,
                 peso_secundarios=peso2, sl=sl, sv=sv, m=mercados(lh, la, lc, lt))
+
+
+def sin_margen_2(o_a, o_b):
+    """Probabilidad sin margen del primer lado de un mercado de dos (metodo potencia)."""
+    lo, hi = 0.2, 5.0
+    for _ in range(60):
+        k = (lo + hi) / 2
+        if (1/o_a)**k + (1/o_b)**k < 1: hi = k
+        else: lo = k
+    k = (lo + hi) / 2
+    a, b = (1/o_a)**k, (1/o_b)**k
+    return a / (a + b)
+
+
+def ou_xg_congelado(over_motor, cuota_over_b365, cuota_under_b365):
+    """Probabilidad final de Mas 2,5 de la variante congelada.
+    over_motor: R['over25_xg_motor']. Devuelve None si no aplica a esa liga."""
+    if over_motor is None:
+        return None
+    pa = sin_margen_2(cuota_over_b365, cuota_under_b365)
+    lg = lambda p: np.log(p / (1 - p))
+    z = OU_XG_W_MOTOR * lg(over_motor) + (1 - OU_XG_W_MOTOR) * lg(pa)
+    return float(1 / (1 + np.exp(-z)))
 
 
 def informe(R, local, visit):
@@ -258,3 +329,7 @@ def informe(R, local, visit):
     print(f"  1X2  {m['1']*100:.1f} / {m['X']*100:.1f} / {m['2']*100:.1f}")
     print(f"  O1.5 {m['over1.5']*100:.0f}  O2.5 {m['over2.5']*100:.0f}  O3.5 {m['over3.5']*100:.0f}  BTTS {m['btts']*100:.0f}")
     print(f"  cuotas justas: 1={1/m['1']:.2f} X={1/m['X']:.2f} 2={1/m['2']:.2f} O2.5={1/m['over2.5']:.2f} U2.5={1/(1-m['over2.5']):.2f}")
+    if R.get('over25_xg_motor') is not None:
+        print(f"  [EN PRUEBA desde {OU_XG_FECHA_CONGELACION}] O2.5 motor-xG {R['over25_xg_motor']*100:.0f} "
+              f"(total xG {R['tot_glm_xg']:.2f}); mezclar con ou_xg_congelado() y la cuota de bet365. "
+              f"No apostar con ella hasta que pase seguimiento_ou_xg.py")

@@ -92,3 +92,25 @@ Brasileirão y Primera argentina.
 - **Brasil y Argentina** vienen del apartado *Extra Leagues*, que solo trae
   resultado final y cuotas de cierre. Sin tiros, córners ni tarjetas. Sirven
   para ratings, no para modelar mercados secundarios.
+
+## Backtests y variante en prueba (noviembre de 2026)
+
+| Script | Qué mide |
+|---|---|
+| `backtest_clv.py` | Walk-forward semanal del motor contra la cuota previa de bet365 (1X2 y Más/Menos 2,5); CLV frente al cierre |
+| `backtest_consenso.py` | Apostar en bet365 cuando paga más que el consenso previo (media o Betfair) |
+| `backtest_xg.py` | GLM ajustado a xG (football-data lo trae desde 2026-27) y "suerte" goles − xG frente al mercado |
+| `seguimiento_ou_xg.py` | Evaluación fuera de muestra de la variante O/U con xG congelada el 2026-11-04 (la ejecuta el workflow) |
+
+Conclusiones: el motor no aporta información sobre la apertura de bet365 en 1X2 y sus
+apuestas tienen CLV peor que apostar al azar; la ventaja de bet365 frente al consenso
+desapareció en 2024-26. Betfair Exchange **previo** no sirve de referencia (poca liquidez);
+el **cierre** de Betfair (`bfec_*`) es la mejor referencia para medir el CLV.
+
+La variante O/U con xG (constantes `OU_XG_*` en `motor.py`) es la única que mejoró a la
+apertura, pero se eligió entre 45 variantes con los mismos datos. Sus criterios de
+aceptación están fijados en `seguimiento_ou_xg.py` y **no se reajusta**: si falla, se descarta.
+Estado actual: `resultados/seguimiento_ou_xg.txt`.
+
+`actualizar_datos.py` importa también media y máximo previos y de cierre, Betfair Exchange,
+Más/Menos 2,5, hándicap asiático y xG (`xg_l`, `xg_v`).

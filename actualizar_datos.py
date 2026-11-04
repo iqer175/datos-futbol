@@ -92,6 +92,21 @@ COLS_SALIDA = [
     "b365c_1", "b365c_x", "b365c_2",
     "avgc_1", "avgc_x", "avgc_2",
     "b365c_over25", "b365c_under25",
+    # --- ampliacion 2026-11: consenso previo, exchange, O/U, AH y xG ----------
+    # Las cuotas "previas" (sin C) se capturan a la vez para todas las casas
+    # (viernes para el fin de semana, martes para entre semana): permiten
+    # comparar bet365 con el consenso en el momento en que se apuesta.
+    "xg_l", "xg_v",
+    "avg_1", "avg_x", "avg_2", "max_1", "max_x", "max_2",
+    "maxc_1", "maxc_x", "maxc_2",
+    "bfe_1", "bfe_x", "bfe_2", "bfec_1", "bfec_x", "bfec_2",
+    "b365_over25", "b365_under25", "avg_over25", "avg_under25",
+    "max_over25", "max_under25", "bfe_over25", "bfe_under25",
+    "avgc_over25", "avgc_under25", "maxc_over25", "maxc_under25",
+    "bfec_over25", "bfec_under25",
+    "ah_linea", "b365_ah1", "b365_ah2", "avg_ah1", "avg_ah2",
+    "ahc_linea", "b365c_ah1", "b365c_ah2", "avgc_ah1", "avgc_ah2",
+    "bfec_ah1", "bfec_ah2",
 ]
 
 MAPA_MAIN = {
@@ -104,12 +119,34 @@ MAPA_MAIN = {
     "B365CH": "b365c_1", "B365CD": "b365c_x", "B365CA": "b365c_2",
     "AvgCH": "avgc_1", "AvgCD": "avgc_x", "AvgCA": "avgc_2",
     "B365C>2.5": "b365c_over25", "B365C<2.5": "b365c_under25",
+    "HxG": "xg_l", "AxG": "xg_v",
+    "AvgH": "avg_1", "AvgD": "avg_x", "AvgA": "avg_2",
+    "MaxH": "max_1", "MaxD": "max_x", "MaxA": "max_2",
+    "MaxCH": "maxc_1", "MaxCD": "maxc_x", "MaxCA": "maxc_2",
+    "BFEH": "bfe_1", "BFED": "bfe_x", "BFEA": "bfe_2",
+    "BFECH": "bfec_1", "BFECD": "bfec_x", "BFECA": "bfec_2",
+    "B365>2.5": "b365_over25", "B365<2.5": "b365_under25",
+    "Avg>2.5": "avg_over25", "Avg<2.5": "avg_under25",
+    "Max>2.5": "max_over25", "Max<2.5": "max_under25",
+    "BFE>2.5": "bfe_over25", "BFE<2.5": "bfe_under25",
+    "AvgC>2.5": "avgc_over25", "AvgC<2.5": "avgc_under25",
+    "MaxC>2.5": "maxc_over25", "MaxC<2.5": "maxc_under25",
+    "BFEC>2.5": "bfec_over25", "BFEC<2.5": "bfec_under25",
+    "AHh": "ah_linea", "B365AHH": "b365_ah1", "B365AHA": "b365_ah2",
+    "AvgAHH": "avg_ah1", "AvgAHA": "avg_ah2",
+    "AHCh": "ahc_linea", "B365CAHH": "b365c_ah1", "B365CAHA": "b365c_ah2",
+    "AvgCAHH": "avgc_ah1", "AvgCAHA": "avgc_ah2",
+    "BFECAHH": "bfec_ah1", "BFECAHA": "bfec_ah2",
 }
 
 MAPA_EXTRA = {
     "Date": "fecha", "Home": "local", "Away": "visitante",
     "HG": "gl", "AG": "gv", "Res": "res",
     "AvgCH": "avgc_1", "AvgCD": "avgc_x", "AvgCA": "avgc_2",
+    # solo cierre: sin cuota previa, estas ligas no sirven para medir CLV de entrada
+    "MaxCH": "maxc_1", "MaxCD": "maxc_x", "MaxCA": "maxc_2",
+    "BFECH": "bfec_1", "BFECD": "bfec_x", "BFECA": "bfec_2",
+    "B365CH": "b365c_1", "B365CD": "b365c_x", "B365CA": "b365c_2",
 }
 
 
@@ -184,7 +221,7 @@ def normalizar(df, mapa, liga, pais, nivel, temporada):
               "amar_l", "amar_v", "rojas_l", "rojas_v"]:
         df[c] = pd.to_numeric(df[c], errors="coerce").astype("Int64")
     for c in COLS_SALIDA:
-        if c.startswith(("b365", "avgc")):
+        if c.startswith(("b365", "avg", "max", "bfe", "ah", "xg")):
             df[c] = pd.to_numeric(df[c], errors="coerce")
 
     for c in ["local", "visitante", "arbitro"]:
