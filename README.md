@@ -114,3 +114,22 @@ Estado actual: `resultados/seguimiento_ou_xg.txt`.
 
 `actualizar_datos.py` importa también media y máximo previos y de cierre, Betfair Exchange,
 Más/Menos 2,5, hándicap asiático y xG (`xg_l`, `xg_v`).
+
+## Captura de cuotas y bitácora (noviembre de 2026)
+
+`capturar_cuotas.py` guarda en `datos/capturas/cuotas_AAAA-MM.csv` una foto de las cuotas
+con su hora, lunes, miércoles y viernes a las 10:00 UTC (workflow `capturar.yml`). Sirve para
+medir lo que football-data no trae: cómo se mueve la línea desde que abre.
+
+| Fuente | Secreto del repo | Qué trae | Límite gratis |
+|---|---|---|---|
+| [The Odds API](https://the-odds-api.com) | `ODDS_API_KEY` | Pinnacle, Betfair Exchange y casas británicas (**no bet365**), 15 ligas | 500 créditos/mes; cada captura gasta ~30 |
+| [API-Football](https://www.api-football.com) | `APIFOOTBALL_KEY` | bet365 en 22 ligas, si el plan gratis cubre la temporada en curso | 100 peticiones/día |
+
+Sin secretos el workflow no captura nada ni falla. Para activarlo: Settings → Secrets and
+variables → Actions → New repository secret.
+
+`bitacora.csv`: una fila por apuesta real (columnas descritas en `calcular_clv.py`, nombres
+de equipo como en `partidos.csv`). En cada actualización `calcular_clv.py` liquida las
+apuestas y calcula su CLV frente al cierre de Betfair sin margen (o el cierre medio si no
+hay Betfair) en `resultados/bitacora_clv.txt`.
