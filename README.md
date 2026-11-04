@@ -133,3 +133,16 @@ variables → Actions → New repository secret.
 de equipo como en `partidos.csv`). En cada actualización `calcular_clv.py` liquida las
 apuestas y calcula su CLV frente al cierre de Betfair sin margen (o el cierre medio si no
 hay Betfair) en `resultados/bitacora_clv.txt`.
+
+## Informe semanal de LaLiga
+
+`informe_laliga.py` genera los jueves (paso del workflow `actualizar.yml`, o a mano con
+*Run workflow*) `informes/laliga_AAAA-MM-DD.md`: 1X2 y Más/Menos 2,5 del motor frente a
+Pinnacle y Betfair capturados, movimiento de la línea, mejor cuota disponible, la variante xG
+en prueba y el estado de la bitácora. Como football-data no publica partidos futuros, el
+calendario sale de las cuotas capturadas. No recomienda apuestas: marca las discrepancias
+motor-mercado de más de 8 puntos para buscar información.
+
+`emparejar_nombres.py` traduce los nombres de equipo de las capturas a los de football-data
+en `datos/mapa_nombres.csv`. Para corregir un emparejamiento, cambia `nombre_fd` y pon
+`metodo=manual`: esas filas no se sobrescriben nunca.

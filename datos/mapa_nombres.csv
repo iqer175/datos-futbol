@@ -1,0 +1,243 @@
+fuente,liga,nombre_src,nombre_fd,metodo,similitud
+oddsapi,2. Bundesliga,1. FC Heidenheim,Heidenheim,auto,1.0
+oddsapi,2. Bundesliga,1. FC Kaiserslautern,Kaiserslautern,auto,1.0
+oddsapi,2. Bundesliga,1. FC Magdeburg,Magdeburg,auto,1.0
+oddsapi,2. Bundesliga,1. FC Nürnberg,Nurnberg,auto,1.0
+oddsapi,2. Bundesliga,Arminia Bielefeld,Bielefeld,auto,0.9
+oddsapi,2. Bundesliga,Dynamo Dresden,Dresden,auto,0.9
+oddsapi,2. Bundesliga,Eintracht Braunschweig,Braunschweig,auto,0.9
+oddsapi,2. Bundesliga,FC Energie Cottbus,Cottbus,auto,0.9
+oddsapi,2. Bundesliga,FC St. Pauli,St Pauli,auto,1.0
+oddsapi,2. Bundesliga,Greuther Fürth,Greuther Furth,auto,1.0
+oddsapi,2. Bundesliga,Hannover 96,Hannover,auto,1.0
+oddsapi,2. Bundesliga,Hertha Berlin,Hertha,auto,0.9
+oddsapi,2. Bundesliga,Holstein Kiel,Holstein Kiel,auto,1.0
+oddsapi,2. Bundesliga,Karlsruher SC,Karlsruhe,auto,0.947
+oddsapi,2. Bundesliga,SV Darmstadt 98,Darmstadt,auto,1.0
+oddsapi,2. Bundesliga,VfL Bochum,Bochum,auto,1.0
+oddsapi,2. Bundesliga,VfL Osnabrück,Osnabruck,auto,1.0
+oddsapi,2. Bundesliga,VfL Wolfsburg,Wolfsburg,auto,1.0
+oddsapi,Championship,Birmingham City,Birmingham,auto,0.9
+oddsapi,Championship,Blackburn Rovers,Blackburn,auto,0.9
+oddsapi,Championship,Bolton Wanderers,Bolton,auto,0.9
+oddsapi,Championship,Bristol City,Bristol City,auto,1.0
+oddsapi,Championship,Burnley,Burnley,auto,1.0
+oddsapi,Championship,Cardiff City,Cardiff,auto,0.9
+oddsapi,Championship,Charlton Athletic,Charlton,auto,0.9
+oddsapi,Championship,Derby County,Derby,auto,0.9
+oddsapi,Championship,Lincoln City,Lincoln,auto,0.9
+oddsapi,Championship,Middlesbrough,Middlesbrough,auto,1.0
+oddsapi,Championship,Millwall,Millwall,auto,1.0
+oddsapi,Championship,Norwich City,Norwich,auto,0.9
+oddsapi,Championship,Portsmouth,Portsmouth,auto,1.0
+oddsapi,Championship,Preston North End,Preston,auto,0.9
+oddsapi,Championship,Queens Park Rangers,QPR,auto,1.0
+oddsapi,Championship,Sheffield United,Sheffield United,auto,1.0
+oddsapi,Championship,Southampton,Southampton,auto,1.0
+oddsapi,Championship,Stoke City,Stoke,auto,0.9
+oddsapi,Championship,Swansea City,Swansea,auto,0.9
+oddsapi,Championship,Watford,Watford,auto,1.0
+oddsapi,Championship,West Bromwich Albion,West Brom,auto,0.7
+oddsapi,Championship,West Ham United,West Ham,auto,0.9
+oddsapi,Championship,Wolverhampton Wanderers,Wolves,auto,0.9
+oddsapi,Championship,Wrexham AFC,Wrexham,auto,1.0
+oddsapi,Eredivisie,ADO Den Haag,Den Haag,auto,0.9
+oddsapi,Eredivisie,AZ Alkmaar,AZ Alkmaar,auto,1.0
+oddsapi,Eredivisie,Ajax,Ajax,auto,1.0
+oddsapi,Eredivisie,Excelsior,Excelsior,auto,1.0
+oddsapi,Eredivisie,FC Twente Enschede,Twente,auto,0.9
+oddsapi,Eredivisie,FC Utrecht,Utrecht,auto,1.0
+oddsapi,Eredivisie,FC Zwolle,Zwolle,auto,1.0
+oddsapi,Eredivisie,Feyenoord,Feyenoord,auto,1.0
+oddsapi,Eredivisie,Fortuna Sittard,For Sittard,auto,1.0
+oddsapi,Eredivisie,Go Ahead Eagles,Go Ahead Eagles,auto,1.0
+oddsapi,Eredivisie,Groningen,Groningen,auto,1.0
+oddsapi,Eredivisie,Heerenveen,Heerenveen,auto,1.0
+oddsapi,Eredivisie,NEC Nijmegen,Nijmegen,auto,0.9
+oddsapi,Eredivisie,PSV Eindhoven,PSV Eindhoven,auto,1.0
+oddsapi,Eredivisie,SC Cambuur,Cambuur,auto,1.0
+oddsapi,Eredivisie,SC Telstar,Telstar,auto,1.0
+oddsapi,Eredivisie,Sparta Rotterdam,Sparta Rotterdam,auto,1.0
+oddsapi,Eredivisie,Willem II,Willem II,auto,1.0
+oddsapi,Jupiler Pro League,Anderlecht,Anderlecht,auto,1.0
+oddsapi,Jupiler Pro League,Cercle Brugge KSV,Cercle Brugge,auto,1.0
+oddsapi,Jupiler Pro League,Charleroi,Charleroi,auto,1.0
+oddsapi,Jupiler Pro League,Club Brugge,Club Brugge,auto,1.0
+oddsapi,Jupiler Pro League,Genk,Genk,auto,1.0
+oddsapi,Jupiler Pro League,Gent,Gent,auto,1.0
+oddsapi,Jupiler Pro League,KV Kortrijk,Kortrijk,auto,1.0
+oddsapi,Jupiler Pro League,KV Mechelen,Mechelen,auto,1.0
+oddsapi,Jupiler Pro League,Leuven,Oud-Heverlee Leuven,auto,0.9
+oddsapi,Jupiler Pro League,Lommel SK,Lommel SK,auto,1.0
+oddsapi,Jupiler Pro League,RAAL La Louvière,RAAL La Louviere,auto,1.0
+oddsapi,Jupiler Pro League,Royal Antwerp,Antwerp,auto,0.9
+oddsapi,Jupiler Pro League,SK Beveren,Beveren,auto,1.0
+oddsapi,Jupiler Pro League,SV Zulte-Waregem,Waregem,auto,0.9
+oddsapi,Jupiler Pro League,Sint Truiden,St Truiden,auto,0.96
+oddsapi,Jupiler Pro League,Standard Liege,Standard,auto,0.9
+oddsapi,Jupiler Pro League,Union Saint-Gilloise,St. Gilloise,auto,0.9
+oddsapi,Jupiler Pro League,Westerlo,Westerlo,auto,1.0
+oddsapi,LaLiga,Alavés,Alaves,auto,1.0
+oddsapi,LaLiga,Athletic Bilbao,Ath Bilbao,auto,1.0
+oddsapi,LaLiga,Atlético Madrid,Ath Madrid,auto,1.0
+oddsapi,LaLiga,Barcelona,Barcelona,auto,1.0
+oddsapi,LaLiga,CA Osasuna,Osasuna,auto,0.9
+oddsapi,LaLiga,Celta Vigo,Celta,auto,0.9
+oddsapi,LaLiga,Deportivo La Coruña,La Coruna,auto,0.9
+oddsapi,LaLiga,Elche CF,Elche,auto,1.0
+oddsapi,LaLiga,Espanyol,Espanol,auto,1.0
+oddsapi,LaLiga,Getafe,Getafe,auto,1.0
+oddsapi,LaLiga,Levante,Levante,auto,1.0
+oddsapi,LaLiga,Málaga,Malaga,auto,1.0
+oddsapi,LaLiga,Rayo Vallecano,Vallecano,auto,0.9
+oddsapi,LaLiga,Real Betis,Betis,auto,0.9
+oddsapi,LaLiga,Real Madrid,Real Madrid,auto,1.0
+oddsapi,LaLiga,Real Racing Club de Santander,Santander,auto,0.9
+oddsapi,LaLiga,Real Sociedad,Sociedad,auto,0.9
+oddsapi,LaLiga,Sevilla,Sevilla,auto,1.0
+oddsapi,LaLiga,Valencia,Valencia,auto,1.0
+oddsapi,LaLiga,Villarreal,Villarreal,auto,1.0
+oddsapi,LaLiga Hypermotion,AD Ceuta FC,Ceuta,auto,1.0
+oddsapi,LaLiga Hypermotion,Albacete,Albacete,auto,1.0
+oddsapi,LaLiga Hypermotion,Almería,Almeria,auto,1.0
+oddsapi,LaLiga Hypermotion,Andorra CF,Andorra,auto,1.0
+oddsapi,LaLiga Hypermotion,Burgos CF,Burgos,auto,1.0
+oddsapi,LaLiga Hypermotion,CD Castellón,Castellon,auto,1.0
+oddsapi,LaLiga Hypermotion,CD Eldense,Eldense,auto,1.0
+oddsapi,LaLiga Hypermotion,Celta Fortuna,Celta B,auto,1.0
+oddsapi,LaLiga Hypermotion,Cádiz CF,Cadiz,auto,1.0
+oddsapi,LaLiga Hypermotion,Córdoba,Cordoba,auto,1.0
+oddsapi,LaLiga Hypermotion,Girona FC,Girona,auto,1.0
+oddsapi,LaLiga Hypermotion,Granada CF,Granada,auto,1.0
+oddsapi,LaLiga Hypermotion,Las Palmas,Las Palmas,auto,1.0
+oddsapi,LaLiga Hypermotion,Leganés,Leganes,auto,1.0
+oddsapi,LaLiga Hypermotion,Mallorca,Mallorca,auto,1.0
+oddsapi,LaLiga Hypermotion,Oviedo,Oviedo,auto,1.0
+oddsapi,LaLiga Hypermotion,Real Sociedad B,Sociedad B,auto,0.9
+oddsapi,LaLiga Hypermotion,Real Valladolid CF,Valladolid,auto,0.9
+oddsapi,LaLiga Hypermotion,SD Eibar,Eibar,auto,1.0
+oddsapi,LaLiga Hypermotion,Sabadell FC,Sabadell,auto,1.0
+oddsapi,LaLiga Hypermotion,Sporting Gijón,Sp Gijon,auto,1.0
+oddsapi,LaLiga Hypermotion,Tenerife,Tenerife,auto,1.0
+oddsapi,League One,Oxford United,Oxford,auto,0.9
+oddsapi,League One,Reading,Reading,auto,1.0
+oddsapi,Liga Portugal,Académico de Viseu,Academico Viseu,auto,0.909
+oddsapi,Liga Portugal,Alverca,Alverca,auto,1.0
+oddsapi,Liga Portugal,Arouca,Arouca,auto,1.0
+oddsapi,Liga Portugal,Benfica,Benfica,auto,1.0
+oddsapi,Liga Portugal,Braga,Sp Braga,auto,0.9
+oddsapi,Liga Portugal,CF Estrela,Estrela,auto,1.0
+oddsapi,Liga Portugal,CS Maritimo,Maritimo,auto,0.9
+oddsapi,Liga Portugal,Casa Pia,Casa Pia,auto,1.0
+oddsapi,Liga Portugal,Estoril,Estoril,auto,1.0
+oddsapi,Liga Portugal,FC Porto,Porto,auto,1.0
+oddsapi,Liga Portugal,Famalicão,Famalicao,auto,1.0
+oddsapi,Liga Portugal,Gil Vicente,Gil Vicente,auto,1.0
+oddsapi,Liga Portugal,Moreirense FC,Moreirense,auto,1.0
+oddsapi,Liga Portugal,Nacional,Nacional,auto,1.0
+oddsapi,Liga Portugal,Rio Ave FC,Rio Ave,auto,1.0
+oddsapi,Liga Portugal,Santa Clara,Santa Clara,auto,1.0
+oddsapi,Liga Portugal,Sporting Lisbon,Sp Lisbon,auto,1.0
+oddsapi,Liga Portugal,Vitória SC,Guimaraes,auto,1.0
+oddsapi,Ligue 2,Annecy FC,Annecy,auto,1.0
+oddsapi,Ligue 2,Boulogne,Boulogne,auto,1.0
+oddsapi,Ligue 2,Clermont,Clermont,auto,1.0
+oddsapi,Ligue 2,Dijon,Dijon,auto,1.0
+oddsapi,Ligue 2,Grenoble,Grenoble,auto,1.0
+oddsapi,Ligue 2,Guingamp,Guingamp,auto,1.0
+oddsapi,Ligue 2,Metz,Metz,auto,1.0
+oddsapi,Ligue 2,Montpellier,Montpellier,auto,1.0
+oddsapi,Ligue 2,Nancy,Nancy,auto,1.0
+oddsapi,Ligue 2,Nantes,Nantes,auto,1.0
+oddsapi,Ligue 2,Pau FC,Pau FC,auto,1.0
+oddsapi,Ligue 2,Red Star,Red Star,auto,1.0
+oddsapi,Ligue 2,Rodez AF,Rodez,auto,1.0
+oddsapi,Ligue 2,Saint Etienne,St Etienne,auto,1.0
+oddsapi,Ligue 2,Sochaux,Sochaux,auto,1.0
+oddsapi,Ligue 2,Stade Lavallois,Laval,auto,1.0
+oddsapi,Ligue 2,Stade de Reims,Reims,auto,0.9
+oddsapi,Ligue 2,USL Dunkerque,Dunkerque,auto,1.0
+oddsapi,Premier League,Arsenal,Arsenal,auto,1.0
+oddsapi,Premier League,Aston Villa,Aston Villa,auto,1.0
+oddsapi,Premier League,Bournemouth,Bournemouth,auto,1.0
+oddsapi,Premier League,Brentford,Brentford,auto,1.0
+oddsapi,Premier League,Brighton and Hove Albion,Brighton,auto,0.9
+oddsapi,Premier League,Chelsea,Chelsea,auto,1.0
+oddsapi,Premier League,Coventry City,Coventry,auto,0.9
+oddsapi,Premier League,Crystal Palace,Crystal Palace,auto,1.0
+oddsapi,Premier League,Everton,Everton,auto,1.0
+oddsapi,Premier League,Fulham,Fulham,auto,1.0
+oddsapi,Premier League,Hull City,Hull,auto,0.9
+oddsapi,Premier League,Ipswich Town,Ipswich,auto,0.9
+oddsapi,Premier League,Leeds United,Leeds,auto,0.9
+oddsapi,Premier League,Liverpool,Liverpool,auto,1.0
+oddsapi,Premier League,Manchester City,Man City,auto,1.0
+oddsapi,Premier League,Manchester United,Man United,auto,1.0
+oddsapi,Premier League,Newcastle United,Newcastle,auto,0.9
+oddsapi,Premier League,Nottingham Forest,Nott'm Forest,auto,1.0
+oddsapi,Premier League,Sunderland,Sunderland,auto,1.0
+oddsapi,Premier League,Tottenham Hotspur,Tottenham,auto,0.9
+oddsapi,Scottish Premiership,Aberdeen,Aberdeen,auto,1.0
+oddsapi,Scottish Premiership,Celtic,Celtic,auto,1.0
+oddsapi,Scottish Premiership,Dundee FC,Dundee,auto,1.0
+oddsapi,Scottish Premiership,Dundee United,Dundee United,auto,1.0
+oddsapi,Scottish Premiership,Falkirk F.C.,Falkirk,auto,0.9
+oddsapi,Scottish Premiership,Hearts,Hearts,auto,1.0
+oddsapi,Scottish Premiership,Hibernian,Hibernian,auto,1.0
+oddsapi,Scottish Premiership,Kilmarnock,Kilmarnock,auto,1.0
+oddsapi,Scottish Premiership,Motherwell,Motherwell,auto,1.0
+oddsapi,Scottish Premiership,Rangers,Rangers,auto,1.0
+oddsapi,Scottish Premiership,St Johnstone,St Johnstone,auto,1.0
+oddsapi,Scottish Premiership,St Mirren,St Mirren,auto,1.0
+oddsapi,Serie B,Arezzo,Arezzo,auto,1.0
+oddsapi,Serie B,Ascoli,Ascoli,auto,1.0
+oddsapi,Serie B,Avellino,Avellino,auto,1.0
+oddsapi,Serie B,Benevento,Benevento,auto,1.0
+oddsapi,Serie B,Carrarese,Carrarese,auto,1.0
+oddsapi,Serie B,Cesena FC,Cesena,auto,1.0
+oddsapi,Serie B,Cremonese,Cremonese,auto,1.0
+oddsapi,Serie B,Empoli,Empoli,auto,1.0
+oddsapi,Serie B,Hellas Verona,Verona,auto,0.9
+oddsapi,Serie B,Juve Stabia,Juve Stabia,auto,1.0
+oddsapi,Serie B,Mantova,Mantova,auto,1.0
+oddsapi,Serie B,Modena,Modena,auto,1.0
+oddsapi,Serie B,Padova,Padova,auto,1.0
+oddsapi,Serie B,Palermo,Palermo,auto,1.0
+oddsapi,Serie B,Pisa,Pisa,auto,1.0
+oddsapi,Serie B,Sampdoria,Sampdoria,auto,1.0
+oddsapi,Serie B,Südtirol,Sudtirol,auto,1.0
+oddsapi,Serie B,US Catanzaro 1929,Catanzaro,auto,1.0
+oddsapi,Serie B,Vicenza,Vicenza,auto,1.0
+oddsapi,Serie B,Virtus Entella,Virtus Entella,auto,1.0
+oddsapi,Super League Grecia,AE Kifisia FC,Kifisia,auto,0.9
+oddsapi,Super League Grecia,AEK Athens,AEK,auto,0.9
+oddsapi,Super League Grecia,Aris Thessaloniki,Aris,auto,0.9
+oddsapi,Super League Grecia,Asteras Tripolis,Asteras Tripolis,auto,1.0
+oddsapi,Super League Grecia,Atromitos Athens,Atromitos,auto,0.9
+oddsapi,Super League Grecia,Iraklis FC,Iraklis,auto,1.0
+oddsapi,Super League Grecia,Kalamata FC,Kalamata,auto,1.0
+oddsapi,Super League Grecia,Levadiakos,Levadeiakos,auto,0.952
+oddsapi,Super League Grecia,OFI Crete,OFI Crete,auto,1.0
+oddsapi,Super League Grecia,Olympiakos Piraeus,Olympiakos,auto,0.9
+oddsapi,Super League Grecia,PAOK Thessaloniki,PAOK,auto,0.9
+oddsapi,Super League Grecia,Panathinaikos,Panathinaikos,auto,1.0
+oddsapi,Super League Grecia,Panetolikos Agrinio,Panetolikos,auto,0.9
+oddsapi,Super League Grecia,Volos FC,Volos NFC,auto,1.0
+oddsapi,Super Lig,Alanyaspor,Alanyaspor,auto,1.0
+oddsapi,Super Lig,Amed SK,Amedspor,auto,1.0
+oddsapi,Super Lig,Basaksehir,Buyuksehyr,auto,1.0
+oddsapi,Super Lig,Besiktas JK,Besiktas,auto,1.0
+oddsapi,Super Lig,Erzurum BB,Erzurumspor,auto,1.0
+oddsapi,Super Lig,Eyüpspor,Eyupspor,auto,1.0
+oddsapi,Super Lig,Fenerbahce,Fenerbahce,auto,1.0
+oddsapi,Super Lig,Galatasaray,Galatasaray,auto,1.0
+oddsapi,Super Lig,Gazişehir Gaziantep,Gaziantep,auto,1.0
+oddsapi,Super Lig,Genclerbirligi SK,Genclerbirligi,auto,1.0
+oddsapi,Super Lig,Goztepe,Goztep,auto,1.0
+oddsapi,Super Lig,Kasimpasa SK,Kasimpasa,auto,1.0
+oddsapi,Super Lig,Kocaelispor,Kocaelispor,auto,1.0
+oddsapi,Super Lig,Samsunspor,Samsunspor,auto,1.0
+oddsapi,Super Lig,Torku Konyaspor,Konyaspor,auto,0.9
+oddsapi,Super Lig,Trabzonspor,Trabzonspor,auto,1.0
+oddsapi,Super Lig,Çaykur Rizespor,Rizespor,auto,0.9
+oddsapi,Super Lig,Çorum FK,Corum,auto,1.0
