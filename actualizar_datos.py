@@ -283,7 +283,10 @@ def descargar_todo(n_temporadas, incluir_extra):
 
 # ============================================================== elo
 
-K_BASE = 20
+# 2026-11-05: 20 -> 15. Medido con experimentos_motor.py (walk-forward 2022-26):
+# mejora el log-loss 1X2 en las 4 temporadas; K 12 o menos empeora 2022-23,
+# 25 y 30 empeoran todas. Regresion 0.15/0.35 y ventaja local por liga: sin mejora.
+K_BASE = 15
 VENTAJA_LOCAL = 65
 REGRESION_TEMPORADA = 0.25  # cuanto vuelve al nivel de liga cada verano
 

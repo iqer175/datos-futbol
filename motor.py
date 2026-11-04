@@ -51,6 +51,13 @@ QUE CAMBIA EN v4 (2026-11-05)
   mismo, el motor acierta con los favoritos; parece tibio solo en los partidos que el
   mercado ve muy claros, porque es un estimador mas ruidoso. Estirarlo empeora.
 
+QUE CAMBIA EN v5 (2026-11-05) -- experimentos_motor.py, regla de 4/4 temporadas
+  Entra: K del Elo 20 -> 15 (y recalibracion de CAL_LOCAL/CAL_EMPATE).
+  Descartado: vida media del GLM 120-540 (efecto < 0.0005), Dixon-Coles rho (empeora:
+  la correccion de empates ya lo cubre), regresion estival 0.05-0.35 combinada con K=15,
+  ventaja local propia por liga en el Elo (efecto nulo), y CAL_TOTAL 0.044 en vez de 0.12
+  (gana 2 temporadas y pierde 2: el nivel de goles cambia de un ano a otro).
+
 LO QUE SE PROBO EN v3 Y SE DESCARTO
   - Correccion del Elo por forma reciente. La hipotesis era que el Elo tarda en bajar
     a los equipos que se hunden. MEDIDO SOBRE 50.060 observaciones equipo-partido:
@@ -89,8 +96,10 @@ CAL_TOTAL  = 0.12     # goles que se suman al total (equivale a +0.115 en el log
 # (-2 puntos) y exceso de visitante (+2). Ajustado solo con 2022-24 y mejora el log-loss en
 # las 4 temporadas (-0.0008 a -0.0026); reajustado por temporada sale 0.05-0.09 / 0.133-0.138.
 # Probado y descartado: temperatura sobre las probabilidades (T=0.93), empeora la mas reciente.
-CAL_LOCAL  = 0.050    # multiplica la probabilidad de local por exp(), luego se renormaliza
-CAL_EMPATE = 0.133    # idem para el empate
+# v5 (2026-11-05): con el Elo a K=15 (actualizar_datos.K_BASE) se recalibran a 0.061 / 0.177
+# (ajuste 2022-24). Frente a v4 mejora el log-loss 1X2 en las 4 temporadas (-0.0003 a -0.0010).
+CAL_LOCAL  = 0.061    # multiplica la probabilidad de local por exp(), luego se renormaliza
+CAL_EMPATE = 0.177    # idem para el empate
 K_SHRINK  = 6.0
 MAX_N     = 40
 
@@ -105,6 +114,7 @@ MAX_N     = 40
 OU_XG_FECHA_CONGELACION = '2026-11-04'
 OU_XG_ALPHA   = 0.0       # peso de los goles en el objetivo del GLM (0 = solo xG)
 OU_XG_W_MOTOR = 0.2       # peso del motor en la mezcla con la apertura de bet365
+OU_XG_HALF_LIFE = 180.0   # vida media del GLM xG, fijada aparte para que cambiar HALF_LIFE no la toque
 
 
 # ---------------------------------------------------------------- carga y coefs
@@ -214,7 +224,7 @@ class Base:
         self.glm = ajustar_glm(df, self.hasta)
         # GLM de la variante congelada O/U con xG
         self.ligas_xg = ligas_con_xg(df, self.hasta)
-        self.glm_xg = (ajustar_glm(df, self.hasta, y=objetivo_xg(df, OU_XG_ALPHA))
+        self.glm_xg = (ajustar_glm(df, self.hasta, half=OU_XG_HALF_LIFE, y=objetivo_xg(df, OU_XG_ALPHA))
                        if self.ligas_xg else None)
 
     def elo(self, eq, hasta=None):
