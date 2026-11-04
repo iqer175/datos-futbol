@@ -176,9 +176,13 @@ def main():
     # ---- 5. cuotas de cierre de la temporada en curso (para el CLV) ---------
     act = df[df.temporada.astype(str).isin(temporadas_actuales(hoy))]
     for liga, g in act.groupby('liga'):
+        cols = ['fecha', 'local', 'visitante', 'gl', 'gv', 'b365c_1', 'b365c_x', 'b365c_2',
+                'avgc_1', 'avgc_x', 'avgc_2', 'b365c_over25', 'b365c_under25',
+                # referencias eficientes para el CLV: exchange y media de mercado en O/U
+                'bfec_1', 'bfec_x', 'bfec_2', 'avgc_over25', 'avgc_under25',
+                'bfec_over25', 'bfec_under25']
         escribir_limitado(
-            g[['fecha', 'local', 'visitante', 'gl', 'gv', 'b365c_1', 'b365c_x', 'b365c_2',
-               'avgc_1', 'avgc_x', 'avgc_2', 'b365c_over25', 'b365c_under25']],
+            g[[c for c in cols if c in g.columns]],
             os.path.join(DATOS, 'cierres', f'{slug(liga)}.csv'), orden='fecha')
 
     # ---- 6. indice con rutas y tamanos --------------------------------------
