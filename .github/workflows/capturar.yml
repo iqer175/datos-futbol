@@ -1,0 +1,53 @@
+name: Capturar cuotas
+
+# Foto de las cuotas pre-partido con su hora (capturar_cuotas.py).
+# Presupuesto The Odds API gratis: 500 creditos/mes. Cada captura gasta
+# 2 creditos x 15 ligas = 30; con 3 capturas por semana son ~390 al mes.
+# Si anades ligas o capturas, revisa ese numero.
+# Hora UTC: lunes y miercoles 10:00 (lineas recien abiertas para el fin de
+# semana y entre semana) y viernes 10:00 (antes de la "previa" de football-data).
+on:
+  schedule:
+    - cron: "0 10 * * 1,3,5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: escribir-repo        # no pisarse con otro workflow que haga push
+  cancel-in-progress: false
+
+jobs:
+  capturar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Capturar
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          APIFOOTBALL_KEY: ${{ secrets.APIFOOTBALL_KEY }}
+        run: python capturar_cuotas.py --dias 8
+
+      - name: Publicar
+        run: |
+          git config user.name  "actualizador-futbol"
+          git config user.email "actions@github.com"
+          git add datos/capturas/ 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "Sin cuotas nuevas."
+          else
+            git commit -m "Cuotas capturadas $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase
+            git push
+          fi

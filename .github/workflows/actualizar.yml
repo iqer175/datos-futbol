@@ -11,6 +11,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: escribir-repo        # el mismo que capturar.yml: nunca dos push a la vez
+  cancel-in-progress: false
+
 jobs:
   actualizar:
     runs-on: ubuntu-latest
@@ -79,15 +83,25 @@ jobs:
         continue-on-error: true
         run: python seguimiento_ou_xg.py
 
+      # CLV de las apuestas de bitacora.csv frente al cierre de Betfair
+      - name: CLV de la bitacora
+        continue-on-error: true
+        run: python calcular_clv.py
+
       - name: Publicar cambios
         run: |
           git config user.name  "actualizador-futbol"
           git config user.email "actions@github.com"
           git add datos/
-          git add resultados/seguimiento_ou_xg.* 2>/dev/null || true
+          # uno a uno: si falta un fichero, git add de varios no anade ninguno
+          for f in resultados/seguimiento_ou_xg.txt resultados/seguimiento_ou_xg.csv \
+                   resultados/bitacora_clv.txt resultados/bitacora_clv.csv bitacora.csv; do
+            if [ -e "$f" ]; then git add "$f"; fi
+          done
           if git diff --staged --quiet; then
             echo "Sin cambios que publicar."
           else
             git commit -m "Datos actualizados $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase
             git push
           fi
