@@ -44,6 +44,13 @@ QUE CAMBIA EN v3 (2026-09-15)
   casi la mitad del colchon de 8 que exige la skill, asi que una parte del "valor"
   que el motor encontraba en visitantes era este sesgo y no una ineficiencia real.
 
+QUE CAMBIA EN v4 (2026-11-05)
+  Recalibracion del 1X2 medida en walk-forward (backtest_clv.py): la correccion v3 del
+  local era excesiva y daba ~3 puntos de mas al local. Ver CAL_LOCAL / CAL_EMPATE.
+  El aparente "rebaje de favoritos" frente al mercado NO es un sesgo: calibrado sobre si
+  mismo, el motor acierta con los favoritos; parece tibio solo en los partidos que el
+  mercado ve muy claros, porque es un estimador mas ruidoso. Estirarlo empeora.
+
 LO QUE SE PROBO EN v3 Y SE DESCARTO
   - Correccion del Elo por forma reciente. La hipotesis era que el Elo tarda en bajar
     a los equipos que se hunden. MEDIDO SOBRE 50.060 observaciones equipo-partido:
@@ -76,8 +83,14 @@ W_GLM     = 0.35      # peso del GLM en el total (0.65 se lo lleva la linea Elo)
 # Las dos correcciones se ajustaron solo con datos anteriores al corte y se
 # validaron despues; mejoran el log-loss en los CUATRO cortes temporales probados.
 CAL_TOTAL  = 0.12     # goles que se suman al total (equivale a +0.115 en el logit del Over)
-CAL_LOCAL  = 0.1966   # multiplica la probabilidad de local por exp(), luego se renormaliza
-CAL_EMPATE = 0.1972   # idem para el empate
+# v4 (2026-11-05): CAL_LOCAL 0.1966 -> 0.050 y CAL_EMPATE 0.1972 -> 0.133. Medido en
+# walk-forward con backtest_clv.py (33.042 partidos, 2022-07..2026-11): la v3 daba ~3 puntos
+# de MAS al local en las 4 temporadas y en 21 de 22 ligas; el fallo real era falta de empate
+# (-2 puntos) y exceso de visitante (+2). Ajustado solo con 2022-24 y mejora el log-loss en
+# las 4 temporadas (-0.0008 a -0.0026); reajustado por temporada sale 0.05-0.09 / 0.133-0.138.
+# Probado y descartado: temperatura sobre las probabilidades (T=0.93), empeora la mas reciente.
+CAL_LOCAL  = 0.050    # multiplica la probabilidad de local por exp(), luego se renormaliza
+CAL_EMPATE = 0.133    # idem para el empate
 K_SHRINK  = 6.0
 MAX_N     = 40
 
