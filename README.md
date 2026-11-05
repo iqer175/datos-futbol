@@ -187,3 +187,9 @@ en 2.210 partidos de 2026-27 bate a la tasa de la liga en todos los mercados y, 
 combinadas, al producto ingenuo de las patas. Sesgos conocidos: se queda corto en Más de 2.5
 (52.8 % frente a 56.2 %) y exagera "empate + Menos de 2.5". Estar calibrado no demuestra valor:
 faltan las cuotas de bet365 de córners, tarjetas y combinadas para medirlo.
+
+Córners por equipo (`experimento_corners.py`, `resultados/corners_dominio.txt`): el reparto
+inicial no tenía en cuenta el dominio del favorito (a un local muy superior le daba 5,4 córners
+cuando saca 7,2). Desde el 2026-11-05 cada equipo se corrige por la diferencia de Elo
+(`CORNERS_DOMINIO`), ajustado en 2025-26 (7.051 partidos) y probado sin reajustar en 2026-27
+(2.188): mejora 9 de 10 líneas de córners.
