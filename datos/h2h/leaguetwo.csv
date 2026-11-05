@@ -1,314 +1,315 @@
 eq_a,eq_b,n,goles,over25,btts,ultimos
-Gillingham,Shrewsbury,3,3.33,0.67,0.67,Shr3-3Gil;Gil1-0Shr;Shr1-2Gil
+Northampton,Oldham,3,2.0,0.33,0.33,Nor2-1Old;Old0-2Nor;Nor0-1Old
 Crawley Town,Oldham,5,3.4,0.6,0.6,Cra2-2Old;Old3-3Cra;Cra2-2Old;Old2-0Cra;Old0-1Cra
-Cheltenham,Tranmere,5,3.2,0.6,0.6,Che1-0Tra;Tra2-0Che;Tra3-2Che;Che1-3Tra;Tra3-1Che
 Bristol Rvs,Fleetwood Town,3,2.67,0.67,0.67,Fle2-1Bri;Bri1-0Fle;Fle3-1Bri
-Barnet,Crewe,3,2.33,0.33,1.0,Cre1-2Bar;Bar1-1Cre;Cre1-1Bar
-Colchester,Walsall,11,2.45,0.45,0.55,Wal4-0Col;Col2-1Wal;Wal0-2Col;Col1-1Wal;Col1-3Wal
-Port Vale,Rochdale,3,4.33,0.67,1.0,Por2-3Roc;Roc1-1Por;Por4-2Roc
+Gillingham,Shrewsbury,3,3.33,0.67,0.67,Shr3-3Gil;Gil1-0Shr;Shr1-2Gil
 Exeter,Salford,3,2.0,0.67,0.67,Sal1-2Exe;Exe0-0Sal;Sal2-1Exe
+Cheltenham,Tranmere,5,3.2,0.6,0.6,Che1-0Tra;Tra2-0Che;Tra3-2Che;Che1-3Tra;Tra3-1Che
+Port Vale,Rochdale,3,4.33,0.67,1.0,Por2-3Roc;Roc1-1Por;Por4-2Roc
+Colchester,Walsall,11,2.45,0.45,0.55,Wal4-0Col;Col2-1Wal;Wal0-2Col;Col1-1Wal;Col1-3Wal
+Barnet,Crewe,3,2.33,0.33,1.0,Cre1-2Bar;Bar1-1Cre;Cre1-1Bar
 Chesterfield,Newport County,5,3.8,1.0,0.8,New0-3Che;Che2-1New;Che4-1New;New2-1Che;New4-1Che
 Salford,Walsall,11,2.91,0.64,0.64,Sal0-2Wal;Wal2-2Sal;Wal1-0Sal;Sal1-0Wal;Wal2-4Sal
 Barnet,Oldham,3,3.0,0.33,1.0,Old1-1Bar;Bar3-2Old;Bar1-1Old
-Gillingham,Grimsby,9,2.56,0.33,0.67,Gil0-1Gri;Gri1-1Gil;Gri1-0Gil;Gil1-4Gri;Gil1-4Gri
-Crawley Town,Tranmere,9,2.56,0.44,0.56,Cra3-2Tra;Tra1-3Cra;Cra0-2Tra;Tra2-0Cra;Cra1-1Tra
-Cheltenham,Newport County,5,2.4,0.4,0.2,Che3-2New;New0-3Che;New0-2Che;Che1-0New;Che1-0New
 Chesterfield,Crewe,5,4.6,0.8,0.6,Cre0-5Che;Che1-3Cre;Cre3-3Che;Che2-0Cre;Che5-1Cre
-Bristol Rvs,Swindon,5,2.2,0.4,0.6,Bri1-3Swi;Swi1-1Bri;Bri0-3Swi;Swi1-1Bri;Bri0-0Swi
 Colchester,Northampton,5,2.4,0.4,0.2,Col0-1Nor;Nor3-0Col;Nor3-2Col;Col0-1Nor;Nor2-0Col
+Gillingham,Grimsby,9,2.56,0.33,0.67,Gil0-1Gri;Gri1-1Gil;Gri1-0Gil;Gil1-4Gri;Gil1-4Gri
+Cheltenham,Newport County,5,2.4,0.4,0.2,Che3-2New;New0-3Che;New0-2Che;Che1-0New;Che1-0New
+Bristol Rvs,Swindon,5,2.2,0.4,0.6,Bri1-3Swi;Swi1-1Bri;Bri0-3Swi;Swi1-1Bri;Bri0-0Swi
+Crawley Town,Tranmere,9,2.56,0.44,0.56,Cra3-2Tra;Tra1-3Cra;Cra0-2Tra;Tra2-0Cra;Cra1-1Tra
+Northampton,Tranmere,5,1.8,0.2,0.2,Tra0-2Nor;Nor3-2Tra;Nor0-0Tra;Tra0-1Nor;Nor0-1Tra
+Oldham,Walsall,5,2.8,0.8,0.6,Old1-3Wal;Wal2-1Old;Old0-1Wal;Wal1-2Old;Wal3-0Old
 Cheltenham,Fleetwood Town,5,3.2,0.4,0.4,Che0-2Fle;Fle2-0Che;Che2-0Fle;Fle2-2Che;Che4-2Fle
-Barnet,Swindon,3,3.0,0.67,0.67,Swi0-2Bar;Bar1-2Swi;Bar1-3Swi
+Grimsby,Rochdale,3,2.0,0.33,0.33,Roc0-1Gri;Gri1-0Roc;Roc2-2Gri
 Chesterfield,Colchester,5,3.2,0.4,0.6,Che1-1Col;Col1-0Che;Col6-2Che;Che3-0Col;Che1-1Col
+Barnet,Swindon,3,3.0,0.67,0.67,Swi0-2Bar;Bar1-2Swi;Bar1-3Swi
 Bristol Rvs,Salford,5,2.0,0.4,0.6,Sal1-1Bri;Bri1-0Sal;Bri2-1Sal;Sal1-0Bri;Bri1-2Sal
 Gillingham,Port Vale,3,1.33,0.0,0.33,Gil1-0Por;Por0-1Gil;Gil1-1Por
-Northampton,Tranmere,5,1.8,0.2,0.2,Tra0-2Nor;Nor3-2Tra;Nor0-0Tra;Tra0-1Nor;Nor0-1Tra
 Crawley Town,Shrewsbury,3,2.0,0.33,0.33,Shr1-0Cra;Cra0-0Shr;Cra2-3Shr
-Oldham,Walsall,5,2.8,0.8,0.6,Old1-3Wal;Wal2-1Old;Old0-1Wal;Wal1-2Old;Wal3-0Old
-Grimsby,Rochdale,3,2.0,0.33,0.33,Roc0-1Gri;Gri1-0Roc;Roc2-2Gri
-Cheltenham,Oldham,3,3.67,1.0,0.67,Che0-3Old;Old2-1Che;Old4-1Che
-Grimsby,Northampton,3,2.33,0.33,0.67,Gri1-1Nor;Nor1-2Gri;Gri0-2Nor
-Colchester,Exeter,3,2.0,0.33,0.33,Col3-1Exe;Exe2-0Col;Col0-0Exe
 Crewe,Rochdale,3,3.33,0.67,1.0,Roc1-2Cre;Cre1-1Roc;Cre3-2Roc
-Bristol Rvs,Shrewsbury,3,1.67,0.33,0.0,Shr0-3Bri;Bri1-0Shr;Shr1-0Bri
+Colchester,Exeter,3,2.0,0.33,0.33,Col3-1Exe;Exe2-0Col;Col0-0Exe
 Chesterfield,Port Vale,3,1.33,0.0,0.33,Por1-0Che;Che1-1Por;Por1-0Che
 Barnet,Tranmere,3,2.0,0.33,0.33,Tra0-2Bar;Bar1-0Tra;Tra1-2Bar
-Swindon,Walsall,11,2.64,0.64,0.45,Swi0-4Wal;Wal0-1Swi;Wal2-1Swi;Swi2-1Wal;Swi1-1Wal
+Grimsby,Northampton,3,2.33,0.33,0.67,Gri1-1Nor;Nor1-2Gri;Gri0-2Nor
 Crawley Town,Salford,9,3.11,0.67,0.78,Sal1-1Cra;Cra0-1Sal;Sal4-3Cra;Cra0-0Sal;Sal2-1Cra
+Cheltenham,Oldham,3,3.67,1.0,0.67,Che0-3Old;Old2-1Che;Old4-1Che
 Accrington,Gillingham,7,2.43,0.43,0.71,Gil1-2Acc;Acc1-1Gil;Acc1-1Gil;Gil2-0Acc;Acc3-1Gil
-Crewe,Swindon,9,2.0,0.56,0.44,Cre0-0Swi;Swi0-0Cre;Cre0-3Swi;Swi1-2Cre;Swi0-1Cre
-Chesterfield,Crawley Town,3,3.33,0.67,1.0,Che2-2Cra;Cra1-1Che;Cra2-2Che
+Bristol Rvs,Shrewsbury,3,1.67,0.33,0.0,Shr0-3Bri;Bri1-0Shr;Shr1-0Bri
+Swindon,Walsall,11,2.64,0.64,0.45,Swi0-4Wal;Wal0-1Swi;Wal2-1Swi;Swi2-1Wal;Swi1-1Wal
 Fleetwood Town,Walsall,5,3.0,0.2,0.6,Wal2-6Fle;Fle2-0Wal;Fle1-1Wal;Wal0-1Fle;Fle1-1Wal
 Barnet,Bristol Rvs,3,3.33,0.67,0.33,Bar4-0Bri;Bri0-2Bar;Bri1-3Bar
-Cheltenham,Salford,5,3.0,0.6,0.8,Sal2-1Che;Che2-1Sal;Sal1-1Che;Che3-2Sal;Che0-2Sal
+Chesterfield,Crawley Town,3,3.33,0.67,1.0,Che2-2Cra;Cra1-1Che;Cra2-2Che
+Colchester,Newport County,11,2.09,0.45,0.55,Col0-0New;New0-2Col;Col4-1New;New1-2Col;New1-0Col
 Grimsby,Port Vale,3,2.67,0.67,0.33,Gri3-0Por;Por2-2Gri;Por1-0Gri
 Accrington,Oldham,3,1.33,0.33,0.0,Acc1-0Old;Old3-0Acc;Old0-0Acc
+Cheltenham,Salford,5,3.0,0.6,0.8,Sal2-1Che;Che2-1Sal;Sal1-1Che;Che3-2Sal;Che0-2Sal
 Rochdale,Tranmere,5,2.2,0.2,0.6,Roc1-0Tra;Tra2-0Roc;Tra1-1Roc;Roc2-2Tra;Tra1-1Roc
-Colchester,Newport County,11,2.09,0.45,0.55,Col0-0New;New0-2Col;Col4-1New;New1-2Col;New1-0Col
-Bristol Rvs,Crewe,3,3.0,0.67,1.0,Cre1-1Bri;Bri2-1Cre;Cre3-1Bri
-Fleetwood Town,Salford,5,1.8,0.2,0.4,Fle2-2Sal;Sal0-2Fle;Fle1-1Sal;Sal0-0Fle;Sal1-0Fle
-Gillingham,Newport County,9,2.56,0.44,0.44,Gil0-2New;New3-1Gil;New1-3Gil;Gil3-2New;Gil0-0New
-Grimsby,Shrewsbury,3,2.0,0.33,0.67,Shr1-1Gri;Gri1-0Shr;Gri1-2Shr
-Rochdale,Swindon,5,3.2,0.6,0.4,Swi2-2Roc;Roc0-0Swi;Swi3-0Roc;Roc4-4Swi;Roc1-0Swi
+Crewe,Swindon,9,2.0,0.56,0.44,Cre0-0Swi;Swi0-0Cre;Cre0-3Swi;Swi1-2Cre;Swi0-1Cre
 Chesterfield,Tranmere,5,3.4,0.6,0.6,Che3-0Tra;Tra4-0Che;Tra1-1Che;Che1-1Tra;Che4-2Tra
+Bristol Rvs,Crewe,3,3.0,0.67,1.0,Cre1-1Bri;Bri2-1Cre;Cre3-1Bri
+Grimsby,Shrewsbury,3,2.0,0.33,0.67,Shr1-1Gri;Gri1-0Shr;Gri1-2Shr
+Gillingham,Newport County,9,2.56,0.44,0.44,Gil0-2New;New3-1Gil;New1-3Gil;Gil3-2New;Gil0-0New
 Accrington,Cheltenham,5,2.0,0.4,0.4,Che2-1Acc;Acc0-0Che;Che1-0Acc;Acc3-1Che;Acc2-0Che
+Rochdale,Swindon,5,3.2,0.6,0.4,Swi2-2Roc;Roc0-0Swi;Swi3-0Roc;Roc4-4Swi;Roc1-0Swi
+Fleetwood Town,Salford,5,1.8,0.2,0.4,Fle2-2Sal;Sal0-2Fle;Fle1-1Sal;Sal0-0Fle;Sal1-0Fle
 Cheltenham,Chesterfield,5,1.8,0.2,0.4,Che1-1Che;Che1-0Che;Che0-2Che;Che1-0Che;Che2-1Che
-Tranmere,Walsall,11,2.64,0.36,0.55,Tra1-0Wal;Wal5-1Tra;Wal4-2Tra;Tra1-3Wal;Tra1-1Wal
+Oldham,Salford,5,2.8,0.6,0.6,Sal2-0Old;Old1-2Sal;Sal1-0Old;Old1-2Sal;Old1-4Sal
 Accrington,Swindon,7,3.43,0.71,0.71,Acc2-2Swi;Swi0-0Acc;Acc4-0Swi;Swi2-2Acc;Swi1-1Acc
 Grimsby,Newport County,9,1.56,0.22,0.44,New0-0Gri;Gri1-0New;Gri2-1New;New0-0Gri;New2-1Gri
-Oldham,Salford,5,2.8,0.6,0.6,Sal2-0Old;Old1-2Sal;Sal1-0Old;Old1-2Sal;Old1-4Sal
-Colchester,Shrewsbury,3,2.67,0.33,0.33,Shr0-2Col;Col2-0Shr;Shr2-2Col
+Tranmere,Walsall,11,2.64,0.36,0.55,Tra1-0Wal;Wal5-1Tra;Wal4-2Tra;Tra1-3Wal;Tra1-1Wal
 Bristol Rvs,Exeter,3,2.67,0.33,0.67,Exe4-1Bri;Bri1-1Exe;Bri1-0Exe
-Cheltenham,Colchester,5,2.6,0.4,0.6,Col1-2Che;Che0-1Col;Col2-0Che;Che1-4Col;Col1-1Che
-Port Vale,Walsall,5,2.2,0.2,0.2,Por0-1Wal;Wal2-0Por;Por0-1Wal;Wal2-3Por;Wal2-0Por
-Salford,Swindon,11,2.82,0.64,0.73,Sal2-1Swi;Swi2-2Sal;Sal3-2Swi;Swi2-3Sal;Sal1-0Swi
-Barnet,Fleetwood Town,3,4.33,0.67,0.67,Bar0-2Fle;Fle2-5Bar;Bar3-1Fle
-Bristol Rvs,Gillingham,3,2.33,0.67,0.33,Bri0-1Gil;Gil1-2Bri;Gil3-0Bri
+Colchester,Shrewsbury,3,2.67,0.33,0.33,Shr0-2Col;Col2-0Shr;Shr2-2Col
 Crewe,Shrewsbury,3,3.33,0.67,0.67,Cre3-1Shr;Shr0-4Cre;Cre1-1Shr
-Accrington,Newport County,7,3.14,0.71,0.43,New3-1Acc;Acc5-0New;Acc0-1New;New1-4Acc;Acc0-0New
-Exeter,Tranmere,3,1.0,0.0,0.0,Exe0-1Tra;Tra2-0Exe;Exe0-0Tra
-Oldham,Rochdale,3,1.0,0.0,0.0,Roc0-1Old;Old0-0Roc;Roc2-0Old
+Salford,Swindon,11,2.82,0.64,0.73,Sal2-1Swi;Swi2-2Sal;Sal3-2Swi;Swi2-3Sal;Sal1-0Swi
+Bristol Rvs,Gillingham,3,2.33,0.67,0.33,Bri0-1Gil;Gil1-2Bri;Gil3-0Bri
 Crawley Town,Grimsby,7,2.71,0.43,0.29,Gri2-3Cra;Cra2-0Gri;Gri3-0Cra;Cra0-2Gri;Gri2-0Cra
-Bristol Rvs,Grimsby,3,2.33,0.33,0.33,Gri0-1Bri;Bri3-1Gri;Gri2-0Bri
+Accrington,Newport County,7,3.14,0.71,0.43,New3-1Acc;Acc5-0New;Acc0-1New;New1-4Acc;Acc0-0New
+Oldham,Rochdale,3,1.0,0.0,0.0,Roc0-1Old;Old0-0Roc;Roc2-0Old
+Exeter,Tranmere,3,1.0,0.0,0.0,Exe0-1Tra;Tra2-0Exe;Exe0-0Tra
+Port Vale,Walsall,5,2.2,0.2,0.2,Por0-1Wal;Wal2-0Por;Por0-1Wal;Wal2-3Por;Wal2-0Por
+Barnet,Fleetwood Town,3,4.33,0.67,0.67,Bar0-2Fle;Fle2-5Bar;Bar3-1Fle
+Cheltenham,Colchester,5,2.6,0.4,0.6,Col1-2Che;Che0-1Col;Col2-0Che;Che1-4Col;Col1-1Che
 Rochdale,Walsall,5,1.6,0.2,0.2,Wal0-0Roc;Roc1-0Wal;Wal1-0Roc;Roc4-2Wal;Wal0-0Roc
-Exeter,Port Vale,3,0.67,0.0,0.0,Por0-0Exe;Exe0-1Por;Por1-0Exe
-Cheltenham,Crawley Town,3,3.0,0.67,0.33,Cra2-0Che;Che3-0Cra;Cra1-3Che
+Bristol Rvs,Grimsby,3,2.33,0.33,0.33,Gri0-1Bri;Bri3-1Gri;Gri2-0Bri
 Chesterfield,Oldham,3,2.67,0.67,0.67,Old1-1Che;Che0-3Old;Old1-2Che
-Gillingham,Tranmere,9,2.56,0.44,0.56,Gil3-0Tra;Tra1-1Gil;Tra1-1Gil;Gil2-1Tra;Gil2-0Tra
+Exeter,Port Vale,3,0.67,0.0,0.0,Por0-0Exe;Exe0-1Por;Por1-0Exe
 Fleetwood Town,Newport County,5,1.2,0.0,0.2,New0-0Fle;Fle2-0New;New0-2Fle;Fle0-0New;New1-1Fle
 Colchester,Crewe,9,1.67,0.22,0.44,Cre0-0Col;Col0-0Cre;Col1-1Cre;Cre1-0Col;Col1-1Cre
+Gillingham,Tranmere,9,2.56,0.44,0.56,Gil3-0Tra;Tra1-1Gil;Tra1-1Gil;Gil2-1Tra;Gil2-0Tra
+Cheltenham,Crawley Town,3,3.0,0.67,0.33,Cra2-0Che;Che3-0Cra;Cra1-3Che
 Accrington,Barnet,3,2.0,0.33,0.33,Bar2-0Acc;Acc0-1Bar;Bar2-1Acc
-Fleetwood Town,Shrewsbury,3,3.33,0.67,0.67,Fle3-1Shr;Shr2-2Fle;Fle2-0Shr
-Accrington,Crawley Town,5,3.6,0.6,0.8,Cra3-1Acc;Acc0-1Cra;Cra1-1Acc;Acc3-3Cra;Acc3-2Cra
-Exeter,Walsall,3,2.0,0.33,0.33,Exe2-2Wal;Wal0-2Exe;Exe0-0Wal
-Newport County,Northampton,5,1.6,0.2,0.2,New0-1Nor;Nor1-0New;Nor1-1New;New3-0Nor;Nor1-0New
-Port Vale,Salford,5,1.6,0.2,0.2,Por0-1Sal;Sal0-1Por;Sal0-2Por;Por2-1Sal;Sal1-0Por
-Gillingham,Rochdale,3,2.67,0.33,0.33,Gil1-0Roc;Roc0-2Gil;Roc1-4Gil
-Barnet,Chesterfield,3,3.67,0.67,0.67,Che3-1Bar;Bar1-0Che;Che3-3Bar
-Colchester,Swindon,11,2.55,0.55,0.45,Col4-0Swi;Swi3-2Col;Swi0-0Col;Col3-0Swi;Swi3-1Col
-Oldham,Tranmere,5,2.6,0.4,0.4,Old0-1Tra;Tra2-0Old;Old3-1Tra;Tra1-3Old;Tra2-0Old
 Cheltenham,Grimsby,5,4.2,0.6,0.8,Gri3-2Che;Che1-1Gri;Gri7-1Che;Che0-2Gri;Che2-2Gri
-Accrington,Grimsby,7,3.0,0.43,0.57,Gri5-2Acc;Acc3-2Gri;Acc1-1Gri;Gri1-0Acc;Acc2-2Gri
+Fleetwood Town,Shrewsbury,3,3.33,0.67,0.67,Fle3-1Shr;Shr2-2Fle;Fle2-0Shr
+Exeter,Walsall,3,2.0,0.33,0.33,Exe2-2Wal;Wal0-2Exe;Exe0-0Wal
+Gillingham,Rochdale,3,2.67,0.33,0.33,Gil1-0Roc;Roc0-2Gil;Roc1-4Gil
+Colchester,Swindon,11,2.55,0.55,0.45,Col4-0Swi;Swi3-2Col;Swi0-0Col;Col3-0Swi;Swi3-1Col
+Accrington,Crawley Town,5,3.6,0.6,0.8,Cra3-1Acc;Acc0-1Cra;Cra1-1Acc;Acc3-3Cra;Acc3-2Cra
+Newport County,Northampton,5,1.6,0.2,0.2,New0-1Nor;Nor1-0New;Nor1-1New;New3-0Nor;Nor1-0New
+Oldham,Tranmere,5,2.6,0.4,0.4,Old0-1Tra;Tra2-0Old;Old3-1Tra;Tra1-3Old;Tra2-0Old
+Port Vale,Salford,5,1.6,0.2,0.2,Por0-1Sal;Sal0-1Por;Sal0-2Por;Por2-1Sal;Sal1-0Por
+Barnet,Chesterfield,3,3.67,0.67,0.67,Che3-1Bar;Bar1-0Che;Che3-3Bar
+Bristol Rvs,Colchester,5,1.6,0.0,0.4,Col1-1Bri;Bri1-0Col;Col1-1Bri;Bri0-1Col;Bri2-0Col
 Fleetwood Town,Oldham,3,2.0,0.0,1.0,Fle1-1Old;Old1-1Fle;Fle1-1Old
-Crawley Town,Northampton,5,1.8,0.2,0.4,Cra0-0Nor;Nor0-1Cra;Cra2-3Nor;Nor1-0Cra;Nor1-1Cra
+Chesterfield,Gillingham,5,2.2,0.2,0.6,Gil1-0Che;Che1-1Gil;Gil4-1Che;Che1-0Gil;Che1-1Gil
+Crewe,Walsall,9,2.11,0.33,0.33,Wal1-1Cre;Cre0-1Wal;Wal1-0Cre;Cre0-3Wal;Cre2-2Wal
 Newport County,Salford,11,2.91,0.64,0.64,New3-1Sal;Sal1-1New;New0-1Sal;Sal1-3New;Sal2-1New
 Port Vale,Swindon,5,4.0,1.0,1.0,Swi1-2Por;Por1-3Swi;Por2-1Swi;Swi3-3Por;Swi3-1Por
-Bristol Rvs,Colchester,5,1.6,0.0,0.4,Col1-1Bri;Bri1-0Col;Col1-1Bri;Bri0-1Col;Bri2-0Col
-Crewe,Walsall,9,2.11,0.33,0.33,Wal1-1Cre;Cre0-1Wal;Wal1-0Cre;Cre0-3Wal;Cre2-2Wal
-Chesterfield,Gillingham,5,2.2,0.2,0.6,Gil1-0Che;Che1-1Gil;Gil4-1Che;Che1-0Gil;Che1-1Gil
-Oldham,Swindon,5,2.8,0.8,0.4,Old1-3Swi;Swi1-0Old;Old1-2Swi;Swi3-0Old;Old3-0Swi
-Barnet,Cheltenham,3,1.67,0.33,0.33,Che0-1Bar;Bar0-0Che;Bar2-2Che
+Accrington,Grimsby,7,3.0,0.43,0.57,Gri5-2Acc;Acc3-2Gri;Acc1-1Gri;Gri1-0Acc;Acc2-2Gri
+Crawley Town,Northampton,5,1.8,0.2,0.4,Cra0-0Nor;Nor0-1Cra;Cra2-3Nor;Nor1-0Cra;Nor1-1Cra
+Newport County,Tranmere,11,3.45,0.82,0.91,Tra2-1New;New1-4Tra;Tra1-1New;New3-1Tra;New2-2Tra
 Gillingham,Northampton,3,2.33,0.33,0.67,Gil0-2Nor;Nor2-1Gil;Gil1-1Nor
-Colchester,Rochdale,5,1.8,0.2,0.6,Roc1-1Col;Col1-1Roc;Col0-1Roc;Roc1-2Col;Col1-0Roc
-Bristol Rvs,Crawley Town,5,2.8,0.6,0.4,Bri1-0Cra;Cra1-2Bri;Cra4-0Bri;Bri3-1Cra;Cra0-2Bri
+Barnet,Cheltenham,3,1.67,0.33,0.33,Che0-1Bar;Bar0-0Che;Bar2-2Che
 Salford,Shrewsbury,3,2.67,0.67,0.67,Shr1-3Sal;Sal1-2Shr;Shr1-0Sal
 Fleetwood Town,Grimsby,5,2.0,0.4,0.4,Fle1-0Gri;Gri2-1Fle;Fle0-1Gri;Gri1-0Fle;Gri2-2Fle
+Bristol Rvs,Crawley Town,5,2.8,0.6,0.4,Bri1-0Cra;Cra1-2Bri;Cra4-0Bri;Bri3-1Cra;Cra0-2Bri
+Colchester,Rochdale,5,1.8,0.2,0.6,Roc1-1Col;Col1-1Roc;Col0-1Roc;Roc1-2Col;Col1-0Roc
 Crewe,Port Vale,3,1.0,0.0,0.33,Por1-1Cre;Cre0-1Por;Por0-0Cre
 Accrington,Walsall,7,2.29,0.57,0.57,Acc0-0Wal;Wal0-1Acc;Acc1-3Wal;Wal0-0Acc;Wal3-2Acc
-Newport County,Tranmere,11,3.45,0.82,0.91,Tra2-1New;New1-4Tra;Tra1-1New;New3-1Tra;New2-2Tra
-Cheltenham,Swindon,5,3.4,0.6,0.6,Che2-3Swi;Swi3-3Che;Swi0-1Che;Che0-2Swi;Swi2-1Che
-Colchester,Oldham,5,2.8,0.6,1.0,Old1-2Col;Col1-1Old;Old1-1Col;Col1-3Old;Col2-1Old
+Oldham,Swindon,5,2.8,0.8,0.4,Old1-3Swi;Swi1-0Old;Old1-2Swi;Swi3-0Old;Old3-0Swi
+Port Vale,Tranmere,5,1.2,0.0,0.6,Por0-0Tra;Tra1-1Por;Por0-0Tra;Tra1-1Por;Por1-1Tra
 Crawley Town,Rochdale,5,1.8,0.2,0.4,Roc0-1Cra;Cra1-0Roc;Roc1-1Cra;Cra2-0Roc;Roc1-2Cra
+Fleetwood Town,Gillingham,5,1.6,0.4,0.6,Fle0-0Gil;Gil1-2Fle;Fle2-1Gil;Gil1-1Fle;Fle0-0Gil
+Colchester,Oldham,5,2.8,0.6,1.0,Old1-2Col;Col1-1Old;Old1-1Col;Col1-3Old;Col2-1Old
+Bristol Rvs,Newport County,5,4.2,0.8,0.6,Bri1-3New;New1-0Bri;New2-3Bri;Bri3-0New;Bri5-3New
+Chesterfield,Salford,5,2.0,0.2,0.2,Che1-1Sal;Sal0-4Che;Che2-0Sal;Sal0-1Che;Sal0-1Che
 Barnet,Shrewsbury,3,2.67,0.67,0.67,Bar1-3Shr;Shr0-0Bar;Shr1-3Bar
 Grimsby,Walsall,9,3.11,0.56,0.78,Gri1-4Wal;Wal1-3Gri;Wal0-1Gri;Gri2-2Wal;Wal0-0Gri
-Fleetwood Town,Gillingham,5,1.6,0.4,0.6,Fle0-0Gil;Gil1-2Fle;Fle2-1Gil;Gil1-1Fle;Fle0-0Gil
 Crewe,Northampton,3,2.0,0.33,0.33,Cre2-2Nor;Nor1-0Cre;Cre1-0Nor
-Chesterfield,Salford,5,2.0,0.2,0.2,Che1-1Sal;Sal0-4Che;Che2-0Sal;Sal0-1Che;Sal0-1Che
-Bristol Rvs,Newport County,5,4.2,0.8,0.6,Bri1-3New;New1-0Bri;New2-3Bri;Bri3-0New;Bri5-3New
-Port Vale,Tranmere,5,1.2,0.0,0.6,Por0-0Tra;Tra1-1Por;Por0-0Tra;Tra1-1Por;Por1-1Tra
-Chesterfield,Fleetwood Town,5,2.0,0.2,0.4,Fle2-0Che;Che3-0Fle;Che1-1Fle;Fle1-1Che;Che0-1Fle
-Oldham,Port Vale,3,4.0,0.67,0.67,Old3-2Por;Por3-2Old;Old2-0Por
-Newport County,Rochdale,5,2.2,0.4,0.2,Roc3-0New;New0-2Roc;New0-1Roc;Roc1-1New;New3-0Roc
-Gillingham,Walsall,9,2.11,0.33,0.44,Wal1-1Gil;Gil0-0Wal;Gil1-0Wal;Wal2-2Gil;Gil0-3Wal
+Cheltenham,Swindon,5,3.4,0.6,0.6,Che2-3Swi;Swi3-3Che;Swi0-1Che;Che0-2Swi;Swi2-1Che
 Crawley Town,Crewe,7,2.14,0.29,0.29,Cra2-4Cre;Cre1-0Cra;Cre1-0Cra;Cra0-1Cre;Cra0-1Cre
-Shrewsbury,Tranmere,3,2.33,0.33,0.0,Tra4-0Shr;Shr1-0Tra;Tra2-0Shr
-Barnet,Salford,3,3.33,0.67,0.67,Bar1-3Sal;Sal2-0Bar;Bar3-1Sal
 Northampton,Swindon,5,3.0,0.6,0.8,Nor1-1Swi;Swi5-2Nor;Swi1-2Nor;Nor1-2Swi;Nor0-0Swi
+Oldham,Port Vale,3,4.0,0.67,0.67,Old3-2Por;Por3-2Old;Old2-0Por
+Chesterfield,Fleetwood Town,5,2.0,0.2,0.4,Fle2-0Che;Che3-0Fle;Che1-1Fle;Fle1-1Che;Che0-1Fle
+Barnet,Salford,3,3.33,0.67,0.67,Bar1-3Sal;Sal2-0Bar;Bar3-1Sal
 Accrington,Colchester,7,2.14,0.29,0.57,Acc1-1Col;Col0-2Acc;Acc1-0Col;Col2-1Acc;Acc2-2Col
+Shrewsbury,Tranmere,3,2.33,0.33,0.0,Tra4-0Shr;Shr1-0Tra;Tra2-0Shr
+Gillingham,Walsall,9,2.11,0.33,0.44,Wal1-1Gil;Gil0-0Wal;Gil1-0Wal;Wal2-2Gil;Gil0-3Wal
+Newport County,Rochdale,5,2.2,0.4,0.2,Roc3-0New;New0-2Roc;New0-1Roc;Roc1-1New;New3-0Roc
 Barrow,Newport County,10,2.2,0.4,0.5,Bar1-0New;Bar2-0New;New1-0Bar;New2-2Bar;Bar1-2New
-Chesterfield,Swindon,4,2.25,0.5,0.75,Che1-1Swi;Swi1-0Che;Che1-2Swi;Swi1-2Che
 Fleetwood Town,Milton Keynes Dons,4,3.5,0.75,1.0,Fle2-1Mil;Mil2-4Fle;Mil2-1Fle;Fle1-1Mil
-Barnet,Harrogate,2,2.5,0.5,1.0,Bar1-1Har;Har1-2Bar
 Grimsby,Tranmere,8,2.5,0.5,0.75,Gri1-2Tra;Tra0-1Gri;Gri1-1Tra;Gri1-2Tra;Tra1-1Gri
-Bromley,Walsall,4,4.0,1.0,1.0,Wal2-2Bro;Bro2-2Wal;Wal3-1Bro;Bro3-1Wal
-Bristol Rvs,Notts County,2,1.5,0.0,0.5,Bri0-1Not;Not1-1Bri
 Cambridge,Crewe,2,1.5,0.5,0.5,Cam2-1Cre;Cre0-0Cam
-Colchester,Notts County,6,3.0,0.33,0.5,Not1-0Col;Not1-1Col;Col1-0Not;Not1-3Col;Col0-1Not
-Bristol Rvs,Cheltenham,2,2.5,0.5,0.0,Che1-0Bri;Bri4-0Che
-Grimsby,Swindon,8,3.62,0.88,0.5,Gri2-0Swi;Swi3-1Gri;Gri0-4Swi;Swi2-2Gri;Gri4-0Swi
+Chesterfield,Swindon,4,2.25,0.5,0.75,Che1-1Swi;Swi1-0Che;Che1-2Swi;Swi1-2Che
+Bristol Rvs,Notts County,2,1.5,0.0,0.5,Bri0-1Not;Not1-1Bri
+Barnet,Harrogate,2,2.5,0.5,1.0,Bar1-1Har;Har1-2Bar
+Bromley,Walsall,4,4.0,1.0,1.0,Wal2-2Bro;Bro2-2Wal;Wal3-1Bro;Bro3-1Wal
 Barrow,Cambridge,2,2.5,0.5,0.0,Bar0-2Cam;Cam3-0Bar
 Newport County,Oldham,4,3.75,0.75,0.5,Old0-1New;New3-3Old;Old3-0New;New3-2Old
+Bristol Rvs,Cheltenham,2,2.5,0.5,0.0,Che1-0Bri;Bri4-0Che
 Harrogate,Walsall,10,2.6,0.4,0.4,Har0-2Wal;Har0-2Wal;Wal2-2Har;Har0-2Wal;Wal0-2Har
+Colchester,Notts County,6,3.0,0.33,0.5,Not1-0Col;Not1-1Col;Col1-0Not;Not1-3Col;Col0-1Not
 Barnet,Gillingham,2,5.0,0.5,1.0,Gil1-1Bar;Bar6-2Gil
 Milton Keynes Dons,Tranmere,6,2.5,0.5,0.67,Tra1-2Mil;Mil1-1Tra;Tra1-1Mil;Tra2-2Mil;Mil3-0Tra
+Grimsby,Swindon,8,3.62,0.88,0.5,Gri2-0Swi;Swi3-1Gri;Gri0-4Swi;Swi2-2Gri;Gri4-0Swi
 Bromley,Salford,4,3.75,0.5,0.5,Sal3-3Bro;Bro2-3Sal;Bro2-0Sal;Sal2-0Bro
 Cambridge,Grimsby,2,2.5,0.5,1.0,Gri1-1Cam;Cam1-2Gri
-Bristol Rvs,Tranmere,4,3.5,0.75,1.0,Bri2-2Tra;Tra1-1Bri;Bri1-4Tra;Tra1-2Bri
-Barrow,Walsall,10,2.4,0.4,0.6,Wal1-1Bar;Wal1-0Bar;Bar2-0Wal;Wal1-2Bar;Bar1-3Wal
-Colchester,Harrogate,10,2.1,0.5,0.5,Har1-0Col;Col0-1Har;Har0-0Col;Col3-1Har;Har1-0Col
-Crewe,Milton Keynes Dons,6,3.17,0.67,0.83,Mil3-1Cre;Mil1-1Cre;Cre0-1Mil;Mil3-1Cre;Cre1-3Mil
 Barnet,Notts County,2,2.0,0.5,0.5,Bar0-1Not;Not1-2Bar
+Barrow,Walsall,10,2.4,0.4,0.6,Wal1-1Bar;Wal1-0Bar;Bar2-0Wal;Wal1-2Bar;Bar1-3Wal
+Crewe,Milton Keynes Dons,6,3.17,0.67,0.83,Mil3-1Cre;Mil1-1Cre;Cre0-1Mil;Mil3-1Cre;Cre1-3Mil
+Bristol Rvs,Tranmere,4,3.5,0.75,1.0,Bri2-2Tra;Tra1-1Bri;Bri1-4Tra;Tra1-2Bri
+Colchester,Harrogate,10,2.1,0.5,0.5,Har1-0Col;Col0-1Har;Har0-0Col;Col3-1Har;Har1-0Col
 Bromley,Cambridge,2,1.5,0.5,0.5,Cam2-1Bro;Bro0-0Cam
-Barrow,Oldham,4,2.0,0.5,0.25,Old0-3Bar;Bar0-0Old;Old0-0Bar;Bar3-2Old
-Cheltenham,Gillingham,4,2.75,0.5,1.0,Gil2-2Che;Che1-1Gil;Gil1-1Che;Che2-1Gil
 Chesterfield,Grimsby,4,2.25,0.5,0.75,Che2-1Gri;Gri1-1Che;Gri0-1Che;Che2-1Gri
-Crewe,Grimsby,8,3.12,0.62,0.38,Cre0-3Gri;Gri0-2Cre;Cre2-0Gri;Cre3-2Gri;Gri3-2Cre
-Oldham,Shrewsbury,2,2.5,0.5,0.5,Old2-2Shr;Shr1-0Old
+Cheltenham,Gillingham,4,2.75,0.5,1.0,Gil2-2Che;Che1-1Gil;Gil1-1Che;Che2-1Gil
+Barrow,Oldham,4,2.0,0.5,0.25,Old0-3Bar;Bar0-0Old;Old0-0Bar;Bar3-2Old
 Cambridge,Notts County,2,3.0,0.5,0.0,Not2-0Cam;Cam4-0Not
-Harrogate,Newport County,10,3.5,0.9,0.5,Har1-4New;Har1-0New;New3-0Har;Har0-3New;New2-1Har
-Barnet,Barrow,2,4.5,1.0,1.0,Bar2-2Bar;Bar3-2Bar
-Accrington,Fleetwood Town,4,3.25,0.75,1.0,Fle1-1Acc;Acc1-4Fle;Fle2-1Acc;Acc1-2Fle
+Oldham,Shrewsbury,2,2.5,0.5,0.5,Old2-2Shr;Shr1-0Old
 Bromley,Milton Keynes Dons,4,2.25,0.5,0.75,Bro1-1Mil;Mil0-1Bro;Bro2-1Mil;Mil2-1Bro
-Gillingham,Salford,8,2.25,0.5,0.38,Sal0-2Gil;Gil1-0Sal;Sal2-2Gil;Gil1-2Sal;Sal0-0Gil
+Accrington,Fleetwood Town,4,3.25,0.75,1.0,Fle1-1Acc;Acc1-4Fle;Fle2-1Acc;Acc1-2Fle
 Cheltenham,Walsall,4,3.0,0.75,0.5,Wal2-1Che;Che2-2Wal;Che1-0Wal;Wal0-4Che
+Barnet,Barrow,2,4.5,1.0,1.0,Bar2-2Bar;Bar3-2Bar
+Harrogate,Newport County,10,3.5,0.9,0.5,Har1-4New;Har1-0New;New3-0Har;Har0-3New;New2-1Har
+Gillingham,Salford,8,2.25,0.5,0.38,Sal0-2Gil;Gil1-0Sal;Sal2-2Gil;Gil1-2Sal;Sal0-0Gil
+Crewe,Grimsby,8,3.12,0.62,0.38,Cre0-3Gri;Gri0-2Cre;Cre2-0Gri;Cre3-2Gri;Gri3-2Cre
 Bromley,Shrewsbury,2,1.5,0.5,0.5,Shr0-0Bro;Bro2-1Shr
-Cambridge,Cheltenham,2,1.5,0.0,0.5,Cam1-0Che;Che1-1Cam
 Bristol Rvs,Harrogate,4,2.5,0.5,0.25,Har0-1Bri;Bri3-0Har;Bri0-1Har;Har2-3Bri
-Colchester,Tranmere,10,2.1,0.2,0.4,Tra1-1Col;Col3-0Tra;Tra1-3Col;Col1-1Tra;Tra0-1Col
-Newport County,Notts County,6,2.5,0.5,0.5,New1-3Not;Not0-0New;New0-2Not;New1-1Not;Not3-1New
-Crewe,Salford,8,3.75,0.62,0.75,Cre2-3Sal;Cre1-1Sal;Sal1-1Cre;Sal1-3Cre;Cre1-0Sal
-Barrow,Chesterfield,4,1.0,0.0,0.0,Che1-0Bar;Bar0-1Che;Che1-0Bar;Bar0-1Che
+Cambridge,Cheltenham,2,1.5,0.0,0.5,Cam1-0Che;Che1-1Cam
 Milton Keynes Dons,Oldham,2,1.0,0.0,0.5,Mil0-0Old;Old1-1Mil
+Newport County,Notts County,6,2.5,0.5,0.5,New1-3Not;Not0-0New;New0-2Not;New1-1Not;Not3-1New
+Barrow,Chesterfield,4,1.0,0.0,0.0,Che1-0Bar;Bar0-1Che;Che1-0Bar;Bar0-1Che
+Colchester,Tranmere,10,2.1,0.2,0.4,Tra1-1Col;Col3-0Tra;Tra1-3Col;Col1-1Tra;Tra0-1Col
+Crewe,Salford,8,3.75,0.62,0.75,Cre2-3Sal;Cre1-1Sal;Sal1-1Cre;Sal1-3Cre;Cre1-0Sal
 Crawley Town,Newport County,8,3.25,0.75,0.75,New2-2Cra;Cra4-1New;New0-4Cra;Cra1-2New;New0-2Cra
-Notts County,Salford,6,3.0,0.83,0.67,Not1-2Sal;Sal3-0Not;Not1-3Sal;Not1-2Sal;Sal2-1Not
+Barnet,Bromley,2,3.0,0.5,0.5,Bro2-0Bar;Bar2-2Bro
 Barrow,Milton Keynes Dons,6,2.17,0.5,0.33,Bar1-0Mil;Bar2-1Mil;Mil0-3Bar;Bar0-2Mil;Mil0-0Bar
+Notts County,Salford,6,3.0,0.83,0.67,Not1-2Sal;Sal3-0Not;Not1-3Sal;Not1-2Sal;Sal2-1Not
 Grimsby,Harrogate,8,3.25,0.75,0.75,Har1-0Gri;Gri2-1Har;Har2-2Gri;Har3-3Gri;Gri1-3Har
 Accrington,Crewe,6,2.0,0.17,0.17,Acc0-0Cre;Acc0-1Cre;Cre0-1Acc;Cre2-0Acc;Acc2-0Cre
-Barnet,Bromley,2,3.0,0.5,0.5,Bro2-0Bar;Bar2-2Bro
 Cambridge,Swindon,2,3.5,0.5,1.0,Swi3-2Cam;Cam1-1Swi
+Barrow,Bromley,4,3.5,0.75,1.0,Bro1-1Bar;Bar3-3Bro;Bro2-1Bar;Bar2-1Bro
 Harrogate,Notts County,6,2.67,0.5,0.5,Not3-0Har;Not1-0Har;Har1-3Not;Not1-1Har;Har0-2Not
+Crawley Town,Gillingham,6,1.67,0.17,0.17,Gil1-0Cra;Cra0-1Gil;Gil0-2Cra;Gil2-2Cra;Cra2-0Gil
+Newport County,Shrewsbury,2,1.0,0.0,0.0,Shr1-0New;New1-0Shr
+Fleetwood Town,Swindon,4,3.0,0.5,0.75,Swi3-1Fle;Fle0-4Swi;Fle1-1Swi;Swi1-1Fle
+Crewe,Oldham,2,1.5,0.5,0.5,Old0-0Cre;Cre2-1Old
+Barnet,Cambridge,2,0.5,0.0,0.0,Cam0-0Bar;Bar1-0Cam
 Milton Keynes Dons,Salford,6,2.5,0.33,0.33,Mil3-1Sal;Sal1-0Mil;Mil0-1Sal;Mil2-0Sal;Sal1-0Mil
 Accrington,Bristol Rvs,2,3.0,0.5,0.5,Acc3-1Bri;Bri2-0Acc
-Fleetwood Town,Swindon,4,3.0,0.5,0.75,Swi3-1Fle;Fle0-4Swi;Fle1-1Swi;Swi1-1Fle
-Barnet,Cambridge,2,0.5,0.0,0.0,Cam0-0Bar;Bar1-0Cam
-Crewe,Oldham,2,1.5,0.5,0.5,Old0-0Cre;Cre2-1Old
-Crawley Town,Gillingham,6,1.67,0.17,0.17,Gil1-0Cra;Cra0-1Gil;Gil0-2Cra;Gil2-2Cra;Cra2-0Gil
-Barrow,Bromley,4,3.5,0.75,1.0,Bro1-1Bar;Bar3-3Bro;Bro2-1Bar;Bar2-1Bro
-Newport County,Shrewsbury,2,1.0,0.0,0.0,Shr1-0New;New1-0Shr
 Notts County,Oldham,2,3.5,1.0,0.5,Not3-1Old;Old3-0Not
-Bromley,Colchester,4,1.5,0.0,0.25,Col1-1Bro;Bro0-1Col;Col0-2Bro;Bro1-0Col
 Harrogate,Oldham,4,2.0,0.5,0.25,Old1-2Har;Har3-0Old;Har0-1Old;Old1-0Har
-Swindon,Tranmere,10,2.3,0.5,0.6,Swi3-1Tra;Tra1-1Swi;Swi3-1Tra;Swi2-1Tra;Tra0-1Swi
-Cheltenham,Notts County,4,5.25,1.0,1.0,Che3-5Not;Not1-2Che;Che1-2Not;Not5-2Che
+Bromley,Colchester,4,1.5,0.0,0.25,Col1-1Bro;Bro0-1Col;Col0-2Bro;Bro1-0Col
 Cambridge,Salford,2,0.5,0.0,0.0,Sal0-0Cam;Cam1-0Sal
-Crawley Town,Fleetwood Town,2,2.0,0.5,0.5,Cra2-1Fle;Fle1-0Cra
-Accrington,Chesterfield,4,2.75,0.5,0.25,Che0-3Acc;Acc0-1Che;Che3-3Acc;Acc0-1Che
 Barrow,Grimsby,8,3.0,0.75,0.5,Bar3-1Gri;Gri1-2Bar;Bar3-0Gri;Bar2-2Gri;Gri5-0Bar
-Newport County,Walsall,10,3.2,0.6,0.6,Wal0-3New;Wal2-0New;New0-0Wal;New2-4Wal;Wal2-1New
 Barnet,Milton Keynes Dons,2,4.0,1.0,1.0,Bar2-2Mil;Mil1-3Bar
+Accrington,Chesterfield,4,2.75,0.5,0.25,Che0-3Acc;Acc0-1Che;Che3-3Acc;Acc0-1Che
+Swindon,Tranmere,10,2.3,0.5,0.6,Swi3-1Tra;Tra1-1Swi;Swi3-1Tra;Swi2-1Tra;Tra0-1Swi
+Newport County,Walsall,10,3.2,0.6,0.6,Wal0-3New;Wal2-0New;New0-0Wal;New2-4Wal;Wal2-1New
+Crawley Town,Fleetwood Town,2,2.0,0.5,0.5,Cra2-1Fle;Fle1-0Cra
+Cheltenham,Notts County,4,5.25,1.0,1.0,Che3-5Not;Not1-2Che;Che1-2Not;Not5-2Che
 Colchester,Milton Keynes Dons,6,1.83,0.17,0.17,Mil1-0Col;Col2-0Mil;Mil0-1Col;Col1-0Mil;Mil1-0Col
 Barrow,Salford,10,3.0,0.5,0.7,Sal5-3Bar;Sal3-0Bar;Bar1-1Sal;Bar1-2Sal;Sal3-1Bar
-Cheltenham,Crewe,4,3.75,0.75,1.0,Che2-1Cre;Cre2-3Che;Cre4-1Che;Che1-1Cre
-Gillingham,Swindon,8,2.38,0.25,0.5,Gil2-2Swi;Swi1-1Gil;Gil1-1Swi;Swi2-0Gil;Gil0-2Swi
-Accrington,Notts County,6,3.0,0.67,0.33,Acc2-2Not;Not2-0Acc;Acc0-3Not;Not0-1Acc;Acc0-4Not
 Cambridge,Walsall,2,1.0,0.0,0.0,Cam2-0Wal;Wal0-0Cam
+Cheltenham,Crewe,4,3.75,0.75,1.0,Che2-1Cre;Cre2-3Che;Cre4-1Che;Che1-1Cre
 Harrogate,Tranmere,10,2.8,0.5,0.5,Har0-2Tra;Tra2-1Har;Har3-2Tra;Har0-2Tra;Tra0-3Har
 Bromley,Newport County,4,3.25,0.5,0.75,Bro5-2New;New1-1Bro;Bro2-1New;New0-1Bro
+Accrington,Notts County,6,3.0,0.67,0.33,Acc2-2Not;Not2-0Acc;Acc0-3Not;Not0-1Acc;Acc0-4Not
+Gillingham,Swindon,8,2.38,0.25,0.5,Gil2-2Swi;Swi1-1Gil;Gil1-1Swi;Swi2-0Gil;Gil0-2Swi
 Barnet,Crawley Town,2,2.5,0.5,1.0,Bar2-1Cra;Cra1-1Bar
-Cambridge,Gillingham,2,3.5,0.5,0.5,Gil1-1Cam;Cam5-0Gil
+Fleetwood Town,Tranmere,4,0.25,0.0,0.0,Tra0-0Fle;Fle0-0Tra;Tra1-0Fle;Fle0-0Tra
+Milton Keynes Dons,Swindon,6,2.67,0.67,0.67,Swi1-2Mil;Mil3-1Swi;Swi0-0Mil;Mil1-0Swi;Swi1-2Mil
 Barnet,Newport County,2,1.5,0.5,0.5,New0-0Bar;Bar1-2New
 Cheltenham,Shrewsbury,2,3.0,0.5,0.5,Che3-1Shr;Shr0-2Che
 Grimsby,Oldham,2,0.5,0.0,0.0,Gri0-0Old;Old1-0Gri
-Fleetwood Town,Tranmere,4,0.25,0.0,0.0,Tra0-0Fle;Fle0-0Tra;Tra1-0Fle;Fle0-0Tra
 Accrington,Barrow,6,1.67,0.17,0.5,Bar1-1Acc;Acc1-0Bar;Bar2-0Acc;Acc2-1Bar;Bar0-0Acc
-Harrogate,Salford,10,2.2,0.2,0.3,Sal2-2Har;Sal2-0Har;Har0-2Sal;Sal1-0Har;Har0-1Sal
 Chesterfield,Notts County,4,3.5,0.75,0.75,Che2-2Not;Not1-2Che;Che2-0Not;Not2-3Che
-Milton Keynes Dons,Swindon,6,2.67,0.67,0.67,Swi1-2Mil;Mil3-1Swi;Swi0-0Mil;Mil1-0Swi;Swi1-2Mil
 Bristol Rvs,Bromley,2,3.0,0.5,0.5,Bri2-3Bro;Bro1-0Bri
+Harrogate,Salford,10,2.2,0.2,0.3,Sal2-2Har;Sal2-0Har;Har0-2Sal;Sal1-0Har;Har0-1Sal
+Cambridge,Gillingham,2,3.5,0.5,0.5,Gil1-1Cam;Cam5-0Gil
 Colchester,Crawley Town,8,2.38,0.5,0.62,Cra0-0Col;Col1-2Cra;Cra2-3Col;Cra1-1Col;Col0-0Cra
 Gillingham,Milton Keynes Dons,6,3.17,0.67,0.67,Mil2-1Gil;Mil0-1Gil;Gil1-0Mil;Mil3-2Gil;Gil1-5Mil
 Barrow,Bristol Rvs,4,2.0,0.25,0.5,Bar1-1Bri;Bri1-0Bar;Bri2-1Bar;Bar0-2Bri
 Accrington,Cambridge,2,2.0,0.0,0.5,Cam2-0Acc;Acc1-1Cam
-Notts County,Walsall,6,3.0,0.83,0.83,Wal1-3Not;Wal3-2Not;Not1-2Wal;Not0-0Wal;Wal1-2Not
-Chesterfield,Shrewsbury,2,3.0,0.5,0.5,Shr0-1Che;Che2-3Shr
 Bromley,Grimsby,4,1.75,0.0,0.25,Gri1-0Bro;Bro0-2Gri;Bro2-0Gri;Gri1-1Bro
 Harrogate,Milton Keynes Dons,6,4.5,0.83,0.67,Har3-5Mil;Har1-5Mil;Mil2-1Har;Har0-4Mil;Mil4-1Har
 Crawley Town,Swindon,8,3.25,0.62,0.62,Swi2-1Cra;Swi6-0Cra;Cra3-1Swi;Swi1-0Cra;Cra2-2Swi
+Notts County,Walsall,6,3.0,0.83,0.83,Wal1-3Not;Wal3-2Not;Not1-2Wal;Not0-0Wal;Wal1-2Not
+Chesterfield,Shrewsbury,2,3.0,0.5,0.5,Shr0-1Che;Che2-3Shr
 Barrow,Cheltenham,4,3.75,1.0,1.0,Bar2-1Che;Che3-2Bar;Bar1-2Che;Che2-2Bar
-Grimsby,Salford,8,2.75,0.5,0.5,Sal0-3Gri;Sal1-2Gri;Gri0-1Sal;Sal0-2Gri;Gri3-1Sal
 Bromley,Oldham,2,0.5,0.0,0.0,Old1-0Bro;Bro0-0Old
-Grimsby,Notts County,6,4.17,0.5,0.5,Gri5-5Not;Not4-1Gri;Gri0-2Not;Gri0-2Not;Not0-1Gri
-Colchester,Salford,10,2.9,0.5,0.6,Sal1-1Col;Col1-2Sal;Sal4-1Col;Sal4-3Col;Col0-1Sal
+Grimsby,Salford,8,2.75,0.5,0.5,Sal0-3Gri;Sal1-2Gri;Gri0-1Sal;Sal0-2Gri;Gri3-1Sal
 Accrington,Bromley,4,2.75,0.75,0.5,Acc1-2Bro;Bro4-0Acc;Acc0-1Bro;Bro2-1Acc
-Cambridge,Milton Keynes Dons,2,2.0,0.0,1.0,Mil1-1Cam;Cam1-1Mil
-Crewe,Tranmere,8,2.5,0.5,0.38,Tra0-0Cre;Cre3-1Tra;Tra2-0Cre;Tra1-4Cre;Cre2-1Tra
 Shrewsbury,Walsall,2,2.5,0.5,1.0,Wal1-1Shr;Shr1-2Wal
+Colchester,Salford,10,2.9,0.5,0.6,Sal1-1Col;Col1-2Sal;Sal4-1Col;Sal4-3Col;Col0-1Sal
+Cambridge,Milton Keynes Dons,2,2.0,0.0,1.0,Mil1-1Cam;Cam1-1Mil
 Barrow,Gillingham,8,2.5,0.5,0.38,Gil3-0Bar;Gil2-0Bar;Bar3-0Gil;Gil2-2Bar;Bar0-1Gil
+Crewe,Tranmere,8,2.5,0.5,0.38,Tra0-0Cre;Cre3-1Tra;Tra2-0Cre;Tra1-4Cre;Cre2-1Tra
+Grimsby,Notts County,6,4.17,0.5,0.5,Gri5-5Not;Not4-1Gri;Gri0-2Not;Gri0-2Not;Not0-1Gri
 Cheltenham,Harrogate,4,1.75,0.0,0.5,Che1-0Har;Har2-0Che;Che1-1Har;Har1-1Che
 Milton Keynes Dons,Walsall,6,2.5,0.33,0.17,Mil5-0Wal;Mil1-0Wal;Wal4-2Mil;Mil0-1Wal;Wal0-2Mil
-Gillingham,Oldham,2,2.0,0.5,0.0,Old0-1Gil;Gil0-3Old
-Barnet,Colchester,2,3.5,0.5,1.0,Bar1-1Col;Col4-1Bar
-Accrington,Shrewsbury,2,1.0,0.0,0.0,Shr0-0Acc;Acc0-2Shr
-Cambridge,Newport County,2,2.0,0.0,0.0,Cam2-0New;New0-2Cam
-Barrow,Fleetwood Town,4,2.0,0.25,0.25,Bar2-0Fle;Fle0-0Bar;Bar0-1Fle;Fle3-2Bar
-Bromley,Harrogate,4,1.5,0.0,0.0,Har0-2Bro;Bro2-0Har;Bro2-0Har;Har0-0Bro
 Notts County,Tranmere,6,3.33,0.83,0.67,Tra4-2Not;Tra0-0Not;Not2-1Tra;Tra1-2Not;Not5-0Tra
+Barnet,Colchester,2,3.5,0.5,1.0,Bar1-1Col;Col4-1Bar
+Cambridge,Newport County,2,2.0,0.0,0.0,Cam2-0New;New0-2Cam
+Bromley,Harrogate,4,1.5,0.0,0.0,Har0-2Bro;Bro2-0Har;Bro2-0Har;Har0-0Bro
+Accrington,Shrewsbury,2,1.0,0.0,0.0,Shr0-0Acc;Acc0-2Shr
+Gillingham,Oldham,2,2.0,0.5,0.0,Old0-1Gil;Gil0-3Old
+Barrow,Fleetwood Town,4,2.0,0.25,0.25,Bar2-0Fle;Fle0-0Bar;Bar0-1Fle;Fle3-2Bar
 Bromley,Cheltenham,4,2.5,0.5,0.75,Che1-1Bro;Bro3-0Che;Che1-2Bro;Bro1-1Che
+Crawley Town,Milton Keynes Dons,4,1.75,0.25,0.5,Cra2-1Mil;Mil2-0Cra;Cra1-1Mil;Mil0-0Cra
+Crewe,Fleetwood Town,4,3.0,0.5,0.5,Fle0-1Cre;Cre1-4Fle;Fle1-4Cre;Cre0-1Fle
+Cambridge,Colchester,2,2.5,0.5,1.0,Col1-2Cam;Cam1-1Col
 Bristol Rvs,Oldham,4,1.5,0.25,0.25,Bri1-0Old;Old2-1Bri;Bri0-0Old;Old2-0Bri
 Notts County,Shrewsbury,2,3.0,0.5,0.5,Not4-1Shr;Shr1-0Not
-Crawley Town,Milton Keynes Dons,4,1.75,0.25,0.5,Cra2-1Mil;Mil2-0Cra;Cra1-1Mil;Mil0-0Cra
 Barrow,Harrogate,10,1.1,0.1,0.1,Bar0-0Har;Har0-1Bar;Bar0-2Har;Har1-0Bar;Bar0-1Har
-Cambridge,Colchester,2,2.5,0.5,1.0,Col1-2Cam;Cam1-1Col
 Accrington,Tranmere,6,2.83,0.33,0.5,Acc4-1Tra;Tra0-1Acc;Acc3-3Tra;Acc1-1Tra;Tra0-1Acc
-Crewe,Fleetwood Town,4,3.0,0.5,0.5,Fle0-1Cre;Cre1-4Fle;Fle1-4Cre;Cre0-1Fle
-Bromley,Notts County,4,3.5,0.5,1.0,Bro2-4Not;Not1-1Bro;Not2-2Bro;Bro1-1Not
-Crewe,Gillingham,8,1.38,0.12,0.25,Gil0-0Cre;Cre2-0Gil;Gil0-0Cre;Gil1-0Cre;Cre1-0Gil
-Shrewsbury,Swindon,2,3.5,1.0,1.0,Swi2-1Shr;Shr3-1Swi
-Milton Keynes Dons,Newport County,6,2.67,0.5,0.33,Mil3-0New;New6-3Mil;Mil0-0New;New1-2Mil;Mil1-0New
-Barrow,Colchester,10,2.5,0.3,0.5,Bar2-0Col;Bar1-1Col;Col0-0Bar;Col0-2Bar;Bar1-0Col
-Chesterfield,Harrogate,4,2.0,0.5,0.75,Har2-1Che;Che0-0Har;Har1-2Che;Che1-1Har
 Bristol Rvs,Cambridge,2,2.5,0.5,0.5,Bri1-0Cam;Cam3-1Bri
+Shrewsbury,Swindon,2,3.5,1.0,1.0,Swi2-1Shr;Shr3-1Swi
+Barrow,Colchester,10,2.5,0.3,0.5,Bar2-0Col;Bar1-1Col;Col0-0Bar;Col0-2Bar;Bar1-0Col
+Bromley,Notts County,4,3.5,0.5,1.0,Bro2-4Not;Not1-1Bro;Not2-2Bro;Bro1-1Not
+Chesterfield,Harrogate,4,2.0,0.5,0.75,Har2-1Che;Che0-0Har;Har1-2Che;Che1-1Har
+Milton Keynes Dons,Newport County,6,2.67,0.5,0.33,Mil3-0New;New6-3Mil;Mil0-0New;New1-2Mil;Mil1-0New
+Crewe,Gillingham,8,1.38,0.12,0.25,Gil0-0Cre;Cre2-0Gil;Gil0-0Cre;Gil1-0Cre;Cre1-0Gil
 Newport County,Swindon,10,2.3,0.5,0.4,New2-1Swi;Swi4-0New;New1-2Swi;New0-1Swi;Swi2-0New
 Barrow,Shrewsbury,2,1.5,0.5,0.5,Bar0-0Shr;Shr2-1Bar
 Cambridge,Crawley Town,2,3.5,1.0,0.5,Cam3-1Cra;Cra0-3Cam
-Barnet,Walsall,2,3.5,1.0,1.0,Bar1-2Wal;Wal1-3Bar
 Cheltenham,Milton Keynes Dons,4,4.0,0.75,0.5,Mil3-2Che;Che0-1Mil;Mil5-0Che;Che2-3Mil
-Barrow,Notts County,6,2.5,0.5,1.0,Not1-1Bar;Bar1-1Not;Not1-2Bar;Bar2-1Not;Not2-1Bar
-Bristol Rvs,Chesterfield,2,4.5,1.0,1.0,Che3-1Bri;Bri2-3Che
 Cambridge,Harrogate,2,2.5,0.5,1.0,Cam1-1Har;Har2-1Cam
 Bromley,Fleetwood Town,4,2.0,0.5,0.5,Fle0-0Bro;Bro1-0Fle;Bro2-2Fle;Fle1-2Bro
+Barnet,Walsall,2,3.5,1.0,1.0,Bar1-2Wal;Wal1-3Bar
+Bristol Rvs,Chesterfield,2,4.5,1.0,1.0,Che3-1Bri;Bri2-3Che
+Barrow,Notts County,6,2.5,0.5,1.0,Not1-1Bar;Bar1-1Not;Not1-2Bar;Bar2-1Not;Not2-1Bar
 Accrington,Salford,6,2.5,0.67,0.5,Acc3-0Sal;Acc0-2Sal;Sal1-2Acc;Sal2-1Acc;Acc1-0Sal
 Harrogate,Swindon,10,2.3,0.4,0.5,Swi1-1Har;Swi0-0Har;Har1-0Swi;Swi3-1Har;Har0-1Swi
 Gillingham,Notts County,6,2.17,0.5,0.5,Not1-3Gil;Not0-1Gil;Gil1-2Not;Gil1-0Not;Not1-0Gil
 Bristol Rvs,Walsall,4,2.25,0.5,0.5,Wal1-2Bri;Bri1-0Wal;Wal2-1Bri;Bri2-0Wal
-Bromley,Gillingham,4,3.75,1.0,0.75,Bro2-1Gil;Gil0-3Bro;Bro2-2Gil;Gil1-4Bro
-Cambridge,Oldham,2,2.0,0.5,0.0,Cam0-1Old;Old0-3Cam
-Salford,Tranmere,10,2.7,0.3,0.4,Sal1-5Tra;Tra0-0Sal;Sal2-0Tra;Sal3-1Tra;Tra0-2Sal
+Fleetwood Town,Notts County,4,3.0,0.75,0.75,Not2-2Fle;Fle2-2Not;Not1-0Fle;Fle1-2Not
 Grimsby,Milton Keynes Dons,6,2.67,0.5,0.67,Gri1-0Mil;Gri1-3Mil;Mil0-0Gri;Mil2-3Gri;Gri2-2Mil
+Bromley,Gillingham,4,3.75,1.0,0.75,Bro2-1Gil;Gil0-3Bro;Bro2-2Gil;Gil1-4Bro
+Salford,Tranmere,10,2.7,0.3,0.4,Sal1-5Tra;Tra0-0Sal;Sal2-0Tra;Sal3-1Tra;Tra0-2Sal
+Cambridge,Oldham,2,2.0,0.5,0.0,Cam0-1Old;Old0-3Cam
 Barrow,Swindon,10,2.3,0.4,0.4,Bar0-2Swi;Bar1-1Swi;Swi2-0Bar;Bar1-3Swi;Swi3-1Bar
 Chesterfield,Walsall,4,3.25,0.75,0.75,Che2-2Wal;Wal3-1Che;Wal1-0Che;Che2-2Wal
 Crawley Town,Harrogate,8,2.62,0.62,0.62,Cra3-1Har;Cra2-1Har;Har1-2Cra;Har0-1Cra;Cra2-0Har
-Fleetwood Town,Notts County,4,3.0,0.75,0.75,Not2-2Fle;Fle2-2Not;Not1-0Fle;Fle1-2Not
 Bromley,Crewe,4,3.25,0.75,0.75,Bro1-2Cre;Cre4-1Bro;Cre0-1Bro;Bro2-2Cre
-Cambridge,Shrewsbury,2,1.5,0.0,0.0,Shr2-0Cam;Cam1-0Shr
-Colchester,Grimsby,8,2.12,0.38,0.38,Col2-0Gri;Gri0-1Col;Col1-2Gri;Gri1-2Col;Col0-1Gri
-Notts County,Swindon,6,3.17,0.83,0.83,Swi2-1Not;Swi1-2Not;Not2-0Swi;Swi2-2Not;Not2-1Swi
-Crawley Town,Walsall,8,1.5,0.12,0.62,Cra0-0Wal;Wal1-1Cra;Cra1-1Wal;Cra1-1Wal;Wal0-0Cra
-Bristol Rvs,Milton Keynes Dons,2,2.5,0.5,0.0,Bri0-4Mil;Mil1-0Bri
 Fleetwood Town,Harrogate,4,3.5,0.75,1.0,Fle1-1Har;Har3-1Fle;Fle3-2Har;Har1-2Fle
+Cambridge,Shrewsbury,2,1.5,0.0,0.0,Shr2-0Cam;Cam1-0Shr
+Crawley Town,Walsall,8,1.5,0.12,0.62,Cra0-0Wal;Wal1-1Cra;Cra1-1Wal;Cra1-1Wal;Wal0-0Cra
+Notts County,Swindon,6,3.17,0.83,0.83,Swi2-1Not;Swi1-2Not;Not2-0Swi;Swi2-2Not;Not2-1Swi
+Bristol Rvs,Milton Keynes Dons,2,2.5,0.5,0.0,Bri0-4Mil;Mil1-0Bri
+Colchester,Grimsby,8,2.12,0.38,0.38,Col2-0Gri;Gri0-1Col;Col1-2Gri;Gri1-2Col;Col0-1Gri
 Milton Keynes Dons,Shrewsbury,2,4.5,1.0,1.0,Shr1-2Mil;Mil5-1Shr
 Colchester,Fleetwood Town,4,3.0,0.75,0.5,Fle0-0Col;Col3-0Fle;Fle4-2Col;Col2-1Fle
 Cambridge,Tranmere,2,3.0,0.5,0.5,Tra0-0Cam;Cam4-2Tra
-Bromley,Swindon,4,2.0,0.25,0.5,Bro1-1Swi;Swi0-1Bro;Swi2-0Bro;Bro2-1Swi
-Barrow,Crawley Town,8,1.75,0.25,0.25,Bar4-0Cra;Bar1-0Cra;Cra1-1Bar;Cra1-2Bar;Bar0-1Cra
-Gillingham,Harrogate,8,2.25,0.38,0.38,Har5-1Gil;Gil1-2Har;Har1-1Gil;Gil0-1Har;Har0-3Gil
 Crewe,Notts County,6,1.83,0.33,0.33,Not1-3Cre;Cre2-0Not;Not0-0Cre;Cre2-1Not;Not1-0Cre
+Bromley,Swindon,4,2.0,0.25,0.5,Bro1-1Swi;Swi0-1Bro;Swi2-0Bro;Bro2-1Swi
+Gillingham,Harrogate,8,2.25,0.38,0.38,Har5-1Gil;Gil1-2Har;Har1-1Gil;Gil0-1Har;Har0-3Gil
+Barrow,Crawley Town,8,1.75,0.25,0.25,Bar4-0Cra;Bar1-0Cra;Cra1-1Bar;Cra1-2Bar;Bar0-1Cra
+Crawley Town,Notts County,4,3.5,1.0,0.75,Not3-1Cra;Cra2-1Not;Not4-0Cra;Cra1-2Not
 Harrogate,Shrewsbury,2,1.5,0.0,0.0,Har2-0Shr;Shr1-0Har
 Bromley,Chesterfield,4,2.75,0.75,0.5,Bro2-2Che;Che3-0Bro;Bro2-2Che;Che0-0Bro
 Accrington,Milton Keynes Dons,6,2.33,0.5,0.5,Mil2-1Acc;Mil2-1Acc;Acc2-0Mil;Mil1-2Acc;Acc0-2Mil
 Barnet,Grimsby,2,2.0,0.5,0.0,Bar3-0Gri;Gri1-0Bar
-Cambridge,Fleetwood Town,2,3.0,1.0,1.0,Cam2-1Fle;Fle1-2Cam
-Crawley Town,Notts County,4,3.5,1.0,0.75,Not3-1Cra;Cra2-1Not;Not4-0Cra;Cra1-2Not
 Barrow,Crewe,8,2.88,0.75,0.38,Bar1-3Cre;Bar1-0Cre;Cre3-0Bar;Bar1-0Cre;Cre3-1Bar
-Bromley,Tranmere,4,3.5,0.75,0.75,Bro1-2Tra;Tra2-1Bro;Bro3-3Tra;Tra0-2Bro
+Cambridge,Fleetwood Town,2,3.0,1.0,1.0,Cam2-1Fle;Fle1-2Cam
 Crewe,Harrogate,8,2.25,0.5,0.5,Cre0-0Har;Cre3-0Har;Har1-1Cre;Har1-2Cre;Cre1-1Har
+Bromley,Tranmere,4,3.5,0.75,0.75,Bro1-2Tra;Tra2-1Bro;Bro3-3Tra;Tra0-2Bro
 Chesterfield,Milton Keynes Dons,4,3.0,0.75,0.75,Mil3-0Che;Che1-2Mil;Che1-1Mil;Mil2-2Che
-Crewe,Newport County,8,3.38,0.75,0.75,New1-1Cre;New2-1Cre;Cre0-3New;Cre2-2New;New2-0Cre
-Accrington,Harrogate,6,3.0,0.67,0.67,Har2-1Acc;Acc3-3Har;Har2-1Acc;Har0-2Acc;Acc1-0Har
 Barrow,Tranmere,10,2.1,0.4,0.5,Bar1-0Tra;Tra1-1Bar;Bar0-0Tra;Bar0-3Tra;Tra1-3Bar
 Colchester,Gillingham,8,1.62,0.12,0.25,Col0-1Gil;Col2-0Gil;Gil1-1Col;Col0-0Gil;Gil1-1Col
-Bromley,Crawley Town,2,4.0,1.0,1.0,Bro3-1Cra;Cra1-3Bro
 Cambridge,Chesterfield,2,1.5,0.0,0.5,Cam1-1Che;Che0-1Cam
+Accrington,Harrogate,6,3.0,0.67,0.67,Har2-1Acc;Acc3-3Har;Har2-1Acc;Har0-2Acc;Acc1-0Har
 Milton Keynes Dons,Notts County,6,3.33,0.5,0.67,Not3-3Mil;Mil0-2Not;Not3-0Mil;Not3-2Mil;Mil1-1Not
+Bromley,Crawley Town,2,4.0,1.0,1.0,Bro3-1Cra;Cra1-3Bro
+Crewe,Newport County,8,3.38,0.75,0.75,New1-1Cre;New2-1Cre;Cre0-3New;Cre2-2New;New2-0Cre
 Bromley,Port Vale,2,2.5,0.5,0.0,Bro0-0Por;Por5-0Bro
 Barrow,Port Vale,4,3.0,0.75,0.5,Por3-1Bar;Bar1-2Por;Bar4-0Por;Por0-1Bar
 Milton Keynes Dons,Port Vale,2,2.0,0.5,0.0,Mil0-1Por;Por3-0Mil
@@ -332,7 +333,6 @@ Bristol Rvs,Rochdale,2,6.5,1.0,1.0,Bri4-2Roc;Roc3-4Bri
 Barrow,Exeter,2,1.5,0.5,0.5,Bar0-0Exe;Exe2-1Bar
 Exeter,Rochdale,2,2.0,0.0,0.5,Roc1-1Exe;Exe2-0Roc
 Bristol Rvs,Port Vale,2,3.5,1.0,1.0,Bri1-2Por;Por1-3Bri
-Northampton,Oldham,2,2.5,0.5,0.5,Nor2-1Old;Old0-2Nor
 Exeter,Newport County,2,2.5,0.5,0.5,Exe2-2New;New0-1Exe
 Exeter,Oldham,2,2.5,0.5,0.5,Exe2-1Old;Old0-2Exe
 Bristol Rvs,Northampton,2,2.0,0.5,0.5,Bri2-1Nor;Nor0-1Bri

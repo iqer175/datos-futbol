@@ -1,3 +1,6 @@
 Variante congelada O/U xG  (alpha=0.0, w_motor=0.2, congelada 2026-11-04)
-Partidos evaluados desde 2026-11-04: 0
-Aun no hay partidos nuevos con resultado. ESTADO: EN ESPERA (fase 1).
+Partidos evaluados desde 2026-11-04: 3
+log-loss  mezcla 0.6415   apertura 0.6479   motor_xg solo 0.6184
+diferencia mezcla - apertura -0.0063  IC95 [-0.0063, -0.0063]
+apuestas hipoteticas (valor > 0 %): 0, demasiado pocas
+ESTADO: EN ESPERA (fase 1): faltan 997 partidos para decidir

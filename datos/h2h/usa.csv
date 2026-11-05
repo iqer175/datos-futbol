@@ -46,7 +46,7 @@ New York Red Bulls,Toronto FC,13,2.62,0.46,0.54,Tor1-4New;New2-1Tor;Tor1-1New;To
 DC United,Orlando City,12,4.0,0.75,0.83,Orl5-0DC ;Orl4-1DC ;DC 1-1Orl;DC 3-2Orl;Orl4-1DC 
 Chicago Fire,New England Revolution,13,3.15,0.62,0.77,Chi0-1New;Chi3-2New;New2-2Chi;Chi1-2New;New1-0Chi
 Real Salt Lake,Sporting Kansas City,14,3.14,0.64,0.64,Spo3-4Rea;Spo1-1Rea;Rea2-1Spo;Rea3-1Spo;Spo1-3Rea
-Colorado Rapids,Portland Timbers,14,2.43,0.5,0.36,Col2-1Por;Col0-3Por;Por2-1Col;Col2-0Por;Por0-0Col
+Colorado Rapids,Portland Timbers,13,2.54,0.54,0.38,Col2-1Por;Col0-3Por;Por2-1Col;Col2-0Por;Por0-0Col
 CF Montreal,Seattle Sounders,3,3.33,0.67,0.67,Sea1-2CF ;Sea5-0CF ;Sea1-1CF 
 Austin FC,Vancouver Whitecaps,12,2.25,0.58,0.5,Aus0-1Van;Van5-1Aus;Aus0-0Van;Van1-2Aus;Aus1-2Van
 Los Angeles FC,New York City,3,2.0,0.33,0.67,Los1-2New;Los1-0New;New1-1Los
@@ -74,7 +74,7 @@ Austin FC,Los Angeles FC,16,2.81,0.56,0.56,Aus1-0Los;Los2-1Aus;Aus1-4Los;Aus0-0L
 Los Angeles Galaxy,St. Louis City,8,4.5,0.88,0.88,St.2-1Los;Los0-3St.;St.3-3Los;Los1-3St.;St.6-2Los
 DC United,Inter Miami,12,3.25,0.75,0.67,Int1-0DC ;DC 1-1Int;Int3-2DC ;DC 1-2Int;Int4-0DC 
 New England Revolution,Seattle Sounders,2,2.5,0.5,0.0,Sea2-0New;New0-3Sea
-Columbus Crew,Orlando City,14,3.64,0.64,0.79,Col4-3Orl;Col1-3Orl;Orl1-1Col;Col1-1Orl;Orl3-2Col
+Columbus Crew,Orlando City,13,3.69,0.62,0.77,Col4-3Orl;Col1-3Orl;Orl1-1Col;Col1-1Orl;Orl3-2Col
 Philadelphia Union,Real Salt Lake,2,3.0,1.0,1.0,Phi1-2Rea;Phi2-1Rea
 Atlanta Utd,FC Cincinnati,13,3.08,0.69,0.69,FC 1-0Atl;FC 2-2Atl;Atl4-2FC ;FC 2-0Atl;Atl1-3FC 
 Los Angeles FC,Vancouver Whitecaps,19,2.89,0.58,0.68,Van2-2Los;Los0-1Van;Van2-2Los;Van1-1Los;Los1-1Van
@@ -109,7 +109,7 @@ CF Montreal,Columbus Crew,12,2.75,0.67,0.75,CF 1-3Col;Col2-1CF ;CF 1-1Col;Col1-2
 Charlotte,DC United,10,2.4,0.7,0.3,DC 0-3Cha;Cha2-1DC ;DC 0-1Cha;Cha3-1DC ;DC 1-2Cha
 Los Angeles Galaxy,Minnesota United,14,4.36,0.86,0.86,Los6-2Min;Min2-2Los;Los2-1Min;Los1-2Min;Min2-3Los
 Atlanta Utd,Portland Timbers,3,3.33,0.67,0.67,Por2-1Atl;Atl5-1Por;Por0-1Atl
-Los Angeles FC,San Jose Earthquakes,16,4.0,0.88,0.94,Los3-1San;Los2-1San;San2-4Los;Los1-4San;San2-2Los
+Los Angeles FC,San Jose Earthquakes,15,3.93,0.87,0.93,Los3-1San;Los2-1San;San2-4Los;Los1-4San;San2-2Los
 Philadelphia Union,Sporting Kansas City,3,3.0,0.33,0.67,Phi0-0Spo;Spo1-1Phi;Spo3-4Phi
 New York City,New York Red Bulls,14,2.07,0.21,0.36,New0-2New;New2-0New;New2-3New;New1-1New;New0-1New
 Atlanta Utd,DC United,12,2.33,0.42,0.58,DC 0-1Atl;DC 0-0Atl;Atl1-1DC ;Atl0-0DC ;DC 0-0Atl
@@ -118,7 +118,7 @@ Inter Miami,Nashville SC,15,3.47,0.87,0.73,Int3-1Nas;Nas2-1Int;Int4-0Nas;Nas4-1I
 New York City,Real Salt Lake,3,2.67,0.33,0.0,New6-0Rea;Rea0-0New;Rea0-2New
 Columbus Crew,New York Red Bulls,16,2.88,0.69,0.69,New2-2Col;New0-0Col;Col3-1New;New3-2Col;Col0-1New
 Houston Dynamo,San Jose Earthquakes,12,3.08,0.67,0.75,San0-1Hou;San3-3Hou;Hou1-2San;Hou0-0San;San1-0Hou
-Los Angeles Galaxy,Seattle Sounders,15,2.73,0.53,0.6,Los1-0Sea;Los0-4Sea;Sea2-2Los;Sea0-2Los;Los1-1Sea
+Los Angeles Galaxy,Seattle Sounders,14,2.79,0.57,0.57,Los1-0Sea;Los0-4Sea;Sea2-2Los;Sea0-2Los;Los1-1Sea
 Los Angeles FC,Sporting Kansas City,13,3.08,0.69,0.54,Spo0-3Los;Spo0-2Los;Los3-1Spo;Los4-0Spo;Spo3-1Los
 FC Dallas,Portland Timbers,13,2.77,0.46,0.69,Por0-0FC ;FC 2-0Por;Por2-2FC ;Por2-2FC ;FC 2-1Por
 Charlotte,FC Cincinnati,10,3.0,0.5,0.5,FC 1-3Cha;Cha2-0FC ;FC 0-1Cha;Cha2-2FC ;FC 3-3Cha
@@ -280,7 +280,7 @@ Toronto FC,Vancouver Whitecaps,6,2.5,0.67,0.33,Van1-0Tor;Tor1-2Van;Van4-0Tor;Tor
 Columbus Crew,Sporting Kansas City,3,2.67,0.67,0.33,Spo0-0Col;Col4-0Spo;Spo2-2Col
 Austin FC,DC United,4,3.75,0.75,0.5,DC 2-3Aus;Aus3-0DC ;DC 2-4Aus;Aus1-0DC 
 Atlanta Utd,San Jose Earthquakes,2,2.5,0.5,0.5,Atl2-1San;San2-0Atl
-FC Dallas,Nashville SC,5,2.0,0.4,0.2,Nas0-1FC ;FC 2-0Nas;Nas4-0FC ;FC 1-2Nas;FC 0-0Nas
+FC Dallas,Nashville SC,4,2.25,0.5,0.25,FC 2-0Nas;Nas4-0FC ;FC 1-2Nas;FC 0-0Nas
 Charlotte,Los Angeles Galaxy,4,1.25,0.25,0.0,Cha0-1Los;Los0-1Cha;Cha0-0Los;Los3-0Cha
 FC Cincinnati,Minnesota United,3,1.67,0.33,0.33,Min0-1FC ;Min1-2FC ;Min1-0FC 
 Los Angeles Galaxy,New York City,3,1.67,0.0,0.33,Los1-0New;Los2-0New;Los1-1New
@@ -292,7 +292,7 @@ Charlotte,St. Louis City,2,3.0,0.5,1.0,St.3-1Cha;St.1-1Cha
 Inter Miami,Vancouver Whitecaps,2,3.5,1.0,1.0,Van1-2Int;Int3-1Van
 Atlanta Utd,Los Angeles FC,4,0.75,0.0,0.0,Atl1-0Los;Los0-0Atl;Atl0-1Los;Los1-0Atl
 Houston Dynamo,Nashville SC,3,3.0,0.67,0.67,Hou2-0Nas;Nas1-2Hou;Nas3-1Hou
-Chicago Fire,Minnesota United,4,3.25,1.0,0.5,Min2-2Chi;Min3-0Chi;Chi2-1Min;Min0-3Chi
+Chicago Fire,Minnesota United,3,3.0,1.0,0.33,Min3-0Chi;Chi2-1Min;Min0-3Chi
 Inter Miami,Seattle Sounders,2,2.5,0.5,0.5,Sea0-1Int;Int3-1Sea
 New York Red Bulls,Portland Timbers,2,2.5,0.5,1.0,New1-1Por;Por2-1New
 Austin FC,CF Montreal,3,2.33,0.33,0.33,CF 0-1Aus;Aus1-0CF ;CF 3-2Aus
