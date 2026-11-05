@@ -41,7 +41,7 @@ ABREV = {'ath': 'atletico', 'sp': 'sporting', 'man': 'manchester', 'utd': 'unite
 
 
 # nombres que no se parecen por texto: nombre normalizado de la fuente -> de football-data
-ALIAS = {'vitoria': 'guimaraes', 'celta fortuna': 'celta b', 'stade lavallois': 'laval',
+ALIAS = {'paris saint germain': 'paris sg', 'psg': 'paris sg', 'vitoria': 'guimaraes', 'celta fortuna': 'celta b', 'stade lavallois': 'laval',
          'amed': 'amedspor', 'erzurum': 'erzurumspor', 'gazisehir gaziantep': 'gaziantep'}
 
 
