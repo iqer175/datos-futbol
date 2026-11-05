@@ -88,6 +88,11 @@ jobs:
         continue-on-error: true
         run: python calcular_clv.py
 
+      # Titulares de los partidos jugados (ESPN): historial para alineaciones.py
+      - name: Titulares ESPN
+        continue-on-error: true
+        run: python espn.py titulares --dias 10 --ligas LaLiga
+
       # Informe semanal de LaLiga: los jueves (o al lanzarlo a mano). Usa las
       # cuotas capturadas el miercoles por capturar.yml como calendario.
       - name: Informe LaLiga

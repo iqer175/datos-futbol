@@ -146,3 +146,20 @@ motor-mercado de más de 8 puntos para buscar información.
 `emparejar_nombres.py` traduce los nombres de equipo de las capturas a los de football-data
 en `datos/mapa_nombres.csv`. Para corregir un emparejamiento, cambia `nombre_fd` y pon
 `metodo=manual`: esas filas no se sobrescriben nunca.
+
+## ESPN: calendario y alertas de alineaciones
+
+`espn.py` usa la API pública (no oficial, sin documentación) de ESPN para el calendario de
+19 ligas y las alineaciones. El informe de los jueves saca de ahí el calendario, y si ESPN
+no responde usa el de las cuotas capturadas.
+
+`alineaciones.py` (workflow `alineaciones.yml`, cada 20 minutos de 10:00 a 22:40 UTC) revisa
+los partidos de LaLiga que empiezan en las próximas 3 horas. Cuando ESPN publica la alineación
+(~1 h antes), compara los titulares con los habituales de cada equipo (titular en 4 de sus
+últimos 5 partidos de liga, historial en `datos/alineaciones/titulares.csv`) y registra las
+ausencias en `datos/alineaciones/alertas.csv` y en `informes/alertas_alineaciones.md`.
+También registra los partidos sin ausencias, como grupo de control para medir si las alertas
+anticipan el movimiento de la cuota. No es una señal de apuesta demostrada.
+
+ClubElo: su API devolvía error 502 el 2026-11-05 y el endpoint de calendario dice estar
+desactivado; queda pendiente.

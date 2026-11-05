@@ -85,6 +85,11 @@ def emparejar(capturas, df):
     fijos = {(r.fuente, r.liga, r.nombre_src): r.nombre_fd for r in manual.itertuples()}
     hasta = df.fecha.max() + pd.Timedelta(days=1)
     filas = [dict(r._asdict()) for r in manual.itertuples(index=False)]
+    # conservar lo ya emparejado de fuentes/ligas que no vienen en esta llamada
+    # (si no, emparejar solo ESPN borraria el mapa de The Odds API)
+    nuevas = set(zip(capturas.fuente, capturas.liga))
+    filas += [dict(r._asdict()) for r in previo[previo.metodo != 'manual'].itertuples(index=False)
+              if (r.fuente, r.liga) not in nuevas]
     for (fuente, liga), g in capturas.groupby(['fuente', 'liga']):
         src = sorted((set(g.local_src) | set(g.visitante_src)) - {np.nan, None})
         src = [s for s in src if isinstance(s, str) and (fuente, liga, s) not in fijos]
