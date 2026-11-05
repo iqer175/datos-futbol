@@ -1,0 +1,53 @@
+# Reglas aprendidas
+
+Reglas vigentes para los agentes de `.claude/agents/`. Los tres leen este fichero al empezar y,
+si algo de aquí choca con su propio `.md` o con la skill `pronostico-futbol`, manda esto.
+
+Cómo se cambia:
+- Solo en la revisión semanal (`revision_semanal.py` → `notas/revisiones/<fecha>.md`) y con el
+  visto bueno del usuario.
+- Reglas de modelo o de mercado: hace falta muestra suficiente (al menos 30 apuestas resueltas del
+  tipo afectado). Con menos, la propuesta se apunta en la revisión y se espera.
+- Fallos operativos (direcciones de bet365, nombres que no cuadran, tablas mal leídas): se
+  corrigen en cuanto se detectan, sin esperar muestra.
+- Cada regla lleva fecha, evidencia y de dónde sale. Las que se retiran se mueven a "Retiradas".
+
+## Vigentes
+
+### Mercados
+- **1X2 y empate no válido: no se recomiendan.** El motor no tiene ventaja en el 1X2 (peso óptimo
+  w=0 en el backtest de CLV contra el cierre de Betfair). Desde 2026-11, backtests de CLV.
+- **Unders, "Ambos marcan - No" y "goles 2-4": como mucho uno por jornada y solo si mantienen
+  margen con w=0.20.** El simulador ve menos goles de los reales (Over 2.5: 52,8% simulado frente a
+  56,2% real). Desde 2026-11, `validar_simulador.py`.
+- **Corners por equipo: solo con el reparto corregido por dominio** (`CORNERS_DOMINIO` en
+  `simulador.py`). Validado fuera de muestra en 2026-27: mejora 9 de 10 líneas. Desde 2026-11-05.
+
+### Jugadores
+- **Solo si es titular.** Probabilidad de titularidad < 0.8 → descartar o dejar condicionada a la
+  alineación oficial. bet365 anula si no juega, pero paga como perdida si entra pocos minutos.
+- **Muestra mínima: 6 titularidades** esta temporada.
+- **Probabilidad = mínimo entre el modelo ajustado al rival y la frecuencia real del jugador.**
+- **Sospecha del mercado: si el modelo supera a la cuota en más de 25 puntos, descartar** salvo que
+  el contexto lo explique. Caso: Füllkrug 2+ a puerta al 75% con cuota 3.25 (2026-11-05).
+
+### Gestión
+- **Margen mínimo: prob >= necesaria + 3 puntos. Cuota >= 1.50** (criterio del usuario).
+- **Como mucho 2 apuestas por partido y 1 por jugador**; si dos dependen de lo mismo, una sola.
+- **Stake plano 0,5u** en fase de prueba.
+
+### Operativas
+- bet365: la búsqueda por dirección con `#` dejó de funcionar; se entra por la página de la liga y
+  se pulsa cada partido. Direcciones en `.claude/agents/recolector-cuotas.md`.
+- bet365: las tablas de remates a veces vienen descolocadas (una fila con menos cuotas que
+  jugadores). Se descarta la tabla entera.
+- ESPN da remates a cero en National League, Grecia, Austria y Scottish Championship: sin mercados
+  de jugador en esas ligas.
+
+## Retiradas
+(ninguna todavía)
+
+## Registro de cambios
+| fecha | cambio | evidencia | aprobado |
+|---|---|---|---|
+| 2026-11-05 | Versión inicial con las reglas usadas hasta ahora | backtests y validaciones de 2026-11 | sí |
