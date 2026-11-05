@@ -1,0 +1,18 @@
+Partidos simulados: 2,210 (2026-08-01 a 2026-11-04), 4000 simulaciones cada uno
+
+mercado                                  real   pred  LL sim LL base LL ingenuo  calibracion por quintiles (pred→real)
+Más 2.5                                 56.2%  52.8%  0.6749  0.6911             45→47 49→50 52→58 56→58 62→69
+Ambos marcan - Sí                       56.0%  55.4%  0.6843  0.6920             49→50 53→54 55→59 58→58 62→59
+Córners más 9.5                         52.1%  50.9%  0.6848  0.6946             41→44 47→47 51→52 55→58 60→60
+Córners más 10.5                        40.6%  39.5%  0.6672  0.6782             30→34 36→34 40→40 43→46 49→50
+Tarjetas más 3.5                        56.5%  55.6%  0.6721  0.6783             41→44 50→55 55→54 61→61 72→68
+Tarjetas más 4.5                        38.3%  37.1%  0.6574  0.6615             23→31 31→33 35→36 42→43 54→50
+1 & Más 2.5                             28.9%  27.2%  0.5686  0.6078     0.5783  16→14 22→24 26→27 30→31 42→49
+2 & Más 2.5                             19.9%  18.3%  0.4764  0.5071     0.4818  9→11 13→14 17→18 21→21 32→35
+X & Menos 2.5                           16.5%  19.1%  0.4441  0.4604     0.4475  14→10 18→13 19→19 21→18 23→23
+Más 2.5 & Ambos marcan - Sí             45.0%  43.0%  0.6835  0.6952     0.7373  36→38 40→41 43→46 46→49 51→51
+Menos 2.5 & Tarjetas más 4.5            17.5%  18.3%  0.4568  0.4868     0.4563  10→12 15→15 17→18 20→18 29→24
+Córners más 9.5 & Tarjetas más 4.5      19.6%  18.6%  0.4936  0.4994     0.4937  12→16 15→18 18→19 21→21 26→24
+
+LL = log-loss (menor es mejor). LL base = tasa de la liga hasta esa fecha; LL ingenuo = producto de las patas.
+El simulador solo aporta algo si su LL es menor que el de la base y, en combinadas, que el ingenuo.

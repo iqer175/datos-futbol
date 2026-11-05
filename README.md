@@ -169,3 +169,21 @@ anticipan el movimiento de la cuota. No es una señal de apuesta demostrada.
 
 ClubElo: su API devolvía error 502 el 2026-11-05 y el endpoint de calendario dice estar
 desactivado; queda pendiente.
+
+## Simulador de partidos
+
+`simulador.py` juega un partido 50.000 veces (goles del motor v5, córners con binomial negativa
+repartida entre los dos equipos, tarjetas que dependen de lo apretado del marcador) y da la
+probabilidad, la cuota justa y la cuota mínima de cualquier apuesta simple o **combinada del
+mismo partido**, que no es el producto de las patas porque están correlacionadas:
+
+```bash
+python simulador.py LaLiga "Valencia" "Real Madrid"
+python simulador.py LaLiga "Valencia" "Real Madrid" --cuotas cuotas.json   # {"2 & Más 2.5": 2.80, ...}
+```
+
+`validar_simulador.py` mide su calibración walk-forward (`resultados/simulador_calibracion.txt`):
+en 2.210 partidos de 2026-27 bate a la tasa de la liga en todos los mercados y, en las
+combinadas, al producto ingenuo de las patas. Sesgos conocidos: se queda corto en Más de 2.5
+(52.8 % frente a 56.2 %) y exagera "empate + Menos de 2.5". Estar calibrado no demuestra valor:
+faltan las cuotas de bet365 de córners, tarjetas y combinadas para medirlo.
