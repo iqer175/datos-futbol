@@ -43,7 +43,7 @@ CODIGOS = {
     'National League': 'eng.5', 'Serie A': 'ita.1', 'Serie B': 'ita.2',
     'Bundesliga': 'ger.1', '2. Bundesliga': 'ger.2', 'Ligue 1': 'fra.1', 'Ligue 2': 'fra.2',
     'Eredivisie': 'ned.1', 'Liga Portugal': 'por.1', 'Scottish Premiership': 'sco.1',
-    'Jupiler Pro League': 'bel.1', 'Super Lig': 'tur.1', 'Super League Grecia': 'gre.1',
+    'Jupiler Pro League': 'bel.1', 'Super Lig': 'tur.1', 'Super League Grecia': 'gre.1', 'Primera Division': 'arg.1',
 }
 
 _s = requests.Session(); _s.headers.update(UA)
@@ -88,6 +88,7 @@ def calendario(ligas, desde, dias):
 def jugadores_partido(codigo, espn_id):
     """Todos los convocados con titular/entro y sus estadisticas; vacio si no hay ficha."""
     j = _get(f'{codigo}/summary', event=espn_id)
+    entra, sale = minutos_eventos(j)
     out = []
     for r in (j or {}).get('rosters', []):
         for p in r.get('roster', []):
@@ -98,8 +99,43 @@ def jugadores_partido(codigo, espn_id):
                             posicion=(p.get('position') or {}).get('abbreviation'),
                             titular=bool(p.get('starter')), entro=bool(p.get('subbedIn')),
                             salio=bool(p.get('subbedOut')),
+                            minutos=_minutos(p, entra, sale),
                             **{v: st.get(k) for k, v in STATS.items()}))
     return out
+
+
+def _minuto(ev):
+    """Minuto de un evento: "56'" -> 56, "90'+3'" -> 90 (el tiempo anadido no se cuenta)."""
+    import re
+    m = re.match(r"\s*(\d+)", str((ev.get('clock') or {}).get('displayValue', '')))
+    return min(int(m.group(1)), 90) if m else None
+
+
+def minutos_eventos(j):
+    """{jugador_id: minuto en que entra} y {jugador_id: minuto en que sale o es expulsado}."""
+    entra, sale = {}, {}
+    for ev in (j or {}).get('keyEvents', []) or []:
+        tipo = str((ev.get('type') or {}).get('text', ''))
+        part = [x.get('athlete', {}).get('id') for x in ev.get('participants', []) or []]
+        mi = _minuto(ev)
+        if mi is None:
+            continue
+        if tipo == 'Substitution' and len(part) >= 2:
+            entra[part[0]] = mi; sale[part[1]] = mi
+        elif 'Red Card' in tipo and part:
+            sale[part[0]] = min(mi, sale.get(part[0], 90))
+    return entra, sale
+
+
+def _minutos(p, entra, sale):
+    """Minutos jugados (sobre 90). None si no hay datos para decidir."""
+    jid = p['athlete'].get('id')
+    if p.get('starter'):
+        return sale.get(jid, 90)
+    if p.get('subbedIn') or jid in entra:
+        ini = entra.get(jid)
+        return None if ini is None else max(sale.get(jid, 90) - ini, 1)
+    return 0
 
 
 def alineacion(codigo, espn_id):
