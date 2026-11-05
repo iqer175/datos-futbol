@@ -18,7 +18,8 @@ Modelo de cada simulacion (parametros del motor v5 + medidos en 38.261 partidos)
              CAL_LOCAL / CAL_EMPATE reponderando las simulaciones
   corners    total ~ binomial negativa (varianza/media 1.16, medida) repartida
              entre los dos equipos segun sus lambdas (correlacion negativa
-             entre equipos, como en los datos: -0.25)
+             entre equipos, como en los datos: -0.25); cada lambda se corrige
+             por el dominio del partido (CORNERS_DOMINIO, validado fuera de muestra)
   tarjetas   Poisson por equipo (los datos no estan sobredispersos), con mas
              tarjetas si el partido acaba apretado: 4.33 con 0-1 goles de
              diferencia y 3.67 con 2+ (medido)
@@ -49,6 +50,11 @@ VAR_MEDIA_CORNERS = 1.16          # total de corners, dentro de liga-temporada
 TARJ_APRETADO, TARJ_ABIERTO = 4.33, 3.67
 # colchones de la skill (puntos de probabilidad) por tipo de mercado
 COLCHON = {'1x2': 0.08, 'goles': 0.05, 'corners': 0.06, 'tarjetas': 0.06}
+# Corners por equipo segun el dominio (experimento_corners.py, 2026-11-05): ajustado en
+# 2025-26 (7.051 partidos) y probado sin reajustar en 2026-27 (2.188): mejora 9 de 10 lineas.
+#   corners local     = perfil + a_l + b_l * (Elo local - Elo visitante) / 100
+#   corners visitante = perfil + a_v + b_v * (Elo local - Elo visitante) / 100
+CORNERS_DOMINIO = dict(a_l=0.489, b_l=0.506, a_v=-0.453, b_v=-0.373)
 COLCHON_COMBINADA = 1.25          # combinadas: cuota minima = 1.25 x cuota justa (provisional)
 
 
@@ -69,7 +75,11 @@ def simular(R, n=N_DEF, semilla=None):
     sl, sv = R.get('sl'), R.get('sv')
     if sl and sv:
         lc_l = (sl['cor_f'] + sv['cor_c']) / 2; lc_v = (sv['cor_f'] + sl['cor_c']) / 2
-        share = lc_l / (lc_l + lc_v)
+        gap = (R['elo_l'] - R['elo_v']) / 100
+        k = CORNERS_DOMINIO
+        lc_l = max(lc_l + k['a_l'] + k['b_l'] * gap, 0.8); lc_v = max(lc_v + k['a_v'] + k['b_v'] * gap, 0.8)
+        lc = lc_l + lc_v                              # el total tambien sale de los dos perfiles corregidos
+        share = lc_l / lc
     else:
         share = 0.547                                 # media local de la base (5.36 / 9.80)
     alpha = max(VAR_MEDIA_CORNERS - 1, 1e-6) / lc     # var = mu + alpha mu^2
@@ -115,6 +125,9 @@ def catalogo(S):
         C[f'Hándicap visitante {h:+}'] = (-d + h > 0, -d + h == 0, '1x2')
     for ln in (7.5, 8.5, 9.5, 10.5, 11.5, 12.5):
         C[f'Córners más {ln}'] = (cor > ln, None, 'corners'); C[f'Córners menos {ln}'] = (cor < ln, None, 'corners')
+    for ln in (2.5, 3.5, 4.5, 5.5, 6.5, 7.5):
+        C[f'Córners local más {ln}'] = (S['cl'] > ln, None, 'corners'); C[f'Córners local menos {ln}'] = (S['cl'] < ln, None, 'corners')
+        C[f'Córners visitante más {ln}'] = (S['cv'] > ln, None, 'corners'); C[f'Córners visitante menos {ln}'] = (S['cv'] < ln, None, 'corners')
     for ln in (2.5, 3.5, 4.5, 5.5, 6.5):
         C[f'Tarjetas más {ln}'] = (tar > ln, None, 'tarjetas'); C[f'Tarjetas menos {ln}'] = (tar < ln, None, 'tarjetas')
     return C

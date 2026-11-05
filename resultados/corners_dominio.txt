@@ -1,0 +1,24 @@
+Ajuste en 2025-26 (7,051 partidos): local  real-pred = +0.489 +0.506·gap   visitante real-pred = -0.453 -0.373·gap   (gap = Elo local - visitante, en cientos)
+Prueba en 2026-27 (2,188 partidos) con los coeficientes congelados:
+mercado                        real sin corr. con corr.  LL sin  LL con
+local más de 3.5              70.9%     70.3%     75.6%  0.5844  0.5860
+local más de 4.5              57.0%     53.1%     60.3%  0.6677  0.6651
+local más de 5.5              42.7%     36.6%     44.4%  0.6678  0.6490
+local más de 6.5              31.6%     23.1%     30.4%  0.6229  0.5899
+visitante más de 2.5          77.0%     85.3%     79.8%  0.5473  0.5195
+visitante más de 3.5          61.1%     70.7%     63.1%  0.6710  0.6438
+visitante más de 4.5          45.8%     53.5%     45.4%  0.6797  0.6590
+visitante más de 5.5          32.0%     37.0%     29.9%  0.6132  0.6018
+total más de 9.5              52.2%     50.9%     51.3%  0.6846  0.6842
+total más de 10.5             40.7%     39.5%     39.9%  0.6671  0.6667
+
+Medias por tramo de Elo en 2026-27 (sin corregir / corregido / real):
+                 n  sin_l  con_l  real_l  sin_v  con_v  real_v
+tramo                                                         
+(-6.0, -1.5]   128   4.30   3.76    3.62   5.47   5.77    6.13
+(-1.5, -0.5]   468   4.72   4.76    4.79   5.08   4.96    5.09
+(-0.5, 0.5]   1009   4.90   5.39    5.32   4.92   4.47    4.60
+(0.5, 1.5]     472   5.10   6.05    6.00   4.73   3.94    3.92
+(1.5, 6.0]     111   5.42   6.95    7.67   4.38   3.17    3.00
+
+Coeficientes para simulador.py: CORNERS_DOMINIO = dict(a_l=0.489, b_l=0.506, a_v=-0.453, b_v=-0.373)
