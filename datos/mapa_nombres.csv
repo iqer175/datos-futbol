@@ -1,4 +1,372 @@
 fuente,liga,nombre_src,nombre_fd,metodo,similitud
+espn,2. Bundesliga,1. FC Heidenheim 1846,Heidenheim,auto,0.9
+espn,2. Bundesliga,1. FC Magdeburg,Magdeburg,auto,1.0
+espn,2. Bundesliga,1. FC Nürnberg,Nurnberg,auto,1.0
+espn,2. Bundesliga,Arminia Bielefeld,Bielefeld,auto,0.9
+espn,2. Bundesliga,Dynamo Dresden,Dresden,auto,0.9
+espn,2. Bundesliga,Energie Cottbus,Cottbus,auto,0.9
+espn,2. Bundesliga,Hannover 96,Hannover,auto,1.0
+espn,2. Bundesliga,Hertha Berlin,Hertha,auto,0.9
+espn,2. Bundesliga,Holstein Kiel,Holstein Kiel,auto,1.0
+espn,2. Bundesliga,Kaiserslautern,Kaiserslautern,auto,1.0
+espn,2. Bundesliga,Karlsruher SC,Karlsruhe,auto,0.947
+espn,2. Bundesliga,SV Darmstadt 98,Darmstadt,auto,1.0
+espn,2. Bundesliga,SpVgg Greuther Fürth,Greuther Furth,auto,0.9
+espn,2. Bundesliga,St. Pauli,St Pauli,auto,1.0
+espn,2. Bundesliga,TSV Eintracht Braunschweig,Braunschweig,auto,0.9
+espn,2. Bundesliga,VfL Bochum,Bochum,auto,1.0
+espn,2. Bundesliga,VfL Osnabruck,Osnabruck,auto,1.0
+espn,2. Bundesliga,VfL Wolfsburg,Wolfsburg,auto,1.0
+espn,Bundesliga,1. FC Union Berlin,Union Berlin,auto,1.0
+espn,Bundesliga,Bayer Leverkusen,Leverkusen,auto,0.9
+espn,Bundesliga,Bayern Munich,Bayern Munich,auto,1.0
+espn,Bundesliga,Borussia Dortmund,Dortmund,auto,0.9
+espn,Bundesliga,Borussia Mönchengladbach,M'gladbach,auto,0.637
+espn,Bundesliga,Eintracht Frankfurt,Ein Frankfurt,auto,0.812
+espn,Bundesliga,FC Augsburg,Augsburg,auto,1.0
+espn,Bundesliga,FC Cologne,FC Koln,auto,0.545
+espn,Bundesliga,Hamburg SV,Hamburg,auto,1.0
+espn,Bundesliga,Mainz,Mainz,auto,1.0
+espn,Bundesliga,RB Leipzig,RB Leipzig,auto,1.0
+espn,Bundesliga,SC Freiburg,Freiburg,auto,1.0
+espn,Bundesliga,SC Paderborn 07,Paderborn,auto,0.9
+espn,Bundesliga,SV Elversberg,Elversberg,auto,1.0
+espn,Bundesliga,Schalke 04,Schalke 04,auto,1.0
+espn,Bundesliga,TSG Hoffenheim,Hoffenheim,auto,0.9
+espn,Bundesliga,VfB Stuttgart,Stuttgart,auto,0.9
+espn,Bundesliga,Werder Bremen,Werder Bremen,auto,1.0
+espn,Championship,Birmingham City,Birmingham,auto,0.9
+espn,Championship,Blackburn Rovers,Blackburn,auto,0.9
+espn,Championship,Bolton Wanderers,Bolton,auto,0.9
+espn,Championship,Bristol City,Bristol City,auto,1.0
+espn,Championship,Burnley,Burnley,auto,1.0
+espn,Championship,Cardiff City,Cardiff,auto,0.9
+espn,Championship,Charlton Athletic,Charlton,auto,0.9
+espn,Championship,Derby County,Derby,auto,0.9
+espn,Championship,Lincoln City,Lincoln,auto,0.9
+espn,Championship,Middlesbrough,Middlesbrough,auto,1.0
+espn,Championship,Millwall,Millwall,auto,1.0
+espn,Championship,Norwich City,Norwich,auto,0.9
+espn,Championship,Portsmouth,Portsmouth,auto,1.0
+espn,Championship,Preston North End,Preston,auto,0.9
+espn,Championship,Queens Park Rangers,QPR,auto,1.0
+espn,Championship,Sheffield United,Sheffield United,auto,1.0
+espn,Championship,Southampton,Southampton,auto,1.0
+espn,Championship,Stoke City,Stoke,auto,0.9
+espn,Championship,Swansea City,Swansea,auto,0.9
+espn,Championship,Watford,Watford,auto,1.0
+espn,Championship,West Bromwich Albion,West Brom,auto,0.7
+espn,Championship,West Ham United,West Ham,auto,0.9
+espn,Championship,Wolverhampton Wanderers,Wolves,auto,0.9
+espn,Championship,Wrexham,Wrexham,auto,1.0
+espn,Eredivisie,ADO Den Haag,Den Haag,auto,0.9
+espn,Eredivisie,AZ Alkmaar,AZ Alkmaar,auto,1.0
+espn,Eredivisie,Ajax Amsterdam,Ajax,auto,0.9
+espn,Eredivisie,Excelsior,Excelsior,auto,1.0
+espn,Eredivisie,FC Groningen,Groningen,auto,1.0
+espn,Eredivisie,FC Twente,Twente,auto,1.0
+espn,Eredivisie,FC Utrecht,Utrecht,auto,1.0
+espn,Eredivisie,Feyenoord Rotterdam,Feyenoord,auto,0.9
+espn,Eredivisie,Fortuna Sittard,For Sittard,auto,1.0
+espn,Eredivisie,Go Ahead Eagles,Go Ahead Eagles,auto,1.0
+espn,Eredivisie,Heerenveen,Heerenveen,auto,1.0
+espn,Eredivisie,NEC Nijmegen,Nijmegen,auto,0.9
+espn,Eredivisie,PEC Zwolle,Zwolle,auto,0.9
+espn,Eredivisie,PSV Eindhoven,PSV Eindhoven,auto,1.0
+espn,Eredivisie,SC Cambuur,Cambuur,auto,1.0
+espn,Eredivisie,Sparta Rotterdam,Sparta Rotterdam,auto,1.0
+espn,Eredivisie,Telstar,Telstar,auto,1.0
+espn,Eredivisie,Willem II,Willem II,auto,1.0
+espn,Jupiler Pro League,Anderlecht,Anderlecht,auto,1.0
+espn,Jupiler Pro League,Antwerp,Antwerp,auto,1.0
+espn,Jupiler Pro League,Cercle Brugge KSV,Cercle Brugge,auto,1.0
+espn,Jupiler Pro League,Club Brugge,Club Brugge,auto,1.0
+espn,Jupiler Pro League,KAA Gent,Gent,auto,0.9
+espn,Jupiler Pro League,KV Kortrijk,Kortrijk,auto,1.0
+espn,Jupiler Pro League,KV Mechelen,KV Mechelen,auto,1.0
+espn,Jupiler Pro League,KVC Westerlo,Westerlo,auto,0.9
+espn,Jupiler Pro League,Lommel SK,Lommel SK,auto,1.0
+espn,Jupiler Pro League,OH Leuven,Oud-Heverlee Leuven,auto,0.7
+espn,Jupiler Pro League,RAAL La Louvière,RAAL La Louviere,auto,1.0
+espn,Jupiler Pro League,Racing Genk,Genk,auto,0.9
+espn,Jupiler Pro League,Royal Charleroi SC,Charleroi,auto,0.9
+espn,Jupiler Pro League,Sint-Truidense,St Truiden,auto,0.889
+espn,Jupiler Pro League,Standard Liege,Standard,auto,0.9
+espn,Jupiler Pro League,Union St.-Gilloise,St. Gilloise,auto,0.9
+espn,Jupiler Pro League,Waasland-Beveren,Beveren,auto,0.9
+espn,Jupiler Pro League,Zulte-Waregem,Waregem,auto,0.9
+espn,LaLiga,Alavés,Alaves,auto,1.0
+espn,LaLiga,Athletic Club,Ath Bilbao,auto,0.786
+espn,LaLiga,Atlético Madrid,Ath Madrid,auto,1.0
+espn,LaLiga,Barcelona,Barcelona,auto,1.0
+espn,LaLiga,Celta Vigo,Celta,auto,0.9
+espn,LaLiga,Deportivo,La Coruna,auto,0.227
+espn,LaLiga,Elche,Elche,auto,1.0
+espn,LaLiga,Espanyol,Espanol,auto,1.0
+espn,LaLiga,Getafe,Getafe,auto,1.0
+espn,LaLiga,Levante,Levante,auto,1.0
+espn,LaLiga,Málaga,Malaga,auto,1.0
+espn,LaLiga,Osasuna,Osasuna,auto,1.0
+espn,LaLiga,Racing Santander,Santander,auto,0.9
+espn,LaLiga,Rayo Vallecano,Vallecano,auto,0.9
+espn,LaLiga,Real Betis,Betis,auto,0.9
+espn,LaLiga,Real Madrid,Real Madrid,auto,1.0
+espn,LaLiga,Real Sociedad,Sociedad,auto,0.9
+espn,LaLiga,Sevilla,Sevilla,auto,1.0
+espn,LaLiga,Valencia,Valencia,auto,1.0
+espn,LaLiga,Villarreal,Villarreal,auto,1.0
+espn,LaLiga Hypermotion,Albacete,Albacete,auto,1.0
+espn,LaLiga Hypermotion,Almería,Almeria,auto,1.0
+espn,LaLiga Hypermotion,Burgos,Burgos,auto,1.0
+espn,LaLiga Hypermotion,CD Sabadell,Sabadell,auto,1.0
+espn,LaLiga Hypermotion,Castellón,Castellon,auto,1.0
+espn,LaLiga Hypermotion,Ceuta,Ceuta,auto,1.0
+espn,LaLiga Hypermotion,Cádiz,Cadiz,auto,1.0
+espn,LaLiga Hypermotion,Córdoba,Cordoba,auto,1.0
+espn,LaLiga Hypermotion,Eibar,Eibar,auto,1.0
+espn,LaLiga Hypermotion,Eldense,Eldense,auto,1.0
+espn,LaLiga Hypermotion,FC Andorra,Andorra,auto,1.0
+espn,LaLiga Hypermotion,Girona,Girona,auto,1.0
+espn,LaLiga Hypermotion,Granada,Granada,auto,1.0
+espn,LaLiga Hypermotion,Las Palmas,Las Palmas,auto,1.0
+espn,LaLiga Hypermotion,Leganés,Leganes,auto,1.0
+espn,LaLiga Hypermotion,Mallorca,Mallorca,auto,1.0
+espn,LaLiga Hypermotion,RC Celta Fortuna,Celta B,auto,0.7
+espn,LaLiga Hypermotion,Real Oviedo,Oviedo,auto,0.9
+espn,LaLiga Hypermotion,Real Sociedad II,Sociedad B,auto,0.7
+espn,LaLiga Hypermotion,Real Valladolid,Valladolid,auto,0.9
+espn,LaLiga Hypermotion,Sporting Gijón,Sp Gijon,auto,1.0
+espn,LaLiga Hypermotion,Tenerife,Tenerife,auto,1.0
+espn,League One,AFC Wimbledon,AFC Wimbledon,auto,1.0
+espn,League One,Barnsley,Barnsley,auto,1.0
+espn,League One,Blackpool,Blackpool,auto,1.0
+espn,League One,Bradford City,Bradford,auto,0.9
+espn,League One,Bromley,Bromley,auto,1.0
+espn,League One,Burton Albion,Burton,auto,0.9
+espn,League One,Cambridge United,Cambridge,auto,0.9
+espn,League One,Doncaster Rovers,Doncaster,auto,0.9
+espn,League One,Huddersfield Town,Huddersfield,auto,0.9
+espn,League One,Leicester City,Leicester,auto,0.9
+espn,League One,Leyton Orient,Leyton Orient,auto,1.0
+espn,League One,Luton Town,Luton,auto,0.9
+espn,League One,Mansfield Town,Mansfield,auto,0.9
+espn,League One,Milton Keynes Dons,Milton Keynes Dons,auto,1.0
+espn,League One,Notts County,Notts County,auto,1.0
+espn,League One,Oxford United,Oxford Utd,auto,1.0
+espn,League One,Peterborough United,Peterboro,auto,0.9
+espn,League One,Plymouth Argyle,Plymouth,auto,0.9
+espn,League One,Reading,Reading,auto,1.0
+espn,League One,Sheffield Wednesday,Sheffield Weds,auto,1.0
+espn,League One,Stevenage,Stevenage,auto,1.0
+espn,League One,Stockport County,Stockport,auto,0.9
+espn,League One,Wigan Athletic,Wigan,auto,0.9
+espn,League One,Wycombe Wanderers,Wycombe,auto,0.9
+espn,League Two,Accrington Stanley,Accrington,auto,0.9
+espn,League Two,Barnet,Barnet,auto,1.0
+espn,League Two,Bristol Rovers,Bristol Rvs,auto,0.88
+espn,League Two,Cheltenham Town,Cheltenham,auto,0.9
+espn,League Two,Chesterfield,Chesterfield,auto,1.0
+espn,League Two,Colchester United,Colchester,auto,0.9
+espn,League Two,Crawley Town,Crawley Town,auto,1.0
+espn,League Two,Crewe Alexandra,Crewe,auto,0.9
+espn,League Two,Exeter City,Exeter,auto,0.9
+espn,League Two,Fleetwood Town,Fleetwood Town,auto,1.0
+espn,League Two,Gillingham,Gillingham,auto,1.0
+espn,League Two,Grimsby Town,Grimsby,auto,0.9
+espn,League Two,Newport County,Newport County,auto,1.0
+espn,League Two,Northampton Town,Northampton,auto,0.9
+espn,League Two,Oldham Athletic,Oldham,auto,0.9
+espn,League Two,Port Vale,Port Vale,auto,1.0
+espn,League Two,Rochdale,Rochdale,auto,1.0
+espn,League Two,Rotherham United,Rotherham,auto,0.9
+espn,League Two,Salford City,Salford,auto,0.9
+espn,League Two,Shrewsbury Town,Shrewsbury,auto,0.9
+espn,League Two,Swindon Town,Swindon,auto,0.9
+espn,League Two,Tranmere Rovers,Tranmere,auto,0.9
+espn,League Two,Walsall,Walsall,auto,1.0
+espn,League Two,York City,York,auto,0.9
+espn,Liga Portugal,Académico de Viseu,Academico Viseu,auto,0.909
+espn,Liga Portugal,Alverca,Alverca,auto,1.0
+espn,Liga Portugal,Arouca,Arouca,auto,1.0
+espn,Liga Portugal,Benfica,Benfica,auto,1.0
+espn,Liga Portugal,Braga,Sp Braga,auto,0.9
+espn,Liga Portugal,C.D. Nacional,Nacional,auto,0.9
+espn,Liga Portugal,Casa Pia,Casa Pia,auto,1.0
+espn,Liga Portugal,Estoril,Estoril,auto,1.0
+espn,Liga Portugal,Estrela,Estrela,auto,1.0
+espn,Liga Portugal,FC Famalicao,Famalicao,auto,1.0
+espn,Liga Portugal,FC Porto,Porto,auto,1.0
+espn,Liga Portugal,Gil Vicente,Gil Vicente,auto,1.0
+espn,Liga Portugal,Maritimo,Maritimo,auto,1.0
+espn,Liga Portugal,Moreirense,Moreirense,auto,1.0
+espn,Liga Portugal,Rio Ave,Rio Ave,auto,1.0
+espn,Liga Portugal,Santa Clara,Santa Clara,auto,1.0
+espn,Liga Portugal,Sporting CP,Sp Lisbon,auto,0.7
+espn,Liga Portugal,Vitória de Guimaraes,Guimaraes,auto,0.9
+espn,Ligue 1,AJ Auxerre,Auxerre,auto,0.9
+espn,Ligue 1,AS Monaco,Monaco,auto,1.0
+espn,Ligue 1,Angers,Angers,auto,1.0
+espn,Ligue 1,Brest,Brest,auto,1.0
+espn,Ligue 1,Le Havre AC,Le Havre,auto,1.0
+espn,Ligue 1,Le Mans,Le Mans,auto,1.0
+espn,Ligue 1,Lens,Lens,auto,1.0
+espn,Ligue 1,Lille,Lille,auto,1.0
+espn,Ligue 1,Lorient,Lorient,auto,1.0
+espn,Ligue 1,Lyon,Lyon,auto,1.0
+espn,Ligue 1,Marseille,Marseille,auto,1.0
+espn,Ligue 1,Nice,Nice,auto,1.0
+espn,Ligue 1,Paris FC,Paris SG,auto,0.9
+espn,Ligue 1,Paris Saint-Germain,Paris FC,auto,0.9
+espn,Ligue 1,Stade Rennais,Rennes,auto,0.654
+espn,Ligue 1,Strasbourg,Strasbourg,auto,1.0
+espn,Ligue 1,Toulouse,Toulouse,auto,1.0
+espn,Ligue 1,Troyes,Troyes,auto,1.0
+espn,Ligue 2,AS Nancy Lorraine,Nancy,auto,0.9
+espn,Ligue 2,Annecy,Annecy,auto,1.0
+espn,Ligue 2,Boulogne,Boulogne,auto,1.0
+espn,Ligue 2,Clermont Foot,Clermont,auto,0.9
+espn,Ligue 2,Dijon FCO,Dijon,auto,0.9
+espn,Ligue 2,Dunkerque,Dunkerque,auto,1.0
+espn,Ligue 2,Grenoble,Grenoble,auto,1.0
+espn,Ligue 2,Guingamp,Guingamp,auto,1.0
+espn,Ligue 2,Metz,Metz,auto,1.0
+espn,Ligue 2,Montpellier,Montpellier,auto,1.0
+espn,Ligue 2,Nantes,Nantes,auto,1.0
+espn,Ligue 2,Pau,Pau FC,auto,1.0
+espn,Ligue 2,Red Star FC 93,Red Star,auto,0.9
+espn,Ligue 2,Rodez Aveyron,Rodez,auto,0.9
+espn,Ligue 2,Saint-Étienne,St Etienne,auto,1.0
+espn,Ligue 2,Sochaux,Sochaux,auto,1.0
+espn,Ligue 2,Stade Laval,Laval,auto,0.9
+espn,Ligue 2,Stade de Reims,Reims,auto,0.9
+espn,National League,AFC Fylde,Fylde,auto,1.0
+espn,National League,AFC Hornchurch,Hornchurch,auto,1.0
+espn,National League,Aldershot Town,Aldershot,auto,0.9
+espn,National League,Altrincham,Altrincham,auto,1.0
+espn,National League,Barrow,Barrow,auto,1.0
+espn,National League,Boreham Wood,Boreham Wood,auto,1.0
+espn,National League,Boston United,Boston Utd,auto,1.0
+espn,National League,Carlisle United,Carlisle,auto,0.9
+espn,National League,Eastleigh,Eastleigh,auto,1.0
+espn,National League,FC Halifax Town,Halifax,auto,0.9
+espn,National League,Forest Green Rovers,Forest Green,auto,0.9
+espn,National League,Gateshead,Gateshead,auto,1.0
+espn,National League,Harrogate Town,Harrogate,auto,0.9
+espn,National League,Hartlepool United,Hartlepool,auto,0.9
+espn,National League,Kidderminster Harriers,Kidderminster,auto,0.9
+espn,National League,Scunthorpe United,Scunthorpe,auto,0.9
+espn,National League,Solihull Moors,Solihull,auto,0.9
+espn,National League,Southend United,Southend,auto,0.9
+espn,National League,Sutton United,Sutton,auto,0.9
+espn,National League,Tamworth,Tamworth,auto,1.0
+espn,National League,Wealdstone,Wealdstone,auto,1.0
+espn,National League,Woking,Woking,auto,1.0
+espn,National League,Worthing,Worthing,auto,1.0
+espn,National League,Yeovil Town,Yeovil,auto,0.9
+espn,Premier League,AFC Bournemouth,Bournemouth,auto,1.0
+espn,Premier League,Arsenal,Arsenal,auto,1.0
+espn,Premier League,Aston Villa,Aston Villa,auto,1.0
+espn,Premier League,Brentford,Brentford,auto,1.0
+espn,Premier League,Brighton & Hove Albion,Brighton,auto,0.9
+espn,Premier League,Chelsea,Chelsea,auto,1.0
+espn,Premier League,Coventry City,Coventry,auto,0.9
+espn,Premier League,Crystal Palace,Crystal Palace,auto,1.0
+espn,Premier League,Everton,Everton,auto,1.0
+espn,Premier League,Fulham,Fulham,auto,1.0
+espn,Premier League,Hull City,Hull,auto,0.9
+espn,Premier League,Ipswich Town,Ipswich,auto,0.9
+espn,Premier League,Leeds United,Leeds,auto,0.9
+espn,Premier League,Liverpool,Liverpool,auto,1.0
+espn,Premier League,Manchester City,Man City,auto,1.0
+espn,Premier League,Manchester United,Man United,auto,1.0
+espn,Premier League,Newcastle United,Newcastle,auto,0.9
+espn,Premier League,Nottingham Forest,Nott'm Forest,auto,1.0
+espn,Premier League,Sunderland,Sunderland,auto,1.0
+espn,Premier League,Tottenham Hotspur,Tottenham,auto,0.9
+espn,Scottish Premiership,Aberdeen,Aberdeen,auto,1.0
+espn,Scottish Premiership,Celtic,Celtic,auto,1.0
+espn,Scottish Premiership,Dundee,Dundee,auto,1.0
+espn,Scottish Premiership,Dundee United,Dundee United,auto,1.0
+espn,Scottish Premiership,Falkirk,Falkirk,auto,1.0
+espn,Scottish Premiership,Heart of Midlothian,Hearts,auto,0.773
+espn,Scottish Premiership,Hibernian,Hibernian,auto,1.0
+espn,Scottish Premiership,Kilmarnock,Kilmarnock,auto,1.0
+espn,Scottish Premiership,Motherwell,Motherwell,auto,1.0
+espn,Scottish Premiership,Rangers,Rangers,auto,1.0
+espn,Scottish Premiership,St Johnstone,St Johnstone,auto,1.0
+espn,Scottish Premiership,St Mirren,St Mirren,auto,1.0
+espn,Serie A,AC Milan,Milan,auto,1.0
+espn,Serie A,AS Roma,Roma,auto,1.0
+espn,Serie A,Atalanta,Atalanta,auto,1.0
+espn,Serie A,Bologna,Bologna,auto,1.0
+espn,Serie A,Cagliari,Cagliari,auto,1.0
+espn,Serie A,Como,Como,auto,1.0
+espn,Serie A,Fiorentina,Fiorentina,auto,1.0
+espn,Serie A,Frosinone,Frosinone,auto,1.0
+espn,Serie A,Genoa,Genoa,auto,1.0
+espn,Serie A,Internazionale,Inter,auto,0.526
+espn,Serie A,Juventus,Juventus,auto,1.0
+espn,Serie A,Lazio,Lazio,auto,1.0
+espn,Serie A,Lecce,Lecce,auto,1.0
+espn,Serie A,Monza,Monza,auto,1.0
+espn,Serie A,Napoli,Napoli,auto,1.0
+espn,Serie A,Parma,Parma,auto,1.0
+espn,Serie A,Sassuolo,Sassuolo,auto,1.0
+espn,Serie A,Torino,Torino,auto,1.0
+espn,Serie A,Udinese,Udinese,auto,1.0
+espn,Serie A,Venezia,Venezia,auto,1.0
+espn,Serie B,Arezzo,Arezzo,auto,1.0
+espn,Serie B,Ascoli,Ascoli,auto,1.0
+espn,Serie B,Benevento,Benevento,auto,1.0
+espn,Serie B,Carrarese,Carrarese,auto,1.0
+espn,Serie B,Catanzaro,Catanzaro,auto,1.0
+espn,Serie B,Cesena,Cesena,auto,1.0
+espn,Serie B,Cremonese,Cremonese,auto,1.0
+espn,Serie B,Empoli,Empoli,auto,1.0
+espn,Serie B,Hellas Verona,Verona,auto,0.9
+espn,Serie B,Juve Stabia,Juve Stabia,auto,1.0
+espn,Serie B,Mantova,Mantova,auto,1.0
+espn,Serie B,Modena,Modena,auto,1.0
+espn,Serie B,Padova,Padova,auto,1.0
+espn,Serie B,Palermo,Palermo,auto,1.0
+espn,Serie B,Pisa,Pisa,auto,1.0
+espn,Serie B,Sampdoria,Sampdoria,auto,1.0
+espn,Serie B,Sudtirol,Sudtirol,auto,1.0
+espn,Serie B,US Avellino,Avellino,auto,1.0
+espn,Serie B,Vicenza,Vicenza,auto,1.0
+espn,Serie B,Virtus Entella,Virtus Entella,auto,1.0
+espn,Super League Grecia,AEK Athens,AEK,auto,0.9
+espn,Super League Grecia,Aris,Aris,auto,1.0
+espn,Super League Grecia,Asteras Tripoli,Asteras Tripolis,auto,0.968
+espn,Super League Grecia,Atromitos,Atromitos,auto,1.0
+espn,Super League Grecia,Iraklis,Iraklis,auto,1.0
+espn,Super League Grecia,Kalamata,Kalamata,auto,1.0
+espn,Super League Grecia,Kifisia,Kifisia,auto,1.0
+espn,Super League Grecia,Levadiakos,Levadeiakos,auto,0.952
+espn,Super League Grecia,OFI Crete,OFI Crete,auto,1.0
+espn,Super League Grecia,Olympiacos,Olympiakos,auto,1.0
+espn,Super League Grecia,PAOK,PAOK,auto,1.0
+espn,Super League Grecia,Panathinaikos,Panathinaikos,auto,1.0
+espn,Super League Grecia,Panetolikos,Panetolikos,auto,1.0
+espn,Super League Grecia,Volos NFC,Volos NFC,auto,1.0
+espn,Super Lig,Alanyaspor,Alanyaspor,auto,1.0
+espn,Super Lig,Amed SFK,Amedspor,auto,0.625
+espn,Super Lig,Besiktas,Besiktas,auto,1.0
+espn,Super Lig,Caykur Rizespor,Rizespor,auto,0.9
+espn,Super Lig,Erzurum BB,Erzurumspor,auto,1.0
+espn,Super Lig,Eyupspor,Eyupspor,auto,1.0
+espn,Super Lig,Fenerbahce,Fenerbahce,auto,1.0
+espn,Super Lig,Galatasaray,Galatasaray,auto,1.0
+espn,Super Lig,Gaziantep FK,Gaziantep,auto,1.0
+espn,Super Lig,Genclerbirligi,Genclerbirligi,auto,1.0
+espn,Super Lig,Goztepe,Goztep,auto,1.0
+espn,Super Lig,Istanbul Basaksehir,Buyuksehyr,auto,0.9
+espn,Super Lig,Kasimpasa,Kasimpasa,auto,1.0
+espn,Super Lig,Kocaelispor,Kocaelispor,auto,1.0
+espn,Super Lig,Konyaspor,Konyaspor,auto,1.0
+espn,Super Lig,Samsunspor,Samsunspor,auto,1.0
+espn,Super Lig,Trabzonspor,Trabzonspor,auto,1.0
+espn,Super Lig,Çorum FK,Corum,auto,1.0
 oddsapi,2. Bundesliga,1. FC Heidenheim,Heidenheim,auto,1.0
 oddsapi,2. Bundesliga,1. FC Kaiserslautern,Kaiserslautern,auto,1.0
 oddsapi,2. Bundesliga,1. FC Magdeburg,Magdeburg,auto,1.0
@@ -66,7 +434,7 @@ oddsapi,Jupiler Pro League,Club Brugge,Club Brugge,auto,1.0
 oddsapi,Jupiler Pro League,Genk,Genk,auto,1.0
 oddsapi,Jupiler Pro League,Gent,Gent,auto,1.0
 oddsapi,Jupiler Pro League,KV Kortrijk,Kortrijk,auto,1.0
-oddsapi,Jupiler Pro League,KV Mechelen,Mechelen,auto,1.0
+oddsapi,Jupiler Pro League,KV Mechelen,KV Mechelen,auto,1.0
 oddsapi,Jupiler Pro League,Leuven,Oud-Heverlee Leuven,auto,0.9
 oddsapi,Jupiler Pro League,Lommel SK,Lommel SK,auto,1.0
 oddsapi,Jupiler Pro League,RAAL La Louvière,RAAL La Louviere,auto,1.0
@@ -119,7 +487,7 @@ oddsapi,LaLiga Hypermotion,SD Eibar,Eibar,auto,1.0
 oddsapi,LaLiga Hypermotion,Sabadell FC,Sabadell,auto,1.0
 oddsapi,LaLiga Hypermotion,Sporting Gijón,Sp Gijon,auto,1.0
 oddsapi,LaLiga Hypermotion,Tenerife,Tenerife,auto,1.0
-oddsapi,League One,Oxford United,Oxford,auto,0.9
+oddsapi,League One,Oxford United,Oxford Utd,auto,1.0
 oddsapi,League One,Reading,Reading,auto,1.0
 oddsapi,Liga Portugal,Académico de Viseu,Academico Viseu,auto,0.909
 oddsapi,Liga Portugal,Alverca,Alverca,auto,1.0

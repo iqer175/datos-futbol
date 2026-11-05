@@ -1,0 +1,50 @@
+name: Alertas de alineaciones
+
+# Cada 20 minutos entre las 10:00 y las 22:40 UTC: si un partido de LaLiga
+# empieza en las proximas 3 horas y ESPN ya publico la alineacion, compara los
+# titulares con los habituales y lo registra (alineaciones.py). Si no hay
+# partidos, termina en segundos sin escribir nada. GitHub puede retrasar las
+# ejecuciones programadas unos minutos en horas de mucha carga.
+on:
+  schedule:
+    - cron: "*/20 10-22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: escribir-repo
+  cancel-in-progress: false
+
+jobs:
+  alineaciones:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Revisar alineaciones
+        run: python alineaciones.py --ligas LaLiga --horas 3
+
+      - name: Publicar
+        run: |
+          git config user.name  "actualizador-futbol"
+          git config user.email "actions@github.com"
+          if [ -d datos/alineaciones ]; then git add datos/alineaciones/; fi
+          if [ -e informes/alertas_alineaciones.md ]; then git add informes/alertas_alineaciones.md; fi
+          if git diff --staged --quiet; then
+            echo "Sin alineaciones nuevas."
+          else
+            git commit -m "Alineaciones $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase
+            git push
+          fi

@@ -26,6 +26,7 @@ import numpy as np, pandas as pd
 
 import motor
 import emparejar_nombres as en
+import espn
 
 DIR = Path(__file__).parent
 DIR_INF = DIR / 'informes'
@@ -76,25 +77,41 @@ def main():
     a = ap.parse_args()
     ahora = pd.Timestamp(datetime.now(timezone.utc))
 
-    cap = en.cargar_capturas()
-    if not len(cap):
-        raise SystemExit('Sin capturas de cuotas: no hay calendario para el informe.')
     df = motor.cargar(DIR / 'datos' / 'partidos.csv')
-    en.emparejar(cap, df)                       # actualiza el mapa con equipos nuevos
-    cap = en.traducir(cap)
-    cap = cap[(cap.liga == a.liga) & cap.local.notna() & cap.visitante.notna()].copy()
-    cap['inicio'] = pd.to_datetime(cap.inicio_utc, utc=True)
-    cap['t'] = pd.to_datetime(cap.capturado_utc, utc=True)
-    cap = cap[(cap.inicio > ahora) & (cap.inicio <= ahora + pd.Timedelta(days=a.dias))]
-    if not len(cap):
-        raise SystemExit(f'No hay partidos de {a.liga} capturados en los proximos {a.dias} dias.')
+    cap = en.cargar_capturas()
+    if len(cap):
+        en.emparejar(cap, df)                   # actualiza el mapa con equipos nuevos
+        cap = en.traducir(cap)
+        cap = cap[(cap.liga == a.liga) & cap.local.notna() & cap.visitante.notna()].copy()
+        cap['inicio'] = pd.to_datetime(cap.inicio_utc, utc=True)
+        cap['t'] = pd.to_datetime(cap.capturado_utc, utc=True)
+        cap = cap[(cap.inicio > ahora) & (cap.inicio <= ahora + pd.Timedelta(days=a.dias))]
+    else:
+        cap = pd.DataFrame(columns=['local', 'visitante', 'inicio', 't', 'casa', 'mercado', 'seleccion', 'cuota'])
+
+    # calendario: ESPN; si no responde, el de las cuotas capturadas
+    cal = espn.calendario([a.liga], ahora.to_pydatetime(), a.dias)
+    if len(cal):
+        en.emparejar(cal, df)
+        cal = en.traducir(cal)
+        cal['inicio'] = pd.to_datetime(cal.inicio_utc, utc=True)
+        cal = cal[(cal.inicio > ahora) & cal.local.notna() & cal.visitante.notna()]
+        partidos = cal[['local', 'visitante', 'inicio']]
+        fuente_cal = 'ESPN'
+    else:
+        partidos = cap.groupby(['local', 'visitante'], as_index=False).inicio.first()
+        fuente_cal = 'cuotas capturadas (ESPN no respondió)'
+    if not len(partidos):
+        raise SystemExit(f'No hay partidos de {a.liga} en los proximos {a.dias} dias.')
 
     B = motor.Base(df)
     filas = []
-    for (loc, vis), g in cap.groupby(['local', 'visitante']):
-        ult = g[g.t == g.t.max()]
-        pri = g[g.t == g.t.min()]
-        r = dict(local=loc, visitante=vis, inicio=g.inicio.iloc[0], capturas=g.t.nunique())
+    for p_ in partidos.itertuples(index=False):
+        loc, vis = p_.local, p_.visitante
+        g = cap[(cap.local == loc) & (cap.visitante == vis)]
+        ult = g[g.t == g.t.max()] if len(g) else g
+        pri = g[g.t == g.t.min()] if len(g) else g
+        r = dict(local=loc, visitante=vis, inicio=p_.inicio, capturas=g.t.nunique() if len(g) else 0)
         try:
             R = motor.analizar(B, loc, vis, a.liga)
             m = R['m']
@@ -140,7 +157,8 @@ def main():
     hoy = ahora.strftime('%Y-%m-%d')
     L = [f'# Informe {a.liga} — {hoy}', '',
          f'Generado {ahora.strftime("%Y-%m-%d %H:%M")} UTC con datos hasta {df.fecha.max().date()} '
-         f'y cuotas capturadas hasta {cap.t.max().strftime("%Y-%m-%d %H:%M")} UTC. '
+         f'y cuotas capturadas hasta {cap.t.max().strftime("%Y-%m-%d %H:%M") if len(cap) else "—"} UTC. '
+         f'Calendario: {fuente_cal}. '
          f'{len(T)} partidos en los próximos {a.dias} días.', '',
          '> **El motor no tiene ventaja demostrada sobre el mercado** (backtest 2022-2026: peso '
          'óptimo 0 frente a la apertura de bet365). Este informe no recomienda apuestas. Una '
@@ -180,6 +198,9 @@ def main():
           'así que no es exactamente la variante congelada, que usa la apertura de bet365.', '',
           '## Discrepancias para investigar', '']
     L += avisos or ['Ninguna por encima del umbral.']
+    L += ['', '## Alineaciones', '', 'Las alineaciones se publican ~1 h antes de cada partido. El aviso de '
+          'titulares habituales ausentes se actualiza solo en `informes/alertas_alineaciones.md` '
+          '(workflow alineaciones.yml, cada 20 minutos).']
     L += ['', '## Estado del seguimiento y de la bitácora', '', '```']
     L += leer(DIR / 'resultados' / 'seguimiento_ou_xg.txt') or ['(sin seguimiento todavía)']
     L += [''] + (leer(DIR / 'resultados' / 'bitacora_clv.txt', 4) or ['(bitácora sin calcular)'])
