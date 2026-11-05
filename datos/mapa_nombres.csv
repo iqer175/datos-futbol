@@ -215,8 +215,8 @@ espn,Ligue 1,Lorient,Lorient,auto,1.0
 espn,Ligue 1,Lyon,Lyon,auto,1.0
 espn,Ligue 1,Marseille,Marseille,auto,1.0
 espn,Ligue 1,Nice,Nice,auto,1.0
-espn,Ligue 1,Paris FC,Paris SG,auto,0.9
-espn,Ligue 1,Paris Saint-Germain,Paris FC,auto,0.9
+espn,Ligue 1,Paris FC,Paris FC,manual,1.0
+espn,Ligue 1,Paris Saint-Germain,Paris SG,manual,1.0
 espn,Ligue 1,Stade Rennais,Rennes,auto,0.654
 espn,Ligue 1,Strasbourg,Strasbourg,auto,1.0
 espn,Ligue 1,Toulouse,Toulouse,auto,1.0
