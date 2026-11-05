@@ -14,7 +14,7 @@ Endpoints usados (site.api.espn.com/apis/site/v2/sports/soccer/<codigo>/...):
 
 Uso:
   python espn.py calendario [--dias 8]       muestra el calendario de las ligas
-  python espn.py titulares  [--dias 35]      guarda titulares de partidos jugados
+  python espn.py titulares  [--dias 35]      guarda jugadores y estadisticas de partidos jugados
 """
 import argparse
 import sys
@@ -27,7 +27,11 @@ import requests
 
 DIR = Path(__file__).parent
 DIR_AL = DIR / 'datos' / 'alineaciones'
-TITULARES = DIR_AL / 'titulares.csv'
+JUGADORES = DIR_AL / 'jugadores.csv'     # todos los convocados con sus estadisticas
+TITULARES = JUGADORES                     # alias: alineaciones.py filtra titular == True
+STATS = {'totalGoals': 'goles', 'goalAssists': 'asistencias', 'totalShots': 'tiros',
+         'shotsOnTarget': 'tiros_puerta', 'yellowCards': 'amarillas', 'redCards': 'rojas',
+         'foulsCommitted': 'faltas', 'saves': 'paradas', 'goalsConceded': 'goles_encajados'}
 BASE = 'https://site.api.espn.com/apis/site/v2/sports/soccer'
 UA = {'User-Agent': 'actualizador-futbol'}
 
@@ -81,18 +85,26 @@ def calendario(ligas, desde, dias):
     return pd.DataFrame(filas, columns=cols).drop_duplicates('espn_id')
 
 
-def alineacion(codigo, espn_id):
-    """Titulares por equipo; lista vacia si aun no esta publicada."""
+def jugadores_partido(codigo, espn_id):
+    """Todos los convocados con titular/entro y sus estadisticas; vacio si no hay ficha."""
     j = _get(f'{codigo}/summary', event=espn_id)
     out = []
     for r in (j or {}).get('rosters', []):
         for p in r.get('roster', []):
-            if p.get('starter'):
-                out.append(dict(espn_id=espn_id, equipo_id=r['team']['id'], equipo=r['team']['displayName'],
-                                lado=r.get('homeAway'), jugador_id=p['athlete'].get('id'),
-                                jugador=p['athlete'].get('displayName'),
-                                posicion=(p.get('position') or {}).get('abbreviation')))
+            st = {x.get('name'): x.get('value') for x in p.get('stats', []) or []}
+            out.append(dict(espn_id=espn_id, equipo_id=r['team']['id'], equipo=r['team']['displayName'],
+                            lado=r.get('homeAway'), jugador_id=p['athlete'].get('id'),
+                            jugador=p['athlete'].get('displayName'),
+                            posicion=(p.get('position') or {}).get('abbreviation'),
+                            titular=bool(p.get('starter')), entro=bool(p.get('subbedIn')),
+                            salio=bool(p.get('subbedOut')),
+                            **{v: st.get(k) for k, v in STATS.items()}))
     return out
+
+
+def alineacion(codigo, espn_id):
+    """Titulares por equipo; lista vacia si aun no esta publicada."""
+    return [x for x in jugadores_partido(codigo, espn_id) if x['titular']]
 
 
 def equipos(liga):
@@ -104,23 +116,24 @@ def equipos(liga):
 
 
 def guardar_titulares(ligas, dias=35):
-    """Anade a titulares.csv los partidos TERMINADOS de los ultimos 'dias' que falten."""
+    """Anade a jugadores.csv los partidos TERMINADOS de los ultimos 'dias' que falten
+    (todos los convocados con sus estadisticas)."""
     DIR_AL.mkdir(parents=True, exist_ok=True)
-    previo = pd.read_csv(TITULARES, dtype=str) if TITULARES.exists() else pd.DataFrame(columns=['espn_id'])
+    previo = pd.read_csv(JUGADORES, dtype=str) if JUGADORES.exists() else pd.DataFrame(columns=['espn_id'])
     hechos = set(previo.espn_id)
     hoy = datetime.now(timezone.utc)
     cal = calendario(ligas, hoy - timedelta(days=dias), dias)
     cal = cal[(cal.estado == 'STATUS_FULL_TIME') & ~cal.espn_id.isin(hechos)]
     nuevas = []
     for x in cal.itertuples():
-        al = alineacion(x.codigo, x.espn_id)
-        for a in al:
+        jp = jugadores_partido(x.codigo, x.espn_id)
+        for a in jp:
             a.update(liga=x.liga, fecha=x.inicio_utc[:10])
-        nuevas += al
+        nuevas += jp
     if nuevas:
         n = pd.DataFrame(nuevas).astype(str)
-        pd.concat([previo, n]).to_csv(TITULARES, index=False)
-    print(f'titulares: {len(cal)} partidos nuevos, {len(nuevas)} filas', file=sys.stderr)
+        pd.concat([previo, n]).to_csv(JUGADORES, index=False)
+    print(f'jugadores: {len(cal)} partidos nuevos, {len(nuevas)} filas', file=sys.stderr)
     return len(nuevas)
 
 

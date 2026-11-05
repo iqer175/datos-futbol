@@ -156,8 +156,14 @@ no responde usa el de las cuotas capturadas.
 `alineaciones.py` (workflow `alineaciones.yml`, cada 20 minutos de 10:00 a 22:40 UTC) revisa
 los partidos de LaLiga que empiezan en las próximas 3 horas. Cuando ESPN publica la alineación
 (~1 h antes), compara los titulares con los habituales de cada equipo (titular en 4 de sus
-últimos 5 partidos de liga, historial en `datos/alineaciones/titulares.csv`) y registra las
+últimos 5 partidos de liga, historial en `datos/alineaciones/jugadores.csv`) y registra las
 ausencias en `datos/alineaciones/alertas.csv` y en `informes/alertas_alineaciones.md`.
+Cada ausencia lleva una gravedad: ALTA si es el portero o si el jugador suma de media al menos el
+18 % de los tiros y de los goles+asistencias de su equipo en sus últimos 10 partidos; MEDIA desde
+el 8 %; BAJA el resto (los defensas casi siempre, porque su peso no se ve en esas estadísticas).
+`jugadores.csv` guarda, por partido, todos los convocados con goles, asistencias, tiros, tiros a
+puerta, tarjetas, faltas y paradas.
+
 También registra los partidos sin ausencias, como grupo de control para medir si las alertas
 anticipan el movimiento de la cuota. No es una señal de apuesta demostrada.
 
