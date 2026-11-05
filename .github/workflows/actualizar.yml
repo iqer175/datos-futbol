@@ -89,9 +89,14 @@ jobs:
         run: python calcular_clv.py
 
       # Titulares de los partidos jugados (ESPN): historial para alineaciones.py
+      # 18 ligas con remates por jugador en ESPN (National League, Grecia,
+      # Austria y Scottish Championship los dan a cero y no se descargan)
       - name: Titulares ESPN
         continue-on-error: true
-        run: python espn.py titulares --dias 10 --ligas LaLiga
+        timeout-minutes: 10
+        run: >-
+          python espn.py titulares --dias 10 --ligas
+          "LaLiga,LaLiga Hypermotion,Premier League,Championship,League One,League Two,Serie A,Serie B,Bundesliga,2. Bundesliga,Ligue 1,Ligue 2,Eredivisie,Liga Portugal,Scottish Premiership,Jupiler Pro League,Super Lig,Primera Division"
 
       # Informe semanal de LaLiga: los jueves (o al lanzarlo a mano). Usa las
       # cuotas capturadas el miercoles por capturar.yml como calendario.
