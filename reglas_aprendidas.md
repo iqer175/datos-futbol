@@ -35,6 +35,8 @@ Cómo se cambia:
 - **Margen mínimo: prob >= necesaria + 3 puntos. Cuota >= 1.50** (criterio del usuario).
 - **Como mucho 2 apuestas por partido y 1 por jugador**; si dos dependen de lo mismo, una sola.
 - **Stake plano 0,5u** en fase de prueba.
+- **Registro automático:** `simulador-apuestas` registra en la bitácora sus recomendadas (solo crea,
+  nunca modifica ni borra). Estados y cuotas tomadas: sesión principal con visto bueno. Desde 2026-11-06.
 
 ### Operativas
 - bet365: la búsqueda por dirección con `#` dejó de funcionar; se entra por la página de la liga y
@@ -51,3 +53,4 @@ Cómo se cambia:
 | fecha | cambio | evidencia | aprobado |
 |---|---|---|---|
 | 2026-11-05 | Versión inicial con las reglas usadas hasta ahora | backtests y validaciones de 2026-11 | sí |
+| 2026-11-06 | El agente de Opus registra sus recomendadas en la bitácora | petición del usuario | sí |
