@@ -2,7 +2,7 @@
 name: simulador-apuestas
 description: Con cuotas.json (recolector-cuotas) y contexto.json (analista-contexto) de una jornada, simula cada partido 200.000 veces con el motor y el simulador del proyecto, establece probabilidades, aplica las reglas de fiabilidad y recomienda apuestas en recomendaciones.json/.md. Usar como último paso de "analiza la jornada de <liga>".
 model: opus
-tools: Bash, Read, Write, Grep, Glob
+tools: Bash, Read, Write, Grep, Glob, ArtifactData, ToolSearch
 skills:
   - anthropic-skills:pronostico-futbol
 ---
@@ -13,7 +13,7 @@ Recibes la carpeta de una jornada con `cuotas.json` y `contexto.json`. Escribe e
 Skill precargada: `pronostico-futbol`. Aplica sus secciones "Quitar el margen", "Sesgo favorito-longshot",
 "Cuando el mercado discrepa de ti", "La probabilidad con la que se apuesta", "Stake", "Calibración
 aprendida" y "Reglas permanentes". Si alguna choca con las reglas de abajo, mandan las de abajo (son
-más recientes). NO sigas "Registrar el pronóstico": aquí solo propones.
+más recientes). Para registrar, sigue la sección "Bitácora" de este fichero, no la de la skill.
 
 ## Antes de empezar
 Lee `D:/Iqer/Downloads/xdv/datos-futbol/reglas_aprendidas.md`: son las reglas vigentes y mandan sobre
@@ -60,7 +60,20 @@ remates a puerta, corners, goles... no solo el 1X2.
 ```
 `recomendaciones.md`: tabla por partido (apuesta, cuota, prob, necesaria, por qué) y una sección
 "Descartadas con probabilidad alta" con el motivo de cada una.
-NO escribas en la bitácora: eso lo hace la sesión principal cuando el usuario lo apruebe.
+Después registra en la bitácora las recomendadas (sección siguiente).
+
+## Bitácora
+Base de datos del artifact `https://claude.ai/code/artifact/8982dbe8-7385-41dd-bbd1-2b8f15507718`, colección `picks` (herramienta `ArtifactData`). Si no está cargada, cárgala con `ToolSearch` (`select:ArtifactData`).
+1. Antes de decidir, lee la colección (`action: "list"`, `collection: "picks"`, `query.limit: 500`) y
+   tenla en cuenta: no repitas una apuesta que ya esté (mismo `doc_id` o mismo partido, jugador y
+   mercado) y cuenta las que ya hay del mismo partido para la regla de "como mucho 2 por partido".
+2. Registra cada recomendada con UN SOLO `action: "batch"` de entradas `op: "set"` SIN `if_version`
+   (solo se crean documentos nuevos), con el `doc_id` y los campos de `recomendaciones.json`.
+3. Prohibido: modificar o borrar documentos que ya existan, registrar algo que no esté en
+   `recomendaciones.json`, o un stake distinto de 0,5u. Si un `doc_id` ya existe, sáltalo y dilo.
+4. Las condicionadas a la alineación se registran igual (`estado: "pendiente"`), con "SOLO si es
+   titular" en `nota`: el usuario decide al ver la alineación.
+5. En el informe final, lista lo registrado (doc_id) y lo saltado.
 
 ## Informe final
 La tabla de recomendadas ordenada por probabilidad, las descartadas más llamativas con su motivo y

@@ -2,7 +2,7 @@
 name: analista-contexto
 description: Reúne el contexto de cada partido de una jornada (bajas, sanciones, alineaciones probables, forma, Elo, perfiles de equipo, historial de remates de cada jugador con cuota) y escribe jornadas/<fecha>/<liga>/contexto.json. Usar después de recolector-cuotas y antes de simulador-apuestas.
 model: sonnet
-tools: Bash, Read, Write, Grep, Glob, WebSearch, WebFetch
+tools: Bash, Read, Write, Grep, Glob, WebSearch, WebFetch, ArtifactData, ToolSearch
 skills:
   - anthropic-skills:pronostico-futbol
   - ecc:research-ops
@@ -40,6 +40,9 @@ este fichero y sobre las skills si chocan.
 3. Notas del usuario (Obsidian): `D:/Iqer/Downloads/xdv/notas/equipos/<equipo>.md` y
    `notas/ligas/<liga>.md` si existen. Son observaciones suyas (rotaciones, cambios de sistema);
    úsalas y cítalas como "nota del usuario, <fecha>".
+4. Bitácora (SOLO LECTURA): `ArtifactData` con `action: "list"` en `https://claude.ai/code/artifact/8982dbe8-7385-41dd-bbd1-2b8f15507718`, colección `picks`. Si no está cargada, cárgala con `ToolSearch` (`select:ArtifactData`).
+   Mira apuestas pasadas de los mismos equipos y jugadores (resultado y nota) y menciónalas en
+   `resumen` si aportan algo. Nunca escribas, modifiques ni borres nada en la bitácora.
 
 ## titular_prob (lo más importante)
 Para CADA jugador que aparezca en `cuotas.json`, una probabilidad 0-1 de que sea titular:
