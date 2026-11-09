@@ -8004,3 +8004,873 @@ capturado_utc,fuente,liga,evento_id,inicio_utc,local_src,visitante_src,casa,merc
 2026-11-06T17:10:54+00:00,oddsapi,Premier League,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,betsson,1x2,x,3.71
 2026-11-06T17:10:54+00:00,oddsapi,Premier League,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,betsson,ou25,over,1.59
 2026-11-06T17:10:54+00:00,oddsapi,Premier League,b0a4b5448a7e02d9ad1eaa817599fff0,2026-11-08T16:30:00Z,Manchester United,Aston Villa,betsson,ou25,under,2.4
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,marathonbet,1x2,2,4.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,marathonbet,1x2,1,2.15
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,marathonbet,1x2,x,2.5
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,pinnacle,1x2,2,4.95
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,pinnacle,1x2,1,2.25
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,pinnacle,1x2,x,2.43
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,betfair_ex_uk,1x2,2,5.0
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,betfair_ex_uk,1x2,1,2.42
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,betfair_ex_uk,1x2,x,2.56
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,betfair_ex_eu,1x2,2,5.0
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,betfair_ex_eu,1x2,1,2.42
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,betfair_ex_eu,1x2,x,2.56
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,paddypower,1x2,2,4.4
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,paddypower,1x2,1,2.0
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,paddypower,1x2,x,2.38
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,skybet,1x2,2,3.4
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,skybet,1x2,1,2.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,7bfc2afc162934f011a8425159e340da,2026-11-09T19:30:00Z,Las Palmas,CD Eldense,skybet,1x2,x,2.7
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,betsson,1x2,2,4.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,betsson,1x2,1,2.15
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,betsson,1x2,x,2.4
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,paddypower,1x2,2,4.75
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,paddypower,1x2,1,1.95
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,paddypower,1x2,x,2.3
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,pinnacle,1x2,2,4.96
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,pinnacle,1x2,1,2.15
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,pinnacle,1x2,x,2.54
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,skybet,1x2,2,4.0
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,skybet,1x2,1,1.91
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,skybet,1x2,x,2.75
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,marathonbet,1x2,2,4.5
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,marathonbet,1x2,1,2.05
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,marathonbet,1x2,x,2.54
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,betfair_ex_eu,1x2,2,5.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,betfair_ex_eu,1x2,1,2.32
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,betfair_ex_eu,1x2,x,2.62
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,betfair_ex_uk,1x2,2,5.3
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,betfair_ex_uk,1x2,1,2.32
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f52b83a74c511828f6155889d751d191,2026-11-09T19:30:00Z,Sabadell FC,Real Sociedad B,betfair_ex_uk,1x2,x,2.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,betsson,1x2,2,3.35
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,betsson,1x2,1,2.12
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,betsson,1x2,x,3.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,betsson,ou25,over,2.22
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,betsson,ou25,under,1.58
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,paddypower,1x2,2,3.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,paddypower,1x2,1,2.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,paddypower,1x2,x,3.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,pinnacle,1x2,2,3.48
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,pinnacle,1x2,1,2.24
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,pinnacle,1x2,x,3.19
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,marathonbet,1x2,2,3.36
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,marathonbet,1x2,1,2.15
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,marathonbet,1x2,x,3.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,marathonbet,ou25,over,2.09
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,marathonbet,ou25,under,1.69
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,skybet,1x2,2,3.0
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,skybet,1x2,1,2.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,skybet,1x2,x,2.9
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,williamhill,1x2,2,3.25
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,williamhill,1x2,1,2.15
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,williamhill,1x2,x,3.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,williamhill,ou25,over,2.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,williamhill,ou25,under,1.62
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,betfair_ex_eu,1x2,2,3.5
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,betfair_ex_eu,1x2,1,2.24
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,betfair_ex_eu,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,betfair_ex_uk,1x2,2,3.5
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,betfair_ex_uk,1x2,1,2.24
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,fed29050dc7e99c7dd6b3b4580f142b7,2026-11-13T19:30:00Z,Leganés,Burgos CF,betfair_ex_uk,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,betsson,1x2,2,2.35
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,betsson,1x2,1,2.72
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,betsson,1x2,x,3.35
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,betsson,ou25,over,1.68
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,betsson,ou25,under,2.08
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,paddypower,1x2,2,2.25
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,paddypower,1x2,1,2.7
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,paddypower,1x2,x,3.4
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,pinnacle,1x2,2,2.34
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,pinnacle,1x2,1,2.84
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,pinnacle,1x2,x,3.72
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,skybet,1x2,2,2.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,skybet,1x2,1,2.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,skybet,1x2,x,3.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,marathonbet,1x2,2,2.29
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,marathonbet,1x2,1,2.78
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,marathonbet,1x2,x,3.58
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,marathonbet,ou25,over,1.65
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,marathonbet,ou25,under,2.15
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,williamhill,1x2,2,2.3
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,williamhill,1x2,1,2.75
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,williamhill,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,williamhill,ou25,over,1.7
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,908247d5d5cd714de37956edf865668b,2026-11-14T13:00:00Z,Real Valladolid CF,CD Castellón,williamhill,ou25,under,2.05
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,betsson,1x2,1,2.65
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,betsson,1x2,2,2.45
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,betsson,1x2,x,3.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,betsson,ou25,over,1.8
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,betsson,ou25,under,1.9
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,betfair_ex_uk,1x2,1,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,betfair_ex_uk,1x2,2,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,betfair_ex_uk,1x2,x,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,paddypower,1x2,1,2.5
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,paddypower,1x2,2,2.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,paddypower,1x2,x,3.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,betfair_ex_eu,1x2,1,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,betfair_ex_eu,1x2,2,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,betfair_ex_eu,1x2,x,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,marathonbet,1x2,1,2.54
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,marathonbet,1x2,2,2.63
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,marathonbet,1x2,x,3.32
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,marathonbet,ou25,over,1.81
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,marathonbet,ou25,under,1.93
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,skybet,1x2,1,2.38
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,skybet,1x2,2,2.5
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,skybet,1x2,x,3.0
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,pinnacle,1x2,1,2.56
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,pinnacle,1x2,2,2.78
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,pinnacle,1x2,x,3.26
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,pinnacle,ou25,over,1.93
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,pinnacle,ou25,under,1.88
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,williamhill,1x2,1,2.45
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,williamhill,1x2,2,2.62
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,williamhill,1x2,x,3.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,williamhill,ou25,over,1.85
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,d5b0e0c0934f6a58410410bd573a5065,2026-11-14T15:15:00Z,Real Sociedad B,Sporting Gijón,williamhill,ou25,under,1.85
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,betsson,1x2,1,1.65
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,betsson,1x2,2,4.5
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,betsson,1x2,x,3.8
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,betsson,ou25,over,1.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,betsson,ou25,under,2.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,paddypower,1x2,1,1.67
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,paddypower,1x2,2,4.0
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,paddypower,1x2,x,3.8
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,pinnacle,1x2,1,1.74
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,pinnacle,1x2,2,4.46
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,pinnacle,1x2,x,4.0
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,skybet,1x2,1,1.67
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,skybet,1x2,2,3.8
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,skybet,1x2,x,3.5
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,marathonbet,1x2,1,1.65
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,marathonbet,1x2,2,4.45
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,marathonbet,1x2,x,4.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,marathonbet,ou25,over,1.56
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,marathonbet,ou25,under,2.33
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,williamhill,1x2,1,1.67
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,williamhill,1x2,2,4.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,williamhill,1x2,x,3.8
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,williamhill,ou25,over,1.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,570ec7734e1f7d9e813ab0013291f5f5,2026-11-14T17:30:00Z,Almería,Andorra CF,williamhill,ou25,under,2.25
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,betsson,1x2,2,4.5
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,betsson,1x2,1,1.62
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,betsson,1x2,x,3.85
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,betsson,ou25,over,1.62
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,betsson,ou25,under,2.15
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,paddypower,1x2,2,4.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,paddypower,1x2,1,1.62
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,paddypower,1x2,x,3.8
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,skybet,1x2,2,3.9
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,skybet,1x2,1,1.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,skybet,1x2,x,3.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,pinnacle,1x2,2,4.45
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,pinnacle,1x2,1,1.7
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,pinnacle,1x2,x,4.17
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,marathonbet,1x2,2,4.4
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,marathonbet,1x2,1,1.65
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,marathonbet,1x2,x,4.15
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,marathonbet,ou25,over,1.58
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,marathonbet,ou25,under,2.29
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,williamhill,1x2,2,4.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,williamhill,1x2,1,1.67
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,williamhill,1x2,x,3.9
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,williamhill,ou25,over,1.62
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,williamhill,ou25,under,2.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,betfair_ex_uk,1x2,2,4.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,betfair_ex_uk,1x2,1,1.72
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,betfair_ex_uk,1x2,x,4.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,betfair_ex_eu,1x2,2,4.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,betfair_ex_eu,1x2,1,1.72
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,6bc4aff371a2a5eaf38c73700a5c14d4,2026-11-14T17:30:00Z,Mallorca,Córdoba,betfair_ex_eu,1x2,x,4.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,betsson,1x2,2,2.75
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,betsson,1x2,1,2.42
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,betsson,1x2,x,3.15
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,betsson,ou25,over,2.0
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,betsson,ou25,under,1.72
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,paddypower,1x2,2,2.8
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,paddypower,1x2,1,2.3
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,paddypower,1x2,x,3.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,pinnacle,1x2,2,2.98
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,pinnacle,1x2,1,2.45
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,pinnacle,1x2,x,3.31
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,pinnacle,ou25,over,2.01
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,pinnacle,ou25,under,1.83
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,skybet,1x2,2,2.7
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,skybet,1x2,1,2.25
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,skybet,1x2,x,3.0
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,marathonbet,1x2,2,2.82
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,marathonbet,1x2,1,2.39
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,marathonbet,1x2,x,3.32
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,marathonbet,ou25,over,1.88
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,marathonbet,ou25,under,1.86
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,williamhill,1x2,2,2.88
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,williamhill,1x2,1,2.3
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,williamhill,1x2,x,3.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,williamhill,ou25,over,1.95
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,williamhill,ou25,under,1.75
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,betfair_ex_eu,1x2,2,2.96
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,betfair_ex_eu,1x2,1,2.46
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,betfair_ex_eu,1x2,x,3.25
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,betfair_ex_uk,1x2,2,2.96
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,betfair_ex_uk,1x2,1,2.46
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,beaf0bb6252d3b1d42a720aa385e9414,2026-11-14T20:00:00Z,Oviedo,Girona FC,betfair_ex_uk,1x2,x,3.25
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f241b0cec31506c2eb749ff9be97667c,2026-11-15T13:00:00Z,Tenerife,AD Ceuta FC,betsson,1x2,2,3.95
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f241b0cec31506c2eb749ff9be97667c,2026-11-15T13:00:00Z,Tenerife,AD Ceuta FC,betsson,1x2,1,1.85
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,f241b0cec31506c2eb749ff9be97667c,2026-11-15T13:00:00Z,Tenerife,AD Ceuta FC,betsson,1x2,x,3.35
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,betsson,1x2,1,1.72
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,betsson,1x2,2,4.4
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,betsson,1x2,x,3.5
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,betsson,ou25,over,1.78
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,betsson,ou25,under,1.92
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,pinnacle,1x2,1,1.74
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,pinnacle,1x2,2,4.88
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,pinnacle,1x2,x,3.69
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,pinnacle,ou25,over,1.85
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,pinnacle,ou25,under,1.98
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,paddypower,1x2,1,1.67
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,paddypower,1x2,2,4.5
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,paddypower,1x2,x,3.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,marathonbet,1x2,1,1.68
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,marathonbet,1x2,2,4.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,marathonbet,1x2,x,3.8
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,marathonbet,ou25,over,1.73
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,marathonbet,ou25,under,2.03
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,skybet,1x2,1,1.62
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,skybet,1x2,2,4.0
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,skybet,1x2,x,3.4
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,williamhill,1x2,1,1.7
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,williamhill,1x2,2,4.5
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,williamhill,1x2,x,3.5
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,williamhill,ou25,over,1.8
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,williamhill,ou25,under,1.91
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,betfair_ex_uk,1x2,1,1.13
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,betfair_ex_uk,1x2,2,2.26
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,betfair_ex_uk,1x2,x,2.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,betfair_ex_eu,1x2,1,1.13
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,betfair_ex_eu,1x2,2,2.26
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,b8308c8150f5ad55e242d7671adaffbd,2026-11-15T15:15:00Z,Granada CF,Las Palmas,betfair_ex_eu,1x2,x,2.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,betsson,1x2,1,2.38
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,betsson,1x2,2,2.85
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,betsson,1x2,x,3.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,betsson,ou25,over,2.12
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,betsson,ou25,under,1.62
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,paddypower,1x2,1,2.45
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,paddypower,1x2,2,2.7
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,paddypower,1x2,x,3.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,betfair_ex_uk,1x2,1,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,betfair_ex_uk,1x2,2,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,betfair_ex_uk,1x2,x,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,betfair_ex_eu,1x2,1,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,betfair_ex_eu,1x2,2,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,betfair_ex_eu,1x2,x,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,marathonbet,1x2,1,2.49
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,marathonbet,1x2,2,2.77
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,marathonbet,1x2,x,3.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,marathonbet,ou25,over,2.05
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,marathonbet,ou25,under,1.72
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,skybet,1x2,1,2.38
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,skybet,1x2,2,2.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,skybet,1x2,x,2.9
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,pinnacle,1x2,1,2.57
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,pinnacle,1x2,2,2.83
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,pinnacle,1x2,x,3.17
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,williamhill,1x2,1,2.45
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,williamhill,1x2,2,2.75
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,williamhill,1x2,x,3.0
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,williamhill,ou25,over,2.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,976d20d0bdfd5ebae5800d5ec4f8dedf,2026-11-15T17:30:00Z,CD Eldense,Sabadell FC,williamhill,ou25,under,1.67
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,betsson,1x2,2,4.8
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,betsson,1x2,1,1.62
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,betsson,1x2,x,3.75
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,betsson,ou25,over,1.75
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,betsson,ou25,under,1.98
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,pinnacle,1x2,2,5.28
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,pinnacle,1x2,1,1.62
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,pinnacle,1x2,x,4.06
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,paddypower,1x2,2,4.5
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,paddypower,1x2,1,1.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,paddypower,1x2,x,3.8
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,skybet,1x2,2,4.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,skybet,1x2,1,1.57
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,skybet,1x2,x,3.5
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,marathonbet,1x2,2,5.05
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,marathonbet,1x2,1,1.58
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,marathonbet,1x2,x,4.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,marathonbet,ou25,over,1.7
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,marathonbet,ou25,under,2.08
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,williamhill,1x2,2,4.8
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,williamhill,1x2,1,1.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,williamhill,1x2,x,3.8
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,williamhill,ou25,over,1.75
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,williamhill,ou25,under,1.95
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,betfair_ex_uk,1x2,2,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,betfair_ex_uk,1x2,1,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,betfair_ex_uk,1x2,x,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,betfair_ex_eu,1x2,2,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,betfair_ex_eu,1x2,1,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,12b34c0f22c4208647c5a5472269b735,2026-11-15T17:30:00Z,SD Eibar,Cádiz CF,betfair_ex_eu,1x2,x,1.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,betsson,1x2,1,1.72
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,betsson,1x2,2,4.2
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,betsson,1x2,x,3.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,betsson,ou25,over,1.62
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,betsson,ou25,under,2.12
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,paddypower,1x2,1,1.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,paddypower,1x2,2,4.5
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,paddypower,1x2,x,3.8
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,skybet,1x2,1,1.57
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,skybet,1x2,2,4.0
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,skybet,1x2,x,3.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,marathonbet,1x2,1,1.63
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,marathonbet,1x2,2,4.6
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,marathonbet,1x2,x,4.1
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,marathonbet,ou25,over,1.57
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,marathonbet,ou25,under,2.31
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,pinnacle,1x2,1,1.66
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,pinnacle,1x2,2,4.64
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,pinnacle,1x2,x,4.06
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,williamhill,1x2,1,1.65
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,williamhill,1x2,2,4.4
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,williamhill,1x2,x,3.8
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,williamhill,ou25,over,1.62
+2026-11-09T20:24:55+00:00,oddsapi,LaLiga Hypermotion,c52bb6ace02b521be96df8fba8806037,2026-11-16T19:30:00Z,Albacete,Celta Fortuna,williamhill,ou25,under,2.15
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,pinnacle,1x2,2,2.85
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,pinnacle,1x2,1,2.32
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,pinnacle,1x2,x,3.7
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,sport888,1x2,2,2.8
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,sport888,1x2,1,2.25
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,sport888,1x2,x,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,betsson,1x2,2,2.9
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,betsson,1x2,1,2.22
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,betsson,1x2,x,3.45
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,betsson,ou25,over,1.55
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,betsson,ou25,under,2.32
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,williamhill,1x2,2,2.8
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,williamhill,1x2,1,2.25
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,williamhill,1x2,x,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,williamhill,ou25,over,1.55
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,williamhill,ou25,under,2.3
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,marathonbet,1x2,2,2.8
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,marathonbet,1x2,1,2.28
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,marathonbet,1x2,x,3.58
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,marathonbet,ou25,over,1.54
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,marathonbet,ou25,under,2.38
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,paddypower,1x2,2,2.75
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,paddypower,1x2,1,2.3
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,paddypower,1x2,x,3.6
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,skybet,1x2,2,2.63
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,skybet,1x2,1,2.2
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,skybet,1x2,x,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,betfair_ex_uk,1x2,2,2.78
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,betfair_ex_uk,1x2,1,2.28
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,betfair_ex_uk,1x2,x,3.8
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,betfair_ex_eu,1x2,2,2.78
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,betfair_ex_eu,1x2,1,2.28
+2026-11-09T20:24:55+00:00,oddsapi,League One,3af2458dd9984d806bbf46e7bd2d7872,2026-11-14T15:00:00Z,Wigan Athletic,Barnsley,betfair_ex_eu,1x2,x,3.8
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,pinnacle,1x2,2,2.49
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,pinnacle,1x2,1,2.83
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,pinnacle,1x2,x,3.37
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,pinnacle,ou25,over,1.84
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,pinnacle,ou25,under,1.98
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,sport888,1x2,2,2.45
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,sport888,1x2,1,2.62
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,sport888,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,betsson,1x2,2,2.45
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,betsson,1x2,1,2.72
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,betsson,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,betsson,ou25,over,1.78
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,betsson,ou25,under,1.98
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,williamhill,1x2,2,2.45
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,williamhill,1x2,1,2.62
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,williamhill,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,williamhill,ou25,over,1.75
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,williamhill,ou25,under,1.95
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,marathonbet,1x2,2,2.45
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,marathonbet,1x2,1,2.69
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,marathonbet,1x2,x,3.38
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,marathonbet,ou25,over,1.76
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,marathonbet,ou25,under,1.99
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,paddypower,1x2,2,2.5
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,paddypower,1x2,1,2.62
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,paddypower,1x2,x,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,skybet,1x2,2,2.4
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,skybet,1x2,1,2.5
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,skybet,1x2,x,3.2
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,betfair_ex_uk,1x2,2,2.42
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,betfair_ex_uk,1x2,1,2.74
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,betfair_ex_uk,1x2,x,3.45
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,betfair_ex_eu,1x2,2,2.42
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,betfair_ex_eu,1x2,1,2.74
+2026-11-09T20:24:55+00:00,oddsapi,League One,b35b9bd8cea60f3228039ca3fc77d4ba,2026-11-14T15:00:00Z,Wimbledon,Blackpool,betfair_ex_eu,1x2,x,3.45
+2026-11-09T20:24:55+00:00,oddsapi,League One,e315dc04bd19f74df3199a20acf38004,2026-11-14T15:00:00Z,Leicester City,Bradford City,marathonbet,1x2,2,3.88
+2026-11-09T20:24:55+00:00,oddsapi,League One,e315dc04bd19f74df3199a20acf38004,2026-11-14T15:00:00Z,Leicester City,Bradford City,marathonbet,1x2,1,1.82
+2026-11-09T20:24:55+00:00,oddsapi,League One,e315dc04bd19f74df3199a20acf38004,2026-11-14T15:00:00Z,Leicester City,Bradford City,marathonbet,1x2,x,3.74
+2026-11-09T20:24:55+00:00,oddsapi,League One,e315dc04bd19f74df3199a20acf38004,2026-11-14T15:00:00Z,Leicester City,Bradford City,marathonbet,ou25,over,1.64
+2026-11-09T20:24:55+00:00,oddsapi,League One,e315dc04bd19f74df3199a20acf38004,2026-11-14T15:00:00Z,Leicester City,Bradford City,marathonbet,ou25,under,2.17
+2026-11-09T20:24:55+00:00,oddsapi,League One,d90bee9d1425fb4cebbb391add66d0ed,2026-11-14T15:00:00Z,Bromley FC,Notts County,marathonbet,1x2,1,2.95
+2026-11-09T20:24:55+00:00,oddsapi,League One,d90bee9d1425fb4cebbb391add66d0ed,2026-11-14T15:00:00Z,Bromley FC,Notts County,marathonbet,1x2,2,2.39
+2026-11-09T20:24:55+00:00,oddsapi,League One,d90bee9d1425fb4cebbb391add66d0ed,2026-11-14T15:00:00Z,Bromley FC,Notts County,marathonbet,1x2,x,3.15
+2026-11-09T20:24:55+00:00,oddsapi,League One,d90bee9d1425fb4cebbb391add66d0ed,2026-11-14T15:00:00Z,Bromley FC,Notts County,marathonbet,ou25,over,1.87
+2026-11-09T20:24:55+00:00,oddsapi,League One,d90bee9d1425fb4cebbb391add66d0ed,2026-11-14T15:00:00Z,Bromley FC,Notts County,marathonbet,ou25,under,1.87
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,pinnacle,1x2,2,4.62
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,pinnacle,1x2,1,1.69
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,pinnacle,1x2,x,3.99
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,sport888,1x2,2,4.6
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,sport888,1x2,1,1.67
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,sport888,1x2,x,3.75
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,betsson,1x2,2,4.4
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,betsson,1x2,1,1.68
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,betsson,1x2,x,3.85
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,betsson,ou25,over,1.62
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,betsson,ou25,under,2.18
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,williamhill,1x2,2,4.6
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,williamhill,1x2,1,1.67
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,williamhill,1x2,x,3.8
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,williamhill,ou25,over,1.62
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,williamhill,ou25,under,2.2
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,marathonbet,1x2,2,4.7
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,marathonbet,1x2,1,1.64
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,marathonbet,1x2,x,3.98
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,marathonbet,ou25,over,1.64
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,marathonbet,ou25,under,2.17
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,paddypower,1x2,2,4.5
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,paddypower,1x2,1,1.67
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,paddypower,1x2,x,4.0
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,skybet,1x2,2,4.2
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,skybet,1x2,1,1.62
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,skybet,1x2,x,3.75
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,betfair_ex_uk,1x2,2,1.27
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,betfair_ex_uk,1x2,1,1.27
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,betfair_ex_uk,1x2,x,3.85
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,betfair_ex_eu,1x2,2,1.27
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,betfair_ex_eu,1x2,1,1.27
+2026-11-09T20:24:55+00:00,oddsapi,League One,56de4f6858f896d0278456d0f2f8988a,2026-11-14T15:00:00Z,Milton Keynes Dons,Burton Albion,betfair_ex_eu,1x2,x,3.85
+2026-11-09T20:24:55+00:00,oddsapi,League One,7c4066bf032cae51ebc6ad81973efc55,2026-11-14T15:00:00Z,Luton,Cambridge United,marathonbet,1x2,2,4.6
+2026-11-09T20:24:55+00:00,oddsapi,League One,7c4066bf032cae51ebc6ad81973efc55,2026-11-14T15:00:00Z,Luton,Cambridge United,marathonbet,1x2,1,1.64
+2026-11-09T20:24:55+00:00,oddsapi,League One,7c4066bf032cae51ebc6ad81973efc55,2026-11-14T15:00:00Z,Luton,Cambridge United,marathonbet,1x2,x,4.05
+2026-11-09T20:24:55+00:00,oddsapi,League One,7c4066bf032cae51ebc6ad81973efc55,2026-11-14T15:00:00Z,Luton,Cambridge United,marathonbet,ou25,over,1.56
+2026-11-09T20:24:55+00:00,oddsapi,League One,7c4066bf032cae51ebc6ad81973efc55,2026-11-14T15:00:00Z,Luton,Cambridge United,marathonbet,ou25,under,2.33
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,betsson,1x2,1,2.32
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,betsson,1x2,2,2.9
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,betsson,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,betsson,ou25,over,1.78
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,betsson,ou25,under,1.98
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,marathonbet,1x2,1,2.2
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,marathonbet,1x2,2,3.08
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,marathonbet,1x2,x,3.38
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,marathonbet,ou25,over,1.73
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,marathonbet,ou25,under,2.04
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,paddypower,1x2,1,2.2
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,paddypower,1x2,2,3.0
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,paddypower,1x2,x,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,skybet,1x2,1,2.15
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,skybet,1x2,2,2.88
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,skybet,1x2,x,3.25
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,betfair_ex_uk,1x2,1,1.12
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,betfair_ex_uk,1x2,2,1.12
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,betfair_ex_uk,1x2,x,1.14
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,betfair_ex_eu,1x2,1,1.12
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,betfair_ex_eu,1x2,2,1.12
+2026-11-09T20:24:55+00:00,oddsapi,League One,82da0980dcfc5af1d8436be9c3531d91,2026-11-14T15:00:00Z,Doncaster Rovers,Leyton Orient,betfair_ex_eu,1x2,x,1.14
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,marathonbet,1x2,2,2.21
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,marathonbet,1x2,1,3.04
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,marathonbet,1x2,x,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,marathonbet,ou25,over,1.68
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,marathonbet,ou25,under,2.11
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,paddypower,1x2,2,2.15
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,paddypower,1x2,1,3.0
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,paddypower,1x2,x,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,skybet,1x2,2,2.1
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,skybet,1x2,1,2.88
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,skybet,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,betsson,1x2,2,2.15
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,betsson,1x2,1,3.05
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,betsson,1x2,x,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,betsson,ou25,over,1.68
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,betsson,ou25,under,2.12
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,betfair_ex_uk,1x2,2,1.1
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,betfair_ex_uk,1x2,1,1.1
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,betfair_ex_uk,1x2,x,1.05
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,betfair_ex_eu,1x2,2,1.1
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,betfair_ex_eu,1x2,1,1.1
+2026-11-09T20:24:55+00:00,oddsapi,League One,7147fa15092c5d85c5ff46f815e2d5ee,2026-11-14T15:00:00Z,Wycombe Wanderers,Huddersfield Town,betfair_ex_eu,1x2,x,1.05
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,marathonbet,1x2,2,3.0
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,marathonbet,1x2,1,2.39
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,marathonbet,1x2,x,3.1
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,marathonbet,ou25,over,1.98
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,marathonbet,ou25,under,1.77
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,paddypower,1x2,2,2.9
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,paddypower,1x2,1,2.3
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,paddypower,1x2,x,3.25
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,skybet,1x2,2,2.8
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,skybet,1x2,1,2.25
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,skybet,1x2,x,3.1
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,betfair_ex_uk,1x2,2,1.1
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,betfair_ex_uk,1x2,1,1.1
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,betfair_ex_uk,1x2,x,1.05
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,betfair_ex_eu,1x2,2,1.1
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,betfair_ex_eu,1x2,1,1.1
+2026-11-09T20:24:55+00:00,oddsapi,League One,2a7644c3777bcd3ca72e318bb7799217,2026-11-14T15:00:00Z,Stevenage,Mansfield Town,betfair_ex_eu,1x2,x,1.05
+2026-11-09T20:24:55+00:00,oddsapi,League One,107bb00cece31c0c9d7738659d31b66c,2026-11-14T15:00:00Z,Peterborough United,Oxford United,marathonbet,1x2,2,2.53
+2026-11-09T20:24:55+00:00,oddsapi,League One,107bb00cece31c0c9d7738659d31b66c,2026-11-14T15:00:00Z,Peterborough United,Oxford United,marathonbet,1x2,1,2.6
+2026-11-09T20:24:55+00:00,oddsapi,League One,107bb00cece31c0c9d7738659d31b66c,2026-11-14T15:00:00Z,Peterborough United,Oxford United,marathonbet,1x2,x,3.38
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,pinnacle,1x2,2,2.82
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,pinnacle,1x2,1,2.33
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,pinnacle,1x2,x,3.72
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,sport888,1x2,2,2.75
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,sport888,1x2,1,2.3
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,sport888,1x2,x,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,williamhill,1x2,2,2.75
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,williamhill,1x2,1,2.3
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,williamhill,1x2,x,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,williamhill,ou25,over,1.5
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,williamhill,ou25,under,2.4
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,marathonbet,1x2,2,2.77
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,marathonbet,1x2,1,2.27
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,marathonbet,1x2,x,3.65
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,paddypower,1x2,2,2.75
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,paddypower,1x2,1,2.3
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,paddypower,1x2,x,3.7
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,skybet,1x2,2,2.63
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,skybet,1x2,1,2.2
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,skybet,1x2,x,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,betfair_ex_uk,1x2,2,2.74
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,betfair_ex_uk,1x2,1,2.28
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,betfair_ex_uk,1x2,x,3.75
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,betfair_ex_eu,1x2,2,2.74
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,betfair_ex_eu,1x2,1,2.28
+2026-11-09T20:24:55+00:00,oddsapi,League One,77721ceba014237d5ab331aad5bd05ac,2026-11-14T15:00:00Z,Sheffield Wednesday,Plymouth Argyle,betfair_ex_eu,1x2,x,3.75
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,pinnacle,1x2,2,3.81
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,pinnacle,1x2,1,1.89
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,pinnacle,1x2,x,3.79
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,sport888,1x2,2,3.6
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,sport888,1x2,1,1.91
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,sport888,1x2,x,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,betsson,1x2,2,3.7
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,betsson,1x2,1,1.85
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,betsson,1x2,x,3.6
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,betsson,ou25,over,1.62
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,betsson,ou25,under,2.22
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,williamhill,1x2,2,3.6
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,williamhill,1x2,1,1.91
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,williamhill,1x2,x,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,williamhill,ou25,over,1.62
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,williamhill,ou25,under,2.2
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,marathonbet,1x2,2,3.78
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,marathonbet,1x2,1,1.83
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,marathonbet,1x2,x,3.78
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,marathonbet,ou25,over,1.59
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,marathonbet,ou25,under,2.27
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,skybet,1x2,2,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,skybet,1x2,1,1.8
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,skybet,1x2,x,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,paddypower,1x2,2,3.75
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,paddypower,1x2,1,1.85
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,paddypower,1x2,x,3.8
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,betfair_ex_uk,1x2,2,1.27
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,betfair_ex_uk,1x2,1,1.27
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,betfair_ex_uk,1x2,x,3.7
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,betfair_ex_eu,1x2,2,1.27
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,betfair_ex_eu,1x2,1,1.27
+2026-11-09T20:24:55+00:00,oddsapi,League One,371f8125767427c4b599eab458bb5549,2026-11-14T15:00:00Z,Stockport County FC,Reading,betfair_ex_eu,1x2,x,3.7
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,pinnacle,1x2,2,3.57
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,pinnacle,1x2,1,2.09
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,pinnacle,1x2,x,3.32
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,pinnacle,ou25,over,1.98
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,pinnacle,ou25,under,1.81
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,williamhill,1x2,2,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,williamhill,1x2,1,2.05
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,williamhill,1x2,x,3.1
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,williamhill,ou25,over,1.91
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,williamhill,ou25,under,1.8
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,marathonbet,1x2,2,3.52
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,marathonbet,1x2,1,1.99
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,marathonbet,1x2,x,3.34
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,marathonbet,ou25,over,1.93
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,marathonbet,ou25,under,1.8
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,sport888,1x2,2,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,sport888,1x2,1,2.05
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,sport888,1x2,x,3.1
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,betsson,1x2,2,3.45
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,betsson,1x2,1,2.08
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,betsson,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,betsson,ou25,over,1.92
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,betsson,ou25,under,1.82
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,paddypower,1x2,2,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,paddypower,1x2,1,2.0
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,paddypower,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,skybet,1x2,2,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,skybet,1x2,1,1.95
+2026-11-09T20:24:55+00:00,oddsapi,League Two,7bf0d1f95bb9b2b6003386c82ba96b6a,2026-11-14T12:30:00Z,Exeter City,Cheltenham Town,skybet,1x2,x,3.2
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,pinnacle,1x2,2,4.15
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,pinnacle,1x2,1,1.91
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,pinnacle,1x2,x,3.36
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,williamhill,1x2,2,3.8
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,williamhill,1x2,1,1.91
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,williamhill,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,williamhill,ou25,over,2.0
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,williamhill,ou25,under,1.75
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,marathonbet,1x2,2,3.94
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,marathonbet,1x2,1,1.89
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,marathonbet,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,marathonbet,ou25,over,2.01
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,marathonbet,ou25,under,1.74
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,sport888,1x2,2,3.8
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,sport888,1x2,1,1.91
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,sport888,1x2,x,3.25
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,betsson,1x2,2,3.95
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,betsson,1x2,1,1.92
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,betsson,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,betsson,ou25,over,2.02
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,betsson,ou25,under,1.72
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,paddypower,1x2,2,4.0
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,paddypower,1x2,1,1.91
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,paddypower,1x2,x,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,skybet,1x2,2,3.75
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,skybet,1x2,1,1.85
+2026-11-09T20:24:55+00:00,oddsapi,League Two,fe8130a05bb9c0ca21e120279f2291de,2026-11-14T15:00:00Z,Port Vale,Accrington Stanley,skybet,1x2,x,3.2
+2026-11-09T20:24:55+00:00,oddsapi,League Two,e637ea0237f583a1b24ab839d809d3e5,2026-11-14T15:00:00Z,Walsall,Barnet,paddypower,1x2,2,2.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,e637ea0237f583a1b24ab839d809d3e5,2026-11-14T15:00:00Z,Walsall,Barnet,paddypower,1x2,1,2.75
+2026-11-09T20:24:55+00:00,oddsapi,League Two,e637ea0237f583a1b24ab839d809d3e5,2026-11-14T15:00:00Z,Walsall,Barnet,paddypower,1x2,x,3.6
+2026-11-09T20:24:55+00:00,oddsapi,League Two,e637ea0237f583a1b24ab839d809d3e5,2026-11-14T15:00:00Z,Walsall,Barnet,marathonbet,1x2,2,2.28
+2026-11-09T20:24:55+00:00,oddsapi,League Two,e637ea0237f583a1b24ab839d809d3e5,2026-11-14T15:00:00Z,Walsall,Barnet,marathonbet,1x2,1,2.79
+2026-11-09T20:24:55+00:00,oddsapi,League Two,e637ea0237f583a1b24ab839d809d3e5,2026-11-14T15:00:00Z,Walsall,Barnet,marathonbet,1x2,x,3.45
+2026-11-09T20:24:55+00:00,oddsapi,League Two,e637ea0237f583a1b24ab839d809d3e5,2026-11-14T15:00:00Z,Walsall,Barnet,marathonbet,ou25,over,1.64
+2026-11-09T20:24:55+00:00,oddsapi,League Two,e637ea0237f583a1b24ab839d809d3e5,2026-11-14T15:00:00Z,Walsall,Barnet,marathonbet,ou25,under,2.16
+2026-11-09T20:24:55+00:00,oddsapi,League Two,e637ea0237f583a1b24ab839d809d3e5,2026-11-14T15:00:00Z,Walsall,Barnet,betsson,1x2,2,2.25
+2026-11-09T20:24:55+00:00,oddsapi,League Two,e637ea0237f583a1b24ab839d809d3e5,2026-11-14T15:00:00Z,Walsall,Barnet,betsson,1x2,1,2.85
+2026-11-09T20:24:55+00:00,oddsapi,League Two,e637ea0237f583a1b24ab839d809d3e5,2026-11-14T15:00:00Z,Walsall,Barnet,betsson,1x2,x,3.45
+2026-11-09T20:24:55+00:00,oddsapi,League Two,e637ea0237f583a1b24ab839d809d3e5,2026-11-14T15:00:00Z,Walsall,Barnet,betsson,ou25,over,1.65
+2026-11-09T20:24:55+00:00,oddsapi,League Two,e637ea0237f583a1b24ab839d809d3e5,2026-11-14T15:00:00Z,Walsall,Barnet,betsson,ou25,under,2.18
+2026-11-09T20:24:55+00:00,oddsapi,League Two,e637ea0237f583a1b24ab839d809d3e5,2026-11-14T15:00:00Z,Walsall,Barnet,skybet,1x2,2,2.2
+2026-11-09T20:24:55+00:00,oddsapi,League Two,e637ea0237f583a1b24ab839d809d3e5,2026-11-14T15:00:00Z,Walsall,Barnet,skybet,1x2,1,2.63
+2026-11-09T20:24:55+00:00,oddsapi,League Two,e637ea0237f583a1b24ab839d809d3e5,2026-11-14T15:00:00Z,Walsall,Barnet,skybet,1x2,x,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,pinnacle,1x2,1,2.88
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,pinnacle,1x2,2,2.43
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,pinnacle,1x2,x,3.35
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,williamhill,1x2,1,2.8
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,williamhill,1x2,2,2.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,williamhill,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,williamhill,ou25,over,1.75
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,williamhill,ou25,under,1.95
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,marathonbet,1x2,1,2.8
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,marathonbet,1x2,2,2.35
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,marathonbet,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,marathonbet,ou25,over,1.74
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,marathonbet,ou25,under,2.01
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,sport888,1x2,1,2.8
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,sport888,1x2,2,2.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,sport888,1x2,x,3.25
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,betsson,1x2,1,2.9
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,betsson,1x2,2,2.32
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,betsson,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,betsson,ou25,over,1.75
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,betsson,ou25,under,1.98
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,paddypower,1x2,1,2.75
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,paddypower,1x2,2,2.4
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,paddypower,1x2,x,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,skybet,1x2,1,2.63
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,skybet,1x2,2,2.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,1cf6ac52aa2dbb22a0eeb97e0bc80579,2026-11-14T15:00:00Z,Bristol Rovers,Chesterfield FC,skybet,1x2,x,3.25
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,pinnacle,1x2,1,2.09
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,pinnacle,1x2,2,3.46
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,pinnacle,1x2,x,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,pinnacle,ou25,over,1.93
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,pinnacle,ou25,under,1.86
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,williamhill,1x2,1,2.05
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,williamhill,1x2,2,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,williamhill,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,williamhill,ou25,over,1.91
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,williamhill,ou25,under,1.8
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,marathonbet,1x2,1,2.06
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,marathonbet,1x2,2,3.34
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,marathonbet,1x2,x,3.34
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,marathonbet,ou25,over,1.9
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,marathonbet,ou25,under,1.83
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,sport888,1x2,1,2.05
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,sport888,1x2,2,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,sport888,1x2,x,3.25
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,betsson,1x2,1,2.05
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,betsson,1x2,2,3.35
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,betsson,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,betsson,ou25,over,1.92
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,betsson,ou25,under,1.82
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,paddypower,1x2,1,2.05
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,paddypower,1x2,2,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,paddypower,1x2,x,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,skybet,1x2,1,2.0
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,skybet,1x2,2,3.2
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f6d830e8821f774883ee2ac32d083bd9,2026-11-14T15:00:00Z,Colchester United,Gillingham,skybet,1x2,x,3.2
+2026-11-09T20:24:55+00:00,oddsapi,League Two,58dfacfa366fb7b2d5d980ea4ed1d9eb,2026-11-14T15:00:00Z,Rotherham United,Crawley Town,marathonbet,1x2,2,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,58dfacfa366fb7b2d5d980ea4ed1d9eb,2026-11-14T15:00:00Z,Rotherham United,Crawley Town,marathonbet,1x2,1,2.01
+2026-11-09T20:24:55+00:00,oddsapi,League Two,58dfacfa366fb7b2d5d980ea4ed1d9eb,2026-11-14T15:00:00Z,Rotherham United,Crawley Town,marathonbet,1x2,x,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League Two,58dfacfa366fb7b2d5d980ea4ed1d9eb,2026-11-14T15:00:00Z,Rotherham United,Crawley Town,marathonbet,ou25,over,1.63
+2026-11-09T20:24:55+00:00,oddsapi,League Two,58dfacfa366fb7b2d5d980ea4ed1d9eb,2026-11-14T15:00:00Z,Rotherham United,Crawley Town,marathonbet,ou25,under,2.17
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,pinnacle,1x2,1,2.09
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,pinnacle,1x2,2,3.55
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,pinnacle,1x2,x,3.35
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,pinnacle,ou25,over,2.01
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,pinnacle,ou25,under,1.79
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,williamhill,1x2,1,2.05
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,williamhill,1x2,2,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,williamhill,1x2,x,3.25
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,williamhill,ou25,over,1.91
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,williamhill,ou25,under,1.83
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,marathonbet,1x2,1,2.01
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,marathonbet,1x2,2,3.45
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,marathonbet,1x2,x,3.34
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,marathonbet,ou25,over,1.92
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,marathonbet,ou25,under,1.81
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,sport888,1x2,1,2.05
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,sport888,1x2,2,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,sport888,1x2,x,3.25
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,betsson,1x2,1,2.08
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,betsson,1x2,2,3.45
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,betsson,1x2,x,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,betsson,ou25,over,1.88
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,betsson,ou25,under,1.85
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,paddypower,1x2,1,2.0
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,paddypower,1x2,2,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,paddypower,1x2,x,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,skybet,1x2,1,1.95
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,skybet,1x2,2,3.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,f71d831db05c678e7208a069210cd59d,2026-11-14T15:00:00Z,Crewe Alexandra,Newport County,skybet,1x2,x,3.25
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,pinnacle,1x2,2,2.04
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,pinnacle,1x2,1,3.25
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,pinnacle,1x2,x,3.82
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,williamhill,1x2,2,2.05
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,williamhill,1x2,1,3.2
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,williamhill,1x2,x,3.6
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,williamhill,ou25,over,1.57
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,williamhill,ou25,under,2.3
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,marathonbet,1x2,2,1.97
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,marathonbet,1x2,1,3.24
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,marathonbet,1x2,x,3.7
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,sport888,1x2,2,2.0
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,sport888,1x2,1,3.1
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,sport888,1x2,x,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,betsson,1x2,2,2.02
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,betsson,1x2,1,3.2
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,betsson,1x2,x,3.6
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,betsson,ou25,over,1.6
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,betsson,ou25,under,2.28
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,paddypower,1x2,2,2.0
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,paddypower,1x2,1,3.25
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,paddypower,1x2,x,3.8
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,skybet,1x2,2,1.95
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,skybet,1x2,1,3.1
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8861bc687f5c3eab3ddd9ad6fec487ee,2026-11-14T15:00:00Z,Swindon Town,Grimsby Town,skybet,1x2,x,3.6
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,pinnacle,1x2,2,4.81
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,pinnacle,1x2,1,1.7
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,pinnacle,1x2,x,3.69
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,pinnacle,ou25,over,1.98
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,pinnacle,ou25,under,1.81
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,williamhill,1x2,2,4.6
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,williamhill,1x2,1,1.7
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,williamhill,1x2,x,3.6
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,williamhill,ou25,over,1.75
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,williamhill,ou25,under,1.95
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,marathonbet,1x2,2,4.8
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,marathonbet,1x2,1,1.67
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,marathonbet,1x2,x,3.62
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,marathonbet,ou25,over,1.9
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,marathonbet,ou25,under,1.83
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,sport888,1x2,2,4.6
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,sport888,1x2,1,1.67
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,sport888,1x2,x,3.6
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,betsson,1x2,2,4.65
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,betsson,1x2,1,1.7
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,betsson,1x2,x,3.6
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,betsson,ou25,over,1.85
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,betsson,ou25,under,1.88
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,paddypower,1x2,2,4.75
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,paddypower,1x2,1,1.67
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,paddypower,1x2,x,3.75
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,skybet,1x2,2,4.33
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,skybet,1x2,1,1.62
+2026-11-09T20:24:55+00:00,oddsapi,League Two,8c883d569a4f4682e918e8b2b37f65ea,2026-11-14T15:00:00Z,Salford City,Northampton Town,skybet,1x2,x,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,pinnacle,1x2,2,2.66
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,pinnacle,1x2,1,2.69
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,pinnacle,1x2,x,3.2
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,pinnacle,ou25,over,1.99
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,pinnacle,ou25,under,1.81
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,williamhill,1x2,2,2.6
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,williamhill,1x2,1,2.62
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,williamhill,1x2,x,3.1
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,williamhill,ou25,over,1.85
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,williamhill,ou25,under,1.85
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,marathonbet,1x2,2,2.58
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,marathonbet,1x2,1,2.6
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,marathonbet,1x2,x,3.18
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,marathonbet,ou25,over,1.91
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,marathonbet,ou25,under,1.82
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,sport888,1x2,2,2.6
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,sport888,1x2,1,2.62
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,sport888,1x2,x,3.1
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,betsson,1x2,2,2.62
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,betsson,1x2,1,2.62
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,betsson,1x2,x,3.2
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,betsson,ou25,over,1.92
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,betsson,ou25,under,1.82
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,paddypower,1x2,2,2.62
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,paddypower,1x2,1,2.62
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,paddypower,1x2,x,3.25
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,skybet,1x2,2,2.5
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,skybet,1x2,1,2.5
+2026-11-09T20:24:55+00:00,oddsapi,League Two,0e3335b3ccccc54d5457fca8f68a7c16,2026-11-14T15:00:00Z,Shrewsbury Town,Oldham Athletic,skybet,1x2,x,3.1
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,pinnacle,1x2,1,4.23
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,pinnacle,1x2,2,1.7
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,pinnacle,1x2,x,4.15
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,williamhill,1x2,1,4.0
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,williamhill,1x2,2,1.73
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,williamhill,1x2,x,3.9
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,williamhill,ou25,over,1.6
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,williamhill,ou25,under,2.25
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,marathonbet,1x2,1,4.05
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,marathonbet,1x2,2,1.71
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,marathonbet,1x2,x,3.94
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,marathonbet,ou25,over,1.59
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,marathonbet,ou25,under,2.25
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,sport888,1x2,1,4.0
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,sport888,1x2,2,1.7
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,sport888,1x2,x,3.8
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,betsson,1x2,1,4.4
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,betsson,1x2,2,1.68
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,betsson,1x2,x,3.85
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,betsson,ou25,over,1.6
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,betsson,ou25,under,2.28
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,paddypower,1x2,1,4.0
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,paddypower,1x2,2,1.73
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,paddypower,1x2,x,4.0
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,skybet,1x2,1,3.8
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,skybet,1x2,2,1.67
+2026-11-09T20:24:55+00:00,oddsapi,League Two,c85f68dde3ac31fe8f0da78b1ddca180,2026-11-14T15:00:00Z,Rochdale,York City,skybet,1x2,x,3.8
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,pinnacle,1x2,1,1.88
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,pinnacle,1x2,2,3.91
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,pinnacle,1x2,x,3.67
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,pinnacle,ou25,over,1.81
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,pinnacle,ou25,under,1.98
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,williamhill,1x2,1,1.91
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,williamhill,1x2,2,3.75
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,williamhill,1x2,x,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,williamhill,ou25,over,1.75
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,williamhill,ou25,under,1.95
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,marathonbet,1x2,1,1.87
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,marathonbet,1x2,2,3.74
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,marathonbet,1x2,x,3.52
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,marathonbet,ou25,over,1.79
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,marathonbet,ou25,under,1.94
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,sport888,1x2,1,1.91
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,sport888,1x2,2,3.7
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,sport888,1x2,x,3.4
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,betsson,1x2,1,1.88
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,betsson,1x2,2,3.95
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,betsson,1x2,x,3.45
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,betsson,ou25,over,1.78
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,betsson,ou25,under,1.98
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,paddypower,1x2,1,1.91
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,paddypower,1x2,2,3.7
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,paddypower,1x2,x,3.6
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,skybet,1x2,1,1.85
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,skybet,1x2,2,3.5
+2026-11-09T20:24:55+00:00,oddsapi,League Two,b8c1674ee9357dafd107c231c7d8277e,2026-11-14T17:30:00Z,Fleetwood Town,Tranmere Rovers,skybet,1x2,x,3.4
