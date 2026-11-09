@@ -8,8 +8,8 @@ Luzern,Sion,20,2.5,0.4,0.6,Luz3-3Sio;Sio1-1Luz;Sio0-0Luz;Sio3-0Luz;Luz1-1Sio
 Lugano,Thun,5,2.2,0.4,0.4,Lug1-2Thu;Thu0-1Lug;Lug1-0Thu;Thu0-1Lug;Thu2-3Lug
 Lausanne,Sion,14,2.14,0.36,0.36,Lau2-0Sio;Sio0-0Lau;Lau2-2Sio;Sio3-0Lau;Sio1-0Lau
 Basel,Grasshoppers,19,2.53,0.47,0.53,Bas2-1Gra;Bas2-1Gra;Gra1-1Bas;Bas1-0Gra;Bas0-0Gra
-St. Gallen,Young Boys,24,3.33,0.79,0.71,You1-2St.;St.1-4You;St.2-1You;You1-2St.;You2-0St.
-Luzern,Zurich,23,3.09,0.61,0.7,Luz1-1Zur;Zur3-2Luz;Zur1-4Luz;Luz1-0Zur;Zur2-1Luz
+St. Gallen,Young Boys,23,3.48,0.83,0.74,You1-2St.;St.1-4You;St.2-1You;You1-2St.;You2-0St.
+Luzern,Zurich,22,3.14,0.64,0.73,Luz1-1Zur;Zur3-2Luz;Zur1-4Luz;Luz1-0Zur;Zur2-1Luz
 Servette,Vaduz,5,2.8,0.6,0.8,Vad0-2Ser;Ser1-1Vad;Ser1-2Vad;Vad1-3Ser;Ser2-1Vad
 Lausanne,St. Gallen,18,3.44,0.61,0.56,St.0-2Lau;Lau1-2St.;St.1-0Lau;Lau1-1St.;St.1-0Lau
 Basel,Vaduz,4,2.5,0.5,0.5,Vad0-2Bas;Bas1-2Vad;Vad1-1Bas;Vad3-0Bas
@@ -17,7 +17,7 @@ Grasshoppers,Young Boys,18,2.56,0.39,0.44,Gra1-0You;Gra3-3You;You2-6Gra;Gra1-1Yo
 Lugano,Luzern,22,3.5,0.68,0.73,Luz0-2Lug;Lug2-0Luz;Luz2-5Lug;Lug1-3Luz;Lug4-0Luz
 Servette,Sion,19,3.42,0.68,0.63,Sio1-1Ser;Sio0-2Ser;Ser3-3Sio;Ser0-0Sio;Ser3-0Sio
 Thun,Zurich,4,4.75,1.0,0.75,Zur0-4Thu;Thu4-2Zur;Zur2-1Thu;Zur4-2Thu
-Lausanne,Lugano,19,2.47,0.42,0.47,Lau1-1Lug;Lug1-1Lau;Lau0-0Lug;Lug2-1Lau;Lau0-4Lug
+Lausanne,Lugano,18,2.56,0.44,0.5,Lau1-1Lug;Lug1-1Lau;Lau0-0Lug;Lug2-1Lau;Lau0-4Lug
 Basel,St. Gallen,22,2.77,0.55,0.64,St.2-1Bas;Bas0-0St.;St.3-0Bas;Bas1-3St.;Bas1-3St.
 Sion,Zurich,20,2.95,0.55,0.65,Sio2-1Zur;Zur2-3Sio;Sio2-2Zur;Zur1-2Sio;Sio1-1Zur
 Grasshoppers,Luzern,20,3.05,0.45,0.6,Gra2-3Luz;Luz6-0Gra;Luz4-3Gra;Gra1-2Luz;Luz5-1Gra

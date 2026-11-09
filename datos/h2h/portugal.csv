@@ -1,43 +1,50 @@
 eq_a,eq_b,n,goles,over25,btts,ultimos
+Guimaraes,Porto,11,2.36,0.64,0.45,Gui0-3Por;Por1-1Gui;Por3-0Gui;Gui0-1Por;Gui1-2Por
+Rio Ave,Sp Braga,9,2.78,0.67,0.44,Sp 4-0Rio;Rio2-1Sp ;Rio2-2Sp ;Sp 3-0Rio;Rio0-1Sp 
+Gil Vicente,Santa Clara,9,2.22,0.44,0.44,San2-1Gil;Gil0-1San;Gil1-0San;San1-0Gil;San1-2Gil
+Benfica,Estrela,7,3.29,0.57,0.43,Ben1-0Est;Est2-3Ben;Est0-1Ben;Ben4-0Est;Est2-3Ben
+Moreirense,Sp Lisbon,9,2.44,0.56,0.22,Mor2-1Sp ;Sp 3-1Mor;Sp 3-0Mor;Mor0-3Sp ;Sp 1-0Mor
+Alverca,Casa Pia,3,2.67,0.33,0.67,Cas0-2Alv;Alv3-1Cas;Alv1-1Cas
+Arouca,Famalicao,11,2.0,0.36,0.45,Fam0-0Aro;Aro1-2Fam;Aro1-1Fam;Fam1-0Aro;Fam1-0Aro
 Alverca,Benfica,3,2.33,0.67,0.67,Alv1-2Ben;Ben2-1Alv;Ben1-0Alv
 Gil Vicente,Guimaraes,11,2.18,0.45,0.27,Gui4-0Gil;Gil0-1Gui;Gui0-0Gil;Gil0-1Gui;Gil0-0Gui
-Maritimo,Santa Clara,5,3.6,0.8,0.8,Mar4-1San;San2-2Mar;San2-1Mar;Mar3-1San;Mar0-2San
 Arouca,Nacional,5,2.2,0.6,0.4,Aro1-0Nac;Nac1-2Aro;Nac1-2Aro;Aro3-0Nac;Aro1-0Nac
+Maritimo,Santa Clara,5,3.6,0.8,0.8,Mar4-1San;San2-2Mar;San2-1Mar;Mar3-1San;Mar0-2San
 Famalicao,Sp Braga,11,3.73,0.91,0.82,Sp 3-3Fam;Fam1-1Sp ;Fam1-2Sp ;Sp 2-2Fam;Sp 3-0Fam
 Estrela,Moreirense,7,2.57,0.57,0.71,Est2-1Mor;Mor1-1Est;Est0-0Mor;Mor3-2Est;Mor2-1Est
 Estoril,Porto,11,2.91,0.55,0.45,Por4-0Est;Est1-2Por;Por1-0Est;Est1-3Por;Por4-0Est
 Casa Pia,Sp Lisbon,9,3.89,0.67,0.44,Sp 2-0Cas;Cas1-3Sp ;Cas0-2Sp ;Sp 3-0Cas;Cas0-2Sp 
 Benfica,Santa Clara,9,3.11,0.78,0.56,Ben4-1San;San0-1Ben;Ben1-1San;San1-2Ben;San1-2Ben
+Estoril,Moreirense,9,3.11,0.67,0.67,Est2-2Mor;Mor2-2Est;Est3-3Mor;Mor1-0Est;Est1-3Mor
 Famalicao,Rio Ave,9,1.78,0.33,0.44,Rio1-1Fam;Fam1-0Rio;Fam0-0Rio;Rio0-0Fam;Rio0-4Fam
 Nacional,Sp Braga,5,1.8,0.4,0.2,Nac0-3Sp ;Sp 1-0Nac;Sp 0-1Nac;Nac1-2Sp ;Nac1-0Sp 
-Estoril,Moreirense,9,3.11,0.67,0.67,Est2-2Mor;Mor2-2Est;Est3-3Mor;Mor1-0Est;Est1-3Mor
-Casa Pia,Estrela,7,3.0,0.43,0.29,Est0-1Cas;Cas1-0Est;Cas3-5Est;Est4-0Cas;Est0-2Cas
 Gil Vicente,Porto,11,2.55,0.55,0.55,Por3-0Gil;Gil3-1Por;Gil0-2Por;Por3-0Gil;Gil0-1Por
+Casa Pia,Estrela,7,3.0,0.43,0.29,Est0-1Cas;Cas1-0Est;Cas3-5Est;Est4-0Cas;Est0-2Cas
 Alverca,Arouca,3,1.67,0.33,0.33,Aro1-0Alv;Alv2-1Aro;Alv0-1Aro
 Guimaraes,Maritimo,5,2.6,0.6,0.4,Gui2-1Mar;Mar0-1Gui;Gui1-0Mar;Mar1-2Gui;Gui5-0Mar
 Gil Vicente,Sp Braga,11,2.0,0.36,0.36,Gil0-0Sp ;Sp 2-0Gil;Sp 0-1Gil;Gil2-1Sp ;Sp 1-2Gil
 Alverca,Famalicao,3,2.33,0.33,0.33,Alv1-0Fam;Fam1-0Alv;Fam1-4Alv
-Arouca,Estrela,7,2.14,0.43,0.43,Est2-1Aro;Aro1-0Est;Est3-1Aro;Aro1-0Est;Aro1-0Est
 Benfica,Guimaraes,11,3.0,0.73,0.27,Ben1-0Gui;Gui0-3Ben;Gui0-3Ben;Ben3-0Gui;Ben2-0Gui
 Nacional,Rio Ave,5,4.0,0.8,0.8,Rio2-1Nac;Nac3-3Rio;Rio1-1Nac;Nac4-0Rio;Rio3-2Nac
+Arouca,Estrela,7,2.14,0.43,0.43,Est2-1Aro;Aro1-0Est;Est3-1Aro;Aro1-0Est;Aro1-0Est
 Casa Pia,Santa Clara,7,1.43,0.29,0.29,Cas0-2San;San2-1Cas;San1-0Cas;Cas0-0San;Cas0-1San
 Maritimo,Porto,5,3.2,0.6,0.8,Mar1-1Por;Por2-1Mar;Por5-1Mar;Mar0-2Por;Mar1-2Por
 Gil Vicente,Moreirense,9,2.44,0.44,0.56,Mor3-2Gil;Gil0-1Mor;Gil2-0Mor;Mor1-2Gil;Mor0-1Gil
 Sp Braga,Sp Lisbon,11,3.82,0.73,0.82,Sp 2-4Sp ;Sp 1-1Sp ;Sp 1-1Sp ;Sp 2-2Sp ;Sp 1-3Sp 
-Guimaraes,Moreirense,9,1.78,0.22,0.33,Gui1-0Mor;Mor2-2Gui;Mor2-0Gui;Gui1-0Mor;Gui1-1Mor
-Benfica,Porto,11,3.0,0.64,0.55,Ben4-1Por;Por1-4Ben;Por0-0Ben;Ben2-2Por;Por3-1Ben
 Santa Clara,Sp Braga,9,2.44,0.33,0.44,San0-2Sp ;Sp 1-1San;Sp 1-0San;San2-1Sp ;San0-0Sp 
+Benfica,Porto,11,3.0,0.64,0.55,Ben4-1Por;Por1-4Ben;Por0-0Ben;Ben2-2Por;Por3-1Ben
+Guimaraes,Moreirense,9,1.78,0.22,0.33,Gui1-0Mor;Mor2-2Gui;Mor2-0Gui;Gui1-0Mor;Gui1-1Mor
 Casa Pia,Estoril,9,2.56,0.56,0.44,Est0-2Cas;Cas1-3Est;Cas2-2Est;Est0-0Cas;Est1-2Cas
-Arouca,Sp Lisbon,11,3.09,0.73,0.55,Aro0-3Sp ;Sp 2-2Aro;Sp 6-0Aro;Aro1-2Sp ;Sp 2-2Aro
+Famalicao,Nacional,5,1.8,0.4,0.2,Fam0-0Nac;Nac2-1Fam;Nac0-1Fam;Fam1-0Nac;Nac0-4Fam
 Gil Vicente,Maritimo,5,2.4,0.4,0.8,Mar1-2Gil;Gil1-1Mar;Mar1-2Gil;Gil2-0Mar;Gil1-1Mar
 Alverca,Rio Ave,3,2.0,0.33,0.67,Alv1-1Rio;Rio1-2Alv;Alv1-0Rio
-Famalicao,Nacional,5,1.8,0.4,0.2,Fam0-0Nac;Nac2-1Fam;Nac0-1Fam;Fam1-0Nac;Nac0-4Fam
-Estrela,Rio Ave,7,3.0,0.57,0.71,Est1-0Rio;Rio2-0Est;Est1-2Rio;Rio2-1Est;Rio3-3Est
+Arouca,Sp Lisbon,11,3.09,0.73,0.55,Aro0-3Sp ;Sp 2-2Aro;Sp 6-0Aro;Aro1-2Sp ;Sp 2-2Aro
 Maritimo,Moreirense,3,1.67,0.33,0.33,Mar0-0Mor;Mor0-1Mar;Mor3-1Mar
+Estrela,Rio Ave,7,3.0,0.57,0.71,Est1-0Rio;Rio2-0Est;Est1-2Rio;Rio2-1Est;Rio3-3Est
 Estoril,Sp Braga,11,2.18,0.27,0.36,Sp 2-2Est;Est0-2Sp ;Est1-0Sp ;Sp 1-1Est;Sp 1-0Est
-Benfica,Gil Vicente,11,3.45,0.82,0.64,Ben5-1Gil;Gil0-3Ben;Ben2-1Gil;Gil1-2Ben;Ben3-1Gil
-Arouca,Santa Clara,9,2.11,0.44,0.56,Aro1-0San;San2-0Aro;San0-0Aro;Aro2-2San;Aro1-2San
 Famalicao,Sp Lisbon,11,2.27,0.45,0.55,Fam0-3Sp ;Sp 3-1Fam;Fam1-2Sp ;Sp 1-0Fam;Fam1-1Sp 
+Arouca,Santa Clara,9,2.11,0.44,0.56,Aro1-0San;San2-0Aro;San0-0Aro;Aro2-2San;Aro1-2San
+Benfica,Gil Vicente,11,3.45,0.82,0.64,Ben5-1Gil;Gil0-3Ben;Ben2-1Gil;Gil1-2Ben;Ben3-1Gil
 Casa Pia,Porto,9,2.78,0.67,0.56,Por2-0Cas;Cas0-1Por;Por4-0Cas;Cas2-1Por;Cas1-4Por
 Alverca,Nacional,3,2.0,0.33,0.33,Alv1-0Nac;Nac1-0Alv;Nac1-3Alv
 Estrela,Sp Braga,7,3.57,0.71,0.71,Sp 1-1Est;Est0-1Sp ;Est3-3Sp ;Sp 2-2Est;Est2-1Sp 
@@ -45,48 +52,48 @@ Benfica,Moreirense,9,3.11,0.67,0.56,Mor1-1Ben;Ben3-2Mor;Mor0-4Ben;Ben4-1Mor;Mor0
 Arouca,Estoril,11,3.45,0.55,0.64,Est4-1Aro;Aro1-1Est;Est4-3Aro;Aro3-2Est;Est0-0Aro
 Rio Ave,Santa Clara,7,2.0,0.14,0.29,San1-0Rio;Rio1-1San;Rio1-1San;San0-2Rio;San4-0Rio
 Casa Pia,Guimaraes,9,0.78,0.0,0.11,Cas1-1Gui;Gui1-0Cas;Cas0-0Gui;Gui0-1Cas;Gui0-0Cas
-Nacional,Sp Lisbon,5,3.8,0.6,0.6,Nac1-6Sp ;Sp 2-0Nac;Nac1-4Sp ;Sp 2-1Nac;Sp 2-0Nac
-Estrela,Famalicao,7,1.86,0.43,0.29,Est0-3Fam;Fam0-0Est;Fam2-3Est;Est0-0Fam;Est2-2Fam
 Alverca,Sp Braga,3,3.67,1.0,0.33,Alv0-3Sp ;Sp 5-0Alv;Alv1-2Sp 
+Nacional,Sp Lisbon,5,3.8,0.6,0.6,Nac1-6Sp ;Sp 2-0Nac;Nac1-4Sp ;Sp 2-1Nac;Sp 2-0Nac
 Benfica,Maritimo,5,4.0,0.8,0.2,Ben7-1Mar;Mar0-1Ben;Ben5-0Mar;Mar0-3Ben;Mar0-3Ben
+Estrela,Famalicao,7,1.86,0.43,0.29,Est0-3Fam;Fam0-0Est;Fam2-3Est;Est0-0Fam;Est2-2Fam
 Moreirense,Porto,9,3.33,0.89,0.44,Mor0-3Por;Por3-1Mor;Mor1-2Por;Por3-0Mor;Por2-1Mor
-Guimaraes,Sp Braga,11,2.18,0.36,0.55,Sp 0-2Gui;Gui0-0Sp ;Gui1-1Sp ;Sp 3-2Gui;Sp 1-0Gui
 Benfica,Estoril,11,3.09,0.73,0.73,Ben3-0Est;Est1-2Ben;Ben3-1Est;Est1-3Ben;Ben2-1Est
+Guimaraes,Sp Braga,11,2.18,0.36,0.55,Sp 0-2Gui;Gui0-0Sp ;Gui1-1Sp ;Sp 3-2Gui;Sp 1-0Gui
+Estrela,Nacional,5,2.4,0.2,0.4,Est2-0Nac;Nac0-1Est;Est1-1Nac;Nac2-0Est;Nac2-3Est
 Famalicao,Gil Vicente,11,2.27,0.45,0.36,Fam1-1Gil;Gil0-2Fam;Fam0-0Gil;Gil5-0Fam;Fam0-0Gil
 Casa Pia,Moreirense,7,3.0,0.57,0.71,Cas3-1Mor;Mor3-2Cas;Mor2-1Cas;Cas1-1Mor;Cas0-1Mor
-Estrela,Nacional,5,2.4,0.2,0.4,Est2-0Nac;Nac0-1Est;Est1-1Nac;Nac2-0Est;Nac2-3Est
-Arouca,Maritimo,5,2.6,0.6,0.6,Mar2-2Aro;Aro0-3Mar;Mar1-1Aro;Aro1-0Mar;Aro2-1Mar
 Alverca,Santa Clara,3,2.33,0.33,1.0,San2-1Alv;Alv1-1San;Alv1-1San
+Arouca,Maritimo,5,2.6,0.6,0.6,Mar2-2Aro;Aro0-3Mar;Mar1-1Aro;Aro1-0Mar;Aro2-1Mar
 Rio Ave,Sp Lisbon,9,3.56,0.78,0.33,Sp 3-1Rio;Rio0-3Sp ;Sp 4-0Rio;Rio1-4Sp ;Rio0-4Sp 
 Casa Pia,Gil Vicente,9,1.89,0.22,0.44,Gil1-1Cas;Cas1-0Gil;Cas1-1Gil;Gil2-1Cas;Gil2-0Cas
+Guimaraes,Nacional,5,2.6,0.6,0.6,Gui2-2Nac;Nac1-2Gui;Gui2-1Nac;Nac2-0Gui;Gui1-0Nac
 Arouca,Porto,11,3.18,0.55,0.36,Por4-0Aro;Aro0-2Por;Aro0-4Por;Por3-1Aro;Por2-0Aro
 Famalicao,Santa Clara,9,2.0,0.44,0.33,Fam1-2San;San2-1Fam;Fam3-0San;San0-1Fam;San1-0Fam
-Guimaraes,Nacional,5,2.6,0.6,0.6,Gui2-2Nac;Nac1-2Gui;Gui2-1Nac;Nac2-0Gui;Gui1-0Nac
 Estoril,Rio Ave,9,2.89,0.56,0.56,Rio2-2Est;Est2-1Rio;Rio0-4Est;Est1-2Rio;Est0-2Rio
 Alverca,Sp Lisbon,3,3.67,0.67,0.67,Sp 2-0Alv;Alv1-4Sp ;Sp 3-1Alv
 Benfica,Casa Pia,9,3.0,0.56,0.44,Ben3-0Cas;Cas3-1Ben;Ben2-2Cas;Cas1-1Ben;Cas0-7Ben
+Famalicao,Maritimo,5,1.8,0.4,0.4,Fam0-0Mar;Mar0-1Fam;Mar0-0Fam;Fam3-2Mar;Fam1-2Mar
 Estoril,Nacional,5,2.0,0.2,0.4,Est1-0Nac;Nac2-2Est;Est1-1Nac;Nac0-1Est;Nac2-0Est
 Arouca,Moreirense,9,2.11,0.33,0.33,Mor3-1Aro;Aro1-0Mor;Aro0-2Mor;Mor0-1Aro;Aro4-0Mor
-Famalicao,Maritimo,5,1.8,0.4,0.4,Fam0-0Mar;Mar0-1Fam;Mar0-0Fam;Fam3-2Mar;Fam1-2Mar
 Alverca,Estrela,3,3.33,0.67,1.0,Est2-2Alv;Alv1-1Est;Alv2-2Est
 Porto,Rio Ave,9,2.22,0.44,0.33,Por2-0Rio;Rio2-2Por;Rio0-3Por;Por1-0Rio;Rio0-2Por
 Guimaraes,Sp Lisbon,11,4.0,0.73,0.55,Gui4-4Sp ;Sp 2-0Gui;Gui1-4Sp ;Sp 5-1Gui;Sp 3-2Gui
 Nacional,Santa Clara,5,3.0,0.4,0.4,Nac2-0San;San1-0Nac;Nac3-3San;San2-0Nac;San2-2Nac
-Gil Vicente,Rio Ave,9,2.33,0.44,0.67,Gil1-1Rio;Rio1-1Gil;Gil2-2Rio;Rio0-0Gil;Gil1-0Rio
-Moreirense,Sp Braga,9,3.11,0.67,0.67,Sp 3-1Mor;Mor1-2Sp ;Sp 2-1Mor;Mor0-1Sp ;Mor2-2Sp 
 Alverca,Porto,3,2.0,0.33,0.0,Alv0-3Por;Por1-0Alv;Por2-0Alv
-Estrela,Sp Lisbon,7,3.71,0.86,0.57,Sp 5-1Est;Est0-3Sp ;Sp 4-0Est;Est0-1Sp ;Est2-2Sp 
+Moreirense,Sp Braga,9,3.11,0.67,0.67,Sp 3-1Mor;Mor1-2Sp ;Sp 2-1Mor;Mor0-1Sp ;Mor2-2Sp 
+Gil Vicente,Rio Ave,9,2.33,0.44,0.67,Gil1-1Rio;Rio1-1Gil;Gil2-2Rio;Rio0-0Gil;Gil1-0Rio
 Arouca,Guimaraes,11,3.09,0.64,0.73,Aro0-1Gui;Gui2-2Aro;Gui1-1Aro;Aro3-2Gui;Gui0-1Aro
 Casa Pia,Maritimo,3,2.0,0.33,0.33,Mar1-2Cas;Cas2-0Mar;Mar1-0Cas
+Estrela,Sp Lisbon,7,3.71,0.86,0.57,Sp 5-1Est;Est0-3Sp ;Sp 4-0Est;Est0-1Sp ;Est2-2Sp 
 Estoril,Famalicao,11,2.45,0.45,0.45,Est2-1Fam;Fam3-0Est;Fam4-0Est;Est0-1Fam;Est1-1Fam
-AVS,Moreirense,4,1.75,0.25,0.25,Mor1-1AVS;AVS0-3Mor;AVS0-2Mor;Mor0-0AVS
-Porto,Santa Clara,8,2.12,0.38,0.38,Por2-1San;San0-2Por;Por1-1San;San0-1Por;Por1-0San
-Gil Vicente,Sp Lisbon,10,2.8,0.7,0.5,Gil0-4Sp ;Gil0-0Sp ;Sp 2-1Gil;Gil1-1Sp ;Sp 3-0Gil
-Casa Pia,Rio Ave,8,2.38,0.38,0.75,Rio1-0Cas;Rio2-2Cas;Cas2-1Rio;Rio3-1Cas;Cas1-1Rio
 Arouca,Tondela,4,3.5,0.75,0.75,Aro2-0Ton;Ton2-2Aro;Ton3-1Aro;Aro3-1Ton
+Porto,Santa Clara,8,2.12,0.38,0.38,Por2-1San;San0-2Por;Por1-1San;San0-1Por;Por1-0San
+Casa Pia,Rio Ave,8,2.38,0.38,0.75,Rio1-0Cas;Rio2-2Cas;Cas2-1Rio;Rio3-1Cas;Cas1-1Rio
+AVS,Moreirense,4,1.75,0.25,0.25,Mor1-1AVS;AVS0-3Mor;AVS0-2Mor;Mor0-0AVS
+Gil Vicente,Sp Lisbon,10,2.8,0.7,0.5,Gil0-4Sp ;Gil0-0Sp ;Sp 2-1Gil;Gil1-1Sp ;Sp 3-0Gil
+Benfica,Sp Braga,10,3.4,0.7,0.7,Ben3-1Sp ;Ben1-2Sp ;Sp 1-1Ben;Sp 2-2Ben;Ben2-2Sp 
 Moreirense,Tondela,4,2.0,0.25,0.25,Ton2-1Mor;Mor2-0Ton;Mor1-0Ton;Ton2-0Mor
 Arouca,Gil Vicente,10,2.7,0.5,0.8,Gil2-2Aro;Aro1-1Gil;Gil1-1Aro;Aro2-2Gil;Gil1-3Aro
-Benfica,Sp Braga,10,3.4,0.7,0.7,Ben3-1Sp ;Ben1-2Sp ;Sp 1-1Ben;Sp 2-2Ben;Ben2-2Sp 
 AVS,Porto,4,3.25,0.5,0.25,AVS0-5Por;Por2-0AVS;Por2-0AVS;AVS3-1Por
 Alverca,Estoril,2,3.5,0.5,1.0,Est4-1Alv;Alv1-1Est
 Casa Pia,Tondela,2,2.0,0.5,0.5,Ton1-2Cas;Cas0-1Ton
@@ -98,50 +105,45 @@ AVS,Sp Lisbon,4,3.75,0.75,0.5,Sp 3-0AVS;AVS2-2Sp ;Sp 6-0AVS;AVS1-1Sp
 Guimaraes,Rio Ave,8,1.88,0.38,0.25,Rio2-1Gui;Rio2-2Gui;Gui3-0Rio;Rio0-1Gui;Gui2-0Rio
 Nacional,Tondela,2,3.0,0.5,0.5,Nac3-1Ton;Ton0-2Nac
 Casa Pia,Sp Braga,8,3.0,0.62,0.5,Sp 4-3Cas;Sp 1-2Cas;Cas2-1Sp ;Sp 4-0Cas;Cas0-1Sp 
-Benfica,Sp Lisbon,10,2.8,0.6,0.8,Sp 2-1Ben;Sp 1-0Ben;Ben1-1Sp ;Ben1-1Sp ;Sp 1-2Ben
 Porto,Tondela,4,3.0,0.5,0.25,Ton1-3Por;Por4-0Ton;Ton0-2Por;Por2-0Ton
+Benfica,Sp Lisbon,10,2.8,0.6,0.8,Sp 2-1Ben;Sp 1-0Ben;Ben1-1Sp ;Ben1-1Sp ;Sp 1-2Ben
 AVS,Rio Ave,4,2.5,0.5,0.75,AVS1-0Rio;Rio1-1AVS;AVS1-2Rio;Rio2-2AVS
 Gil Vicente,Tondela,4,2.75,0.75,0.25,Ton0-3Gil;Gil3-0Ton;Gil0-1Ton;Ton2-2Gil
 Arouca,Sp Braga,10,3.0,0.6,0.2,Sp 0-3Aro;Aro1-2Sp ;Sp 2-1Aro;Aro0-4Sp ;Sp 1-0Aro
 Benfica,Nacional,4,2.5,0.5,0.25,Nac0-2Ben;Ben3-0Nac;Nac1-2Ben;Ben2-0Nac
-Alverca,Casa Pia,2,3.0,0.5,0.5,Cas0-2Alv;Alv3-1Cas
 AVS,Guimaraes,4,2.25,0.25,0.25,AVS1-0Gui;Gui2-0AVS;Gui4-0AVS;AVS1-1Gui
 Famalicao,Moreirense,8,2.25,0.38,0.38,Mor1-0Fam;Mor0-0Fam;Fam2-0Mor;Mor2-2Fam;Fam1-1Mor
 Famalicao,Porto,10,3.5,0.8,0.8,Por2-2Fam;Fam1-1Por;Por2-1Fam;Fam0-1Por;Por2-2Fam
+Guimaraes,Tondela,4,3.75,0.5,0.5,Gui5-2Ton;Ton1-1Gui;Ton0-1Gui;Gui5-0Ton
 Santa Clara,Sp Lisbon,8,3.25,0.75,0.5,Sp 3-0San;Sp 0-1San;San0-1Sp ;San1-2Sp ;Sp 4-2San
 AVS,Gil Vicente,4,3.0,0.5,0.5,Gil4-2AVS;AVS1-0Gil;AVS1-1Gil;Gil3-0AVS
-Guimaraes,Tondela,4,3.75,0.5,0.5,Gui5-2Ton;Ton1-1Gui;Ton0-1Gui;Gui5-0Ton
 Porto,Sp Braga,10,2.0,0.4,0.4,Sp 0-1Por;Por2-1Sp ;Sp 1-0Por;Por2-1Sp ;Sp 1-2Por
 AVS,Tondela,2,2.0,0.5,0.5,AVS2-2Ton;Ton0-0AVS
-Gil Vicente,Santa Clara,8,2.12,0.38,0.38,San3-2Gil;San2-1Gil;Gil0-1San;Gil1-0San;San1-0Gil
 AVS,Santa Clara,4,2.25,0.5,0.5,San2-1AVS;AVS1-2San;San2-0AVS;AVS0-1San
+Arouca,Benfica,10,3.3,0.7,0.2,Ben5-0Aro;Aro0-2Ben;Ben2-2Aro;Ben5-0Aro;Aro1-2Ben
 Alverca,Gil Vicente,2,4.0,1.0,0.5,Alv0-4Gil;Gil2-2Alv
 Famalicao,Guimaraes,10,2.7,0.7,0.7,Gui1-0Fam;Gui2-1Fam;Fam0-0Gui;Fam2-0Gui;Gui1-2Fam
-Arouca,Benfica,10,3.3,0.7,0.2,Ben5-0Aro;Aro0-2Ben;Ben2-2Aro;Ben5-0Aro;Aro1-2Ben
 Rio Ave,Tondela,2,2.0,0.5,0.0,Rio3-0Ton;Ton0-1Rio
-Guimaraes,Santa Clara,8,2.0,0.25,0.38,San1-3Gui;San1-0Gui;Gui2-0San;Gui2-1San;San2-0Gui
 Estrela,Gil Vicente,6,2.33,0.33,0.5,Est1-0Gil;Gil3-0Est;Est1-1Gil;Gil2-0Est;Est2-2Gil
+Guimaraes,Santa Clara,8,2.0,0.25,0.38,San1-3Gui;San1-0Gui;Gui2-0San;Gui2-1San;San2-0Gui
 AVS,Alverca,2,2.0,0.5,0.5,AVS1-3Alv;Alv0-0AVS
 Moreirense,Nacional,4,2.5,0.25,0.75,Nac1-0Mor;Mor1-1Nac;Nac3-2Mor;Mor1-1Nac
-Arouca,Famalicao,10,2.1,0.4,0.5,Aro3-2Fam;Fam0-0Aro;Aro1-2Fam;Aro1-1Fam;Fam1-0Aro
 Santa Clara,Tondela,4,3.5,1.0,0.75,Ton3-0San;San2-2Ton;San1-2Ton;Ton2-2San
-Alverca,Guimaraes,2,2.0,0.0,0.5,Alv2-0Gui;Gui1-1Alv
 AVS,Estrela,4,1.5,0.25,0.25,AVS1-1Est;Est0-1AVS;Est3-0AVS;AVS0-0Est
+Alverca,Guimaraes,2,2.0,0.0,0.5,Alv2-0Gui;Gui1-1Alv
 Estoril,Sp Lisbon,10,2.6,0.5,0.2,Est0-1Sp ;Est0-3Sp ;Sp 3-1Est;Est0-1Sp ;Sp 3-0Est
 Casa Pia,Famalicao,8,2.0,0.25,0.5,Fam1-2Cas;Cas1-1Fam;Fam2-1Cas;Cas1-1Fam;Fam2-0Cas
 Estoril,Gil Vicente,10,2.7,0.5,0.5,Est1-3Gil;Est0-0Gil;Gil1-2Est;Gil2-0Est;Est3-1Gil
-Moreirense,Sp Lisbon,8,2.62,0.62,0.25,Mor0-2Sp ;Mor2-1Sp ;Sp 3-1Mor;Sp 3-0Mor;Mor0-3Sp 
 AVS,Benfica,4,3.5,0.75,0.25,AVS1-1Ben;Ben6-0AVS;AVS0-3Ben;Ben3-0AVS
 Estrela,Tondela,2,1.0,0.0,0.0,Ton0-0Est;Est0-2Ton
 Moreirense,Rio Ave,6,3.0,0.67,0.5,Mor0-0Rio;Rio3-2Mor;Mor0-2Rio;Mor3-1Rio;Rio1-2Mor
-Nacional,Porto,4,1.75,0.25,0.0,Nac2-0Por;Por3-0Nac;Por1-0Nac;Nac0-1Por
 AVS,Estoril,4,2.5,0.75,0.25,Est0-0AVS;AVS0-3Est;Est3-1AVS;AVS3-0Est
-Estrela,Guimaraes,6,2.5,0.5,0.33,Gui3-0Est;Est2-2Gui;Gui2-0Est;Est0-2Gui;Gui2-1Est
+Nacional,Porto,4,1.75,0.25,0.0,Nac2-0Por;Por3-0Nac;Por1-0Nac;Nac0-1Por
 Arouca,Casa Pia,8,1.88,0.25,0.25,Cas1-0Aro;Cas3-1Aro;Aro0-0Cas;Aro0-2Cas;Cas3-2Aro
+Estrela,Guimaraes,6,2.5,0.5,0.33,Gui3-0Est;Est2-2Gui;Gui2-0Est;Est0-2Gui;Gui2-1Est
 Alverca,Tondela,2,1.5,0.0,0.5,Alv1-0Ton;Ton1-1Alv
-Porto,Sp Lisbon,10,2.7,0.5,0.7,Por2-2Sp ;Sp 2-0Por;Por1-1Sp ;Sp 1-2Por;Por1-1Sp 
 AVS,Famalicao,4,3.75,0.75,0.75,AVS2-3Fam;Fam4-1AVS;AVS0-1Fam;Fam3-1AVS
-Rio Ave,Sp Braga,8,3.0,0.75,0.5,Rio0-0Sp ;Sp 4-0Rio;Rio2-1Sp ;Rio2-2Sp ;Sp 3-0Rio
+Porto,Sp Lisbon,10,2.7,0.5,0.7,Por2-2Sp ;Sp 2-0Por;Por1-1Sp ;Sp 1-2Por;Por1-1Sp 
 Casa Pia,Nacional,4,1.75,0.25,0.25,Cas1-0Nac;Nac3-1Cas;Cas0-2Nac;Nac0-0Cas
 Estoril,Tondela,4,3.0,0.75,0.75,Ton1-2Est;Est1-0Ton;Ton2-2Est;Est2-2Ton
 Estrela,Santa Clara,4,0.5,0.0,0.0,San1-0Est;Est0-0San;San0-0Est;Est1-0San
@@ -150,15 +152,13 @@ Benfica,Tondela,4,2.5,0.75,0.5,Ben2-1Ton;Ton1-3Ben;Ben3-0Ton;Ton0-0Ben
 Estoril,Santa Clara,8,3.75,0.75,0.62,Est3-0San;Est1-4San;San2-3Est;Est0-1San;San2-4Est
 Arouca,Rio Ave,8,2.5,0.38,0.5,Rio1-1Aro;Rio1-0Aro;Aro1-1Rio;Aro3-3Rio;Rio0-3Aro
 Famalicao,Tondela,4,3.0,0.75,0.5,Ton3-2Fam;Fam2-1Ton;Ton0-1Fam;Fam3-0Ton
-Benfica,Estrela,6,3.0,0.5,0.33,Est1-4Ben;Ben1-0Est;Est2-3Ben;Est0-1Ben;Ben4-0Est
 Estoril,Guimaraes,10,2.8,0.5,0.5,Est1-3Gui;Gui1-0Est;Est1-0Gui;Gui3-2Est;Est4-2Gui
 Moreirense,Santa Clara,6,1.83,0.17,0.33,Mor0-2San;Mor1-0San;San1-1Mor;San0-1Mor;Mor1-0San
 AVS,Casa Pia,4,3.0,0.25,0.75,Cas1-1AVS;AVS1-1Cas;AVS0-2Cas;Cas3-3AVS
 Estoril,Estrela,6,3.5,0.67,0.5,Est1-0Est;Est2-4Est;Est4-0Est;Est1-1Est;Est0-5Est
-Guimaraes,Porto,10,2.3,0.6,0.4,Por1-2Gui;Gui0-3Por;Por1-1Gui;Por3-0Gui;Gui0-1Por
 Sp Braga,Tondela,4,2.25,0.5,0.25,Sp 3-1Ton;Ton0-1Sp ;Sp 3-0Ton;Ton0-1Sp 
-Gil Vicente,Nacional,4,2.75,0.75,0.5,Gil2-1Nac;Nac0-3Gil;Nac0-2Gil;Gil2-1Nac
 Benfica,Rio Ave,8,3.5,0.5,0.62,Rio1-1Ben;Ben5-0Rio;Rio2-3Ben;Ben1-1Rio;Rio0-2Ben
+Gil Vicente,Nacional,4,2.75,0.75,0.5,Gil2-1Nac;Nac0-3Gil;Nac0-2Gil;Gil2-1Nac
 Alverca,Moreirense,2,3.0,1.0,1.0,Mor2-1Alv;Alv2-1Mor
 AVS,Arouca,4,2.0,0.25,0.5,Aro1-1AVS;AVS0-1Aro;Aro3-1AVS;AVS0-1Aro
 Estoril,Maritimo,4,2.0,0.5,0.5,Est2-1Mar;Mar0-0Est;Mar1-0Est;Est3-1Mar

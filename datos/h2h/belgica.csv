@@ -1,4 +1,12 @@
 eq_a,eq_b,n,goles,over25,btts,ultimos
+Anderlecht,Club Brugge,17,2.82,0.53,0.71,And1-0Clu;Clu2-2And;Clu4-2And;And1-3Clu;Clu1-1And
+Gent,Kortrijk,9,2.67,0.56,0.44,Gen3-2Kor;Kor0-2Gen;Kor0-1Gen;Gen1-2Kor;Gen1-0Kor
+St Truiden,Waregem,7,3.29,0.57,0.43,War0-3St ;St 2-0War;War0-2St ;St 3-2War;St 4-1War
+Genk,St. Gilloise,15,2.33,0.53,0.53,Gen1-2St.;St.1-0Gen;Gen1-2St.;St.2-1Gen;St.1-0Gen
+Mechelen,Oud-Heverlee Leuven,15,2.87,0.53,0.47,Mec1-1Oud;Oud1-2Mec;Mec1-1Oud;Oud2-2Mec;Oud2-0Mec
+Cercle Brugge,RAAL La Louviere,5,3.2,0.8,0.6,RAA2-1Cer;Cer1-3RAA;Cer3-0RAA;RAA4-1Cer;RAA0-1Cer
+Charleroi,Westerlo,13,3.54,0.62,0.62,Cha2-0Wes;Wes2-1Cha;Wes2-0Cha;Cha0-1Wes;Wes1-5Cha
+Kortrijk,Mechelen,9,4.0,1.0,0.67,Kor0-3Mec;Mec3-0Kor;Mec3-0Kor;Kor3-1Mec;Kor1-3Mec
 Charleroi,RAAL La Louviere,3,2.67,0.33,0.33,RAA1-0Cha;Cha0-0RAA;Cha5-2RAA
 Oud-Heverlee Leuven,St Truiden,13,2.54,0.46,0.62,St 2-1Oud;Oud3-2St ;Oud1-2St ;St 1-0Oud;St 1-2Oud
 Antwerp,Cercle Brugge,13,2.23,0.46,0.46,Ant3-0Cer;Cer0-0Ant;Ant1-1Cer;Cer0-4Ant;Cer2-1Ant
@@ -6,116 +14,110 @@ Kortrijk,Standard,9,1.44,0.0,0.33,Kor1-1Sta;Sta0-1Kor;Kor1-0Sta;Sta1-0Kor;Sta1-1
 Genk,Mechelen,11,3.09,0.64,0.73,Gen2-1Mec;Mec1-2Gen;Gen0-1Mec;Mec2-3Gen;Mec1-0Gen
 Anderlecht,Westerlo,9,3.56,0.78,0.67,And2-2Wes;Wes2-0And;And5-2Wes;Wes4-0And;And4-1Wes
 Club Brugge,Waregem,7,3.71,0.71,0.57,Clu1-1War;War1-2Clu;War0-1Clu;Clu4-3War;War2-4Clu
+Genk,Standard,13,2.0,0.38,0.46,Sta2-1Gen;Gen0-3Sta;Gen1-1Sta;Sta0-0Gen;Gen2-1Sta
 Cercle Brugge,St. Gilloise,13,3.15,0.62,0.69,St.1-3Cer;Cer0-0St.;St.2-0Cer;Cer1-1St.;St.5-2Cer
 Club Brugge,St Truiden,13,3.31,0.62,0.62,Clu2-0St ;St 3-2Clu;St 1-2Clu;Clu2-0St ;Clu3-2St 
 Anderlecht,Gent,15,2.53,0.33,0.33,And1-0Gen;Gen4-2And;And3-1Gen;Gen1-1And;Gen4-0And
-Genk,Standard,13,2.0,0.38,0.46,Sta2-1Gen;Gen0-3Sta;Gen1-1Sta;Sta0-0Gen;Gen2-1Sta
 Antwerp,Charleroi,13,2.54,0.46,0.46,Cha1-1Ant;Ant0-2Cha;Cha2-1Ant;Ant0-1Cha;Ant3-0Cha
 RAAL La Louviere,Waregem,5,2.6,0.6,0.2,RAA0-0War;War2-2RAA;RAA0-2War;War4-0RAA;RAA3-0War
-Antwerp,Westerlo,11,3.82,0.73,0.55,Wes2-0Ant;Ant0-2Wes;Wes2-4Ant;Ant2-0Wes;Wes5-1Ant
 Mechelen,St Truiden,15,3.0,0.53,0.6,Mec1-3St ;St 1-0Mec;Mec1-4St ;St 3-0Mec;Mec4-3St 
-Charleroi,Standard,15,1.93,0.33,0.4,Sta3-1Cha;Cha2-0Sta;Cha1-2Sta;Sta0-2Cha;Sta0-1Cha
+Antwerp,Westerlo,11,3.82,0.73,0.55,Wes2-0Ant;Ant0-2Wes;Wes2-4Ant;Ant2-0Wes;Wes5-1Ant
 Oud-Heverlee Leuven,St. Gilloise,11,2.82,0.45,0.45,Oud1-1St.;St.1-0Oud;St.5-0Oud;Oud0-0St.;St.1-1Oud
-Club Brugge,RAAL La Louviere,3,3.67,0.67,0.67,RAA1-0Clu;Clu2-3RAA;RAA1-4Clu
-Genk,Kortrijk,9,3.0,0.78,0.44,Kor0-3Gen;Gen4-0Kor;Kor2-1Gen;Gen3-2Kor;Gen3-0Kor
-Anderlecht,Cercle Brugge,13,2.77,0.54,0.31,Cer0-5And;And3-0Cer;Cer0-2And;And2-3Cer;Cer1-2And
+Charleroi,Standard,15,1.93,0.33,0.4,Sta3-1Cha;Cha2-0Sta;Cha1-2Sta;Sta0-2Cha;Sta0-1Cha
 Gent,Waregem,7,3.57,0.57,0.57,Gen2-0War;War2-6Gen;War4-1Gen;Gen2-0War;War0-2Gen
-Antwerp,St. Gilloise,15,3.27,0.6,0.6,St.5-1Ant;Ant0-4St.;Ant1-1St.;St.2-1Ant;Ant0-2St.
-Club Brugge,Genk,15,3.6,0.73,0.53,Clu1-0Gen;Gen0-2Clu;Clu2-1Gen;Gen3-5Clu;Clu3-0Gen
+Genk,Kortrijk,9,3.0,0.78,0.44,Kor0-3Gen;Gen4-0Kor;Kor2-1Gen;Gen3-2Kor;Gen3-0Kor
+Club Brugge,RAAL La Louviere,3,3.67,0.67,0.67,RAA1-0Clu;Clu2-3RAA;RAA1-4Clu
+Anderlecht,Cercle Brugge,13,2.77,0.54,0.31,Cer0-5And;And3-0Cer;Cer0-2And;And2-3Cer;Cer1-2And
 St Truiden,Westerlo,11,3.0,0.55,0.36,St 2-0Wes;Wes1-2St ;St 0-3Wes;Wes0-4St ;St 0-2Wes
+Club Brugge,Genk,15,3.6,0.73,0.53,Clu1-0Gen;Gen0-2Clu;Clu2-1Gen;Gen3-5Clu;Clu3-0Gen
+Antwerp,St. Gilloise,15,3.27,0.6,0.6,St.5-1Ant;Ant0-4St.;Ant1-1St.;St.2-1Ant;Ant0-2St.
 Anderlecht,Waregem,7,4.57,1.0,0.86,War3-2And;And2-3War;And2-3War;War2-4And;And3-0War
 Cercle Brugge,Charleroi,11,3.55,0.64,0.64,Cer2-0Cha;Cha1-1Cer;Cer2-3Cha;Cha3-4Cer;Cha3-2Cer
 Oud-Heverlee Leuven,RAAL La Louviere,3,1.67,0.33,0.33,Oud1-2RAA;RAA0-0Oud;Oud2-0RAA
 Gent,Standard,13,3.62,0.77,0.54,Gen5-0Sta;Sta0-1Gen;Gen4-0Sta;Sta0-4Gen;Gen2-1Sta
-Genk,Gent,14,2.5,0.43,0.43,Gen4-0Gen;Gen1-4Gen;Gen1-1Gen;Gen3-0Gen;Gen1-1Gen
 Charleroi,Waregem,7,3.0,0.71,0.57,War1-3Cha;Cha3-2War;Cha1-2War;War1-0Cha;War0-1Cha
+Genk,Gent,14,2.5,0.43,0.43,Gen4-0Gen;Gen1-4Gen;Gen1-1Gen;Gen3-0Gen;Gen1-1Gen
 Antwerp,Club Brugge,15,2.67,0.6,0.67,Ant2-3Clu;Clu1-1Ant;Ant0-1Clu;Clu0-1Ant;Clu3-1Ant
-Standard,Westerlo,14,3.0,0.57,0.64,Wes0-2Sta;Sta0-0Wes;Sta1-2Wes;Wes1-2Sta;Wes4-2Sta
 Cercle Brugge,Oud-Heverlee Leuven,11,2.55,0.45,0.73,Oud1-1Cer;Cer1-0Oud;Cer1-2Oud;Oud0-2Cer;Oud1-1Cer
+Standard,Westerlo,14,3.0,0.57,0.64,Wes0-2Sta;Sta0-0Wes;Sta1-2Wes;Wes1-2Sta;Wes4-2Sta
 Anderlecht,Mechelen,13,3.77,0.77,0.77,And3-1Mec;Mec1-0And;Mec1-2And;And2-2Mec;Mec0-1And
 Cercle Brugge,Gent,11,3.55,0.73,0.73,Cer2-1Gen;Gen1-1Cer;Cer2-4Gen;Gen0-1Cer;Cer0-3Gen
-Kortrijk,Waregem,5,4.2,0.8,0.6,War2-2Kor;Kor5-0War;Kor1-3War;War3-3Kor;Kor0-2War
 Anderlecht,Genk,15,2.47,0.4,0.53,And1-2Gen;Gen2-1And;And1-1Gen;Gen2-0And;And0-0Gen
-RAAL La Louviere,St Truiden,3,3.33,1.0,0.67,St 2-1RAA;RAA1-2St ;St 4-0RAA
+Kortrijk,Waregem,5,4.2,0.8,0.6,War2-2Kor;Kor5-0War;Kor1-3War;War3-3Kor;Kor0-2War
 Mechelen,Westerlo,13,3.92,0.62,0.69,Mec2-3Wes;Wes2-2Mec;Wes0-1Mec;Mec1-1Wes;Mec0-4Wes
 Antwerp,Standard,13,3.23,0.62,0.38,Sta1-0Ant;Ant1-1Sta;Sta1-2Ant;Ant0-5Sta;Sta1-0Ant
 Charleroi,St. Gilloise,11,2.91,0.64,0.55,St.1-0Cha;Cha1-2St.;St.3-1Cha;Cha1-1St.;Cha2-3St.
+RAAL La Louviere,St Truiden,3,3.33,1.0,0.67,St 2-1RAA;RAA1-2St ;St 4-0RAA
 Gent,Oud-Heverlee Leuven,13,2.46,0.46,0.31,Gen3-0Oud;Oud0-0Gen;Oud4-0Gen;Gen1-3Oud;Gen1-0Oud
 Anderlecht,Kortrijk,9,3.11,0.56,0.56,Kor2-2And;And0-1Kor;And4-0Kor;Kor0-2And;And1-0Kor
 St Truiden,St. Gilloise,13,2.46,0.62,0.54,St.2-0St ;St 1-3St.;St.1-0St ;St 2-1St.;St 0-3St.
-Anderlecht,St. Gilloise,17,2.47,0.47,0.41,St.2-0And;And1-0St.;And1-3St.;St.5-1And;St.3-0And
 Club Brugge,Gent,15,3.47,0.6,0.6,Gen1-1Clu;Clu2-1Gen;Gen0-2Clu;Clu5-0Gen;Gen2-1Clu
-Antwerp,St Truiden,11,2.64,0.36,0.55,Ant6-1St ;St 1-1Ant;St 1-0Ant;Ant1-0St ;Ant1-4St 
 Waregem,Westerlo,5,2.6,0.4,0.6,Wes2-0War;War1-1Wes;Wes3-1War;War0-1Wes;Wes2-2War
+Anderlecht,St. Gilloise,17,2.47,0.47,0.41,St.2-0And;And1-0St.;And1-3St.;St.5-1And;St.3-0And
+Antwerp,St Truiden,11,2.64,0.36,0.55,Ant6-1St ;St 1-1Ant;St 1-0Ant;Ant1-0St ;Ant1-4St 
+Mechelen,RAAL La Louviere,3,3.67,0.67,0.67,Mec3-2RAA;RAA0-2Mec;RAA2-2Mec
 Oud-Heverlee Leuven,Standard,17,2.53,0.53,0.65,Oud1-0Sta;Sta0-1Oud;Oud1-3Sta;Sta2-1Oud;Oud1-2Sta
 Charleroi,Kortrijk,11,2.36,0.45,0.55,Kor1-2Cha;Cha3-1Kor;Cha1-0Kor;Kor0-1Cha;Kor1-3Cha
-Mechelen,RAAL La Louviere,3,3.67,0.67,0.67,Mec3-2RAA;RAA0-2Mec;RAA2-2Mec
 Cercle Brugge,Club Brugge,13,2.23,0.38,0.46,Clu3-0Cer;Cer1-3Clu;Clu2-0Cer;Cer1-2Clu;Clu1-0Cer
-Antwerp,Genk,17,2.82,0.47,0.53,Gen1-1Ant;Ant3-0Gen;Ant1-2Gen;Gen0-0Ant;Ant4-4Gen
 Charleroi,Mechelen,13,2.92,0.46,0.38,Cha3-0Mec;Mec1-1Cha;Cha0-2Mec;Mec1-0Cha;Cha2-0Mec
+Antwerp,Genk,17,2.82,0.47,0.53,Gen1-1Ant;Ant3-0Gen;Ant1-2Gen;Gen0-0Ant;Ant4-4Gen
 RAAL La Louviere,Standard,3,2.0,0.0,0.33,RAA0-2Sta;Sta1-1RAA;Sta2-0RAA
-Gent,RAAL La Louviere,3,2.0,0.33,0.67,Gen1-0RAA;RAA1-1Gen;RAA1-2Gen
 Mechelen,Standard,15,2.27,0.4,0.47,Sta2-2Mec;Mec0-0Sta;Sta1-1Mec;Mec0-1Sta;Mec3-3Sta
-Genk,Westerlo,11,3.45,0.64,0.73,Wes0-1Gen;Gen1-1Wes;Wes1-2Gen;Gen3-0Wes;Gen3-2Wes
+Gent,RAAL La Louviere,3,2.0,0.33,0.67,Gen1-0RAA;RAA1-1Gen;RAA1-2Gen
+Antwerp,Kortrijk,9,2.56,0.56,0.33,Ant6-0Kor;Kor0-1Ant;Kor1-2Ant;Ant2-1Kor;Kor0-3Ant
 Club Brugge,Oud-Heverlee Leuven,11,2.36,0.45,0.45,Oud0-1Clu;Clu1-0Oud;Oud0-1Clu;Clu2-1Oud;Oud0-3Clu
 St. Gilloise,Waregem,7,2.86,0.57,0.43,War1-3St.;St.4-0War;War1-4St.;St.2-0War;St.0-0War
-Antwerp,Kortrijk,9,2.56,0.56,0.33,Ant6-0Kor;Kor0-1Ant;Kor1-2Ant;Ant2-1Kor;Kor0-3Ant
+Genk,Westerlo,11,3.45,0.64,0.73,Wes0-1Gen;Gen1-1Wes;Wes1-2Gen;Gen3-0Wes;Gen3-2Wes
 Cercle Brugge,St Truiden,13,3.0,0.54,0.77,St 3-1Cer;Cer3-1St ;Cer1-1St ;St 2-1Cer;Cer3-3St 
-Genk,Waregem,7,3.86,0.71,0.71,War1-4Gen;Gen1-0War;Gen3-2War;War2-1Gen;War2-1Gen
-Gent,Mechelen,15,3.13,0.47,0.6,Mec1-1Gen;Gen3-1Mec;Gen1-1Mec;Mec1-0Gen;Gen2-0Mec
-Anderlecht,RAAL La Louviere,3,1.33,0.33,0.33,RAA0-1And;And0-0RAA;And2-1RAA
 Charleroi,Oud-Heverlee Leuven,15,2.2,0.33,0.47,Oud2-2Cha;Cha0-2Oud;Oud0-2Cha;Cha1-1Oud;Cha3-1Oud
-Cercle Brugge,Standard,11,2.18,0.27,0.64,Sta1-0Cer;Cer1-1Sta;Sta0-3Cer;Cer1-2Sta;Sta2-2Cer
+Gent,Mechelen,15,3.13,0.47,0.6,Mec1-1Gen;Gen3-1Mec;Gen1-1Mec;Mec1-0Gen;Gen2-0Mec
+Genk,Waregem,7,3.86,0.71,0.71,War1-4Gen;Gen1-0War;Gen3-2War;War2-1Gen;War2-1Gen
+Anderlecht,RAAL La Louviere,3,1.33,0.33,0.33,RAA0-1And;And0-0RAA;And2-1RAA
 St. Gilloise,Westerlo,9,3.89,0.67,0.78,Wes4-3St.;St.3-1Wes;St.2-0Wes;Wes0-0St.;Wes1-5St.
+Cercle Brugge,Standard,11,2.18,0.27,0.64,Sta1-0Cer;Cer1-1Sta;Sta0-3Cer;Cer1-2Sta;Sta2-2Cer
 Club Brugge,Kortrijk,9,2.44,0.44,0.33,Kor1-0Clu;Clu3-3Kor;Kor0-3Clu;Clu1-1Kor;Clu3-0Kor
 Genk,Oud-Heverlee Leuven,12,2.67,0.67,0.58,Gen2-0Oud;Oud1-2Gen;Gen2-1Oud;Gen0-0Oud;Oud0-2Gen
 Gent,St. Gilloise,14,2.0,0.29,0.5,St.3-1Gen;Gen2-3St.;St.1-1Gen;St.0-0Gen;Gen0-0St.
-Club Brugge,Mechelen,12,3.08,0.67,0.67,Mec1-2Clu;Mec2-1Clu;Clu4-1Mec;Clu6-1Mec;Mec2-2Clu
 Anderlecht,St Truiden,12,2.92,0.58,0.5,St 0-2And;St 2-2And;And2-1St ;St 2-0And;And3-1St 
+Club Brugge,Mechelen,12,3.08,0.67,0.67,Mec1-2Clu;Mec2-1Clu;Clu4-1Mec;Clu6-1Mec;Mec2-2Clu
 Club Brugge,St. Gilloise,16,2.25,0.44,0.56,St.0-0Clu;Clu1-0St.;St.1-0Clu;St.2-1Clu;Clu5-0St.
 Gent,St Truiden,14,2.64,0.5,0.64,Gen2-0St ;St 3-1Gen;Gen1-2St ;Gen0-0St ;St 1-1Gen
-Charleroi,Westerlo,12,3.33,0.58,0.58,Cha4-3Wes;Cha2-0Wes;Wes2-1Cha;Wes2-0Cha;Cha0-1Wes
 Antwerp,Oud-Heverlee Leuven,12,2.67,0.42,0.58,Ant2-2Oud;Ant3-1Oud;Oud1-0Ant;Ant2-0Oud;Oud3-0Ant
 Mechelen,St. Gilloise,12,2.25,0.42,0.33,St.0-1Mec;Mec1-1St.;St.1-0Mec;Mec0-1St.;St.3-0Mec
-Cercle Brugge,RAAL La Louviere,4,3.75,1.0,0.75,RAA2-1Cer;Cer1-3RAA;Cer3-0RAA;RAA4-1Cer
 Dender,Waregem,4,2.75,0.75,0.75,Den2-2War;War1-0Den;Den1-2War;War2-1Den
-Anderlecht,Club Brugge,16,2.88,0.56,0.69,And1-3Clu;And1-0Clu;Clu2-2And;Clu4-2And;And1-3Clu
-Charleroi,Genk,12,2.67,0.42,0.5,Cha1-1Gen;Gen0-1Cha;Cha2-2Gen;Gen1-1Cha;Cha2-0Gen
 Oud-Heverlee Leuven,Westerlo,14,2.43,0.36,0.43,Oud0-2Wes;Wes2-0Oud;Oud0-1Wes;Oud0-2Wes;Wes3-3Oud
+Charleroi,Genk,12,2.67,0.42,0.5,Cha1-1Gen;Gen0-1Cha;Cha2-2Gen;Gen1-1Cha;Cha2-0Gen
 Cercle Brugge,Waregem,8,3.75,0.62,1.0,War2-3Cer;Cer1-1War;War1-1Cer;War2-2Cer;Cer2-3War
 Cercle Brugge,Dender,6,1.5,0.33,0.33,Den0-1Cer;Den0-0Cer;Cer0-0Den;Den1-4Cer;Cer2-1Den
 Dender,RAAL La Louviere,3,1.33,0.33,0.33,Den0-0RAA;RAA1-2Den;RAA0-1Den
-Genk,RAAL La Louviere,2,6.0,0.5,1.0,Gen1-1RAA;RAA5-5Gen
 Dender,Gent,4,2.5,0.75,0.5,Gen1-2Den;Den0-0Gen;Gen3-0Den;Den1-3Gen
+Genk,RAAL La Louviere,2,6.0,0.5,1.0,Gen1-1RAA;RAA5-5Gen
 Genk,St Truiden,10,2.9,0.6,0.7,St 1-1Gen;Gen3-2St ;St 2-2Gen;St 1-2Gen;Gen1-0St 
 Club Brugge,Westerlo,8,3.62,0.62,0.5,Clu3-0Wes;Wes1-2Clu;Clu4-3Wes;Clu5-5Wes;Wes1-2Clu
 Dender,St. Gilloise,4,2.0,0.25,0.25,Den0-0St.;St.4-1Den;Den0-1St.;St.2-0Den
 Standard,Waregem,6,2.0,0.5,0.33,Sta0-1War;War0-3Sta;Sta2-2War;Sta0-0War;War0-1Sta
-Genk,St. Gilloise,14,2.43,0.57,0.57,Gen2-1St.;Gen1-2St.;St.1-0Gen;Gen1-2St.;St.2-1Gen
 Charleroi,Dender,6,3.67,0.83,0.67,Cha5-0Den;Den2-1Cha;Cha4-1Den;Cha3-1Den;Den2-2Cha
 Antwerp,RAAL La Louviere,2,2.0,0.5,0.5,Ant3-1RAA;RAA0-0Ant
 Charleroi,Club Brugge,10,3.4,0.6,0.7,Cha1-4Clu;Cha1-1Clu;Clu4-2Cha;Clu1-0Cha;Cha1-2Clu
 Mechelen,Waregem,6,3.33,0.67,0.83,War3-2Mec;Mec2-2War;War2-0Mec;War1-1Mec;Mec2-1War
 Anderlecht,Oud-Heverlee Leuven,10,2.8,0.4,0.7,Oud1-1And;And1-1Oud;Oud0-0And;Oud1-1And;And5-1Oud
 Dender,St Truiden,4,4.0,0.75,0.75,St 3-3Den;Den2-1St ;St 2-0Den;Den1-4St 
-St Truiden,Waregem,6,3.0,0.5,0.33,War0-2St ;War0-3St ;St 2-0War;War0-2St ;St 3-2War
+Charleroi,Gent,10,2.8,0.6,0.6,Gen5-0Cha;Cha1-0Gen;Gen1-1Cha;Gen2-1Cha;Cha2-3Gen
 Dender,Oud-Heverlee Leuven,6,4.33,0.67,0.67,Oud3-2Den;Oud4-4Den;Den5-0Oud;Den0-1Oud;Oud3-2Den
 St. Gilloise,Standard,10,3.1,0.7,0.5,St.2-1Sta;Sta0-0St.;St.3-0Sta;St.3-0Sta;Sta1-1St.
-Charleroi,Gent,10,2.8,0.6,0.6,Gen5-0Cha;Cha1-0Gen;Gen1-1Cha;Gen2-1Cha;Cha2-3Gen
 RAAL La Louviere,St. Gilloise,2,1.5,0.5,0.5,RAA0-0St.;St.2-1RAA
 Club Brugge,Standard,10,2.8,0.7,0.5,Clu2-0Sta;Sta1-0Clu;Clu1-2Sta;Sta1-2Clu;Clu3-0Sta
 Antwerp,Mechelen,10,2.4,0.4,0.4,Ant0-1Mec;Ant0-1Mec;Mec1-1Ant;Ant2-1Mec;Mec2-0Ant
-Mechelen,Oud-Heverlee Leuven,14,2.93,0.57,0.5,Oud1-0Mec;Mec1-1Oud;Oud1-2Mec;Mec1-1Oud;Oud2-2Mec
 Anderlecht,Standard,10,2.9,0.5,0.4,And2-2Sta;And3-0Sta;Sta0-2And;And1-0Sta;Sta2-0And
 Dender,Genk,4,2.75,0.75,0.5,Gen4-0Den;Den0-1Gen;Gen2-1Den;Den1-2Gen
 Charleroi,St Truiden,10,2.0,0.3,0.5,St 1-0Cha;St 1-4Cha;Cha2-1St ;Cha1-1St ;St 0-2Cha
-Anderlecht,Dender,4,2.25,0.25,0.5,Den1-1And;And2-3Den;Den0-2And;And0-0Den
 Cercle Brugge,Genk,12,2.92,0.5,0.92,Cer4-1Gen;Cer2-3Gen;Gen2-1Cer;Cer2-2Gen;Gen1-1Cer
+Anderlecht,Dender,4,2.25,0.25,0.5,Den1-1And;And2-3Den;Den0-2And;And0-0Den
 Antwerp,Dender,4,2.5,0.5,0.75,Ant1-1Den;Den1-3Ant;Ant1-2Den;Den1-0Ant
 Cercle Brugge,Westerlo,8,3.0,0.5,0.5,Wes4-2Cer;Wes3-0Cer;Cer1-1Wes;Cer4-1Wes;Wes0-2Cer
 Gent,Westerlo,10,3.6,0.8,0.7,Gen3-2Wes;Gen4-1Wes;Wes2-2Gen;Wes0-0Gen;Gen2-0Wes
-Antwerp,Waregem,6,2.0,0.33,0.33,Ant1-0War;Ant1-0War;War0-2Ant;War2-0Ant;Ant2-1War
 Dender,Mechelen,6,4.5,0.83,1.0,Mec2-1Den;Mec5-2Den;Den2-2Mec;Den1-3Mec;Mec1-1Den
+Antwerp,Waregem,6,2.0,0.33,0.33,Ant1-0War;Ant1-0War;War0-2Ant;War2-0Ant;Ant2-1War
 Anderlecht,Charleroi,10,2.2,0.5,0.4,Cha1-3And;And0-0Cha;Cha0-1And;Cha1-0And;And1-2Cha
 St Truiden,Standard,12,2.67,0.58,0.75,Sta1-1St ;Sta2-1St ;St 1-2Sta;St 1-0Sta;Sta1-2St 
 Anderlecht,Antwerp,14,1.86,0.36,0.43,And2-0Ant;And0-0Ant;Ant1-3And;And0-0Ant;Ant2-2And
@@ -128,9 +130,7 @@ Oud-Heverlee Leuven,Waregem,6,3.5,0.33,0.83,War1-1Oud;War2-5Oud;Oud4-2War;War2-0
 Dender,Westerlo,6,2.67,0.33,0.5,Den1-0Wes;Den1-0Wes;Wes4-2Den;Wes1-1Den;Den2-2Wes
 Kortrijk,St Truiden,10,2.4,0.4,0.4,St 1-0Kor;Kor1-1St ;St 4-2Kor;St 0-3Kor;Kor2-2St 
 Cercle Brugge,Kortrijk,10,2.5,0.4,0.5,Cer3-0Kor;Cer1-2Kor;Kor1-1Cer;Kor2-2Cer;Cer0-2Kor
-Gent,Kortrijk,8,2.88,0.62,0.5,Gen2-1Kor;Gen3-2Kor;Kor0-2Gen;Kor0-1Gen;Gen1-2Kor
 Kortrijk,Oud-Heverlee Leuven,8,2.5,0.5,0.5,Oud2-3Kor;Oud3-0Kor;Kor0-0Oud;Oud1-1Kor;Kor2-0Oud
 Kortrijk,St. Gilloise,8,3.62,0.88,0.62,Kor2-4St.;St.3-0Kor;Kor1-3St.;St.3-0Kor;Kor1-2St.
 Kortrijk,Westerlo,6,2.83,0.67,0.5,Wes3-1Kor;Wes1-0Kor;Kor1-2Wes;Wes4-0Kor;Kor1-2Wes
 Dender,Kortrijk,2,4.0,1.0,0.5,Den4-1Kor;Kor0-3Den
-Kortrijk,Mechelen,8,4.0,1.0,0.62,Mec3-2Kor;Kor0-3Mec;Mec3-0Kor;Mec3-0Kor;Kor3-1Mec

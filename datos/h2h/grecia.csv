@@ -1,86 +1,86 @@
 eq_a,eq_b,n,goles,over25,btts,ultimos
+Atromitos,OFI Crete,16,2.12,0.38,0.62,OFI1-2Atr;Atr0-0OFI;OFI1-3Atr;Atr1-2OFI;OFI0-0Atr
+AEK,Levadeiakos,7,2.57,0.57,0.29,Lev0-3AEK;AEK1-1Lev;Lev0-1AEK;AEK4-0Lev;AEK2-1Lev
+Olympiakos,PAOK,21,2.95,0.62,0.81,PAO2-1Oly;Oly0-0PAO;PAO3-1Oly;Oly1-1PAO;Oly1-1PAO
+Kifisia,Volos NFC,6,2.67,0.5,0.67,Kif0-0Vol;Vol4-1Kif;Vol1-1Kif;Kif2-0Vol;Vol1-3Kif
+Aris,Panetolikos,11,2.91,0.64,0.36,Pan2-1Ari;Ari2-1Pan;Ari0-2Pan;Pan0-1Ari;Ari3-0Pan
 Atromitos,Volos NFC,13,2.54,0.62,0.54,Atr1-2Vol;Vol0-1Atr;Atr0-1Vol;Vol0-3Atr;Atr3-0Vol
 AEK,Panathinaikos,21,2.24,0.52,0.43,Pan2-3AEK;AEK4-0Pan;Pan0-0AEK;AEK2-1Pan;Pan2-0AEK
 Asteras Tripolis,PAOK,11,3.45,0.73,0.64,Ast1-2PAO;PAO2-0Ast;Ast3-3PAO;PAO2-0Ast;PAO2-1Ast
-OFI Crete,Panetolikos,14,2.64,0.5,0.5,OFI1-2Pan;Pan1-0OFI;Pan4-2OFI;OFI1-0Pan;Pan0-1OFI
 Aris,Levadeiakos,9,3.11,0.67,0.67,Lev1-1Ari;Ari2-2Lev;Lev1-1Ari;Ari3-0Lev;Lev3-0Ari
+OFI Crete,Panetolikos,14,2.64,0.5,0.5,OFI1-2Pan;Pan1-0OFI;Pan4-2OFI;OFI1-0Pan;Pan0-1OFI
 Kifisia,Olympiakos,5,4.0,0.8,0.8,Oly4-0Kif;Kif2-3Oly;Kif1-3Oly;Oly1-1Kif;Kif2-3Oly
 OFI Crete,PAOK,11,2.82,0.73,0.45,PAO1-2OFI;OFI0-5PAO;OFI1-2PAO;PAO3-0OFI;OFI2-1PAO
 Panathinaikos,Volos NFC,13,2.69,0.54,0.38,Vol0-1Pan;Pan2-1Vol;Vol1-0Pan;Pan2-1Vol;Vol0-1Pan
 Aris,Atromitos,13,2.38,0.54,0.62,Ari1-0Atr;Atr1-1Ari;Atr1-2Ari;Ari0-0Atr;Ari3-1Atr
 AEK,Panetolikos,11,3.09,0.64,0.36,Pan1-0AEK;AEK1-0Pan;AEK1-0Pan;Pan0-5AEK;AEK5-0Pan
 Asteras Tripolis,Levadeiakos,8,1.75,0.25,0.62,Ast1-1Lev;Lev1-2Ast;Ast1-1Lev;Lev3-1Ast;Ast0-0Lev
-Asteras Tripolis,Panathinaikos,11,2.36,0.36,0.36,Pan0-1Ast;Ast0-1Pan;Pan2-0Ast;Ast1-2Pan;Pan5-1Ast
 Aris,Kifisia,5,1.8,0.2,0.6,Ari1-1Kif;Kif0-1Ari;Kif0-1Ari;Ari1-1Kif;Kif1-2Ari
 Olympiakos,Panetolikos,11,2.73,0.45,0.45,Oly0-0Pan;Pan0-2Oly;Pan0-1Oly;Oly2-0Pan;Pan0-2Oly
+Asteras Tripolis,Panathinaikos,11,2.36,0.36,0.36,Pan0-1Ast;Ast0-1Pan;Pan2-0Ast;Ast1-2Pan;Pan5-1Ast
 Levadeiakos,Volos NFC,10,3.2,0.8,0.6,Vol1-2Lev;Lev3-1Vol;Lev5-2Vol;Vol0-3Lev;Lev0-0Vol
+Aris,Volos NFC,15,2.87,0.47,0.47,Ari2-0Vol;Vol1-1Ari;Ari3-2Vol;Vol1-2Ari;Ari3-2Vol
 Olympiakos,Panathinaikos,21,1.81,0.24,0.33,Pan1-1Oly;Oly0-1Pan;Pan0-2Oly;Oly1-0Pan;Oly1-0Pan
 Kifisia,Panetolikos,8,2.0,0.38,0.38,Kif1-1Pan;Pan2-1Kif;Kif0-0Pan;Pan0-1Kif;Kif2-0Pan
-Aris,Volos NFC,15,2.87,0.47,0.47,Ari2-0Vol;Vol1-1Ari;Ari3-2Vol;Vol1-2Ari;Ari3-2Vol
-AEK,OFI Crete,11,3.0,0.82,0.36,AEK3-0OFI;OFI1-2AEK;OFI0-1AEK;AEK2-1OFI;AEK3-0OFI
 Asteras Tripolis,Atromitos,18,2.61,0.44,0.56,Atr0-1Ast;Ast1-2Atr;Atr2-1Ast;Ast4-2Atr;Ast2-1Atr
-AEK,Volos NFC,13,3.15,0.69,0.46,AEK2-0Vol;Vol2-4AEK;AEK1-0Vol;Vol2-2AEK;Vol1-2AEK
-PAOK,Panetolikos,11,2.27,0.45,0.36,PAO2-0Pan;Pan0-1PAO;PAO0-0Pan;Pan0-3PAO;Pan1-3PAO
-Asteras Tripolis,OFI Crete,16,2.25,0.44,0.31,Ast2-1OFI;OFI0-2Ast;Ast3-0OFI;OFI4-0Ast;OFI2-2Ast
+AEK,OFI Crete,11,3.0,0.82,0.36,AEK3-0OFI;OFI1-2AEK;OFI0-1AEK;AEK2-1OFI;AEK3-0OFI
 Levadeiakos,Olympiakos,7,2.57,0.43,0.29,Oly2-2Lev;Lev0-1Oly;Oly3-2Lev;Lev0-0Oly;Lev0-1Oly
+Asteras Tripolis,OFI Crete,16,2.25,0.44,0.31,Ast2-1OFI;OFI0-2Ast;Ast3-0OFI;OFI4-0Ast;OFI2-2Ast
+PAOK,Panetolikos,11,2.27,0.45,0.36,PAO2-0Pan;Pan0-1PAO;PAO0-0Pan;Pan0-3PAO;Pan1-3PAO
+AEK,Volos NFC,13,3.15,0.69,0.46,AEK2-0Vol;Vol2-4AEK;AEK1-0Vol;Vol2-2AEK;Vol1-2AEK
 Atromitos,Kifisia,8,2.38,0.75,0.5,Atr1-2Kif;Kif0-1Atr;Atr0-0Kif;Kif0-3Atr;Atr1-2Kif
+Panathinaikos,Panetolikos,11,2.27,0.45,0.27,Pan1-2Pan;Pan2-0Pan;Pan1-2Pan;Pan0-0Pan;Pan3-0Pan
+AEK,Asteras Tripolis,11,2.36,0.45,0.36,AEK3-0Ast;Ast0-3AEK;AEK1-0Ast;Ast0-1AEK;Ast1-1AEK
 Kifisia,Levadeiakos,3,2.0,0.33,0.33,Lev3-2Kif;Kif1-0Lev;Kif0-0Lev
 Aris,PAOK,17,1.53,0.29,0.29,PAO0-1Ari;Ari0-0PAO;PAO3-1Ari;Ari0-0PAO;PAO2-0Ari
-AEK,Asteras Tripolis,11,2.36,0.45,0.36,AEK3-0Ast;Ast0-3AEK;AEK1-0Ast;Ast0-1AEK;Ast1-1AEK
-Panathinaikos,Panetolikos,11,2.27,0.45,0.27,Pan1-2Pan;Pan2-0Pan;Pan1-2Pan;Pan0-0Pan;Pan3-0Pan
 OFI Crete,Olympiakos,11,2.55,0.55,0.27,OFI0-2Oly;Oly1-0OFI;Oly3-0OFI;OFI0-3Oly;Oly0-1OFI
 Kifisia,Panathinaikos,5,3.0,0.6,0.6,Kif0-1Pan;Pan1-1Kif;Kif3-2Pan;Pan3-0Kif;Pan3-1Kif
+PAOK,Panathinaikos,21,3.0,0.76,0.76,Pan2-1PAO;PAO2-0Pan;PAO0-0Pan;Pan2-2PAO;Pan3-1PAO
 Levadeiakos,Panetolikos,10,2.4,0.5,0.5,Pan1-2Lev;Lev1-2Pan;Lev6-0Pan;Pan1-3Lev;Lev0-2Pan
 Kifisia,OFI Crete,6,2.17,0.5,0.5,OFI1-2Kif;Kif0-0OFI;OFI1-3Kif;Kif2-2OFI;OFI2-0Kif
-PAOK,Panathinaikos,21,3.0,0.76,0.76,Pan2-1PAO;PAO2-0Pan;PAO0-0Pan;Pan2-2PAO;Pan3-1PAO
 Olympiakos,Volos NFC,13,2.69,0.54,0.31,Vol0-2Oly;Oly3-0Vol;Vol0-2Oly;Oly1-0Vol;Vol1-1Oly
 AEK,Aris,17,2.94,0.65,0.53,AEK4-0Ari;Ari0-0AEK;AEK1-0Ari;Ari1-1AEK;AEK5-0Ari
 Levadeiakos,Panathinaikos,7,1.86,0.14,0.29,Pan1-0Lev;Lev0-1Pan;Pan1-1Lev;Lev1-4Pan;Lev0-2Pan
-Atromitos,PAOK,11,2.18,0.36,0.36,Atr1-2PAO;PAO3-0Atr;PAO1-0Atr;Atr2-0PAO;Atr1-2PAO
-AEK,Kifisia,5,3.0,0.6,0.6,Kif1-1AEK;AEK3-0Kif;Kif2-3AEK;AEK3-0Kif;Kif1-1AEK
 Asteras Tripolis,Olympiakos,11,2.45,0.36,0.27,Ast1-0Oly;Oly1-1Ast;Oly2-0Ast;Ast0-3Oly;Ast0-1Oly
+AEK,Kifisia,5,3.0,0.6,0.6,Kif1-1AEK;AEK3-0Kif;Kif2-3AEK;AEK3-0Kif;Kif1-1AEK
 Aris,OFI Crete,15,2.53,0.4,0.47,OFI3-0Ari;Ari0-2OFI;OFI0-2Ari;Ari3-1OFI;Ari2-1OFI
-Levadeiakos,PAOK,7,3.14,0.57,0.43,Lev0-2PAO;PAO1-0Lev;Lev2-3PAO;PAO3-0Lev;PAO4-0Lev
+Atromitos,PAOK,11,2.18,0.36,0.36,Atr1-2PAO;PAO3-0Atr;PAO1-0Atr;Atr2-0PAO;Atr1-2PAO
 OFI Crete,Volos NFC,15,2.6,0.47,0.53,OFI0-1Vol;Vol1-1OFI;Vol1-1OFI;OFI3-1Vol;OFI2-0Vol
 Asteras Tripolis,Panetolikos,16,1.94,0.38,0.5,Ast1-1Pan;Pan3-1Ast;Ast2-1Pan;Pan1-2Ast;Pan3-1Ast
+Levadeiakos,PAOK,7,3.14,0.57,0.43,Lev0-2PAO;PAO1-0Lev;Lev2-3PAO;PAO3-0Lev;PAO4-0Lev
 Atromitos,Olympiakos,11,2.0,0.36,0.18,Oly2-0Atr;Atr1-2Oly;Oly3-0Atr;Atr0-2Oly;Oly1-0Atr
-Atromitos,Panserraikos,9,2.89,0.44,0.56,Atr1-0Pan;Pan1-1Atr;Atr2-2Pan;Pan0-4Atr;Atr6-0Pan
 Kifisia,Larisa,4,2.75,0.25,1.0,Lar1-1Kif;Kif1-1Lar;Lar1-1Kif;Kif3-2Lar
-AEK,Olympiakos,20,2.25,0.3,0.5,AEK0-2Oly;Oly2-0AEK;AEK1-1Oly;Oly0-1AEK;AEK1-1Oly
+Atromitos,Panserraikos,9,2.89,0.44,0.56,Atr1-0Pan;Pan1-1Atr;Atr2-2Pan;Pan0-4Atr;Atr6-0Pan
 Panetolikos,Panserraikos,10,2.3,0.4,0.5,Pan1-1Pan;Pan0-1Pan;Pan0-0Pan;Pan2-3Pan;Pan1-1Pan
+AEK,Olympiakos,20,2.25,0.3,0.5,AEK0-2Oly;Oly2-0AEK;AEK1-1Oly;Oly0-1AEK;AEK1-1Oly
 Atromitos,Larisa,4,2.5,0.5,0.75,Atr1-1Lar;Lar0-0Atr;Atr3-2Lar;Lar2-1Atr
 Asteras Tripolis,Kifisia,7,2.43,0.57,0.57,Ast1-2Kif;Ast2-2Kif;Kif0-0Ast;Kif0-0Ast;Ast0-0Kif
 AEK,PAOK,20,2.35,0.3,0.45,PAO1-0AEK;AEK0-2PAO;PAO0-0AEK;AEK3-0PAO;PAO1-1AEK
 Levadeiakos,OFI Crete,9,2.78,0.44,0.56,OFI0-0Lev;Lev4-0OFI;OFI3-2Lev;OFI2-0Lev;Lev3-2OFI
-Asteras Tripolis,Panserraikos,9,1.89,0.44,0.44,Ast1-2Pan;Pan2-1Ast;Ast0-1Pan;Pan0-0Ast;Ast1-0Pan
 Larisa,Panetolikos,4,3.25,0.75,0.75,Pan3-0Lar;Lar1-4Pan;Lar1-2Pan;Pan1-1Lar
-Olympiakos,PAOK,20,3.0,0.65,0.8,Oly4-2PAO;PAO2-1Oly;Oly0-0PAO;PAO3-1Oly;Oly1-1PAO
-Kifisia,Panserraikos,7,3.43,0.71,0.71,Pan2-0Kif;Kif3-0Pan;Pan2-1Kif;Kif1-2Pan;Pan1-2Kif
+Asteras Tripolis,Panserraikos,9,1.89,0.44,0.44,Ast1-2Pan;Pan2-1Ast;Ast0-1Pan;Pan0-0Ast;Ast1-0Pan
 Atromitos,Panetolikos,15,2.33,0.33,0.47,Pan0-1Atr;Pan0-2Atr;Atr1-0Pan;Pan1-1Atr;Atr1-2Pan
 Asteras Tripolis,Larisa,4,3.0,0.5,1.0,Ast2-2Lar;Lar1-1Ast;Ast3-1Lar;Lar1-1Ast
+Kifisia,Panserraikos,7,3.43,0.71,0.71,Pan2-0Kif;Kif3-0Pan;Pan2-1Kif;Kif1-2Pan;Pan1-2Kif
 Larisa,Panserraikos,4,1.5,0.0,0.25,Pan0-2Lar;Lar1-0Pan;Lar0-1Pan;Pan1-1Lar
-Larisa,Olympiakos,2,1.0,0.0,0.0,Lar0-2Oly;Oly0-0Lar
 PAOK,Volos NFC,12,3.92,0.83,0.5,Vol1-5PAO;Vol1-4PAO;PAO1-2Vol;PAO3-0Vol;Vol2-1PAO
+Larisa,Olympiakos,2,1.0,0.0,0.0,Lar0-2Oly;Oly0-0Lar
 Atromitos,Levadeiakos,7,2.43,0.57,0.71,Lev1-1Atr;Atr2-1Lev;Lev1-2Atr;Atr2-2Lev;Lev1-0Atr
-Kifisia,Volos NFC,5,2.4,0.4,0.6,Vol2-1Kif;Kif0-0Vol;Vol4-1Kif;Vol1-1Kif;Kif2-0Vol
 AEK,Atromitos,10,2.8,0.6,0.4,Atr0-5AEK;Atr0-1AEK;AEK2-1Atr;AEK4-1Atr;Atr2-2AEK
 Aris,Panserraikos,6,1.17,0.0,0.33,Pan1-1Ari;Pan0-1Ari;Ari1-0Pan;Ari1-1Pan;Pan0-0Ari
 AEK,Larisa,2,1.5,0.0,0.5,Lar1-1AEK;AEK1-0Lar
-Kifisia,PAOK,4,4.25,1.0,0.5,PAO2-1Kif;Kif0-6PAO;PAO3-0Kif;Kif1-4PAO
 OFI Crete,Panathinaikos,10,3.0,0.5,0.5,OFI2-2Pan;OFI0-1Pan;Pan3-2OFI;OFI0-2Pan;Pan4-1OFI
+Kifisia,PAOK,4,4.25,1.0,0.5,PAO2-1Kif;Kif0-6PAO;PAO3-0Kif;Kif1-4PAO
 Aris,Panathinaikos,16,1.75,0.12,0.31,Pan0-1Ari;Pan1-1Ari;Ari2-0Pan;Ari1-1Pan;Pan3-1Ari
 Olympiakos,Panserraikos,6,3.0,0.67,0.33,Pan0-1Oly;Oly2-1Pan;Pan0-4Oly;Oly5-0Pan;Pan1-2Oly
 Larisa,OFI Crete,2,3.0,1.0,0.5,Lar1-2OFI;OFI3-0Lar
-AEK,Levadeiakos,6,2.5,0.5,0.17,AEK3-0Lev;Lev0-3AEK;AEK1-1Lev;Lev0-1AEK;AEK4-0Lev
 Panserraikos,Volos NFC,9,2.33,0.56,0.44,Pan1-1Vol;Vol3-0Pan;Pan3-0Vol;Vol2-1Pan;Pan2-1Vol
 Larisa,PAOK,2,1.5,0.0,0.5,PAO1-0Lar;Lar1-1PAO
 Larisa,Panathinaikos,2,3.0,0.5,1.0,Lar2-2Pan;Pan1-1Lar
 AEK,Panserraikos,6,3.0,0.5,0.33,Pan2-2AEK;Pan1-0AEK;AEK5-0Pan;AEK2-0Pan;Pan0-4AEK
 Asteras Tripolis,Volos NFC,12,2.25,0.42,0.42,Ast0-2Vol;Ast0-1Vol;Vol2-1Ast;Vol2-1Ast;Ast2-0Vol
 PAOK,Panserraikos,6,4.5,0.83,0.5,Pan0-2PAO;PAO3-2Pan;Pan1-4PAO;Pan0-5PAO;PAO4-1Pan
-Aris,Panetolikos,10,2.9,0.6,0.4,Pan0-4Ari;Pan2-1Ari;Ari2-1Pan;Ari0-2Pan;Pan0-1Ari
 Larisa,Volos NFC,2,4.5,0.5,0.5,Lar2-5Vol;Vol0-2Lar
-Atromitos,OFI Crete,15,2.27,0.4,0.67,Atr0-0OFI;OFI1-2Atr;Atr0-0OFI;OFI1-3Atr;Atr1-2OFI
 Atromitos,Panathinaikos,10,2.3,0.2,0.3,Atr3-2Pan;Pan1-1Atr;Atr1-1Pan;Pan1-0Atr;Atr0-0Pan
 Aris,Larisa,2,2.0,0.5,0.5,Ari2-1Lar;Lar1-0Ari
 Panathinaikos,Panserraikos,6,3.67,1.0,0.33,Pan0-3Pan;Pan3-1Pan;Pan2-2Pan;Pan0-3Pan;Pan3-0Pan
@@ -88,5 +88,5 @@ Levadeiakos,Panserraikos,6,3.0,0.5,0.33,Lev1-0Pan;Lev3-0Pan;Pan0-1Lev;Lev5-2Pan;
 Aris,Asteras Tripolis,12,2.67,0.42,0.42,Ast2-1Ari;Ast0-2Ari;Ari4-2Ast;Ari0-0Ast;Ast0-1Ari
 Panetolikos,Volos NFC,14,1.93,0.36,0.36,Vol0-1Pan;Vol0-0Pan;Pan0-3Vol;Pan1-2Vol;Vol1-0Pan
 Aris,Olympiakos,16,2.56,0.69,0.69,Ari1-1Oly;Ari2-1Oly;Oly2-1Ari;Oly2-1Ari;Ari0-0Oly
-Larisa,Levadeiakos,2,2.5,0.5,0.0,Lar0-2Lev;Lev3-0Lar
 OFI Crete,Panserraikos,7,3.57,0.86,0.57,Pan2-2OFI;Pan2-3OFI;OFI3-2Pan;Pan0-1OFI;OFI3-0Pan
+Larisa,Levadeiakos,2,2.5,0.5,0.0,Lar0-2Lev;Lev3-0Lar

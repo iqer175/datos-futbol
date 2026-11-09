@@ -6,19 +6,19 @@ Odense,Silkeborg,14,2.5,0.43,0.64,Ode1-1Sil;Sil3-1Ode;Ode2-3Sil;Sil1-0Ode;Ode4-1
 Midtjylland,Nordsjaelland,21,3.33,0.67,0.52,Mid6-0Nor;Mid0-1Nor;Nor0-0Mid;Mid2-2Nor;Nor2-3Mid
 Lyngby,Randers FC,12,2.42,0.42,0.42,Lyn2-1Ran;Ran1-1Lyn;Lyn0-0Ran;Ran2-0Lyn;Lyn2-1Ran
 FC Copenhagen,Odense,13,3.08,0.54,0.62,Ode2-2FC ;Ode2-1FC ;FC 2-1Ode;Ode0-5FC ;FC 1-1Ode
-Horsens,Sonderjyske,6,4.33,0.83,0.67,Son2-0Hor;Son2-3Hor;Hor1-2Son;Son2-5Hor;Hor5-1Son
+Horsens,Sonderjyske,5,4.6,0.8,0.8,Son2-0Hor;Son2-3Hor;Hor1-2Son;Son2-5Hor;Hor5-1Son
 Nordsjaelland,Silkeborg,14,3.21,0.5,0.64,Nor1-1Sil;Sil4-2Nor;Nor5-0Sil;Nor1-0Sil;Sil1-1Nor
 Lyngby,Midtjylland,11,3.18,0.64,0.73,Mid2-1Lyn;Lyn1-2Mid;Mid1-0Lyn;Lyn1-1Mid;Mid3-2Lyn
 Aarhus,Viborg,18,2.94,0.5,0.67,Aar5-2Vib;Vib1-2Aar;Aar6-2Vib;Vib2-1Aar;Aar2-1Vib
 Brondby,Randers FC,21,3.14,0.62,0.57,Ran0-0Bro;Ran0-2Bro;Bro0-0Ran;Bro0-3Ran;Ran1-3Bro
 Midtjylland,Viborg,14,3.36,0.57,0.64,Mid2-0Vib;Vib3-3Mid;Vib1-1Mid;Mid3-3Vib;Vib1-2Mid
-Brondby,Odense,11,3.45,0.82,0.73,Bro1-2Ode;Ode0-3Bro;Bro5-1Ode;Ode1-4Bro;Ode2-1Bro
+Brondby,Odense,10,3.4,0.8,0.7,Bro1-2Ode;Ode0-3Bro;Bro5-1Ode;Ode1-4Bro;Ode2-1Bro
 Lyngby,Nordsjaelland,8,3.0,0.5,0.75,Lyn1-1Nor;Nor3-2Lyn;Nor1-1Lyn;Lyn1-0Nor;Lyn3-3Nor
 Silkeborg,Sonderjyske,9,2.67,0.56,0.33,Son2-1Sil;Sil1-0Son;Sil0-2Son;Son2-1Sil;Son4-0Sil
 Aarhus,FC Copenhagen,20,3.45,0.6,0.8,FC 3-1Aar;Aar1-3FC ;FC 2-3Aar;Aar2-0FC ;FC 1-1Aar
 Horsens,Randers FC,4,2.5,0.5,0.25,Ran3-0Hor;Ran1-0Hor;Hor5-1Ran;Hor0-0Ran
 Aarhus,Sonderjyske,12,3.08,0.58,0.67,Son1-1Aar;Aar2-3Son;Son1-1Aar;Aar2-1Son;Aar3-0Son
-FC Copenhagen,Midtjylland,21,2.57,0.48,0.57,Mid4-2FC ;FC 1-1Mid;FC 1-1Mid;Mid2-1FC ;Mid2-1FC 
+FC Copenhagen,Midtjylland,20,2.5,0.45,0.6,Mid4-2FC ;FC 1-1Mid;FC 1-1Mid;Mid2-1FC ;Mid2-1FC 
 Horsens,Silkeborg,5,3.6,0.8,0.8,Sil2-1Hor;Hor3-2Sil;Sil1-2Hor;Hor0-1Sil;Sil3-3Hor
 Randers FC,Viborg,15,2.47,0.53,0.47,Ran3-1Vib;Vib1-2Ran;Ran2-1Vib;Vib3-2Ran;Ran0-2Vib
 Brondby,Lyngby,9,4.0,0.67,0.56,Bro3-0Lyn;Lyn3-3Bro;Lyn0-2Bro;Bro1-1Lyn;Bro5-2Lyn
@@ -59,7 +59,7 @@ Brondby,Viborg,15,2.07,0.27,0.33,Bro0-2Vib;Vib1-0Bro;Bro0-1Vib;Vib0-1Bro;Bro1-0V
 FC Copenhagen,Silkeborg,17,3.29,0.76,0.47,FC 3-3Sil;Sil3-1FC ;FC 7-0Sil;Sil0-4FC ;Sil1-3FC 
 Nordsjaelland,Randers FC,18,3.28,0.56,0.61,Nor5-2Ran;Ran3-2Nor;Ran3-0Nor;Nor1-0Ran;Nor1-0Ran
 Horsens,Midtjylland,6,3.17,0.67,0.67,Hor3-3Mid;Mid2-1Hor;Hor0-2Mid;Mid3-1Hor;Mid2-1Hor
-Aarhus,Lyngby,9,1.78,0.33,0.33,Aar1-0Lyn;Lyn0-2Aar;Lyn0-0Aar;Aar2-1Lyn;Lyn2-2Aar
+Aarhus,Lyngby,8,1.62,0.25,0.25,Aar1-0Lyn;Lyn0-2Aar;Lyn0-0Aar;Aar2-1Lyn;Lyn2-2Aar
 Randers FC,Silkeborg,15,2.33,0.4,0.47,Ran1-0Sil;Sil0-0Ran;Ran0-3Sil;Sil2-0Ran;Ran1-1Sil
 Midtjylland,Sonderjyske,10,4.3,0.9,0.9,Mid6-2Son;Son2-1Mid;Mid2-2Son;Son1-2Mid;Son2-3Mid
 FC Copenhagen,Lyngby,8,3.38,0.88,0.5,Lyn1-2FC ;FC 4-0Lyn;Lyn0-2FC ;FC 2-1Lyn;FC 3-2Lyn
@@ -75,7 +75,7 @@ Fredericia,Odense,4,3.0,0.5,0.5,Ode3-2Fre;Fre1-3Ode;Ode1-0Fre;Fre0-2Ode
 Fredericia,Randers FC,4,2.75,0.75,0.5,Fre1-0Ran;Ran1-2Fre;Fre0-3Ran;Ran2-2Fre
 Silkeborg,Vejle,12,2.92,0.58,0.67,Sil1-1Vej;Sil1-1Vej;Vej1-2Sil;Sil1-1Vej;Vej1-2Sil
 Aarhus,Vejle,11,2.09,0.36,0.36,Vej0-0Aar;Aar5-1Vej;Vej3-2Aar;Aar1-0Vej;Vej1-2Aar
-Nordsjaelland,Vejle,12,2.5,0.5,0.5,Nor1-0Vej;Vej0-1Nor;Nor3-1Vej;Vej0-3Nor;Nor3-3Vej
+Nordsjaelland,Vejle,11,2.55,0.55,0.45,Nor1-0Vej;Vej0-1Nor;Nor3-1Vej;Vej0-3Nor;Nor3-3Vej
 Aarhus,Fredericia,2,3.5,0.5,1.0,Aar4-1Fre;Fre1-1Aar
 Brondby,Vejle,10,3.0,0.7,0.8,Bro1-1Vej;Bro2-1Vej;Vej2-2Bro;Bro2-1Vej;Vej2-1Bro
 Brondby,Fredericia,2,3.0,0.5,0.5,Fre0-2Bro;Bro1-3Fre

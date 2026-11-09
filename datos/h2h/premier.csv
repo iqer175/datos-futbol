@@ -1,113 +1,117 @@
 eq_a,eq_b,n,goles,over25,btts,ultimos
+Aston Villa,Man United,11,3.18,0.64,0.64,Ast0-0Man;Man2-0Ast;Ast2-1Man;Man3-1Ast;Man4-4Ast
+Brentford,Brighton,11,2.45,0.36,0.36,Bri0-0Bre;Bre4-2Bri;Bri2-1Bre;Bre0-2Bri;Bri2-0Bre
+Bournemouth,Ipswich,3,3.0,1.0,1.0,Ips1-2Bou;Bou1-2Ips;Ips1-2Bou
+Crystal Palace,Liverpool,11,2.45,0.55,0.64,Cry0-1Liv;Liv1-1Cry;Cry2-1Liv;Liv3-1Cry;Cry1-3Liv
+Chelsea,Sunderland,3,2.33,0.67,0.67,Che1-2Sun;Sun2-1Che;Sun1-0Che
+Man City,Nott'm Forest,9,3.0,0.56,0.44,Man3-0Not;Not1-0Man;Not1-2Man;Man2-2Not;Not3-1Man
+Fulham,Newcastle,9,2.67,0.56,0.56,Ful3-1New;New1-2Ful;New2-1Ful;Ful2-0New;Ful1-1New
+Leeds,Tottenham,7,3.57,0.71,0.71,Tot4-3Lee;Lee1-4Tot;Lee1-2Tot;Tot1-1Lee;Lee1-0Tot
 Everton,Newcastle,11,2.55,0.45,0.45,Eve0-0New;New0-1Eve;Eve1-4New;New2-3Eve;New0-1Eve
 Arsenal,Liverpool,11,2.82,0.55,0.55,Ars2-2Liv;Liv2-2Ars;Liv1-0Ars;Ars0-0Liv;Liv0-1Ars
-Brighton,Man City,11,3.09,0.73,0.73,Bri2-1Man;Man2-2Bri;Bri2-1Man;Man1-1Bri;Man0-1Bri
-Aston Villa,Fulham,9,2.56,0.56,0.56,Ful1-3Ast;Ast1-0Ful;Ast3-1Ful;Ful1-0Ast;Ast1-1Ful
-Chelsea,Man United,11,2.73,0.36,0.73,Man1-1Che;Che1-0Man;Man2-1Che;Che0-1Man;Che2-0Man
-Bournemouth,Leeds,5,4.4,0.8,0.8,Lee4-3Bou;Bou4-1Lee;Lee2-2Bou;Bou2-2Lee;Bou2-0Lee
 Brentford,Nott'm Forest,9,2.89,0.44,0.56,Bre0-2Not;Not0-2Bre;Not3-1Bre;Bre0-2Not;Bre2-0Not
+Aston Villa,Fulham,9,2.56,0.56,0.56,Ful1-3Ast;Ast1-0Ful;Ast3-1Ful;Ful1-0Ast;Ast1-1Ful
+Bournemouth,Leeds,5,4.4,0.8,0.8,Lee4-3Bou;Bou4-1Lee;Lee2-2Bou;Bou2-2Lee;Bou2-0Lee
+Chelsea,Man United,11,2.73,0.36,0.73,Man1-1Che;Che1-0Man;Man2-1Che;Che0-1Man;Che2-0Man
 Crystal Palace,Tottenham,11,2.55,0.55,0.27,Cry1-0Tot;Tot0-2Cry;Cry0-1Tot;Tot1-3Cry;Tot2-0Cry
-Brighton,Liverpool,11,3.36,0.73,0.64,Liv2-1Bri;Bri3-2Liv;Liv2-0Bri;Bri2-1Liv;Liv2-0Bri
-Crystal Palace,Newcastle,11,2.09,0.27,0.27,Cry1-1New;New5-0Cry;New2-0Cry;Cry2-1New;Cry0-2New
+Brighton,Man City,11,3.09,0.73,0.73,Bri2-1Man;Man2-2Bri;Bri2-1Man;Man1-1Bri;Man0-1Bri
 Bournemouth,Man United,9,3.44,0.78,0.44,Man0-3Bou;Bou1-1Man;Man4-4Bou;Bou2-2Man;Man0-3Bou
 Leeds,Sunderland,3,1.0,0.0,0.33,Sun1-1Lee;Lee0-1Sun;Sun0-0Lee
-Aston Villa,Man City,11,3.0,0.73,0.82,Ast2-1Man;Man2-1Ast;Ast1-0Man;Man1-2Ast;Ast2-1Man
-Chelsea,Tottenham,11,2.91,0.45,0.36,Tot3-4Che;Che1-0Tot;Tot0-1Che;Che2-1Tot;Che0-2Tot
+Brighton,Liverpool,11,3.36,0.73,0.64,Liv2-1Bri;Bri3-2Liv;Liv2-0Bri;Bri2-1Liv;Liv2-0Bri
+Crystal Palace,Newcastle,11,2.09,0.27,0.27,Cry1-1New;New5-0Cry;New2-0Cry;Cry2-1New;Cry0-2New
 Arsenal,Everton,11,2.27,0.36,0.36,Ars0-0Eve;Eve1-1Ars;Eve0-1Ars;Ars2-0Eve;Ars2-0Eve
+Chelsea,Tottenham,11,2.91,0.45,0.36,Tot3-4Che;Che1-0Tot;Tot0-1Che;Che2-1Tot;Che0-2Tot
+Aston Villa,Man City,11,3.0,0.73,0.82,Ast2-1Man;Man2-1Ast;Ast1-0Man;Man1-2Ast;Ast2-1Man
 Ipswich,Nott'm Forest,3,3.0,0.33,0.67,Not1-0Ips;Ips2-4Not;Ips1-1Not
-Arsenal,Nott'm Forest,9,2.11,0.56,0.22,Ars3-0Not;Not0-0Ars;Ars3-0Not;Not0-0Ars;Not0-1Ars
-Brighton,Crystal Palace,11,2.45,0.36,0.64,Bri1-3Cry;Cry2-1Bri;Cry0-0Bri;Bri0-1Cry;Bri5-0Cry
 Bournemouth,Sunderland,3,3.0,0.33,0.67,Sun3-2Bou;Bou1-1Sun;Bou2-0Sun
 Leeds,Man United,7,3.57,0.57,0.86,Man2-2Lee;Lee0-2Man;Lee1-1Man;Man1-2Lee;Lee1-1Man
-Ipswich,Man City,3,5.33,1.0,0.67,Man4-1Ips;Ips0-6Man;Man3-2Ips
+Arsenal,Nott'm Forest,9,2.11,0.56,0.22,Ars3-0Not;Not0-0Ars;Ars3-0Not;Not0-0Ars;Not0-1Ars
+Brighton,Crystal Palace,11,2.45,0.36,0.64,Bri1-3Cry;Cry2-1Bri;Cry0-0Bri;Bri0-1Cry;Bri5-0Cry
 Aston Villa,Newcastle,11,2.82,0.55,0.27,New3-0Ast;Ast4-1New;Ast0-0New;New0-2Ast;New0-1Ast
 Brentford,Liverpool,11,3.27,0.64,0.55,Liv2-0Bre;Bre0-2Liv;Bre3-2Liv;Liv1-1Bre;Bre1-2Liv
+Ipswich,Man City,3,5.33,1.0,0.67,Man4-1Ips;Ips0-6Man;Man3-2Ips
 Chelsea,Everton,11,2.18,0.27,0.18,Eve0-0Che;Che1-0Eve;Che2-0Eve;Eve3-0Che;Eve0-2Che
 Liverpool,Man City,11,2.82,0.55,0.55,Liv2-0Man;Man0-2Liv;Man3-0Liv;Liv1-2Man;Liv0-3Man
 Crystal Palace,Nott'm Forest,9,1.78,0.11,0.67,Not1-0Cry;Cry1-1Not;Cry1-1Not;Not1-1Cry;Cry3-1Not
-Aston Villa,Brentford,11,2.82,0.55,0.64,Ast3-1Bre;Bre0-1Ast;Bre1-0Ast;Ast0-1Bre;Ast2-2Bre
 Brighton,Sunderland,3,1.0,0.0,0.0,Bri0-0Sun;Sun0-1Bri;Sun0-2Bri
 Bournemouth,Chelsea,9,2.67,0.56,0.56,Bou0-1Che;Che2-2Bou;Bou0-0Che;Che2-2Bou;Che5-1Bou
-Arsenal,Leeds,7,3.71,0.86,0.57,Lee0-1Ars;Ars4-1Lee;Ars5-0Lee;Lee0-4Ars;Ars2-1Lee
-Man United,Tottenham,11,2.91,0.55,0.45,Man0-3Tot;Tot1-0Man;Tot2-2Man;Man2-0Tot;Man1-1Tot
 Fulham,Ipswich,3,3.0,0.67,1.0,Ips1-1Ful;Ful2-2Ips;Ips2-1Ful
-Crystal Palace,Leeds,7,2.14,0.43,0.43,Cry2-1Lee;Lee1-5Cry;Lee4-1Cry;Cry0-0Lee;Lee0-0Cry
-Fulham,Man United,9,2.33,0.44,0.67,Man1-0Ful;Ful0-1Man;Ful1-1Man;Man3-2Ful;Ful1-1Man
+Man United,Tottenham,11,2.91,0.55,0.45,Man0-3Tot;Tot1-0Man;Tot2-2Man;Man2-0Tot;Man1-1Tot
+Arsenal,Leeds,7,3.71,0.86,0.57,Lee0-1Ars;Ars4-1Lee;Ars5-0Lee;Lee0-4Ars;Ars2-1Lee
+Aston Villa,Brentford,11,2.82,0.55,0.64,Ast3-1Bre;Bre0-1Ast;Bre1-0Ast;Ast0-1Bre;Ast2-2Bre
 Bournemouth,Liverpool,9,3.89,0.67,0.33,Liv3-0Bou;Bou0-2Liv;Liv4-2Bou;Bou3-2Liv;Bou0-1Liv
 Man City,Sunderland,3,3.67,0.67,0.33,Man3-0Sun;Sun0-0Man;Man5-3Sun
+Crystal Palace,Leeds,7,2.14,0.43,0.43,Cry2-1Lee;Lee1-5Cry;Lee4-1Cry;Cry0-0Lee;Lee0-0Cry
+Fulham,Man United,9,2.33,0.44,0.67,Man1-0Ful;Ful0-1Man;Ful1-1Man;Man3-2Ful;Ful1-1Man
 Aston Villa,Tottenham,11,3.36,0.82,0.64,Tot4-1Ast;Ast2-0Tot;Tot1-2Ast;Ast1-2Tot;Tot2-3Ast
 Arsenal,Brighton,11,2.55,0.55,0.45,Ars1-1Bri;Bri1-1Ars;Ars2-1Bri;Bri0-1Ars;Bri3-0Ars
 Everton,Ipswich,3,2.33,0.33,0.33,Ips0-2Eve;Eve2-2Ips;Eve1-0Ips
 Brentford,Chelsea,11,2.36,0.45,0.36,Che2-1Bre;Bre0-0Che;Bre2-2Che;Che2-0Bre;Bre3-0Che
 Leeds,Newcastle,7,2.71,0.43,0.57,New0-0Lee;Lee2-2New;Lee0-0New;New4-3Lee;Lee4-1New
 Man City,Man United,11,3.18,0.64,0.45,Man1-2Man;Man0-0Man;Man3-0Man;Man2-0Man;Man0-1Man
-Everton,Tottenham,11,2.64,0.55,0.36,Tot4-0Eve;Eve3-2Tot;Eve0-3Tot;Tot1-0Eve;Tot0-0Eve
 Bournemouth,Brentford,9,2.89,0.67,0.67,Bre3-2Bou;Bou1-2Bre;Bre4-1Bou;Bou0-0Bre;Bou2-2Bre
+Arsenal,Sunderland,3,3.0,0.67,0.33,Sun2-2Ars;Ars3-0Sun;Sun0-2Ars
 Fulham,Liverpool,9,3.44,0.67,0.67,Liv2-2Ful;Ful3-2Liv;Ful2-2Liv;Liv2-0Ful;Liv0-0Ful
 Aston Villa,Nott'm Forest,9,3.0,0.56,0.78,Not2-1Ast;Ast2-1Not;Ast3-1Not;Not1-1Ast;Ast1-2Not
+Everton,Tottenham,11,2.64,0.55,0.36,Tot4-0Eve;Eve3-2Tot;Eve0-3Tot;Tot1-0Eve;Tot0-0Eve
 Crystal Palace,Ipswich,3,2.33,0.33,0.33,Ips0-1Cry;Cry1-0Ips;Cry2-3Ips
-Arsenal,Sunderland,3,3.0,0.67,0.33,Sun2-2Ars;Ars3-0Sun;Sun0-2Ars
 Everton,Man United,11,2.45,0.45,0.36,Man4-0Eve;Eve2-2Man;Man0-1Eve;Eve0-1Man;Eve2-2Man
 Arsenal,Chelsea,11,3.0,0.55,0.64,Che1-1Ars;Ars1-0Che;Che1-1Ars;Ars2-1Che;Ars2-1Che
-Brentford,Sunderland,3,2.67,0.67,0.67,Sun2-1Bre;Bre3-0Sun;Bre1-1Sun
+Crystal Palace,Fulham,9,2.56,0.44,0.56,Cry0-2Ful;Ful0-2Cry;Ful1-2Cry;Cry1-1Ful;Ful2-3Cry
 Bournemouth,Newcastle,9,2.67,0.44,0.78,Bou1-1New;New1-4Bou;Bou0-0New;New1-2Bou;New2-2Bou
 Brighton,Leeds,7,1.86,0.29,0.43,Bri1-0Lee;Lee2-2Bri;Bri3-0Lee;Lee1-0Bri;Bri1-1Lee
 Nott'm Forest,Tottenham,9,2.44,0.56,0.33,Not1-0Tot;Tot1-2Not;Not3-0Tot;Tot0-3Not;Not0-0Tot
-Crystal Palace,Fulham,9,2.56,0.44,0.56,Cry0-2Ful;Ful0-2Cry;Ful1-2Cry;Cry1-1Ful;Ful2-3Cry
+Brentford,Sunderland,3,2.67,0.67,0.67,Sun2-1Bre;Bre3-0Sun;Bre1-1Sun
 Ipswich,Liverpool,3,3.0,0.33,0.33,Ips0-2Liv;Liv4-1Ips;Ips0-2Liv
 Arsenal,Aston Villa,11,2.91,0.55,0.55,Ast0-2Ars;Ars2-2Ast;Ast2-1Ars;Ars4-1Ast;Ast0-1Ars
+Fulham,Sunderland,3,2.0,0.33,0.33,Ful1-0Sun;Sun1-3Ful;Sun1-0Ful
 Ipswich,Man United,3,4.67,0.67,1.0,Ips1-1Man;Man3-2Ips;Man5-2Ips
 Brentford,Leeds,7,2.57,0.43,0.71,Bre5-2Lee;Lee0-0Bre;Bre1-1Lee;Lee0-0Bre;Lee1-1Bre
-Fulham,Sunderland,3,2.0,0.33,0.33,Ful1-0Sun;Sun1-3Ful;Sun1-0Ful
 Brighton,Chelsea,11,3.91,0.82,0.82,Che4-2Bri;Bri3-0Che;Che1-3Bri;Bri3-0Che;Che4-3Bri
-Bournemouth,Everton,9,2.44,0.56,0.44,Eve2-3Bou;Bou1-0Eve;Bou0-1Eve;Eve1-2Bou;Bou1-1Eve
-Liverpool,Nott'm Forest,9,2.33,0.44,0.33,Liv0-1Not;Not1-1Liv;Liv0-3Not;Not0-1Liv;Liv2-2Not
 Newcastle,Tottenham,11,4.09,0.91,0.82,New2-1Tot;Tot1-2New;New2-2Tot;Tot1-2New;Tot0-2New
+Liverpool,Nott'm Forest,9,2.33,0.44,0.33,Liv0-1Not;Not1-1Liv;Liv0-3Not;Not0-1Liv;Liv2-2Not
+Bournemouth,Everton,9,2.44,0.56,0.44,Eve2-3Bou;Bou1-0Eve;Bou0-1Eve;Eve1-2Bou;Bou1-1Eve
 Crystal Palace,Man City,11,3.73,0.73,0.55,Cry2-2Man;Man5-2Cry;Cry0-3Man;Man3-0Cry;Cry1-4Man
 Chelsea,Fulham,9,2.44,0.56,0.56,Che1-2Ful;Ful1-2Che;Che2-0Ful;Ful2-1Che;Ful2-3Che
 Bournemouth,Man City,9,3.67,0.78,0.78,Bou2-1Man;Man3-1Bou;Man3-1Bou;Bou1-1Man;Man2-1Bou
 Aston Villa,Brighton,11,3.36,0.64,0.45,Ast2-2Bri;Bri0-3Ast;Bri3-4Ast;Ast1-0Bri;Bri4-0Ast
 Liverpool,Newcastle,11,3.73,0.73,0.73,New3-3Liv;Liv2-0New;New2-3Liv;Liv4-1New;New2-2Liv
+Brentford,Tottenham,11,2.73,0.55,0.45,Tot3-1Bre;Bre0-2Tot;Tot2-0Bre;Bre0-0Tot;Bre3-0Tot
 Crystal Palace,Everton,11,3.09,0.73,0.73,Eve2-1Cry;Cry1-2Eve;Eve2-1Cry;Cry2-2Eve;Eve2-0Cry
 Leeds,Nott'm Forest,5,2.6,0.6,0.6,Not1-0Lee;Lee2-1Not;Not3-1Lee;Lee3-1Not;Not0-1Lee
-Brentford,Tottenham,11,2.73,0.55,0.45,Tot3-1Bre;Bre0-2Tot;Tot2-0Bre;Bre0-0Tot;Bre3-0Tot
-Chelsea,Sunderland,2,3.0,1.0,1.0,Che1-2Sun;Sun2-1Che
-Fulham,Newcastle,8,2.75,0.62,0.5,Ful0-1New;Ful3-1New;New1-2Ful;New2-1Ful;Ful2-0New
-Brighton,Man United,10,3.2,0.7,0.5,Bri0-2Man;Bri2-1Man;Man1-3Bri;Man4-2Bri;Bri0-3Man
 Leeds,West Ham,6,3.67,1.0,0.83,Wes2-3Lee;Lee2-2Wes;Wes3-1Lee;Lee2-1Wes;Wes3-0Lee
+Brighton,Man United,10,3.2,0.7,0.5,Bri0-2Man;Bri2-1Man;Man1-3Bri;Man4-2Bri;Bri0-3Man
 Burnley,Wolves,6,1.83,0.17,0.5,Bur1-0Wol;Wol1-0Bur;Bur1-1Wol;Wol2-3Bur;Bur1-1Wol
 Arsenal,Crystal Palace,10,3.4,0.7,0.5,Ars5-0Cry;Cry1-5Ars;Ars2-2Cry;Ars1-0Cry;Cry1-2Ars
 Bournemouth,Nott'm Forest,8,3.12,0.38,0.75,Bou1-1Not;Not1-1Bou;Bou5-0Not;Bou2-0Not;Not1-1Bou
 Arsenal,Burnley,6,2.17,0.33,0.17,Ars0-0Bur;Ars3-1Bur;Bur0-5Ars;Bur0-2Ars;Ars1-0Bur
-Brentford,Crystal Palace,10,2.2,0.4,0.7,Cry3-1Bre;Bre2-1Cry;Cry1-2Bre;Cry2-0Bre;Bre2-2Cry
+Newcastle,West Ham,10,3.8,0.6,0.8,New4-3Wes;New0-2Wes;Wes0-1New;Wes3-1New;New3-1Wes
 Everton,Sunderland,2,3.0,0.5,1.0,Sun1-1Eve;Eve1-3Sun
 Fulham,Wolves,8,2.88,0.62,0.75,Wol2-1Ful;Ful1-4Wol;Wol1-2Ful;Ful3-0Wol;Wol1-1Ful
-Newcastle,West Ham,10,3.8,0.6,0.8,New4-3Wes;New0-2Wes;Wes0-1New;Wes3-1New;New3-1Wes
+Brentford,Crystal Palace,10,2.2,0.4,0.7,Cry3-1Bre;Bre2-1Cry;Cry1-2Bre;Cry2-0Bre;Bre2-2Cry
 Man United,Nott'm Forest,8,3.5,0.75,0.62,Not2-1Man;Man2-3Not;Not1-0Man;Not2-2Man;Man3-2Not
 Aston Villa,Liverpool,10,3.3,0.6,0.6,Ast3-3Liv;Liv2-0Ast;Ast2-2Liv;Liv2-0Ast;Ast4-2Liv
-Leeds,Tottenham,6,4.0,0.83,0.83,Lee0-4Tot;Tot4-3Lee;Lee1-4Tot;Lee1-2Tot;Tot1-1Lee
-Aston Villa,Burnley,6,3.67,0.83,1.0,Ast1-1Bur;Bur1-3Ast;Ast3-2Bur;Ast2-1Bur;Bur2-2Ast
 Newcastle,Nott'm Forest,8,3.62,0.62,0.75,Not2-3New;Not1-3New;New4-3Not;New2-0Not;Not1-1New
 Arsenal,West Ham,10,3.2,0.5,0.4,Wes0-6Ars;Wes2-5Ars;Ars0-1Wes;Ars2-0Wes;Wes0-1Ars
-Bournemouth,Fulham,8,3.0,0.75,0.62,Ful3-1Bou;Ful2-2Bou;Bou1-0Ful;Bou3-1Ful;Ful0-1Bou
-Brighton,Wolves,10,3.1,0.6,0.4,Bri0-0Wol;Bri2-2Wol;Wol0-2Bri;Wol1-1Bri;Bri3-0Wol
-Chelsea,Liverpool,10,2.5,0.5,0.8,Liv4-1Che;Liv2-1Che;Che3-1Liv;Che2-1Liv;Liv1-1Che
+Aston Villa,Burnley,6,3.67,0.83,1.0,Ast1-1Bur;Bur1-3Ast;Ast3-2Bur;Ast2-1Bur;Bur2-2Ast
 Man United,Sunderland,2,1.0,0.0,0.0,Man2-0Sun;Sun0-0Man
+Chelsea,Liverpool,10,2.5,0.5,0.8,Liv4-1Che;Liv2-1Che;Che3-1Liv;Che2-1Liv;Liv1-1Che
+Bournemouth,Fulham,8,3.0,0.75,0.62,Ful3-1Bou;Ful2-2Bou;Bou1-0Ful;Bou3-1Ful;Ful0-1Bou
 Brentford,Man City,10,2.3,0.5,0.4,Man1-0Bre;Man2-1Bre;Bre2-2Man;Bre0-1Man;Man3-0Bre
-Everton,Man City,10,2.7,0.4,0.4,Man2-0Eve;Man1-1Eve;Eve0-2Man;Man2-0Eve;Eve3-3Man
+Brighton,Wolves,10,3.1,0.6,0.4,Bri0-0Wol;Bri2-2Wol;Wol0-2Bri;Wol1-1Bri;Bri3-0Wol
 Chelsea,Nott'm Forest,8,2.75,0.5,0.62,Not2-3Che;Che1-1Not;Not0-1Che;Not0-3Che;Che1-3Not
-Bournemouth,Crystal Palace,8,2.0,0.25,0.12,Bou1-0Cry;Bou0-0Cry;Cry0-0Bou;Cry3-3Bou;Bou3-0Cry
+Everton,Man City,10,2.7,0.4,0.4,Man2-0Eve;Man1-1Eve;Eve0-2Man;Man2-0Eve;Eve3-3Man
 Liverpool,Man United,10,3.8,0.9,0.5,Man2-2Liv;Man0-3Liv;Liv2-2Man;Liv1-2Man;Man3-2Liv
-Arsenal,Fulham,8,2.75,0.75,0.62,Ful2-1Ars;Ful1-1Ars;Ars2-1Ful;Ful0-1Ars;Ars3-0Ful
+Bournemouth,Crystal Palace,8,2.0,0.25,0.12,Bou1-0Cry;Bou0-0Cry;Cry0-0Bou;Cry3-3Bou;Bou3-0Cry
 Sunderland,Wolves,2,2.0,0.0,0.5,Sun2-0Wol;Wol1-1Sun
-Brentford,West Ham,10,2.8,0.4,0.4,Wes4-2Bre;Bre1-1Wes;Wes0-1Bre;Wes0-2Bre;Bre3-0Wes
 Brighton,Newcastle,10,2.6,0.5,0.8,New1-1Bri;New0-1Bri;Bri1-1New;Bri2-1New;New3-1Bri
+Arsenal,Fulham,8,2.75,0.75,0.62,Ful2-1Ars;Ful1-1Ars;Ars2-1Ful;Ful0-1Ars;Ars3-0Ful
+Brentford,West Ham,10,2.8,0.4,0.4,Wes4-2Bre;Bre1-1Wes;Wes0-1Bre;Wes0-2Bre;Bre3-0Wes
 Burnley,Leeds,4,3.0,0.5,0.75,Bur1-1Lee;Lee3-1Bur;Bur2-0Lee;Lee3-1Bur
 Brentford,Man United,10,3.4,0.8,0.7,Bre1-1Man;Man2-1Bre;Bre4-3Man;Bre3-1Man;Man2-1Bre
-Everton,West Ham,10,1.9,0.3,0.5,Eve1-3Wes;Wes0-0Eve;Eve1-1Wes;Eve1-1Wes;Wes2-1Eve
-Crystal Palace,Liverpool,10,2.3,0.5,0.6,Liv0-1Cry;Cry0-1Liv;Liv1-1Cry;Cry2-1Liv;Liv3-1Cry
 Tottenham,Wolves,10,2.4,0.4,0.5,Tot1-2Wol;Tot2-2Wol;Wol4-2Tot;Tot1-1Wol;Wol0-1Tot
 Arsenal,Newcastle,10,1.8,0.2,0.2,Ars4-1New;New1-0Ars;Ars1-0New;New1-2Ars;Ars1-0New
+Everton,West Ham,10,1.9,0.3,0.5,Eve1-3Wes;Wes0-0Eve;Eve1-1Wes;Eve1-1Wes;Wes2-1Eve
 Nott'm Forest,Sunderland,2,3.0,0.5,0.0,Not0-1Sun;Sun0-5Not
 Burnley,Man City,6,3.0,0.5,0.33,Bur0-2Man;Bur0-3Man;Man3-1Bur;Man5-1Bur;Bur0-1Man
 Crystal Palace,West Ham,10,3.5,0.6,0.7,Cry5-2Wes;Cry0-2Wes;Wes0-2Cry;Wes1-2Cry;Cry0-0Wes
@@ -115,94 +119,90 @@ Burnley,Nott'm Forest,4,3.0,0.5,1.0,Not1-1Bur;Bur1-2Not;Bur1-1Not;Not4-1Bur
 Everton,Liverpool,10,2.4,0.4,0.4,Eve2-0Liv;Eve2-2Liv;Liv1-0Eve;Liv2-1Eve;Eve1-2Liv
 Arsenal,Man City,10,3.3,0.7,0.7,Man0-0Ars;Man2-2Ars;Ars5-1Man;Ars1-1Man;Man2-1Ars
 Aston Villa,Sunderland,2,4.5,0.5,1.0,Sun1-1Ast;Ast4-3Sun
-Brighton,Tottenham,10,3.4,0.7,0.7,Tot2-1Bri;Bri3-2Tot;Tot1-4Bri;Bri2-2Tot;Tot2-2Bri
 Brentford,Fulham,8,3.12,0.75,0.62,Bre0-0Ful;Ful2-1Bre;Bre2-3Ful;Ful3-1Bre;Bre0-0Ful
 Leeds,Wolves,6,3.83,0.83,0.83,Wol2-3Lee;Lee2-1Wol;Wol2-4Lee;Wol1-3Lee;Lee3-0Wol
+Brighton,Tottenham,10,3.4,0.7,0.7,Tot2-1Bri;Bri3-2Tot;Tot1-4Bri;Bri2-2Tot;Tot2-2Bri
 Chelsea,Man City,10,2.5,0.3,0.4,Man1-1Che;Che0-2Man;Man3-1Che;Man1-1Che;Che0-3Man
 Sunderland,Tottenham,2,1.5,0.0,0.5,Tot1-1Sun;Sun1-0Tot
-Brentford,Everton,10,2.6,0.4,0.6,Eve1-0Bre;Eve0-0Bre;Bre1-1Eve;Eve2-4Bre;Bre2-2Eve
 Brighton,Burnley,6,2.33,0.33,0.5,Bri0-3Bur;Bri1-1Bur;Bur1-1Bri;Bri2-0Bur;Bur0-2Bri
 Arsenal,Bournemouth,8,3.5,0.88,0.5,Ars3-0Bou;Bou2-0Ars;Ars1-2Bou;Bou2-3Ars;Ars1-2Bou
+Brentford,Everton,10,2.6,0.4,0.6,Eve1-0Bre;Eve0-0Bre;Bre1-1Eve;Eve2-4Bre;Bre2-2Eve
 West Ham,Wolves,10,2.2,0.5,0.2,Wol1-2Wes;Wes2-1Wol;Wol1-0Wes;Wol3-0Wes;Wes4-0Wol
 Aston Villa,West Ham,10,3.0,0.5,0.8,Wes1-1Ast;Wes1-2Ast;Ast1-1Wes;Wes2-3Ast;Ast2-0Wes
 Newcastle,Sunderland,2,2.0,0.5,0.5,Sun1-0New;New1-2Sun
 Burnley,Fulham,4,3.75,0.75,0.75,Ful0-2Bur;Bur2-2Ful;Bur2-3Ful;Ful3-1Bur
 Brentford,Wolves,10,3.2,0.4,0.6,Wol0-2Bre;Bre5-3Wol;Wol1-1Bre;Wol0-2Bre;Bre2-2Wol
-Aston Villa,Man United,10,2.7,0.6,0.6,Ast1-2Man;Ast0-0Man;Man2-0Ast;Ast2-1Man;Man3-1Ast
 Fulham,Nott'm Forest,8,2.62,0.5,0.38,Not3-1Ful;Not0-1Ful;Ful2-1Not;Ful1-0Not;Not0-0Ful
 Liverpool,Tottenham,10,4.5,0.8,1.0,Liv4-2Tot;Tot3-6Liv;Liv5-1Tot;Tot1-2Liv;Liv1-1Tot
+Chelsea,Newcastle,10,2.7,0.5,0.5,Che3-2New;Che2-1New;New2-0Che;New2-2Che;Che0-1New
 Man City,West Ham,10,3.4,0.8,0.7,Man3-1Wes;Wes1-3Man;Man4-1Wes;Man3-0Wes;Wes1-1Man
 Bournemouth,Burnley,4,1.75,0.25,0.5,Bou2-1Bur;Bur0-2Bou;Bou1-1Bur;Bur0-0Bou
-Chelsea,Newcastle,10,2.7,0.5,0.5,Che3-2New;Che2-1New;New2-0Che;New2-2Che;Che0-1New
-Man United,Newcastle,10,2.6,0.4,0.5,Man3-2New;Man0-2New;New4-1Man;Man1-0New;New2-1Man
-Aston Villa,Chelsea,10,3.0,0.7,0.5,Ast2-2Che;Che3-0Ast;Ast2-1Che;Che1-2Ast;Ast1-4Che
 Fulham,West Ham,8,2.62,0.38,0.38,Wes0-2Ful;Ful1-1Wes;Wes3-2Ful;Wes0-1Ful;Ful0-1Wes
-Man City,Nott'm Forest,8,2.88,0.5,0.38,Not0-2Man;Man3-0Not;Not1-0Man;Not1-2Man;Man2-2Not
-Liverpool,Wolves,10,2.8,0.7,0.6,Liv2-0Wol;Wol1-2Liv;Liv2-1Wol;Liv2-1Wol;Wol2-1Liv
+Aston Villa,Chelsea,10,3.0,0.7,0.5,Ast2-2Che;Che3-0Ast;Ast2-1Che;Che1-2Ast;Ast1-4Che
+Man United,Newcastle,10,2.6,0.4,0.5,Man3-2New;Man0-2New;New4-1Man;Man1-0New;New2-1Man
 Burnley,Everton,6,2.33,0.33,0.33,Bur3-2Eve;Bur0-2Eve;Eve1-0Bur;Bur0-0Eve;Eve2-0Bur
+Liverpool,Wolves,10,2.8,0.7,0.6,Liv2-0Wol;Wol1-2Liv;Liv2-1Wol;Liv2-1Wol;Wol2-1Liv
+Crystal Palace,Man United,10,2.0,0.4,0.4,Cry4-0Man;Cry0-0Man;Man0-2Cry;Cry1-2Man;Man2-1Cry
 Fulham,Tottenham,8,2.38,0.5,0.5,Ful3-0Tot;Tot1-1Ful;Ful2-0Tot;Tot1-2Ful;Ful2-1Tot
 Brighton,Nott'm Forest,8,3.25,0.62,0.5,Bri1-0Not;Bri2-2Not;Not7-0Bri;Not0-2Bri;Bri2-1Not
-Crystal Palace,Man United,10,2.0,0.4,0.4,Cry4-0Man;Cry0-0Man;Man0-2Cry;Cry1-2Man;Man2-1Cry
 Leeds,Man City,6,4.0,0.83,0.5,Lee0-4Man;Lee1-3Man;Man2-1Lee;Man3-2Lee;Lee0-1Man
 Brentford,Burnley,6,3.83,0.83,0.67,Bre2-0Bur;Bre3-0Bur;Bur2-1Bre;Bre3-1Bur;Bur3-4Bre
 Liverpool,West Ham,10,3.5,0.7,0.6,Wes2-2Liv;Wes0-5Liv;Liv2-1Wes;Wes0-2Liv;Liv5-2Wes
 Aston Villa,Wolves,10,2.4,0.3,0.5,Ast2-0Wol;Ast3-1Wol;Wol2-0Ast;Ast1-0Wol;Wol2-0Ast
-Arsenal,Tottenham,10,3.6,0.8,0.7,Tot2-3Ars;Tot0-1Ars;Ars2-1Tot;Ars4-1Tot;Tot1-4Ars
 Crystal Palace,Wolves,10,3.1,0.5,0.5,Wol1-3Cry;Wol2-2Cry;Cry4-2Wol;Wol0-2Cry;Cry1-0Wol
+Arsenal,Tottenham,10,3.6,0.8,0.7,Tot2-3Ars;Tot0-1Ars;Ars2-1Tot;Ars4-1Tot;Tot1-4Ars
 Burnley,Chelsea,6,3.17,0.5,0.67,Bur0-4Che;Bur1-4Che;Che2-2Bur;Bur0-2Che;Che1-1Bur
-Man City,Newcastle,10,3.5,0.7,0.5,New2-3Man;New1-1Man;Man4-0New;New2-1Man;Man2-1New
-Aston Villa,Leeds,6,2.83,0.67,0.67,Lee0-3Ast;Lee0-0Ast;Ast2-1Lee;Lee1-2Ast;Ast1-1Lee
 Bournemouth,West Ham,8,2.5,0.38,0.62,Wes1-1Bou;Bou1-1Wes;Wes2-2Bou;Bou2-2Wes;Wes0-0Bou
-Brentford,Brighton,10,2.5,0.4,0.4,Bre0-0Bri;Bri0-0Bre;Bre4-2Bri;Bri2-1Bre;Bre0-2Bri
+Aston Villa,Leeds,6,2.83,0.67,0.67,Lee0-3Ast;Lee0-0Ast;Ast2-1Lee;Lee1-2Ast;Ast1-1Lee
+Man City,Newcastle,10,3.5,0.7,0.5,New2-3Man;New1-1Man;Man4-0New;New2-1Man;Man2-1New
 Arsenal,Wolves,10,2.6,0.5,0.4,Wol0-2Ars;Ars2-0Wol;Wol0-1Ars;Ars2-1Wol;Wol2-2Ars
 Arsenal,Brentford,10,2.4,0.4,0.6,Ars2-1Bre;Bre1-3Ars;Ars1-1Bre;Ars2-0Bre;Bre1-1Ars
 Liverpool,Sunderland,2,1.5,0.0,0.5,Liv1-1Sun;Sun0-1Liv
-Nott'm Forest,Wolves,8,1.88,0.25,0.5,Not2-2Wol;Not1-1Wol;Wol0-3Not;Wol0-1Not;Not0-0Wol
-Burnley,Crystal Palace,6,3.17,0.5,0.5,Cry1-1Bur;Bur0-2Cry;Cry3-0Bur;Bur0-1Cry;Cry2-3Bur
 Fulham,Man City,8,4.38,0.88,0.62,Ful0-4Man;Man3-2Ful;Ful0-2Man;Ful4-5Man;Man3-0Ful
-Chelsea,Leeds,6,3.33,0.83,0.5,Lee0-3Che;Lee3-0Che;Che1-0Lee;Lee3-1Che;Che2-2Lee
+Burnley,Crystal Palace,6,3.17,0.5,0.5,Cry1-1Bur;Bur0-2Cry;Cry3-0Bur;Bur0-1Cry;Cry2-3Bur
+Nott'm Forest,Wolves,8,1.88,0.25,0.5,Not2-2Wol;Not1-1Wol;Wol0-3Not;Wol0-1Not;Not0-0Wol
 Man United,West Ham,10,2.0,0.3,0.4,Man3-0Wes;Wes2-1Man;Man0-2Wes;Man1-1Wes;Wes1-1Man
+Chelsea,Leeds,6,3.33,0.83,0.5,Lee0-3Che;Lee3-0Che;Che1-0Lee;Lee3-1Che;Che2-2Lee
 Brentford,Newcastle,10,4.2,0.8,0.8,Bre2-4New;Bre4-2New;New2-1Bre;Bre3-1New;New2-3Bre
-Aston Villa,Bournemouth,8,2.75,0.5,0.5,Ast3-1Bou;Ast1-1Bou;Bou0-1Ast;Ast4-0Bou;Bou1-1Ast
 Everton,Fulham,8,2.0,0.38,0.5,Ful0-0Eve;Eve1-1Ful;Ful1-3Eve;Eve2-0Ful;Ful1-2Eve
 Chelsea,Wolves,10,3.6,0.8,0.6,Che2-4Wol;Wol2-6Che;Che3-1Wol;Che3-0Wol;Wol1-3Che
 Burnley,West Ham,6,2.67,0.5,0.67,Wes1-1Bur;Bur1-2Wes;Wes2-2Bur;Wes3-2Bur;Bur0-2Wes
+Aston Villa,Bournemouth,8,2.75,0.5,0.5,Ast3-1Bou;Ast1-1Bou;Bou0-1Ast;Ast4-0Bou;Bou1-1Ast
 Burnley,Sunderland,2,2.5,0.5,0.0,Bur2-0Sun;Sun3-0Bur
 Man City,Tottenham,10,3.2,0.5,0.4,Tot0-2Man;Man0-4Tot;Tot0-1Man;Man0-2Tot;Tot2-2Man
-Brighton,Everton,10,3.0,0.4,0.6,Bri1-1Eve;Eve0-3Bri;Bri0-1Eve;Eve2-0Bri;Bri1-1Eve
 Chelsea,West Ham,10,3.7,0.8,0.7,Che5-0Wes;Wes0-3Che;Che2-1Wes;Wes1-5Che;Che3-2Wes
+Brighton,Everton,10,3.0,0.4,0.6,Bri1-1Eve;Eve0-3Bri;Bri0-1Eve;Eve2-0Bri;Bri1-1Eve
 Bournemouth,Wolves,8,1.88,0.25,0.25,Wol0-1Bou;Wol2-4Bou;Bou0-1Wol;Bou1-0Wol;Wol0-2Bou
 Everton,Leeds,6,2.17,0.33,0.5,Eve3-0Lee;Lee1-1Eve;Eve1-0Lee;Lee1-0Eve;Eve1-1Lee
 Arsenal,Man United,10,3.3,0.6,0.7,Man0-1Ars;Ars2-0Man;Man1-1Ars;Man0-1Ars;Ars2-3Man
 Chelsea,Crystal Palace,10,2.3,0.5,0.6,Cry1-3Che;Che1-1Cry;Cry1-1Che;Che0-0Cry;Cry1-3Che
 Brighton,Fulham,8,2.62,0.62,0.75,Ful3-0Bri;Ful3-1Bri;Bri2-1Ful;Bri1-1Ful;Ful2-1Bri
-Sunderland,West Ham,2,3.5,1.0,0.5,Sun3-0Wes;Wes3-1Sun
 Man City,Wolves,10,3.2,0.7,0.4,Man5-1Wol;Wol1-2Man;Man1-0Wol;Wol0-4Man;Man2-0Wol
+Sunderland,West Ham,2,3.5,1.0,0.5,Sun3-0Wes;Wes3-1Sun
 Burnley,Tottenham,6,3.17,0.67,0.5,Tot1-0Bur;Bur2-5Tot;Tot2-1Bur;Tot3-0Bur;Bur2-2Tot
 Bournemouth,Brighton,8,2.62,0.62,0.62,Bou3-0Bri;Bou1-2Bri;Bri2-1Bou;Bou2-1Bri;Bri1-1Bou
-Newcastle,Wolves,10,2.3,0.6,0.5,New3-0Wol;Wol1-2New;New3-0Wol;New1-0Wol;Wol0-0New
 Aston Villa,Everton,10,2.0,0.4,0.2,Eve0-0Ast;Ast3-2Eve;Eve0-1Ast;Eve0-0Ast;Ast0-1Eve
-Fulham,Leeds,4,2.5,0.5,0.5,Lee2-3Ful;Ful2-1Lee;Ful1-0Lee;Lee1-0Ful
-Burnley,Liverpool,6,2.0,0.17,0.33,Bur0-1Liv;Bur0-2Liv;Liv3-1Bur;Bur0-1Liv;Liv1-1Bur
-Tottenham,West Ham,10,2.7,0.5,0.7,Wes1-1Tot;Tot4-1Wes;Wes1-1Tot;Wes0-3Tot;Tot1-2Wes
+Newcastle,Wolves,10,2.3,0.6,0.5,New3-0Wol;Wol1-2New;New3-0Wol;New1-0Wol;Wol0-0New
 Crystal Palace,Sunderland,2,1.5,0.5,0.5,Cry0-0Sun;Sun2-1Cry
+Tottenham,West Ham,10,2.7,0.5,0.7,Wes1-1Tot;Tot4-1Wes;Wes1-1Tot;Wes0-3Tot;Tot1-2Wes
+Burnley,Liverpool,6,2.0,0.17,0.33,Bur0-1Liv;Bur0-2Liv;Liv3-1Bur;Bur0-1Liv;Liv1-1Bur
+Fulham,Leeds,4,2.5,0.5,0.5,Lee2-3Ful;Ful2-1Lee;Ful1-0Lee;Lee1-0Ful
 Burnley,Man United,6,3.0,0.5,0.83,Bur1-1Man;Bur0-1Man;Man1-1Bur;Man3-2Bur;Bur2-2Man
+Aston Villa,Crystal Palace,10,3.1,0.7,0.6,Cry5-0Ast;Ast2-2Cry;Cry4-1Ast;Ast0-3Cry;Cry0-0Ast
 Bournemouth,Tottenham,8,3.38,0.62,0.62,Tot3-1Bou;Bou1-0Tot;Tot2-2Bou;Tot0-1Bou;Bou3-2Tot
 Everton,Wolves,10,2.6,0.5,0.6,Wol3-0Eve;Eve4-0Wol;Wol1-1Eve;Wol2-3Eve;Eve1-1Wol
-Aston Villa,Crystal Palace,10,3.1,0.7,0.6,Cry5-0Ast;Ast2-2Cry;Cry4-1Ast;Ast0-3Cry;Cry0-0Ast
 Nott'm Forest,West Ham,8,3.0,0.75,0.38,Not2-0Wes;Not3-0Wes;Wes1-2Not;Not0-3Wes;Wes1-2Not
 Leeds,Liverpool,6,4.17,0.83,0.5,Liv6-0Lee;Liv1-2Lee;Lee1-6Liv;Lee3-3Liv;Liv0-0Lee
-Man United,Wolves,10,2.3,0.2,0.3,Wol3-4Man;Wol2-0Man;Man0-1Wol;Wol1-4Man;Man1-1Wol
-Brighton,West Ham,10,2.9,0.5,0.7,Wes0-0Bri;Wes1-1Bri;Bri3-2Wes;Bri1-1Wes;Wes2-2Bri
-Burnley,Newcastle,6,3.0,0.67,0.67,Bur1-2New;New2-0Bur;Bur1-4New;New2-1Bur;Bur1-3New
 Everton,Nott'm Forest,8,2.12,0.25,0.25,Eve2-0Not;Eve0-2Not;Not0-1Eve;Eve3-0Not;Not0-2Eve
+Burnley,Newcastle,6,3.0,0.67,0.67,Bur1-2New;New2-0Bur;Bur1-4New;New2-1Bur;Bur1-3New
+Brighton,West Ham,10,2.9,0.5,0.7,Wes0-0Bri;Wes1-1Bri;Bri3-2Wes;Bri1-1Wes;Wes2-2Bri
+Man United,Wolves,10,2.3,0.2,0.3,Wol3-4Man;Wol2-0Man;Man0-1Wol;Wol1-4Man;Man1-1Wol
 Ipswich,West Ham,2,4.5,1.0,1.0,Wes4-1Ips;Ips1-3Wes
 Brentford,Ipswich,2,4.0,0.5,0.5,Bre4-3Ips;Ips0-1Bre
 Ipswich,Newcastle,2,3.5,1.0,0.0,Ips0-4New;New3-0Ips
 Arsenal,Ipswich,2,2.5,0.5,0.0,Ars1-0Ips;Ips0-4Ars
 Chelsea,Ipswich,2,3.0,0.5,0.5,Ips2-0Che;Che2-2Ips
 Ipswich,Wolves,2,3.0,1.0,1.0,Wol1-2Ips;Ips1-2Wol
-Bournemouth,Ipswich,2,3.0,1.0,1.0,Ips1-2Bou;Bou1-2Ips
 Ipswich,Tottenham,2,4.0,1.0,1.0,Tot1-2Ips;Ips1-4Tot
 Aston Villa,Ipswich,2,3.0,0.5,1.0,Ips2-2Ast;Ast1-1Ips
 Brighton,Ipswich,2,1.0,0.0,0.0,Bri0-0Ips;Ips0-2Bri

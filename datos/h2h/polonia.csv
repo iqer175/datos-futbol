@@ -7,12 +7,12 @@ GKS Katowice,Widzew Lodz,5,2.8,0.6,0.4,GKS2-2Wid;Wid1-0GKS;Wid3-0GKS;GKS1-0Wid;G
 Lech Poznan,Wisla,5,3.0,0.6,0.6,Lec0-1Wis;Wis1-2Lec;Lec5-0Wis;Wis1-1Lec;Lec3-1Wis
 Gornik Zabrze,Legia,7,2.57,0.57,0.86,Leg1-1Gor;Gor1-2Leg;Gor3-1Leg;Leg1-1Gor;Gor0-0Leg
 Cracovia,Motor Lublin,5,4.2,0.8,0.8,Cra6-2Mot;Mot0-1Cra;Cra1-2Mot;Mot3-3Cra;Cra1-2Mot
-Lech Poznan,Legia,13,2.15,0.46,0.46,Lec5-2Leg;Leg0-1Lec;Leg0-0Lec;Lec4-0Leg;Leg1-2Lec
+Lech Poznan,Legia,12,2.08,0.42,0.42,Lec5-2Leg;Leg0-1Lec;Leg0-0Lec;Lec4-0Leg;Leg1-2Lec
 Jagiellonia,Wisla Plock,9,3.11,0.56,0.56,Jag1-1Wis;Wis2-4Jag;Wis0-1Jag;Jag1-2Wis;Jag1-0Wis
 Pogon Szczecin,Radomiak Radom,11,3.55,0.64,0.45,Pog0-1Rad;Rad2-0Pog;Rad5-1Pog;Pog2-2Rad;Pog4-3Rad
 GKS Katowice,Korona Kielce,5,2.0,0.4,0.6,GKS1-2Kor;Kor2-1GKS;GKS1-0Kor;Kor1-1GKS;Kor1-0GKS
 Cracovia,Piast Gliwice,12,2.17,0.33,0.5,Cra1-1Pia;Pia0-0Cra;Pia0-0Cra;Cra2-3Pia;Pia3-1Cra
-Rakow,Wisla,5,2.2,0.6,0.6,Rak0-0Wis;Wis1-2Rak;Wis1-2Rak;Rak2-0Wis;Wis2-1Rak
+Rakow,Wisla,4,2.75,0.75,0.75,Wis1-2Rak;Wis1-2Rak;Rak2-0Wis;Wis2-1Rak
 Gornik Zabrze,Widzew Lodz,8,2.5,0.38,0.62,Wid0-2Gor;Gor0-0Wid;Gor3-2Wid;Wid0-0Gor;Wid1-1Gor
 Motor Lublin,Zaglebie,5,2.6,0.6,0.6,Zag1-2Mot;Mot1-0Zag;Zag2-2Mot;Mot1-0Zag;Mot2-2Zag
 Radomiak Radom,Wisla Plock,7,1.57,0.0,0.43,Rad2-0Wis;Wis1-1Rad;Rad1-1Wis;Wis0-1Rad;Wis1-0Rad
@@ -158,7 +158,7 @@ Cracovia,Widzew Lodz,8,2.12,0.25,0.5,Cra2-2Wid;Cra1-3Wid;Wid1-1Cra;Cra1-0Wid;Wid
 Gornik Zabrze,Termalica B-B.,2,1.5,0.0,0.5,Gor0-1Ter;Ter1-1Gor
 Arka Gdynia,Pogon Szczecin,2,2.0,0.5,0.5,Ark2-1Pog;Pog1-0Ark
 Lechia Gdansk,Motor Lublin,4,3.75,0.5,0.75,Lec0-2Mot;Mot1-1Lec;Lec3-3Mot;Mot2-3Lec
-Cracovia,Jagiellonia,12,3.33,0.67,0.75,Jag1-3Cra;Jag2-4Cra;Cra2-2Jag;Jag5-2Cra;Cra0-0Jag
+Cracovia,Jagiellonia,11,3.27,0.64,0.73,Jag1-3Cra;Jag2-4Cra;Cra2-2Jag;Jag5-2Cra;Cra0-0Jag
 GKS Katowice,Legia,4,3.75,0.75,1.0,Leg4-1GKS;GKS1-3Leg;Leg3-1GKS;GKS1-1Leg
 Korona Kielce,Radomiak Radom,8,3.0,0.62,0.38,Kor4-0Rad;Rad4-0Kor;Kor1-3Rad;Kor3-0Rad;Rad0-2Kor
 Pogon Szczecin,Termalica B-B.,4,3.0,0.5,1.0,Ter1-3Pog;Pog2-2Ter;Ter1-1Pog;Pog1-1Ter

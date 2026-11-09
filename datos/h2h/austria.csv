@@ -10,7 +10,7 @@ Ried,Sturm Graz,8,2.75,0.62,0.75,Rie1-1Stu;Stu2-1Rie;Rie1-3Stu;Stu1-0Rie;Stu2-2R
 Hartberg,Wolfsberger AC,14,3.0,0.71,0.57,Wol2-3Har;Har0-3Wol;Har2-2Wol;Wol1-2Har;Har1-0Wol
 Grazer AK,Tirol,9,2.33,0.33,0.56,Gra1-1Tir;Tir2-0Gra;Tir1-5Gra;Gra4-0Tir;Tir1-1Gra
 A. Lustenau,SK Rapid,5,4.2,0.6,0.8,SK 1-1A. ;A. 3-3SK ;A. 0-5SK ;SK 1-1A. ;SK 5-1A. 
-Altach,Austria Vienna,17,2.65,0.59,0.65,Alt1-1Aus;Aus3-0Alt;Aus1-0Alt;Alt2-1Aus;Alt2-1Aus
+Altach,Austria Vienna,16,2.81,0.62,0.69,Alt1-1Aus;Aus3-0Alt;Aus1-0Alt;Alt2-1Aus;Alt2-1Aus
 Grazer AK,Sturm Graz,5,4.6,1.0,0.8,Stu5-2Gra;Gra1-2Stu;Gra0-3Stu;Stu2-1Gra;Stu6-1Gra
 Altach,Salzburg,12,2.83,0.5,0.58,Sal2-1Alt;Alt1-1Sal;Sal2-2Alt;Alt1-1Sal;Sal3-0Alt
 Tirol,Wolfsberger AC,21,3.71,0.67,0.71,Tir1-1Wol;Wol0-0Tir;Tir3-1Wol;Wol2-0Tir;Wol0-2Tir
@@ -35,10 +35,10 @@ A. Lustenau,Austria Vienna,9,2.44,0.33,0.44,A. 0-2Aus;Aus1-0A. ;Aus1-1A. ;A. 2-0
 Altach,Grazer AK,9,2.67,0.56,0.78,Alt1-1Gra;Gra3-1Alt;Alt1-0Gra;Gra2-2Alt;Alt1-2Gra
 SK Rapid,Wolfsberger AC,18,3.5,0.72,0.67,Wol5-1SK ;SK 0-1Wol;Wol1-2SK ;SK 2-0Wol;Wol0-3SK 
 Ried,Salzburg,8,3.88,0.75,0.62,Rie0-3Sal;Sal2-0Rie;Rie2-2Sal;Sal4-1Rie;Rie1-1Sal
-SK Rapid,Salzburg,25,2.84,0.44,0.56,Sal2-1SK ;SK 1-0Sal;Sal0-1SK ;SK 1-0Sal;Sal5-1SK 
+SK Rapid,Salzburg,24,2.88,0.46,0.54,Sal2-1SK ;SK 1-0Sal;Sal0-1SK ;SK 1-0Sal;Sal5-1SK 
 Austria Vienna,Tirol,14,2.14,0.36,0.36,Aus3-0Tir;Tir0-2Aus;Tir2-3Aus;Aus0-0Tir;Aus0-1Tir
 LASK,Wolfsberger AC,14,3.21,0.71,0.57,LAS1-5Wol;Wol2-1LAS;Wol1-0LAS;LAS3-1Wol;Wol1-3LAS
-Hartberg,Ried,15,2.27,0.2,0.47,Rie1-3Har;Har2-0Rie;Rie0-2Har;Har2-0Rie;Har3-2Rie
+Hartberg,Ried,14,2.29,0.21,0.5,Rie1-3Har;Har2-0Rie;Rie0-2Har;Har2-0Rie;Har3-2Rie
 Austria Vienna,Salzburg,20,2.9,0.55,0.45,Aus0-3Sal;Sal0-2Aus;Aus1-3Sal;Sal3-1Aus;Sal4-1Aus
 SK Rapid,Sturm Graz,24,2.79,0.54,0.67,Stu1-2SK ;SK 2-1Stu;SK 0-2Stu;Stu2-0SK ;SK 3-1Stu
 Altach,LASK,17,1.71,0.35,0.24,Alt0-2LAS;LAS0-0Alt;Alt1-0LAS;LAS1-0Alt;LAS3-0Alt
