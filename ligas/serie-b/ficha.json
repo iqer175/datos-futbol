@@ -1,0 +1,21 @@
+{
+  "liga": "Serie B",
+  "slug": "serie-b",
+  "pais": "Italia",
+  "espn": "ita.2",
+  "estadisticas_partido": true,
+  "mercados": [
+    "goles",
+    "corners",
+    "tarjetas",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_serieb.csv",
+    "h2h": "datos/h2h/serieb.csv",
+    "cierres": "datos/cierres/serieb.csv"
+  },
+  "bet365_url": "",
+  "nombres_bet365": {},
+  "notas": []
+}

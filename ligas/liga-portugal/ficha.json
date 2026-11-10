@@ -1,0 +1,21 @@
+{
+  "liga": "Liga Portugal",
+  "slug": "liga-portugal",
+  "pais": "Portugal",
+  "espn": "por.1",
+  "estadisticas_partido": true,
+  "mercados": [
+    "goles",
+    "corners",
+    "tarjetas",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_portugal.csv",
+    "h2h": "datos/h2h/portugal.csv",
+    "cierres": "datos/cierres/portugal.csv"
+  },
+  "bet365_url": "",
+  "nombres_bet365": {},
+  "notas": []
+}

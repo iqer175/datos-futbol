@@ -1,0 +1,21 @@
+{
+  "liga": "Premier League",
+  "slug": "premier-league",
+  "pais": "Inglaterra",
+  "espn": "eng.1",
+  "estadisticas_partido": true,
+  "mercados": [
+    "goles",
+    "corners",
+    "tarjetas",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_premier.csv",
+    "h2h": "datos/h2h/premier.csv",
+    "cierres": "datos/cierres/premier.csv"
+  },
+  "bet365_url": "https://www.bet365.es/#/AC/B1/C1/D1002/E91422157/G40/",
+  "nombres_bet365": {},
+  "notas": []
+}

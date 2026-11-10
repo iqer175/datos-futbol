@@ -42,12 +42,11 @@ UA = {'User-Agent': 'actualizador-futbol'}
 # ---- The Odds API -------------------------------------------------------------
 # 500 creditos/mes / (2 creditos x 3 capturas/semana x 4,35 semanas) ~ 19 ligas.
 # Se priorizan LaLiga (informe de los jueves) y las ligas con mas movimiento de
-# linea medido en el backtest (Grecia, Turquia, Belgica, Escocia, segundas).
+# linea medido en el backtest (Turquia, Belgica, Escocia, segundas).
 # Las claves se validan contra /sports (gratis) antes de gastar creditos.
 ODDSAPI_LIGAS = {
     'soccer_spain_la_liga':            'LaLiga',
     'soccer_spain_segunda_division':   'LaLiga Hypermotion',
-    'soccer_greece_super_league':      'Super League Grecia',
     'soccer_turkey_super_league':      'Super Lig',
     'soccer_belgium_first_div':        'Jupiler Pro League',
     'soccer_spl':                      'Scottish Premiership',
@@ -70,12 +69,10 @@ APIF_URL = 'https://v3.football.api-sports.io'
 APIF_BET365 = 8
 APIF_LIGAS = {
     140: 'LaLiga', 141: 'LaLiga Hypermotion', 39: 'Premier League', 40: 'Championship',
-    41: 'League One', 42: 'League Two', 43: 'National League',
+    41: 'League One', 42: 'League Two',
     78: 'Bundesliga', 79: '2. Bundesliga', 135: 'Serie A', 136: 'Serie B',
     61: 'Ligue 1', 62: 'Ligue 2', 88: 'Eredivisie', 94: 'Liga Portugal',
-    179: 'Scottish Premiership', 180: 'Scottish Championship',
-    183: 'Scottish League One', 184: 'Scottish League Two',
-    144: 'Jupiler Pro League', 203: 'Super Lig', 197: 'Super League Grecia',
+    179: 'Scottish Premiership', 144: 'Jupiler Pro League', 203: 'Super Lig',
 }
 APIF_RESERVA = 10           # peticiones diarias que se dejan libres
 

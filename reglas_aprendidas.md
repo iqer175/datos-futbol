@@ -40,11 +40,18 @@ Cómo se cambia:
 
 ### Operativas
 - bet365: la búsqueda por dirección con `#` dejó de funcionar; se entra por la página de la liga y
-  se pulsa cada partido. Direcciones en `.claude/agents/recolector-cuotas.md`.
+  se pulsa cada partido. La dirección de cada liga está en `ligas/<slug>/ficha.json`
+  (`bet365_url`); el recolector la anota con `python ligas.py anotar` la primera vez.
 - bet365: las tablas de remates a veces vienen descolocadas (una fila con menos cuotas que
   jugadores). Se descarta la tabla entera.
-- ESPN da remates a cero en National League, Grecia, Austria y Scottish Championship: sin mercados
-  de jugador en esas ligas.
+- Solo se analizan las 18 ligas de `ligas.py`, que son las que tienen histórico y jugadores en
+  ESPN. Las otras 16 se retiraron el 2026-11-10 (ESPN da remates a cero o no las cubre).
+- Los tres agentes son únicos y valen para todas las ligas; lo propio de cada liga va en su ficha.
+- El contexto va en dos tiempos: `analizar_jornada.py contexto` pone los datos propios y
+  `analista-contexto` (Haiku, en prueba) solo las noticias. Si `contexto.json` trae
+  `"noticias": "pendiente"` o `"parciales"`, las apuestas de jugador quedan condicionadas a la
+  alineación oficial.
+- Primera División argentina: sin córners ni tarjetas en la fuente; solo goles y jugadores.
 
 ## Retiradas
 (ninguna todavía)
@@ -54,3 +61,4 @@ Cómo se cambia:
 |---|---|---|---|
 | 2026-11-05 | Versión inicial con las reglas usadas hasta ahora | backtests y validaciones de 2026-11 | sí |
 | 2026-11-06 | El agente de Opus registra sus recomendadas en la bitácora | petición del usuario | sí |
+| 2026-11-10 | Reorganización: 18 ligas activas, carpeta y ficha por liga, contexto de datos por script y analista en Haiku (en prueba) | petición del usuario; solo cambian reglas operativas, ninguna de modelo | sí |

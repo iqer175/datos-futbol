@@ -37,25 +37,17 @@ def temporadas_actuales(hoy):
 BASE  = os.path.dirname(os.path.abspath(__file__))
 DATOS = os.path.join(BASE, 'datos')
 SLUG = {'LaLiga':'laliga','LaLiga Hypermotion':'laliga2','Premier League':'premier',
-        'Championship':'championship','Serie A':'seriea','Serie B':'serieb',
-        'Bundesliga':'bundesliga','2. Bundesliga':'bundesliga2',
-        'Ligue 1':'ligue1','Ligue 2':'ligue2','Eredivisie':'eredivisie',
-        'Liga Portugal':'portugal','Brasileirao':'brasil','Primera Division':'argentina',
-        # ampliacion 2026-11
-        'League One':'leagueone','League Two':'leaguetwo','National League':'nationalleague',
-        'Scottish Premiership':'escocia','Scottish Championship':'escocia2',
-        'Scottish League One':'escocia3','Scottish League Two':'escocia4',
-        'Jupiler Pro League':'belgica','Super Lig':'turquia','Super League Grecia':'grecia',
-        'Bundesliga Austria':'austria','Super League Suiza':'suiza',
-        'Superliga Dinamarca':'dinamarca','Allsvenskan':'suecia','Eliteserien':'noruega',
-        'Veikkausliiga':'finlandia','Ekstraklasa':'polonia',
-        'Premier Division Irlanda':'irlanda','MLS':'usa','J1 League':'japon'}
+        'Championship':'championship','League One':'leagueone','League Two':'leaguetwo',
+        'Serie A':'seriea','Serie B':'serieb','Bundesliga':'bundesliga','2. Bundesliga':'bundesliga2',
+        'Ligue 1':'ligue1','Ligue 2':'ligue2','Eredivisie':'eredivisie','Liga Portugal':'portugal',
+        'Scottish Premiership':'escocia','Jupiler Pro League':'belgica','Super Lig':'turquia',
+        'Primera Division':'argentina'}
 
 LIMITE_KB = 44   # margen bajo los 45 KB que comprueba el workflow
 
 def escribir_limitado(df_filas, ruta, orden=None):
     """Escribe un CSV recortando las filas menos recientes si pasa de LIMITE_KB.
-    Con 34 ligas, alguna (MLS, ligas en ano natural) puede pasarse en h2h y
+    Alguna liga larga (Argentina, en ano natural) puede pasarse en h2h y
     tumbar el workflow entero; mejor perder los pares mas antiguos."""
     d = df_filas if orden is None else df_filas.sort_values(orden, ascending=False)
     d.to_csv(ruta, index=False)

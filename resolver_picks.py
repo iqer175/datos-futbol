@@ -12,6 +12,9 @@ Fuentes:
 
 Reglas de bet365 que se aplican:
   - Mercado de jugador: si no juega ni un minuto (no titular y no entra), la apuesta es NULA.
+  - Sustituto+ (remates y remates a puerta): si el jugador es sustituido, suman los remates del
+    suplente que entra por él (el que juega ~90 - minutos del sustituido). Con un cambio doble en
+    el mismo minuto y un resultado que depende de cuál fue, queda en 'revisar'.
   - Si el partido no esta aun en los datos, queda pendiente.
 
 Uso:
@@ -99,7 +102,25 @@ def resolver(p, df, J, PE):
         rol = 'titular' if r.titular == 'True' else 'suplente'
         mins = pd.to_numeric(r.get('minutos'), errors='coerce')
         rol += '' if pd.isna(mins) else f', {int(mins)} min'
-        return ('ganada' if v >= k else 'perdida'), f'{r.jugador} ({rol}): {int(v)} {"a puerta" if puerta else "remates"}'
+        ud = "a puerta" if puerta else "remates"
+        det = f'{r.jugador} ({rol}): {int(v)} {ud}'
+        if v >= k or r.get('salio') != 'True':
+            return ('ganada' if v >= k else 'perdida'), det
+        # ---- Sustituto+: el jugador fue cambiado y no llega a la línea
+        if pd.isna(mins):
+            return 'revisar', det + '; sustituido sin minutos en ESPN (Sustituto+)'
+        eq = J[(J.espn_id == e.espn_id) & (J.equipo_id == r.equipo_id) & (J.entro == 'True') & (J.jugador_id != r.jugador_id)].copy()
+        eq['min'] = pd.to_numeric(eq.minutos, errors='coerce')
+        eq['v'] = pd.to_numeric(eq.tiros_puerta if puerta else eq.tiros, errors='coerce').fillna(0)
+        cand = eq[(eq['min'] - (90 - mins)).abs() <= 3]
+        if not len(cand):
+            return 'perdida', det + '; Sustituto+: no se encuentra quién entró por él'
+        lo, hi = v + cand.v.min(), v + cand.v.max()
+        if lo >= k or hi < k:
+            s = cand.iloc[0] if len(cand) == 1 else None
+            quien = f'{s.jugador} ({int(s["min"])} min, {int(s.v)})' if s is not None else f'cambio doble: {", ".join(cand.jugador)}'
+            return ('ganada' if lo >= k else 'perdida'), det + f'; Sustituto+ {quien} -> {int(lo) if lo == hi else f"{int(lo)}-{int(hi)}"} {ud}'
+        return 'revisar', det + f'; Sustituto+ depende de quién entró: {", ".join(f"{a} ({int(b)})" for a, b in zip(cand.jugador, cand.v))}'
     # ---- partido
     f = buscar_partido(df, liga, fecha, loc, vis, 'local', 'visitante')
     if f is None:
@@ -135,6 +156,9 @@ def main():
     ap.add_argument('--salida', default=None)
     a = ap.parse_args()
     picks = [p for p in cargar_picks(a.picks) if p.get('estado', 'pendiente') == 'pendiente']
+    if not picks:
+        print('No hay apuestas pendientes en la bitácora.')
+        return
     if a.actualizar:
         import espn
         ligas = sorted({p['competicion'] for p in picks if p.get('competicion') in espn.CODIGOS})

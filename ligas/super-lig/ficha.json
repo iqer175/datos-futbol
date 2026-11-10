@@ -1,0 +1,21 @@
+{
+  "liga": "Super Lig",
+  "slug": "super-lig",
+  "pais": "Turquía",
+  "espn": "tur.1",
+  "estadisticas_partido": true,
+  "mercados": [
+    "goles",
+    "corners",
+    "tarjetas",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_turquia.csv",
+    "h2h": "datos/h2h/turquia.csv",
+    "cierres": "datos/cierres/turquia.csv"
+  },
+  "bet365_url": "",
+  "nombres_bet365": {},
+  "notas": []
+}

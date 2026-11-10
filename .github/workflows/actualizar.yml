@@ -46,11 +46,13 @@ jobs:
           d = pd.read_csv('datos/partidos.csv', low_memory=False)
           n = d.groupby('liga').size().sort_values(ascending=False)
           print(n.to_string())
-          faltan = {'Premier League','Championship','LaLiga','LaLiga Hypermotion',
-                    'Serie A','Serie B','Bundesliga','2. Bundesliga','Ligue 1','Ligue 2',
-                    'Eredivisie','Liga Portugal','Brasileirao','Primera Division'} - set(n.index)
+          import ligas
+          faltan = set(ligas.LIGAS) - set(n.index)
+          sobran = set(n.index) - set(ligas.LIGAS)
           if faltan:
               print('FALTAN LIGAS:', sorted(faltan)); sys.exit(1)
+          if sobran:
+              print('LIGAS QUE NO DEBERIAN ESTAR (solo las 18 de ligas.py):', sorted(sobran)); sys.exit(1)
           PY
 
       - name: Comprobar que los ficheros no salieron vacios
@@ -89,8 +91,7 @@ jobs:
         run: python calcular_clv.py
 
       # Titulares de los partidos jugados (ESPN): historial para alineaciones.py
-      # 18 ligas con remates por jugador en ESPN (National League, Grecia,
-      # Austria y Scottish Championship los dan a cero y no se descargan)
+      # Las 18 ligas activas (ligas.py): las unicas con remates por jugador en ESPN
       - name: Titulares ESPN
         continue-on-error: true
         timeout-minutes: 10

@@ -1,0 +1,21 @@
+{
+  "liga": "Serie A",
+  "slug": "serie-a",
+  "pais": "Italia",
+  "espn": "ita.1",
+  "estadisticas_partido": true,
+  "mercados": [
+    "goles",
+    "corners",
+    "tarjetas",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_seriea.csv",
+    "h2h": "datos/h2h/seriea.csv",
+    "cierres": "datos/cierres/seriea.csv"
+  },
+  "bet365_url": "https://www.bet365.es/#/AC/B1/C1/D1002/E92269709/G40/",
+  "nombres_bet365": {},
+  "notas": []
+}

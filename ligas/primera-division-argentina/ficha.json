@@ -1,0 +1,19 @@
+{
+  "liga": "Primera Division",
+  "slug": "primera-division-argentina",
+  "pais": "Argentina",
+  "espn": "arg.1",
+  "estadisticas_partido": false,
+  "mercados": [
+    "goles",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_argentina.csv",
+    "h2h": "datos/h2h/argentina.csv",
+    "cierres": "datos/cierres/argentina.csv"
+  },
+  "bet365_url": "",
+  "nombres_bet365": {},
+  "notas": []
+}

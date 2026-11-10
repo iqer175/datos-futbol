@@ -1,0 +1,21 @@
+{
+  "liga": "Jupiler Pro League",
+  "slug": "jupiler-pro-league",
+  "pais": "Bélgica",
+  "espn": "bel.1",
+  "estadisticas_partido": true,
+  "mercados": [
+    "goles",
+    "corners",
+    "tarjetas",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_belgica.csv",
+    "h2h": "datos/h2h/belgica.csv",
+    "cierres": "datos/cierres/belgica.csv"
+  },
+  "bet365_url": "",
+  "nombres_bet365": {},
+  "notas": []
+}
