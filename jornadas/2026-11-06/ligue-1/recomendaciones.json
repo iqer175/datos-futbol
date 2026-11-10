@@ -1,0 +1,16 @@
+[
+ {"doc_id": "2026-11-07-parissg-troyes-menos35", "data": {
+  "competicion": "Ligue 1", "fecha": "2026-11-07", "local": "Paris SG", "visitante": "Troyes",
+  "mercado": "Total de goles", "seleccion": "Menos de 3.5",
+  "cuota": 2.20, "prob": 55, "prob_apuesta": 49, "stake": 0.5, "confianza": "baja",
+  "estado": "pendiente", "creado": "2026-11-06T00:16:44Z",
+  "tesis": "Simulador 55.3% y cubo de Elo local +250/+320 en la base 55.0% (n=462; 54.5% desde 2022-23, n=440) de 3 goles o menos, frente al 45.5% que pide la cuota; con w=0.20 sigue en EV +4.3%",
+  "nota": "simulador + cubo de Elo | único under de la jornada (regla: máx. 1 y con margen a w=0.20) | sin corrección de Over por liga (desequilibrio grande, regla 2026-11-03) | riesgo: el mercado sigue la racha del PSG (16-4 en 6), que la base dice que no persiste | rotación por Champions no verificada (bajaría goles) | hora probable 19:45Z, no 20:05Z | sin cierre medible (solo línea 2.5) | cuota leída 2026-11-06T00:06Z, aún no tomada"}},
+ {"doc_id": "2026-11-08-lens-marseille-thauvin-2apuerta", "data": {
+  "competicion": "Ligue 1", "fecha": "2026-11-08", "local": "Lens", "visitante": "Marseille",
+  "mercado": "Remates a puerta del jugador", "seleccion": "Florian Thauvin - 2 o más remates a puerta",
+  "cuota": 2.50, "prob": 44, "prob_apuesta": 42, "stake": 0.5, "confianza": "baja",
+  "estado": "pendiente", "creado": "2026-11-06T00:16:44Z",
+  "tesis": "Thauvin hace 2+ a puerta en 4 de 9 titularidades (44%) y Marseille concede 37 tiros a puerta en 6; 44.4% frente al 40% que pide la cuota",
+  "nota": "simulador + contexto | SOLO si es titular (p_titular 0.92, alineación no verificada) | muestra 9 titularidades | forma reciente floja: 2+ solo en 1 de sus últimas 5 | sin cierre medible | cuota leída 2026-11-06T00:09Z, aún no tomada"}}
+]
