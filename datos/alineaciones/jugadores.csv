@@ -91059,3 +91059,93 @@ espn_id,equipo_id,equipo,lado,jugador_id,jugador,posicion,titular,entro,salio,go
 401841668,12,Lanús,away,276009,Nicolás Morgantini,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,Primera Division,2026-11-08,7
 401841668,12,Lanús,away,236060,Tomás López,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,Primera Division,2026-11-08,0
 401841668,12,Lanús,away,407235,Yoshan Valois,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,Primera Division,2026-11-08,7
+401883139,11487,CD Sabadell,home,306293,Diego Fuoli,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,LaLiga Hypermotion,2026-11-09,90
+401883139,11487,CD Sabadell,home,128669,Edgar González,CD-L,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,90
+401883139,11487,CD Sabadell,home,376662,José Luis Català Vázquez,CD-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-09,68
+401883139,11487,CD Sabadell,home,300270,Gerard Fornés,LB,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,68
+401883139,11487,CD Sabadell,home,300272,Ton Ripoll,RB,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-09,78
+401883139,11487,CD Sabadell,home,178565,Pere Pons,CM-L,True,False,False,0.0,0.0,2.0,1.0,1.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-09,90
+401883139,11487,CD Sabadell,home,287445,Quadri Liameed,CM-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,12
+401883139,11487,CD Sabadell,home,303843,Ángel Baena,LM,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,90
+401883139,11487,CD Sabadell,home,245840,Yanis Rahmani,RM,True,False,True,0.0,0.0,2.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,55
+401883139,11487,CD Sabadell,home,380822,Gastón Valles,CF-L,True,False,True,0.0,0.0,3.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,78
+401883139,11487,CD Sabadell,home,307709,Joel Priego,CF-R,True,False,False,0.0,0.0,5.0,2.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,90
+401883139,11487,CD Sabadell,home,347354,Javi López,SUB,False,True,False,0.0,0.0,2.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,35
+401883139,11487,CD Sabadell,home,253008,Arthur Bonaldo,SUB,False,True,False,0.0,0.0,3.0,0.0,0.0,0.0,4.0,,0.0,LaLiga Hypermotion,2026-11-09,78
+401883139,11487,CD Sabadell,home,345216,Urri,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883139,11487,CD Sabadell,home,218510,Nikolai Óbolo,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,22
+401883139,11487,CD Sabadell,home,311302,Jose Ortega,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-09,0
+401883139,11487,CD Sabadell,home,242434,Juan Carlos Lázaro Cervera,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,12
+401883139,11487,CD Sabadell,home,300303,Alain Ribeiro,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,12
+401883139,11487,CD Sabadell,home,138674,Marc Vidal,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-09,0
+401883139,11487,CD Sabadell,home,412261,Quim Utgés,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883139,11487,CD Sabadell,home,388399,Yussif Owusu,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,22
+401883139,20983,Real Sociedad II,away,406381,Lander Olasagasti,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,LaLiga Hypermotion,2026-11-09,90
+401883139,20983,Real Sociedad II,away,360178,Kazunari Kita,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,90
+401883139,20983,Real Sociedad II,away,396607,Luken Beitia,CD-R,True,False,False,0.0,0.0,1.0,0.0,1.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,90
+401883139,20983,Real Sociedad II,away,406377,Unax Agote,LB,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,65
+401883139,20983,Real Sociedad II,away,379457,Iñaki Rupérez,RB,True,False,False,0.0,0.0,2.0,1.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-09,90
+401883139,20983,Real Sociedad II,away,406389,Gorka Gorosabel,AM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,3.0,,0.0,LaLiga Hypermotion,2026-11-09,78
+401883139,20983,Real Sociedad II,away,366886,Alex Lebarbier,LM,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,90
+401883139,20983,Real Sociedad II,away,406396,Tomás Carbonell,RM,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,90
+401883139,20983,Real Sociedad II,away,406384,Javier Soroeta,F,True,False,True,0.0,0.0,3.0,0.0,1.0,0.0,4.0,,0.0,LaLiga Hypermotion,2026-11-09,65
+401883139,20983,Real Sociedad II,away,396613,Alex Marchal,AM-L,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,65
+401883139,20983,Real Sociedad II,away,387496,Daniel Díaz,AM-R,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,78
+401883139,20983,Real Sociedad II,away,406390,Lander Astiazarán,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,25
+401883139,20983,Real Sociedad II,away,409481,Theo Folgado,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-09,0
+401883139,20983,Real Sociedad II,away,406386,Jon Garro,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883139,20983,Real Sociedad II,away,411582,Joan Oleaga,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,1
+401883139,20983,Real Sociedad II,away,406383,Gorka Carrera,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-09,25
+401883139,20983,Real Sociedad II,away,396610,Arkaitz Mariezkurrena,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,12
+401883139,20983,Real Sociedad II,away,378292,Sydney Osazuwa,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883139,20983,Real Sociedad II,away,418089,Andrews Adjabeng,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,12
+401883139,20983,Real Sociedad II,away,411583,Iker Calderon,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883139,20983,Real Sociedad II,away,415441,Unax Larrañaga,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883139,20983,Real Sociedad II,away,406385,Jon Eceizabarrena,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883139,20983,Real Sociedad II,away,396608,Jon Balda,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,25
+401883140,98,Las Palmas,home,239387,Caro,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,LaLiga Hypermotion,2026-11-09,90
+401883140,98,Las Palmas,home,367729,Juanma Herzog,CD-L,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-09,90
+401883140,98,Las Palmas,home,121611,Álex Suárez,CD-R,True,False,False,1.0,0.0,1.0,1.0,1.0,0.0,3.0,,0.0,LaLiga Hypermotion,2026-11-09,90
+401883140,98,Las Palmas,home,375799,Andrés Rodríguez,LB,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,68
+401883140,98,Las Palmas,home,388727,Valentín Pezzolesi,RB,True,False,False,0.0,0.0,2.0,1.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-09,90
+401883140,98,Las Palmas,home,272870,Enzo Loiodice,CM,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,90
+401883140,98,Las Palmas,home,292774,Manu Fuster,LM,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,68
+401883140,98,Las Palmas,home,288936,Kirian Rodríguez,RM,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,90
+401883140,98,Las Palmas,home,162453,Jesé,F,True,False,True,0.0,0.0,2.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,77
+401883140,98,Las Palmas,home,265959,Taisei Miyashiro,LF,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,84
+401883140,98,Las Palmas,home,280489,Iván Jaime,RF,True,False,False,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,90
+401883140,98,Las Palmas,home,335952,Giovanni Bonfanti,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883140,98,Las Palmas,home,165671,Jefté,SUB,False,True,False,1.0,0.0,2.0,2.0,1.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,13
+401883140,98,Las Palmas,home,3144268,Adrián Rodríguez Del Rosario,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,22
+401883140,98,Las Palmas,home,379136,Aboubacar Bassinga,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883140,98,Las Palmas,home,380670,Jeremía Recoba,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883140,98,Las Palmas,home,406376,Adri Suárez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-09,0
+401883140,98,Las Palmas,home,241461,Elías Romero,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883140,98,Las Palmas,home,387901,Mateo Acimovic,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883140,98,Las Palmas,home,325873,Ale García,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,22
+401883140,98,Las Palmas,home,256836,Nicholas Opoku,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883140,98,Las Palmas,home,422046,Rafa Cruz,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883140,98,Las Palmas,home,188165,Sandro,SUB,False,True,False,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,6
+401883140,7320,Eldense,away,354450,Ramon Vila,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,LaLiga Hypermotion,2026-11-09,90
+401883140,7320,Eldense,away,310837,Iker Ortega,CD-L,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-09,90
+401883140,7320,Eldense,away,375724,Álex Serra,CD-R,True,False,False,0.0,0.0,2.0,0.0,1.0,0.0,4.0,,2.0,LaLiga Hypermotion,2026-11-09,90
+401883140,7320,Eldense,away,325545,Juan Larios,LB,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,4.0,,2.0,LaLiga Hypermotion,2026-11-09,90
+401883140,7320,Eldense,away,311264,Jesus Clemente,RB,True,False,False,0.0,0.0,1.0,1.0,1.0,0.0,3.0,,2.0,LaLiga Hypermotion,2026-11-09,90
+401883140,7320,Eldense,away,308145,Roberto López,AM,True,False,True,0.0,0.0,2.0,0.0,1.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,66
+401883140,7320,Eldense,away,113146,Justin Smith,LM,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,3.0,,2.0,LaLiga Hypermotion,2026-11-09,90
+401883140,7320,Eldense,away,354251,Marcos Bustillo,RM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,87
+401883140,7320,Eldense,away,395201,Mariano Carmona,F,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,3.0,,0.0,LaLiga Hypermotion,2026-11-09,72
+401883140,7320,Eldense,away,374618,Jorge Rastrojo,AM-L,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-09,66
+401883140,7320,Eldense,away,147491,Fidel,AM-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,66
+401883140,7320,Eldense,away,389266,Carlos Guirao,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-09,3
+401883140,7320,Eldense,away,407406,Álex Ibarrondo,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883140,7320,Eldense,away,331710,Jordi Martín,SUB,False,True,False,0.0,0.0,0.0,0.0,1.0,0.0,2.0,,2.0,LaLiga Hypermotion,2026-11-09,24
+401883140,7320,Eldense,away,278205,Javier Martínez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883140,7320,Eldense,away,412135,David Ruiz Montero,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883140,7320,Eldense,away,377833,Aingeru Olabarrieta,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-09,24
+401883140,7320,Eldense,away,299935,Manuel Nieto,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883140,7320,Eldense,away,269583,Waldo Rubio,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-09,18
+401883140,7320,Eldense,away,11719,Javier Olaizola,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883140,7320,Eldense,away,384544,Pau Cabanes,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-09,24
+401883140,7320,Eldense,away,346837,Floris Smand,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
+401883140,7320,Eldense,away,331424,Juan Palomares,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-09,0
