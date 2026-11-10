@@ -1,0 +1,21 @@
+{
+  "liga": "Eredivisie",
+  "slug": "eredivisie",
+  "pais": "Holanda",
+  "espn": "ned.1",
+  "estadisticas_partido": true,
+  "mercados": [
+    "goles",
+    "corners",
+    "tarjetas",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_eredivisie.csv",
+    "h2h": "datos/h2h/eredivisie.csv",
+    "cierres": "datos/cierres/eredivisie.csv"
+  },
+  "bet365_url": "",
+  "nombres_bet365": {},
+  "notas": []
+}

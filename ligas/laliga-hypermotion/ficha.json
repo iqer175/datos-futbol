@@ -1,0 +1,21 @@
+{
+  "liga": "LaLiga Hypermotion",
+  "slug": "laliga-hypermotion",
+  "pais": "España",
+  "espn": "esp.2",
+  "estadisticas_partido": true,
+  "mercados": [
+    "goles",
+    "corners",
+    "tarjetas",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_laliga2.csv",
+    "h2h": "datos/h2h/laliga2.csv",
+    "cierres": "datos/cierres/laliga2.csv"
+  },
+  "bet365_url": "",
+  "nombres_bet365": {},
+  "notas": []
+}

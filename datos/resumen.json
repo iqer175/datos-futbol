@@ -1,7 +1,7 @@
 {
-  "actualizado": "2026-11-10T17:00:42+00:00",
-  "partidos_totales": 62528,
-  "equipos_activos": 659,
+  "actualizado": "2026-11-10T17:30:07+00:00",
+  "partidos_totales": 37472,
+  "equipos_activos": 383,
   "temporadas_descargadas": 6,
   "ultimo_partido": "2026-11-09",
   "cobertura": {
@@ -9,40 +9,16 @@
       "partidos": 1629,
       "ultimo": "2026-11-08"
     },
-    "Allsvenskan": {
-      "partidos": 1456,
-      "ultimo": "2026-11-08"
-    },
-    "Brasileirao": {
-      "partidos": 2427,
-      "ultimo": "2026-11-06"
-    },
     "Bundesliga": {
       "partidos": 1611,
-      "ultimo": "2026-11-08"
-    },
-    "Bundesliga Austria": {
-      "partidos": 1197,
       "ultimo": "2026-11-08"
     },
     "Championship": {
       "partidos": 2940,
       "ultimo": "2026-11-07"
     },
-    "Ekstraklasa": {
-      "partidos": 1825,
-      "ultimo": "2026-11-08"
-    },
-    "Eliteserien": {
-      "partidos": 1463,
-      "ultimo": "2026-11-09"
-    },
     "Eredivisie": {
       "partidos": 1638,
-      "ultimo": "2026-11-08"
-    },
-    "J1 League": {
-      "partidos": 1960,
       "ultimo": "2026-11-08"
     },
     "Jupiler Pro League": {
@@ -77,18 +53,6 @@
       "partidos": 1858,
       "ultimo": "2026-11-07"
     },
-    "MLS": {
-      "partidos": 3071,
-      "ultimo": "2026-11-08"
-    },
-    "National League": {
-      "partidos": 2903,
-      "ultimo": "2026-10-31"
-    },
-    "Premier Division Irlanda": {
-      "partidos": 1091,
-      "ultimo": "2026-11-07"
-    },
     "Premier League": {
       "partidos": 2000,
       "ultimo": "2026-11-08"
@@ -96,18 +60,6 @@
     "Primera Division": {
       "partidos": 3359,
       "ultimo": "2026-11-08"
-    },
-    "Scottish Championship": {
-      "partidos": 969,
-      "ultimo": "2026-11-07"
-    },
-    "Scottish League One": {
-      "partidos": 969,
-      "ultimo": "2026-11-07"
-    },
-    "Scottish League Two": {
-      "partidos": 965,
-      "ultimo": "2026-11-07"
     },
     "Scottish Premiership": {
       "partidos": 1215,
@@ -121,24 +73,8 @@
       "partidos": 2010,
       "ultimo": "2026-11-08"
     },
-    "Super League Grecia": {
-      "partidos": 1258,
-      "ultimo": "2026-11-08"
-    },
-    "Super League Suiza": {
-      "partidos": 1282,
-      "ultimo": "2026-11-08"
-    },
     "Super Lig": {
       "partidos": 1849,
-      "ultimo": "2026-11-08"
-    },
-    "Superliga Dinamarca": {
-      "partidos": 1192,
-      "ultimo": "2026-11-08"
-    },
-    "Veikkausliiga": {
-      "partidos": 1028,
       "ultimo": "2026-11-08"
     }
   },

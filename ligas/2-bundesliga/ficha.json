@@ -1,0 +1,21 @@
+{
+  "liga": "2. Bundesliga",
+  "slug": "2-bundesliga",
+  "pais": "Alemania",
+  "espn": "ger.2",
+  "estadisticas_partido": true,
+  "mercados": [
+    "goles",
+    "corners",
+    "tarjetas",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_bundesliga2.csv",
+    "h2h": "datos/h2h/bundesliga2.csv",
+    "cierres": "datos/cierres/bundesliga2.csv"
+  },
+  "bet365_url": "",
+  "nombres_bet365": {},
+  "notas": []
+}

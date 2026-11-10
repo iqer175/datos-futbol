@@ -2,16 +2,25 @@
 """
 analizar_jornada.py -- simula una jornada con las cuotas de bet365 y el contexto de los partidos.
 
-Es la pieza comun de los tres agentes (.claude/agents/):
-  recolector-cuotas  (Haiku)  -> jornadas/<fecha>/<liga>/cuotas.json
-  analista-contexto  (Sonnet) -> jornadas/<fecha>/<liga>/contexto.json
-  simulador-apuestas (Opus)   -> ejecuta este script y escribe recomendaciones.json/.md
+Es la pieza comun de los tres agentes (.claude/agents/), que sirven para cualquiera de
+las 18 ligas activas (ligas.py). Cada liga tiene su carpeta ligas/<slug>/ con su ficha y
+sus jornadas:
+  recolector-cuotas  (Haiku)  -> ligas/<slug>/jornadas/<fecha>/cuotas.json
+  este script, 'contexto'     -> contexto.json con todo lo que sale de los datos propios
+                                 (motor, forma, H2H, historial de cada jugador con cuota)
+  analista-contexto  (Haiku)  -> completa contexto.json con las noticias (bajas, sanciones,
+                                 rotaciones) y ajusta titular_prob
+  simulador-apuestas (Opus)   -> ejecuta 'simular' y escribe recomendaciones.json/.md
 
 Uso:
   python analizar_jornada.py calendario --liga "Ligue 1" [--dias 7]
       Partidos de los proximos dias con los nombres de football-data (los que hay
-      que usar en cuotas.json y contexto.json) y la carpeta de la jornada.
-  python analizar_jornada.py simular --dir jornadas/2026-11-07/ligue-1
+      que usar en cuotas.json y contexto.json), la carpeta de la jornada y la ficha.
+  python analizar_jornada.py contexto --dir ligas/ligue-1/jornadas/2026-11-07
+      Escribe contexto.json a partir de cuotas.json y de los datos del repo. No busca
+      noticias: deja "noticias": "pendiente" para el analista. No pisa un contexto.json
+      que ya tenga noticias salvo con --forzar.
+  python analizar_jornada.py simular --dir ligas/ligue-1/jornadas/2026-11-07
       Simula cada partido de cuotas.json (200.000 veces) y escribe evaluacion.csv.
 
 Formato de cuotas.json:
@@ -75,6 +84,8 @@ def potencia(o):
 # ---------------------------------------------------------------- calendario
 def calendario(liga, dias):
     import espn
+    import ligas
+    liga = ligas.resolver(liga)
     cal = espn.calendario([liga], datetime.now(timezone.utc), dias)
     cal = cal[cal.estado == 'STATUS_SCHEDULED']
     if not len(cal):
@@ -82,8 +93,16 @@ def calendario(liga, dias):
     mapa = pd.read_csv(DIR / 'datos' / 'mapa_nombres.csv')
     m = {r.nombre_src: r.nombre_fd for r in mapa[(mapa.fuente == 'espn') & (mapa.liga == liga)].itertuples()}
     cal = cal.assign(local=cal.local_src.map(m), visitante=cal.visitante_src.map(m))
-    carpeta = DIR / 'jornadas' / cal.inicio_utc.min()[:10] / slug(liga)
+    carpeta = ligas.carpeta_jornada(liga, cal.inicio_utc.min())
+    fi = ligas.ficha(liga)
+    print(f'Liga: {liga}')
     print(f'Carpeta de la jornada: {carpeta.relative_to(DIR).as_posix()}')
+    print(f'Ficha: {(ligas.carpeta(liga) / "ficha.json").relative_to(DIR).as_posix()}')
+    print(f'bet365: {fi.get("bet365_url") or "SIN DIRECCION en la ficha: buscarla y anotarla en el informe"}')
+    if fi.get('nombres_bet365'):
+        print(f'Nombres en bet365 distintos: {fi["nombres_bet365"]}')
+    for n in fi.get('notas', []):
+        print(f'Nota de la liga: {n}')
     print(cal[['inicio_utc', 'local', 'visitante', 'local_src', 'visitante_src']].to_string(index=False))
     falta = cal[cal.local.isna() | cal.visitante.isna()]
     if len(falta):
@@ -116,19 +135,27 @@ class Jugadores:
             return 1.0, 1.0
         return x.tiros.mean() / self.E.tiros.mean(), x.tiros_puerta.mean() / self.E.tiros_puerta.mean()
 
+    def buscar(self, nombre, local, visit, solo_titular=True):
+        """(filas del jugador en los dos equipos del partido, aviso o None, equipo ESPN local, visitante)."""
+        el, ev = self.fd2espn.get(local), self.fd2espn.get(visit)
+        if not (el and ev):
+            return None, 'equipo sin emparejar con ESPN', el, ev
+        toks = nz(nombre).split()
+        x = self.J[self.J.equipo.isin([el, ev]) & self.J.n.apply(lambda s: all(t in s for t in toks))]
+        if solo_titular:
+            x = x[x.titular]
+        if not len(x):
+            return None, 'sin datos en ESPN' + (' como titular' if solo_titular else ''), el, ev
+        if x.jugador_id.nunique() > 1:
+            return None, f'nombre ambiguo ({", ".join(sorted(set(x.jugador)))})', el, ev
+        return x, None, el, ev
+
     def evaluar(self, nombre, mercado, linea, local, visit):
         """(prob, aviso, nombre_espn, titularidades).
         prob = minimo entre la binomial negativa ajustada al rival y su frecuencia real como titular."""
-        el, ev = self.fd2espn.get(local), self.fd2espn.get(visit)
-        if not (el and ev):
-            return np.nan, 'equipo sin emparejar con ESPN', nombre, 0
-        toks = nz(nombre).split()
-        x = self.J[self.J.equipo.isin([el, ev]) & self.J.titular
-                   & self.J.n.apply(lambda s: all(t in s for t in toks))]
-        if not len(x):
-            return np.nan, 'sin datos en ESPN como titular', nombre, 0
-        if x.jugador_id.nunique() > 1:
-            return np.nan, f'nombre ambiguo ({", ".join(sorted(set(x.jugador)))})', nombre, 0
+        x, err, el, ev = self.buscar(nombre, local, visit)
+        if err:
+            return np.nan, err, nombre, 0
         eq = x.equipo.iloc[-1]; rival = ev if eq == el else el
         ft, fp = self.concede(rival)
         col, f = ('tiros', ft) if mercado == 'remates' else ('tiros_puerta', fp)
@@ -154,7 +181,8 @@ def simular_jornada(carpeta, n_sim=200_000):
     ctx_f = carpeta / 'contexto.json'
     ctx = json.loads(ctx_f.read_text(encoding='utf-8')) if ctx_f.exists() else {}
     ctx = {(p['local'], p['visitante']): p for p in ctx.get('partidos', [])}
-    liga = cu['liga']
+    import ligas
+    liga = ligas.resolver(cu['liga'])
     B = motor.Base(motor.cargar(DIR / 'datos' / 'partidos.csv'))
     JG = Jugadores(liga)
     filas = []
@@ -220,14 +248,148 @@ def simular_jornada(carpeta, n_sim=200_000):
     return T
 
 
+# ---------------------------------------------------------------- contexto (datos propios)
+def _forma(D, eq, n=6):
+    """Ultimos n partidos de un equipo: racha y totales, vista desde el equipo."""
+    m = D[(D.local == eq) | (D.visitante == eq)].sort_values('fecha').tail(n)
+    if not len(m):
+        return 'sin partidos en la base', []
+    loc = (m.local == eq).values
+
+    def lado(a, b):
+        return np.where(loc, m[a], m[b]).astype(float)
+    gf, gc = lado('gl', 'gv'), lado('gv', 'gl')
+    racha = '-'.join('G' if a > b else 'E' if a == b else 'P' for a, b in zip(gf, gc))
+    txt = f'{racha}, {int(gf.sum())} GF y {int(gc.sum())} GC en {len(m)}'
+    if m.tiros_p_l.notna().any():
+        txt += (f'; tiros a puerta {int(np.nansum(lado("tiros_p_l", "tiros_p_v")))}-'
+                f'{int(np.nansum(lado("tiros_p_v", "tiros_p_l")))}')
+    if m.corners_l.notna().any():
+        txt += (f'; corners {int(np.nansum(lado("corners_l", "corners_v")))}-'
+                f'{int(np.nansum(lado("corners_v", "corners_l")))}')
+    det = [f'{str(r.fecha)[:10]} {r.local} {int(r.gl)}-{int(r.gv)} {r.visitante}' for r in m.itertuples()]
+    return txt, det
+
+
+def _h2h(D, a, b, n=5):
+    m = D[((D.local == a) & (D.visitante == b)) | ((D.local == b) & (D.visitante == a))].sort_values('fecha').tail(n)
+    if not len(m):
+        return 'Sin enfrentamientos en la base.'
+    ga = int((((m.local == a) & (m.gl > m.gv)) | ((m.visitante == a) & (m.gv > m.gl))).sum())
+    e = int((m.gl == m.gv).sum())
+    t = (m.gl + m.gv).astype(float)
+    return (f'H2H ({len(m)}): {a} {ga}, {b} {len(m) - ga - e}, empates {e}; '
+            f'{t.mean():.1f} goles de media, Más 2.5 en {int((t > 2.5).sum())}. '
+            + '; '.join(f'{str(r.fecha)[:10]} {r.local} {int(r.gl)}-{int(r.gv)} {r.visitante}' for r in m.itertuples()))
+
+
+def _titular_base(ult3, titular_ultimo):
+    """Patron de titularidad en los 3 ultimos partidos de su equipo -> probabilidad de partida.
+    Es solo el punto de partida: el analista la ajusta con las noticias."""
+    if ult3 == 3:
+        return 0.9
+    if ult3 == 2:
+        return 0.7 if titular_ultimo else 0.5
+    return 0.3 if ult3 == 1 else 0.1
+
+
+def _num(v, d=2):
+    v = float(np.asarray(v, float).mean())
+    return round(v, d) if np.isfinite(v) else None
+
+
+def contexto_datos(carpeta, forzar=False):
+    """contexto.json con lo que sale de los datos propios, sin gastar un modelo en ello."""
+    import ligas
+    import motor
+    carpeta = Path(carpeta)
+    cu = json.loads((carpeta / 'cuotas.json').read_text(encoding='utf-8'))
+    liga = ligas.resolver(cu['liga'])
+    sal = carpeta / 'contexto.json'
+    if sal.exists() and not forzar:
+        previo = json.loads(sal.read_text(encoding='utf-8'))
+        if previo.get('noticias') != 'pendiente':
+            raise SystemExit(f'{sal.as_posix()} ya tiene noticias del analista; usa --forzar para rehacerlo.')
+    D = motor.cargar(DIR / 'datos' / 'partidos.csv')
+    B = motor.Base(D)
+    D = D[D.liga == liga]
+    JG = Jugadores(liga)
+    J = JG.J[JG.J.liga == liga]
+    partidos = []
+    for P in cu['partidos']:
+        loc, vis = P['local'], P['visitante']
+        alertas = []
+        try:
+            R = motor.analizar(B, loc, vis, liga); m = R['m']
+            mot = {'elo_l': _num(R['elo_l'], 1), 'elo_v': _num(R['elo_v'], 1),
+                   'p1': _num(m['1'], 3), 'px': _num(m['X'], 3), 'p2': _num(m['2'], 3),
+                   'lh': _num(R['lh']), 'la': _num(R['la']), 'total': _num(R['tot']),
+                   'over25': _num(m['over2.5'], 3), 'btts': _num(m['btts'], 3),
+                   'corners': _num(R['lc']), 'tarjetas': _num(R['lt']),
+                   'fiabilidad': R['fiabilidad']}
+            if R['fiabilidad'] != 'alta':
+                alertas.append(f'fiabilidad del motor {R["fiabilidad"]}')
+        except SystemExit as e:
+            mot = {}; alertas.append(f'el motor no reconoce el partido ({e})')
+        fl, dl = _forma(D, loc); fv, dv = _forma(D, vis)
+        tp, jug = {}, {}
+        for nom in dict.fromkeys(j['jugador'] for j in P.get('jugadores', [])):
+            x, err, el, ev = JG.buscar(nom, loc, vis, solo_titular=False)
+            if err:
+                jug[nom] = {'nota': err}; alertas.append(f'{nom}: {err}'); continue
+            x = x[x.liga == liga]
+            if not len(x):
+                jug[nom] = {'nota': 'sin datos en ESPN en esta liga'}
+                alertas.append(f'{nom}: sin datos en ESPN en esta liga'); continue
+            eq = x.sort_values('fecha').equipo.iloc[-1]
+            ult = J[J.equipo == eq].drop_duplicates('espn_id').sort_values('fecha').espn_id.tolist()[-3:]
+            tit = x[x.titular & (x.equipo == eq)].sort_values('fecha')
+            u3 = int(tit.espn_id.isin(ult).sum())
+            ultimo_tit = bool(len(ult) and (tit.espn_id == ult[-1]).any())
+            mins = pd.to_numeric(tit.minutos, errors='coerce')
+            jug[nom] = {
+                'nombre_espn': x.jugador.iloc[-1], 'equipo': eq,
+                'titular_ultimos_3': u3, 'titular_en_el_ultimo': ultimo_tit,
+                'titularidades': int(len(tit)),
+                'suplencias_con_minutos': int((~x.titular & (x.entro == 'True')).sum()),
+                'minutos_medios': None if mins.notna().sum() == 0 else int(round(mins.mean())),
+                'remates_ultimos_5': [int(v) for v in tit.tiros.dropna().tail(5)],
+                'a_puerta_ultimos_5': [int(v) for v in tit.tiros_puerta.dropna().tail(5)],
+                'ultima_titularidad': None if not len(tit) else str(tit.fecha.iloc[-1])[:10],
+                'nota': ''}
+            tp[nom] = _titular_base(u3, ultimo_tit)
+            if len(tit) < MUESTRA_MIN:
+                alertas.append(f'{nom}: solo {len(tit)} titularidades (muestra corta)')
+        partidos.append({
+            'local': loc, 'visitante': vis, 'inicio_utc': P.get('inicio_utc', ''),
+            'titular_prob': tp, 'jugadores': jug,
+            'bajas_local': [], 'bajas_visitante': [],
+            'forma_local': fl, 'forma_visitante': fv,
+            'ultimos_local': dl, 'ultimos_visitante': dv,
+            'motor': mot, 'h2h': _h2h(D, loc, vis),
+            'alertas': alertas, 'resumen': ''})
+    out = {'liga': liga, 'generado_utc': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%MZ'),
+           'datos_hasta': {'partidos': str(D.fecha.max())[:10], 'jugadores': str(J.fecha.max())[:10]},
+           'noticias': 'pendiente', 'partidos': partidos}
+    sal.write_text(json.dumps(out, indent=1, ensure_ascii=False) + '\n', encoding='utf-8', newline='\n')
+    nj = sum(len(p['jugadores']) for p in partidos); na = sum(len(p['alertas']) for p in partidos)
+    print(f'{liga}: {len(partidos)} partidos, {nj} jugadores con cuota, {na} alertas -> {sal.as_posix()}')
+    print(f'Datos hasta: partidos {out["datos_hasta"]["partidos"]}, jugadores {out["datos_hasta"]["jugadores"]}')
+    print('Falta: noticias (bajas, sanciones, rotaciones) y ajustar titular_prob -> analista-contexto')
+    return out
+
+
 def main():
     ap = argparse.ArgumentParser()
     sp = ap.add_subparsers(dest='accion', required=True)
     c = sp.add_parser('calendario'); c.add_argument('--liga', required=True); c.add_argument('--dias', type=int, default=7)
     s = sp.add_parser('simular'); s.add_argument('--dir', required=True); s.add_argument('--n', type=int, default=200_000)
+    x = sp.add_parser('contexto'); x.add_argument('--dir', required=True); x.add_argument('--forzar', action='store_true')
     a = ap.parse_args()
     if a.accion == 'calendario':
         calendario(a.liga, a.dias)
+    elif a.accion == 'contexto':
+        contexto_datos(a.dir, a.forzar)
     else:
         simular_jornada(a.dir, a.n)
 

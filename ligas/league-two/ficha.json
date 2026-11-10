@@ -1,0 +1,21 @@
+{
+  "liga": "League Two",
+  "slug": "league-two",
+  "pais": "Inglaterra",
+  "espn": "eng.4",
+  "estadisticas_partido": true,
+  "mercados": [
+    "goles",
+    "corners",
+    "tarjetas",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_leaguetwo.csv",
+    "h2h": "datos/h2h/leaguetwo.csv",
+    "cierres": "datos/cierres/leaguetwo.csv"
+  },
+  "bet365_url": "",
+  "nombres_bet365": {},
+  "notas": []
+}

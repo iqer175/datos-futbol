@@ -1,0 +1,21 @@
+{
+  "liga": "LaLiga",
+  "slug": "laliga",
+  "pais": "España",
+  "espn": "esp.1",
+  "estadisticas_partido": true,
+  "mercados": [
+    "goles",
+    "corners",
+    "tarjetas",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_laliga.csv",
+    "h2h": "datos/h2h/laliga.csv",
+    "cierres": "datos/cierres/laliga.csv"
+  },
+  "bet365_url": "",
+  "nombres_bet365": {},
+  "notas": []
+}

@@ -239,30 +239,6 @@ espn,Ligue 2,Saint-Étienne,St Etienne,auto,1.0
 espn,Ligue 2,Sochaux,Sochaux,auto,1.0
 espn,Ligue 2,Stade Laval,Laval,auto,0.9
 espn,Ligue 2,Stade de Reims,Reims,auto,0.9
-espn,National League,AFC Fylde,Fylde,auto,1.0
-espn,National League,AFC Hornchurch,Hornchurch,auto,1.0
-espn,National League,Aldershot Town,Aldershot,auto,0.9
-espn,National League,Altrincham,Altrincham,auto,1.0
-espn,National League,Barrow,Barrow,auto,1.0
-espn,National League,Boreham Wood,Boreham Wood,auto,1.0
-espn,National League,Boston United,Boston Utd,auto,1.0
-espn,National League,Carlisle United,Carlisle,auto,0.9
-espn,National League,Eastleigh,Eastleigh,auto,1.0
-espn,National League,FC Halifax Town,Halifax,auto,0.9
-espn,National League,Forest Green Rovers,Forest Green,auto,0.9
-espn,National League,Gateshead,Gateshead,auto,1.0
-espn,National League,Harrogate Town,Harrogate,auto,0.9
-espn,National League,Hartlepool United,Hartlepool,auto,0.9
-espn,National League,Kidderminster Harriers,Kidderminster,auto,0.9
-espn,National League,Scunthorpe United,Scunthorpe,auto,0.9
-espn,National League,Solihull Moors,Solihull,auto,0.9
-espn,National League,Southend United,Southend,auto,0.9
-espn,National League,Sutton United,Sutton,auto,0.9
-espn,National League,Tamworth,Tamworth,auto,1.0
-espn,National League,Wealdstone,Wealdstone,auto,1.0
-espn,National League,Woking,Woking,auto,1.0
-espn,National League,Worthing,Worthing,auto,1.0
-espn,National League,Yeovil Town,Yeovil,auto,0.9
 espn,Premier League,AFC Bournemouth,Bournemouth,auto,1.0
 espn,Premier League,Arsenal,Arsenal,auto,1.0
 espn,Premier League,Aston Villa,Aston Villa,auto,1.0
@@ -365,20 +341,6 @@ espn,Serie B,Sudtirol,Sudtirol,auto,1.0
 espn,Serie B,US Avellino,Avellino,auto,1.0
 espn,Serie B,Vicenza,Vicenza,auto,1.0
 espn,Serie B,Virtus Entella,Virtus Entella,auto,1.0
-espn,Super League Grecia,AEK Athens,AEK,auto,0.9
-espn,Super League Grecia,Aris,Aris,auto,1.0
-espn,Super League Grecia,Asteras Tripoli,Asteras Tripolis,auto,0.968
-espn,Super League Grecia,Atromitos,Atromitos,auto,1.0
-espn,Super League Grecia,Iraklis,Iraklis,auto,1.0
-espn,Super League Grecia,Kalamata,Kalamata,auto,1.0
-espn,Super League Grecia,Kifisia,Kifisia,auto,1.0
-espn,Super League Grecia,Levadiakos,Levadeiakos,auto,0.952
-espn,Super League Grecia,OFI Crete,OFI Crete,auto,1.0
-espn,Super League Grecia,Olympiacos,Olympiakos,auto,1.0
-espn,Super League Grecia,PAOK,PAOK,auto,1.0
-espn,Super League Grecia,Panathinaikos,Panathinaikos,auto,1.0
-espn,Super League Grecia,Panetolikos,Panetolikos,auto,1.0
-espn,Super League Grecia,Volos NFC,Volos NFC,auto,1.0
 espn,Super Lig,Alanyaspor,Alanyaspor,auto,1.0
 espn,Super Lig,Amed SFK,Amedspor,auto,0.625
 espn,Super Lig,Besiktas,Besiktas,auto,1.0
@@ -607,20 +569,6 @@ oddsapi,Serie B,Südtirol,Sudtirol,auto,1.0
 oddsapi,Serie B,US Catanzaro 1929,Catanzaro,auto,1.0
 oddsapi,Serie B,Vicenza,Vicenza,auto,1.0
 oddsapi,Serie B,Virtus Entella,Virtus Entella,auto,1.0
-oddsapi,Super League Grecia,AE Kifisia FC,Kifisia,auto,0.9
-oddsapi,Super League Grecia,AEK Athens,AEK,auto,0.9
-oddsapi,Super League Grecia,Aris Thessaloniki,Aris,auto,0.9
-oddsapi,Super League Grecia,Asteras Tripolis,Asteras Tripolis,auto,1.0
-oddsapi,Super League Grecia,Atromitos Athens,Atromitos,auto,0.9
-oddsapi,Super League Grecia,Iraklis FC,Iraklis,auto,1.0
-oddsapi,Super League Grecia,Kalamata FC,Kalamata,auto,1.0
-oddsapi,Super League Grecia,Levadiakos,Levadeiakos,auto,0.952
-oddsapi,Super League Grecia,OFI Crete,OFI Crete,auto,1.0
-oddsapi,Super League Grecia,Olympiakos Piraeus,Olympiakos,auto,0.9
-oddsapi,Super League Grecia,PAOK Thessaloniki,PAOK,auto,0.9
-oddsapi,Super League Grecia,Panathinaikos,Panathinaikos,auto,1.0
-oddsapi,Super League Grecia,Panetolikos Agrinio,Panetolikos,auto,0.9
-oddsapi,Super League Grecia,Volos FC,Volos NFC,auto,1.0
 oddsapi,Super Lig,Alanyaspor,Alanyaspor,auto,1.0
 oddsapi,Super Lig,Amed SK,Amedspor,auto,1.0
 oddsapi,Super Lig,Basaksehir,Buyuksehyr,auto,1.0

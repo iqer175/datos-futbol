@@ -1,0 +1,21 @@
+{
+  "liga": "Championship",
+  "slug": "championship",
+  "pais": "Inglaterra",
+  "espn": "eng.2",
+  "estadisticas_partido": true,
+  "mercados": [
+    "goles",
+    "corners",
+    "tarjetas",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_championship.csv",
+    "h2h": "datos/h2h/championship.csv",
+    "cierres": "datos/cierres/championship.csv"
+  },
+  "bet365_url": "",
+  "nombres_bet365": {},
+  "notas": []
+}

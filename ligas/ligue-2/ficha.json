@@ -1,0 +1,21 @@
+{
+  "liga": "Ligue 2",
+  "slug": "ligue-2",
+  "pais": "Francia",
+  "espn": "fra.2",
+  "estadisticas_partido": true,
+  "mercados": [
+    "goles",
+    "corners",
+    "tarjetas",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_ligue2.csv",
+    "h2h": "datos/h2h/ligue2.csv",
+    "cierres": "datos/cierres/ligue2.csv"
+  },
+  "bet365_url": "",
+  "nombres_bet365": {},
+  "notas": []
+}

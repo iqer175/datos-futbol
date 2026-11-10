@@ -1,0 +1,21 @@
+{
+  "liga": "Bundesliga",
+  "slug": "bundesliga",
+  "pais": "Alemania",
+  "espn": "ger.1",
+  "estadisticas_partido": true,
+  "mercados": [
+    "goles",
+    "corners",
+    "tarjetas",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_bundesliga.csv",
+    "h2h": "datos/h2h/bundesliga.csv",
+    "cierres": "datos/cierres/bundesliga.csv"
+  },
+  "bet365_url": "https://www.bet365.es/#/AC/B1/C1/D1002/E135680139/G40/",
+  "nombres_bet365": {},
+  "notas": []
+}

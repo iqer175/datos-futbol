@@ -1,0 +1,21 @@
+{
+  "liga": "Scottish Premiership",
+  "slug": "scottish-premiership",
+  "pais": "Escocia",
+  "espn": "sco.1",
+  "estadisticas_partido": true,
+  "mercados": [
+    "goles",
+    "corners",
+    "tarjetas",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_escocia.csv",
+    "h2h": "datos/h2h/escocia.csv",
+    "cierres": "datos/cierres/escocia.csv"
+  },
+  "bet365_url": "",
+  "nombres_bet365": {},
+  "notas": []
+}

@@ -1,17 +1,40 @@
 # Datos de fútbol automatizados
 
-Descarga 22 divisiones europeas de football-data.co.uk con estadísticas de
-partido (las 12 originales más League One, League Two, National League, las
-cuatro escocesas, Bélgica, Turquía y Grecia) y 12 ligas "extra" solo con
-resultado y media de mercado al cierre (Brasil y Argentina para la
-Libertadores, más Austria, Suiza, Dinamarca, Suecia, Noruega, Finlandia,
-Polonia, Irlanda, MLS y J1). Las consolida, calcula ratings Elo y genera
-agregados ligeros. Se actualiza sola los lunes, martes y jueves mediante
-GitHub Actions.
+Descarga de football-data.co.uk las **18 ligas activas**: las que tienen histórico
+y, además, datos de jugadores en ESPN (alineaciones, minutos y remates). Las
+consolida, calcula ratings Elo y genera agregados ligeros. Se actualiza sola los
+lunes, martes y jueves mediante GitHub Actions.
 
-Las ligas extra no traen tiros, córners ni tarjetas: sirven para Elo y 1X2,
-no para mercados secundarios. Los `elo_base` de las ligas añadidas en
-noviembre de 2026 son priors iniciales sin medir.
+Desde el 10 de noviembre de 2026 las otras 16 ligas (National League, Grecia,
+Escocia 2-4, Brasil, Austria, Suiza, nórdicas, Polonia, Irlanda, MLS y J1) están
+retiradas: ESPN no da jugadores en ellas. Siguen apuntadas en
+`actualizar_datos.py` (`LIGAS_RETIRADAS`, `EXTRA_RETIRADAS`) por si vuelven.
+National League y Scottish Championship se descargan solo para el Elo de los
+ascendidos (`LIGAS_SOPORTE`) y no salen en ningún fichero.
+
+## Una carpeta por liga
+
+```
+ligas/<slug>/ficha.json              dirección de bet365, código ESPN, mercados
+                                     modelables, nombres que no casan y notas
+ligas/<slug>/jornadas/<fecha>/       cuotas.json, contexto.json, evaluacion.csv,
+                                     recomendaciones.json/.md, lecciones.md, bruto/
+```
+
+`ligas.py` es el registro único: `python ligas.py` lista las ligas y lo que le
+falta a cada ficha. Los datos siguen en un único `datos/partidos.csv` y
+`datos/alineaciones/jugadores.csv`, porque el motor estima Elo y goles con todas
+las ligas a la vez.
+
+Analizar una jornada son cuatro pasos, con tres agentes que valen para cualquier
+liga (`.claude/agents/`):
+
+| Paso | Quién | Qué deja |
+|---|---|---|
+| 1 | `recolector-cuotas` (Haiku) | `cuotas.json` leído de bet365 |
+| 2 | `python analizar_jornada.py contexto --dir <carpeta>` | `contexto.json` con motor, forma, H2H e historial de cada jugador con cuota |
+| 3 | `analista-contexto` (Haiku) | las noticias en `contexto.json`: bajas, sanciones, rotaciones y titularidad |
+| 4 | `simulador-apuestas` (Opus) | `evaluacion.csv`, `recomendaciones.json/.md` y registro en la bitácora |
 
 ## Qué genera
 
@@ -64,14 +87,20 @@ Después de esto no tienes que hacer nada más. El cron corre solo.
 ```bash
 pip install -r requirements.txt
 python actualizar_datos.py --temporadas 6
-python actualizar_datos.py --sin-extra      # sin Brasil ni Argentina
+python actualizar_datos.py --sin-extra      # sin Argentina
 ```
 
 ## Ligas incluidas
 
-Premier League, Championship, LaLiga, Segunda División, Serie A, Serie B,
-Bundesliga, 2. Bundesliga, Ligue 1, Ligue 2, Eredivisie y Liga Portugal, más
-Brasileirão y Primera argentina.
+| País | Ligas |
+|---|---|
+| España | LaLiga, LaLiga Hypermotion |
+| Inglaterra | Premier League, Championship, League One, League Two |
+| Italia | Serie A, Serie B |
+| Alemania | Bundesliga, 2. Bundesliga |
+| Francia | Ligue 1, Ligue 2 |
+| Otras | Eredivisie, Liga Portugal, Scottish Premiership, Jupiler Pro League, Super Lig |
+| Argentina | Primera División (sin tiros, córners ni tarjetas de partido) |
 
 ## Notas
 
@@ -89,9 +118,9 @@ Brasileirão y Primera argentina.
   media de mercado. Por eso el script no las importa. Como referencia de cierre
   usa `avgc_1`, `avgc_x`, `avgc_2`.
 
-- **Brasil y Argentina** vienen del apartado *Extra Leagues*, que solo trae
-  resultado final y cuotas de cierre. Sin tiros, córners ni tarjetas. Sirven
-  para ratings, no para modelar mercados secundarios.
+- **Argentina** viene del apartado *Extra Leagues*, que solo trae resultado
+  final y cuotas de cierre. Sin tiros, córners ni tarjetas de partido: allí solo
+  se modelan goles y mercados de jugador.
 
 ## Backtests y variante en prueba (noviembre de 2026)
 
@@ -123,8 +152,8 @@ medir lo que football-data no trae: cómo se mueve la línea desde que abre.
 
 | Fuente | Secreto del repo | Qué trae | Límite gratis |
 |---|---|---|---|
-| [The Odds API](https://the-odds-api.com) | `ODDS_API_KEY` | Pinnacle, Betfair Exchange y casas británicas (**no bet365**), 15 ligas | 500 créditos/mes; cada captura gasta ~30 |
-| [API-Football](https://www.api-football.com) | `APIFOOTBALL_KEY` | bet365 en 22 ligas, si el plan gratis cubre la temporada en curso | 100 peticiones/día |
+| [The Odds API](https://the-odds-api.com) | `ODDS_API_KEY` | Pinnacle, Betfair Exchange y casas británicas (**no bet365**), 14 ligas | 500 créditos/mes; cada captura gasta ~30 |
+| [API-Football](https://www.api-football.com) | `APIFOOTBALL_KEY` | bet365 en 17 ligas, si el plan gratis cubre la temporada en curso | 100 peticiones/día |
 
 Sin secretos el workflow no captura nada ni falla. Para activarlo: Settings → Secrets and
 variables → Actions → New repository secret.

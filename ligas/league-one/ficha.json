@@ -1,0 +1,21 @@
+{
+  "liga": "League One",
+  "slug": "league-one",
+  "pais": "Inglaterra",
+  "espn": "eng.3",
+  "estadisticas_partido": true,
+  "mercados": [
+    "goles",
+    "corners",
+    "tarjetas",
+    "jugadores"
+  ],
+  "datos": {
+    "perfil_equipos": "datos/agregados/equipos_leagueone.csv",
+    "h2h": "datos/h2h/leagueone.csv",
+    "cierres": "datos/cierres/leagueone.csv"
+  },
+  "bet365_url": "",
+  "nombres_bet365": {},
+  "notas": []
+}

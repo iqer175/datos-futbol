@@ -35,15 +35,14 @@ STATS = {'totalGoals': 'goles', 'goalAssists': 'asistencias', 'totalShots': 'tir
 BASE = 'https://site.api.espn.com/apis/site/v2/sports/soccer'
 UA = {'User-Agent': 'actualizador-futbol'}
 
-# liga en partidos.csv -> codigo ESPN. Fuera: Escocia 2-4 (la lista de equipos de
-# ESPN no corresponde a la temporada actual) y Polonia (codigo no encontrado).
+# liga en partidos.csv -> codigo ESPN. Son las 18 ligas activas (ver ligas.py).
 CODIGOS = {
     'LaLiga': 'esp.1', 'LaLiga Hypermotion': 'esp.2', 'Premier League': 'eng.1',
     'Championship': 'eng.2', 'League One': 'eng.3', 'League Two': 'eng.4',
-    'National League': 'eng.5', 'Serie A': 'ita.1', 'Serie B': 'ita.2',
+    'Serie A': 'ita.1', 'Serie B': 'ita.2',
     'Bundesliga': 'ger.1', '2. Bundesliga': 'ger.2', 'Ligue 1': 'fra.1', 'Ligue 2': 'fra.2',
     'Eredivisie': 'ned.1', 'Liga Portugal': 'por.1', 'Scottish Premiership': 'sco.1',
-    'Jupiler Pro League': 'bel.1', 'Super Lig': 'tur.1', 'Super League Grecia': 'gre.1', 'Primera Division': 'arg.1',
+    'Jupiler Pro League': 'bel.1', 'Super Lig': 'tur.1', 'Primera Division': 'arg.1',
 }
 
 _s = requests.Session(); _s.headers.update(UA)

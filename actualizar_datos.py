@@ -10,7 +10,7 @@ Genera en datos/:
 Uso:
     python actualizar_datos.py                 # ultimas 6 temporadas
     python actualizar_datos.py --temporadas 10
-    python actualizar_datos.py --sin-extra     # omite las ligas EXTRA (Brasil, Argentina, nordicas...)
+    python actualizar_datos.py --sin-extra     # omite las ligas EXTRA (Argentina)
 """
 
 import argparse
@@ -27,14 +27,22 @@ DIR_DATOS = Path(__file__).parent / "datos"
 BASE_MAIN = "https://www.football-data.co.uk/mmz4281/{temp}/{div}.csv"
 BASE_EXTRA = "https://www.football-data.co.uk/new/{pais}.csv"
 
-# --- Las 10 ligas principales -------------------------------------------------
+# --- Ligas activas: las 18 con historico Y datos de jugadores (ESPN) ---------
+# Desde 2026-11-10 el repo solo descarga las ligas que tienen las dos cosas:
+# resultados/cuotas de football-data y alineaciones con remates en ESPN. Son las
+# unicas en las que los tres agentes pueden evaluar mercados de jugador.
+# Cada una tiene su carpeta en ligas/<slug>/ (ficha.json + jornadas). La lista
+# de slugs y direcciones esta en ligas.py.
+#
 # codigo: (nombre, pais, nivel, elo_base)
 # elo_base es un PRIOR de fuerza relativa entre ligas. Es lo unico que permite
 # comparar equipos que nunca se enfrentan (necesario para Champions/Europa).
-# Ajustalo con los resultados europeos reales conforme acumules muestra.
+# Los de las ligas anadidas en 2026-11 son priors iniciales sin medir.
 LIGAS = {
     "E0":  ("Premier League",   "Inglaterra", 1, 1650),
     "E1":  ("Championship",     "Inglaterra", 2, 1455),
+    "E2":  ("League One",       "Inglaterra", 3, 1330),
+    "E3":  ("League Two",       "Inglaterra", 4, 1230),
     "SP1": ("LaLiga",           "España",     1, 1620),
     "SP2": ("LaLiga Hypermotion", "España",   2, 1430),
     "I1":  ("Serie A",          "Italia",     1, 1600),
@@ -45,31 +53,41 @@ LIGAS = {
     "F2":  ("Ligue 2",          "Francia",    2, 1380),
     "N1":  ("Eredivisie",       "Holanda",    1, 1510),
     "P1":  ("Liga Portugal",    "Portugal",   1, 1525),
-    # --- ampliacion 2026-11: ligas con menos seguimiento del mercado ---------
-    # Mismo formato y mismas estadisticas que las anteriores (la fuente trae
-    # tiros, corners y tarjetas en todas sus divisiones desde 2017-18).
-    # League One y League Two ademas dan Elo real a los ascendidos a la
-    # Championship, que hasta ahora entraban con Elo semilla.
-    # Los elo_base de estas ligas son PRIORS iniciales sin medir: revisarlos.
-    "E2":  ("League One",       "Inglaterra", 3, 1330),
-    "E3":  ("League Two",       "Inglaterra", 4, 1230),
-    "EC":  ("National League",  "Inglaterra", 5, 1150),
     "SC0": ("Scottish Premiership", "Escocia", 1, 1440),
-    "SC1": ("Scottish Championship", "Escocia", 2, 1270),
-    "SC2": ("Scottish League One", "Escocia", 3, 1170),
-    "SC3": ("Scottish League Two", "Escocia", 4, 1100),
     "B1":  ("Jupiler Pro League", "Belgica",  1, 1500),
     "T1":  ("Super Lig",        "Turquia",    1, 1480),
-    "G1":  ("Super League Grecia", "Grecia",  1, 1450),
 }
 
 # --- Extra: menos columnas, SIN estadisticas de partido (ni tiros ni corners) -
-# Sirven para Elo y 1X2 con media de mercado al cierre; no para secundarios.
-# Brasil y Argentina por la Libertadores; el resto, ligas con poco seguimiento.
-# Las nordicas, Irlanda, EE. UU. y Japon juegan en ano natural (temporada = ano).
+# Argentina es la unica extra con jugadores en ESPN. Sirve para Elo, 1X2 y
+# mercados de jugador; no para corners ni tarjetas.
 EXTRA = {
-    "BRA": ("Brasileirao",       "Brasil",    1, 1500),
     "ARG": ("Primera Division",  "Argentina", 1, 1470),
+}
+
+# --- Soporte: solo para el Elo, no salen en ningun fichero --------------------
+# National League y Scottish Championship alimentan de equipos a League Two y a
+# la Premiership escocesa. Sin sus resultados, los ascendidos pierden su Elo
+# real (medido el 2026-11-10: Rochdale -92, York -82, St Johnstone -69,
+# Harrogate -69, Barrow -68, Livingston -57). Se descargan, entran en el
+# calculo del Elo y se descartan antes de escribir partidos.csv y ratings.csv.
+LIGAS_SOPORTE = {
+    "EC":  ("National League",  "Inglaterra", 5, 1150),
+    "SC1": ("Scottish Championship", "Escocia", 2, 1270),
+}
+NOMBRES_SOPORTE = {v[0] for v in LIGAS_SOPORTE.values()}
+
+# --- Retiradas el 2026-11-10 (sin datos de jugadores en ESPN) ----------------
+# No se descargan. Sus datos hasta esa fecha estan en
+# ../respaldo_datos/ligas_retiradas_2026-11-10/. Para reactivar una, mueve su
+# linea de vuelta a LIGAS o EXTRA (y anadela a ligas.py si ESPN ya la cubre).
+LIGAS_RETIRADAS = {
+    "SC2": ("Scottish League One", "Escocia", 3, 1170),
+    "SC3": ("Scottish League Two", "Escocia", 4, 1100),
+    "G1":  ("Super League Grecia", "Grecia",  1, 1450),
+}
+EXTRA_RETIRADAS = {
+    "BRA": ("Brasileirao",       "Brasil",    1, 1500),
     "AUT": ("Bundesliga Austria", "Austria",  1, 1440),
     "SWZ": ("Super League Suiza", "Suiza",    1, 1440),
     "DNK": ("Superliga Dinamarca", "Dinamarca", 1, 1450),
@@ -241,7 +259,7 @@ def descargar_todo(n_temporadas, incluir_extra):
     print(f"Temporadas: {anios[0]}/{str(anios[0]+1)[-2:]} "
           f"a {anios[-1]}/{str(anios[-1]+1)[-2:]}\n")
 
-    for div, (nombre, pais, nivel, _) in LIGAS.items():
+    for div, (nombre, pais, nivel, _) in {**LIGAS, **LIGAS_SOPORTE}.items():
         filas = 0
         for anio in anios:
             temp = codigo_temporada(anio)
@@ -293,7 +311,8 @@ REGRESION_TEMPORADA = 0.25  # cuanto vuelve al nivel de liga cada verano
 
 def calcular_elo(df):
     bases = {n: b for (n, _, _, b) in
-             list(LIGAS.values()) + list(EXTRA.values())}
+             list(LIGAS.values()) + list(LIGAS_SOPORTE.values())
+             + list(EXTRA.values())}
     elo = {}
     liga_equipo = {}
     ultima_temp = {}
@@ -409,6 +428,12 @@ def main():
 
     elo, liga_equipo, historial = calcular_elo(partidos)
     ratings = tabla_ratings(partidos, elo, liga_equipo)
+
+    # las ligas de soporte ya hicieron su trabajo (Elo): fuera de las salidas
+    partidos = partidos[~partidos["liga"].isin(NOMBRES_SOPORTE)].reset_index(drop=True)
+    historial = historial[~historial["liga"].isin(NOMBRES_SOPORTE)]
+    ratings = ratings[~ratings["liga"].isin(NOMBRES_SOPORTE)].reset_index(drop=True)
+    print(f"Tras quitar las ligas de soporte: {len(partidos):,} partidos")
     print(f"Ratings calculados: {len(ratings)} equipos activos")
 
     partidos_out = partidos.copy()

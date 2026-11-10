@@ -67,9 +67,10 @@ def md(r, clave):
 def lecciones(dias):
     desde = datetime.now().timestamp() - dias * 86400
     out = []
-    for f in sorted((DIR / 'jornadas').glob('*/*/lecciones.md')):
+    # ligas/<slug>/jornadas/<fecha>/lecciones.md
+    for f in sorted((DIR / 'ligas').glob('*/jornadas/*/lecciones.md'), key=lambda f: (f.parent.name, f.parts[-4])):
         if f.stat().st_mtime >= desde:
-            out.append(f'### {f.parent.parent.name} · {f.parent.name}\n\n' + f.read_text(encoding='utf-8').strip())
+            out.append(f'### {f.parent.name} · {f.parts[-4]}\n\n' + f.read_text(encoding='utf-8').strip())
     return out
 
 
@@ -92,6 +93,8 @@ def main():
         R = pd.DataFrame(json.loads(rf.read_text(encoding='utf-8')))[['doc_id', 'estado', 'resultado']]
         P = P.drop(columns=[c for c in ('resultado',) if c in P]).merge(R, on='doc_id', how='left', suffixes=('', '_r'))
         P['estado'] = P.estado_r.fillna(P.estado)
+    if 'resultado' not in P:      # bitacora sin ese campo y sin resoluciones.json: no reventar
+        P['resultado'] = None
     P['tipo'] = [tipo(s, m) for s, m in zip(P.seleccion, P.mercado)]
     P['cuota'] = P.cuota.astype(float); P['stake'] = P.stake.fillna(0).astype(float)
     P['p'] = P.prob.astype(float) / 100
