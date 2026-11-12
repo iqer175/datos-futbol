@@ -95,26 +95,8 @@ espn,Jupiler Pro League,Standard Liege,Standard,auto,0.9
 espn,Jupiler Pro League,Union St.-Gilloise,St. Gilloise,auto,0.9
 espn,Jupiler Pro League,Waasland-Beveren,Beveren,auto,0.9
 espn,Jupiler Pro League,Zulte-Waregem,Waregem,auto,0.9
-espn,LaLiga,Alavés,Alaves,auto,1.0
 espn,LaLiga,Athletic Club,Ath Bilbao,auto,0.786
-espn,LaLiga,Atlético Madrid,Ath Madrid,auto,1.0
-espn,LaLiga,Barcelona,Barcelona,auto,1.0
-espn,LaLiga,Celta Vigo,Celta,auto,0.9
-espn,LaLiga,Deportivo,La Coruna,auto,0.227
-espn,LaLiga,Elche,Elche,auto,1.0
 espn,LaLiga,Espanyol,Espanol,auto,1.0
-espn,LaLiga,Getafe,Getafe,auto,1.0
-espn,LaLiga,Levante,Levante,auto,1.0
-espn,LaLiga,Málaga,Malaga,auto,1.0
-espn,LaLiga,Osasuna,Osasuna,auto,1.0
-espn,LaLiga,Racing Santander,Santander,auto,0.9
-espn,LaLiga,Rayo Vallecano,Vallecano,auto,0.9
-espn,LaLiga,Real Betis,Betis,auto,0.9
-espn,LaLiga,Real Madrid,Real Madrid,auto,1.0
-espn,LaLiga,Real Sociedad,Sociedad,auto,0.9
-espn,LaLiga,Sevilla,Sevilla,auto,1.0
-espn,LaLiga,Valencia,Valencia,auto,1.0
-espn,LaLiga,Villarreal,Villarreal,auto,1.0
 espn,LaLiga Hypermotion,Albacete,Albacete,auto,1.0
 espn,LaLiga Hypermotion,Almería,Almeria,auto,1.0
 espn,LaLiga Hypermotion,Burgos,Burgos,auto,1.0
@@ -426,7 +408,7 @@ oddsapi,Jupiler Pro League,Club Brugge,Club Brugge,auto,1.0
 oddsapi,Jupiler Pro League,Genk,Genk,auto,1.0
 oddsapi,Jupiler Pro League,Gent,Gent,auto,1.0
 oddsapi,Jupiler Pro League,KV Kortrijk,Kortrijk,auto,1.0
-oddsapi,Jupiler Pro League,KV Mechelen,KV Mechelen,auto,1.0
+oddsapi,Jupiler Pro League,KV Mechelen,Mechelen,auto,1.0
 oddsapi,Jupiler Pro League,Leuven,Oud-Heverlee Leuven,auto,0.9
 oddsapi,Jupiler Pro League,Lommel SK,Lommel SK,auto,1.0
 oddsapi,Jupiler Pro League,RAAL La Louvière,RAAL La Louviere,auto,1.0
@@ -479,8 +461,54 @@ oddsapi,LaLiga Hypermotion,SD Eibar,Eibar,auto,1.0
 oddsapi,LaLiga Hypermotion,Sabadell FC,Sabadell,auto,1.0
 oddsapi,LaLiga Hypermotion,Sporting Gijón,Sp Gijon,auto,1.0
 oddsapi,LaLiga Hypermotion,Tenerife,Tenerife,auto,1.0
-oddsapi,League One,Oxford United,Oxford Utd,auto,1.0
+oddsapi,League One,Barnsley,Barnsley,auto,1.0
+oddsapi,League One,Blackpool,Blackpool,auto,1.0
+oddsapi,League One,Bradford City,Bradford,auto,0.9
+oddsapi,League One,Bromley FC,Bromley,auto,1.0
+oddsapi,League One,Burton Albion,Burton,auto,0.9
+oddsapi,League One,Cambridge United,Cambridge,auto,0.9
+oddsapi,League One,Doncaster Rovers,Doncaster,auto,0.9
+oddsapi,League One,Huddersfield Town,Huddersfield,auto,0.9
+oddsapi,League One,Leicester City,Leicester,auto,0.9
+oddsapi,League One,Leyton Orient,Leyton Orient,auto,1.0
+oddsapi,League One,Luton,Luton,auto,1.0
+oddsapi,League One,Mansfield Town,Mansfield,auto,0.9
+oddsapi,League One,Milton Keynes Dons,Milton Keynes Dons,auto,1.0
+oddsapi,League One,Notts County,Notts County,auto,1.0
+oddsapi,League One,Oxford United,Oxford,auto,0.9
+oddsapi,League One,Peterborough United,Peterboro,auto,0.9
+oddsapi,League One,Plymouth Argyle,Plymouth,auto,0.9
 oddsapi,League One,Reading,Reading,auto,1.0
+oddsapi,League One,Sheffield Wednesday,Sheffield Weds,auto,1.0
+oddsapi,League One,Stevenage,Stevenage,auto,1.0
+oddsapi,League One,Stockport County FC,Stockport,auto,0.9
+oddsapi,League One,Wigan Athletic,Wigan,auto,0.9
+oddsapi,League One,Wimbledon,AFC Wimbledon,auto,1.0
+oddsapi,League One,Wycombe Wanderers,Wycombe,auto,0.9
+oddsapi,League Two,Accrington Stanley,Accrington,auto,0.9
+oddsapi,League Two,Barnet,Barnet,auto,1.0
+oddsapi,League Two,Bristol Rovers,Bristol Rvs,auto,0.88
+oddsapi,League Two,Cheltenham Town,Cheltenham,auto,0.9
+oddsapi,League Two,Chesterfield FC,Chesterfield,auto,1.0
+oddsapi,League Two,Colchester United,Colchester,auto,0.9
+oddsapi,League Two,Crawley Town,Crawley Town,auto,1.0
+oddsapi,League Two,Crewe Alexandra,Crewe,auto,0.9
+oddsapi,League Two,Exeter City,Exeter,auto,0.9
+oddsapi,League Two,Fleetwood Town,Fleetwood Town,auto,1.0
+oddsapi,League Two,Gillingham,Gillingham,auto,1.0
+oddsapi,League Two,Grimsby Town,Grimsby,auto,0.9
+oddsapi,League Two,Newport County,Newport County,auto,1.0
+oddsapi,League Two,Northampton Town,Northampton,auto,0.9
+oddsapi,League Two,Oldham Athletic,Oldham,auto,0.9
+oddsapi,League Two,Port Vale,Port Vale,auto,1.0
+oddsapi,League Two,Rochdale,Rochdale,auto,1.0
+oddsapi,League Two,Rotherham United,Rotherham,auto,0.9
+oddsapi,League Two,Salford City,Salford,auto,0.9
+oddsapi,League Two,Shrewsbury Town,Shrewsbury,auto,0.9
+oddsapi,League Two,Swindon Town,Swindon,auto,0.9
+oddsapi,League Two,Tranmere Rovers,Tranmere,auto,0.9
+oddsapi,League Two,Walsall,Walsall,auto,1.0
+oddsapi,League Two,York City,York,auto,0.9
 oddsapi,Liga Portugal,Académico de Viseu,Academico Viseu,auto,0.909
 oddsapi,Liga Portugal,Alverca,Alverca,auto,1.0
 oddsapi,Liga Portugal,Arouca,Arouca,auto,1.0
