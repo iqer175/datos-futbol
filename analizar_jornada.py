@@ -332,15 +332,15 @@ def simular_jornada(carpeta, n_sim=200_000, ancla=True):
         GOL = None
         for j in P.get('jugadores', []):
             nom, mk, ln, o = j['jugador'], j['mercado'], int(j['linea']), j['cuota']
-            if mk == 'goles':
-                # goleador con el xG de FotMob (goleadores.py; en prueba desde 2026-11-15), con los
-                # goles esperados del equipo del ancla (o del motor si no hay ancla)
+            if mk in goleadores.MERCADOS:
+                # goleador / asistente / anotara o asistira con el xG y xA de FotMob (goleadores.py;
+                # en prueba desde 2026-11-15/16), con los goles esperados del ancla (o del motor)
                 if GOL is None:
                     Rg = RA or R
                     GOL = goleadores.Partido(liga, loc, vis, P.get('inicio_utc'), Rg['lh'], Rg['la'])
-                p, av, nom_e, nt = GOL.prob(nom, ln)
-                p_solo = GOL.prob(nom, ln, sustituto=False)[0]
-                av += ' | ' + goleadores.AVISO
+                p, av, nom_e, nt = GOL.prob(nom, ln, mercado=mk)
+                p_solo = GOL.prob(nom, ln, sustituto=False, mercado=mk)[0]
+                av += ' | ' + goleadores.AVISOS[mk]
             else:
                 p, av, nom_e, nt = JG.evaluar(nom, mk, ln, loc, vis, RA)
                 p_solo = JG.evaluar(nom, mk, ln, loc, vis, RA, sustituto=False)[0]

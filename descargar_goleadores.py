@@ -8,7 +8,9 @@ titularidad) y el del propio partido. Asi cada partido de la muestra es un caso 
 natural: lo de antes predice si marco en ese. Dos peticiones por partido (xg y goles).
 
   python descargar_goleadores.py --n 700          # muestra aleatoria (semilla fija), reanudable
-  -> datos/goleadores_fotmob.jsonl  (un registro por partido y equipo)
+  -> datos/goleadores_fotmob.jsonl  (un registro por partido y equipo; celdas [xg, goles, min, tit])
+  python descargar_goleadores.py --asistencias    # los MISMOS partidos con xa y asist
+  -> datos/asistencias_fotmob.jsonl (celdas [xa, asist, min, tit])
 """
 import argparse, json, sys, time
 from pathlib import Path
@@ -17,6 +19,7 @@ import requests
 
 DIR = Path(__file__).parent
 SALIDA = DIR / 'datos' / 'goleadores_fotmob.jsonl'
+SALIDA_ASIST = DIR / 'datos' / 'asistencias_fotmob.jsonl'
 API = 'https://ludoprops.com/futbol/api/partido'
 
 
@@ -53,10 +56,16 @@ def registros(pid, jx, jg):
     return out
 
 
-def main(n, desde, hasta):
+def main(n, desde, hasta, asistencias=False):
+    global SALIDA
+    stats = ('xa', 'asist') if asistencias else ('xg', 'goles')
     S = pd.read_csv(DIR / 'datos' / 'stats_equipos.csv', usecols=['partido_id', 'fecha', 'liga_id', 'local'])
     S = S[(S.local == 1) & (S.fecha >= desde) & (S.fecha < hasta)].drop_duplicates('partido_id')
     S = S.sample(min(n, len(S)), random_state=7).sort_values('fecha')
+    if asistencias:          # los mismos partidos que la muestra de goleadores
+        ids = {json.loads(l)['partido'] for l in SALIDA.read_text(encoding='utf-8').splitlines()}
+        S = pd.DataFrame({'partido_id': sorted(ids)})
+        SALIDA = SALIDA_ASIST
     hechos = set()
     if SALIDA.exists():
         for l in SALIDA.read_text(encoding='utf-8').splitlines():
@@ -66,8 +75,8 @@ def main(n, desde, hasta):
     print(f'{len(S)} partidos en la muestra, {len(pend)} por descargar')
     from concurrent.futures import ThreadPoolExecutor
     def uno(pid):
-        jx = pedir(s, pid, 'xg')
-        jg = pedir(s, pid, 'goles') if jx else None
+        jx = pedir(s, pid, stats[0])
+        jg = pedir(s, pid, stats[1]) if jx else None
         return pid, (registros(pid, jx, jg) if jx and jg else [])
     with SALIDA.open('a', encoding='utf-8') as f, ThreadPoolExecutor(4) as ex:
         for i, (pid, rs) in enumerate(ex.map(uno, pend)):
@@ -84,5 +93,6 @@ if __name__ == '__main__':
     ap.add_argument('--n', type=int, default=700)
     ap.add_argument('--desde', default='2025-01-01')
     ap.add_argument('--hasta', default='2026-11-10')
+    ap.add_argument('--asistencias', action='store_true', help='xa y asist de los partidos ya descargados')
     a = ap.parse_args()
-    main(a.n, a.desde, a.hasta)
+    main(a.n, a.desde, a.hasta, a.asistencias)

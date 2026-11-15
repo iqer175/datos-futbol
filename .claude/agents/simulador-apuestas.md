@@ -30,7 +30,8 @@ este fichero y sobre las skills si chocan.
    FotMob, "sin validar contra bet365". NO las recomiendes ni las registres en la bitácora; si alguna
    tiene mucho valor, nómbrala aparte en el informe como "en observación". Paradas es la más débil
    (ve pocas paradas en los partidos de pocas: sus "Menos" están algo inflados).
-   Goleador (`<jugador> goles 1+`, desde 2026-11-15): modelo nuevo con el xG del jugador en FotMob
+   Goleador, asistente y anotará o asistirá (`<jugador> goles 1+`, `asistencias 1+`, `goles o
+   asistencias 1+`; desde 2026-11-15/16): modelo nuevo con el xG y el xA del jugador en FotMob
    (goleadores.py), con Sustituto+ y los goles esperados del ancla; aviso "sin validar contra
    bet365". Igual que las anteriores: NO lo recomiendes ni lo registres; si alguno tiene mucho
    valor, va en "en observación". Si el jugador no es titular seguro, su prob no vale.
