@@ -30,8 +30,8 @@ Modelo de cada simulacion (parametros del motor v5 + medidos en 38.261 partidos)
              por el factor del arbitro designado (arbitros.py, 2026-11-15)
   Limites: corners independientes del marcador (correlacion medida -0.01);
   tarjetas = amarillas (bet365 puede contar la roja como 2: mira la regla de
-  la linea antes de apostar); sin goleadores hasta que el modelo de jugadores
-  este calibrado.
+  la linea antes de apostar). Los goleadores no salen de aqui: los calcula
+  goleadores.py con el xG de cada jugador (en prueba desde 2026-11-15).
 
 Uso:
   python simulador.py LaLiga "Valencia" "Real Madrid"

@@ -20,7 +20,8 @@ se descarta.
 
 Uso:
   python parsear_remates.py --cuotas <cuotas.json> --local X --visitante Y bruto/a.txt bruto/b.txt
-  (--todas copia también las cuotas < 1.50, para el modo cierre; --ver solo enseña, no escribe)
+  (--todas copia también las cuotas < 1.50, para el modo cierre; --ver solo enseña, no escribe;
+   --solo goles copia solo el goleador, p. ej. de la pestaña Populares)
 """
 from __future__ import annotations
 
@@ -33,7 +34,12 @@ import sys
 from pathlib import Path
 
 CABECERAS = {"Remates a puerta": "a puerta", "Remates": "remates",
-             "Shots on Target": "a puerta", "Shots": "remates"}
+             "Shots on Target": "a puerta", "Shots": "remates",
+             # goleador (2026-11-15): tabla "Anotará o asistirá" de Populares (columna "Anotará" =
+             # marca en cualquier momento, linea 1) o "Jugador - Anotará" de Crear apuesta
+             "Anotará o asistirá": "goles", "Jugador - Anotará": "goles"}
+# columnas con nombre en vez de "N+": "Anotará" es la linea 1 de goles; las demas no se copian
+COL_NOMBRE = {"Anotará": 1, "Asistirá": None, "Anotará o asistirá": None}
 RUIDO = {"CA", "SUSTITUTO+", "Encuentro", "Match", "No disp.", "Ver más", "Ver menos",
          "Mostrar más", "Mostrar menos", "Show more", "Show less"}
 RE_LINEA = re.compile(r"(\d{1,2})\+")
@@ -61,7 +67,7 @@ def leer_tablas(texto: str) -> list[dict]:
         if mercado is None:
             continue
         nombres, k = [], i + 1
-        while k < len(L) and not RE_LINEA.fullmatch(L[k]):
+        while k < len(L) and not RE_LINEA.fullmatch(L[k]) and not (mercado == "goles" and L[k] in COL_NOMBRE):
             x = L[k]
             if x in CABECERAS or x.startswith(("Jugador", "Player")):
                 break  # otra sección sin columnas: esta tabla no tiene cuotas
@@ -74,6 +80,11 @@ def leer_tablas(texto: str) -> list[dict]:
             m = RE_LINEA.fullmatch(x)
             if m:
                 cur = int(m.group(1))
+                cols[cur] = []
+            elif mercado == "goles" and x in COL_NOMBRE:
+                if COL_NOMBRE[x] is None:
+                    break            # Asistirá / Anotará o asistirá: fin de lo que se copia
+                cur = COL_NOMBRE[x]
                 cols[cur] = []
             elif cur is not None and RE_CUOTA.fullmatch(x):
                 cols[cur].append(float(x))
@@ -184,13 +195,13 @@ def casar(tabla: dict, huecos: dict | None = None) -> tuple[dict, list[str]]:
     return out, avisos
 
 
-def procesar(ficheros: list[Path], todas: bool) -> tuple[list[dict], list[str]]:
+def procesar(ficheros: list[Path], todas: bool, solo: set | None = None) -> tuple[list[dict], list[str]]:
     jugadores, avisos, vistos = [], [], {}
     for fp in ficheros:
         txt = fp.read_text(encoding="utf-8")
         hfp = fp.with_suffix(".huecos.json")
         huecos = json.loads(hfp.read_text(encoding="utf-8")) if hfp.exists() else {}
-        tablas = leer_tablas(txt)
+        tablas = [t for t in leer_tablas(txt) if not solo or t["mercado"] in solo]
         if not tablas:
             avisos.append(f"{fp.name}: no hay tablas de remates con cuotas")
         for t in tablas:
@@ -221,16 +232,18 @@ def main() -> int:
     ap.add_argument("--visitante", required=True)
     ap.add_argument("--todas", action="store_true", help="copiar también las cuotas < 1.50 (modo cierre)")
     ap.add_argument("--ver", action="store_true", help="solo enseñar, no escribir")
+    ap.add_argument("--solo", help="mercados a copiar separados por comas (remates,a puerta,goles); por defecto todos")
     ap.add_argument("ficheros", nargs="+", type=Path)
     a = ap.parse_args()
     sys.stdout.reconfigure(encoding="utf-8")
 
-    jugadores, avisos = procesar(a.ficheros, a.todas)
+    jugadores, avisos = procesar(a.ficheros, a.todas, set(a.solo.split(",")) if a.solo else None)
     for x in avisos:
         print("AVISO:", x)
     print(f"{len(jugadores)} cuotas de jugador "
           f"({sum(j['mercado'] == 'remates' for j in jugadores)} remates, "
-          f"{sum(j['mercado'] == 'a puerta' for j in jugadores)} a puerta)")
+          f"{sum(j['mercado'] == 'a puerta' for j in jugadores)} a puerta, "
+          f"{sum(j['mercado'] == 'goles' for j in jugadores)} goleador)")
     if a.ver:
         return 0
     ruta = Path(a.cuotas)

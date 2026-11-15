@@ -52,6 +52,8 @@ este fichero y sobre las skills si chocan.
    y guarda la dirección con `python ligas.py anotar "<liga>" --bet365 "<dirección>"` (es lo único
    de la ficha que puedes cambiar). Dilo en el informe final.
 3. Para cada partido: `find` el nombre del equipo local en la lista → clic → espera 4 s →
+   en Populares, la tabla **"Anotará o asistirá"** (goleador, desde 2026-11-15): pulsa su "Ver más"
+   hasta que salgan todos los jugadores (si no está en Populares, búscala con `find "Anotará"`) →
    `get_page_text` (pestaña Populares) → pestaña **Remates** (ver abajo) → vuelve a la página de la
    liga. Las referencias caducan al navegar: haz `find` de nuevo para cada partido.
    **Remates desde "Crear apuesta"** (desde 2026-11-13, lo pidió el usuario): ahí salen los remates
@@ -79,6 +81,8 @@ este fichero y sobre las skills si chocan.
    Las cuotas de jugador NO las copies tú: las saca el script del texto bruto, que casa cada cuota
    con su jugador aunque falten casillas:
    `python parsear_remates.py --cuotas <carpeta>/cuotas.json --local "<local>" --visitante "<visitante>" <carpeta>/bruto/<local>-<visitante>_remates_local.txt <carpeta>/bruto/<local>-<visitante>_remates_visitante.txt`
+   Y el goleador, del texto de Populares (solo la columna "Anotará"):
+   `python parsear_remates.py --cuotas <carpeta>/cuotas.json --local "<local>" --visitante "<visitante>" --solo goles <carpeta>/bruto/<local>-<visitante>.txt`
    Mira lo que imprime: por cada tabla, jugadores y cuotas por línea. Si una tabla tiene menos
    jugadores de los que viste en pantalla, o no sale, el texto guardado está incompleto: vuelve a
    leerla y a guardarla. Los `AVISO: ... empate` dejan sin copiar casillas dudosas (suelen ser de
@@ -119,6 +123,10 @@ Jugadores (`jugadores`): de las tablas "Remates a puerta" (`"mercado": "a puerta
 (`"mercado": "remates"`) de Crear apuesta, un equipo cada vez y ya desplegadas con "Mostrar más"
 (todos los jugadores de los dos equipos); si no están, las de la pestaña Remates o las de Populares. Cada fila de cuotas `N+`
 es una línea: `"linea": N`. El script copia las cuotas >= 1.50 de cada jugador, con el nombre tal como sale en bet365.
+Goleador (`"mercado": "goles"`, `"linea": 1`): columna "Anotará" de la tabla "Anotará o asistirá"
+(Populares, con "Ver más" hasta el final). Lo copia el script con `--solo goles`; "Asistirá" y
+"Anotará o asistirá" (columnas) no se copian. Si la tabla no existe o tiene otro formato, dilo en
+`lecciones.md` con el texto literal.
 Los números junto al nombre del jugador son sus remates de los últimos partidos, NO cuotas; y
 "No disp." bajo el nombre es la estadística, no la cuota (esos jugadores sí tienen cuotas).
 
