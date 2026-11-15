@@ -410,16 +410,6 @@ def _h2h(D, a, b, n=5):
             + '; '.join(f'{str(r.fecha)[:10]} {r.local} {int(r.gl)}-{int(r.gv)} {r.visitante}' for r in m.itertuples()))
 
 
-def _titular_base(ult3, titular_ultimo):
-    """Patron de titularidad en los 3 ultimos partidos de su equipo -> probabilidad de partida.
-    Es solo el punto de partida: el analista la ajusta con las noticias."""
-    if ult3 == 3:
-        return 0.9
-    if ult3 == 2:
-        return 0.7 if titular_ultimo else 0.5
-    return 0.3 if ult3 == 1 else 0.1
-
-
 def _num(v, d=2):
     v = float(np.asarray(v, float).mean())
     return round(v, d) if np.isfinite(v) else None
@@ -475,19 +465,29 @@ def contexto_datos(carpeta, forzar=False):
         if not arb['nombre']:
             alertas.append('árbitro sin designar todavía (el simulador lo vuelve a buscar)')
         fl, dl = _forma(D, loc); fv, dv = _forma(D, vis)
+        # titularidad de partida y bajas de FotMob (xi_fotmob.py, 2026-11-16)
+        import xi_fotmob
+        XI = xi_fotmob.info(liga, loc, vis, P.get('inicio_utc'))
+        if not XI:
+            alertas.append('sin datos de FotMob (XI y bajas): titularidad de partida con ESPN')
         tp, jug = {}, {}
         for nom in dict.fromkeys(j['jugador'] for j in P.get('jugadores', [])):
             x, err, el, ev = JG.buscar(nom, loc, vis, solo_titular=False)
+            if not err:
+                x = x[x.liga == liga]
+                if not len(x):
+                    err = 'sin datos en ESPN en esta liga'
             if err:
-                jug[nom] = {'nota': err}; alertas.append(f'{nom}: {err}'); continue
-            x = x[x.liga == liga]
-            if not len(x):
-                jug[nom] = {'nota': 'sin datos en ESPN en esta liga'}
-                alertas.append(f'{nom}: sin datos en ESPN en esta liga'); continue
+                jug[nom] = {'nota': err}; alertas.append(f'{nom}: {err}')
+                nf = xi_fotmob.casar(nom, XI)          # sin ESPN, FotMob sigue valiendo
+                if nf:
+                    jug[nom]['fotmob'] = XI['jugadores'][nf]; tp[nom] = XI['jugadores'][nf]['base']
+                continue
             eq = x.sort_values('fecha').equipo.iloc[-1]
-            ult = J[J.equipo == eq].drop_duplicates('espn_id').sort_values('fecha').espn_id.tolist()[-3:]
+            ult5 = J[J.equipo == eq].drop_duplicates('espn_id').sort_values('fecha').espn_id.tolist()[-5:]
+            ult = ult5[-3:]
             tit = x[x.titular & (x.equipo == eq)].sort_values('fecha')
-            u3 = int(tit.espn_id.isin(ult).sum())
+            u3 = int(tit.espn_id.isin(ult).sum()); u5 = int(tit.espn_id.isin(ult5).sum())
             ultimo_tit = bool(len(ult) and (tit.espn_id == ult[-1]).any())
             mins = pd.to_numeric(tit.minutos, errors='coerce')
             jug[nom] = {
@@ -500,13 +500,25 @@ def contexto_datos(carpeta, forzar=False):
                 'a_puerta_ultimos_5': [int(v) for v in tit.tiros_puerta.dropna().tail(5)],
                 'ultima_titularidad': None if not len(tit) else str(tit.fecha.iloc[-1])[:10],
                 'nota': ''}
-            tp[nom] = _titular_base(u3, ultimo_tit)
+            nf = xi_fotmob.casar(nom, XI)
+            if nf:
+                jug[nom]['fotmob'] = XI['jugadores'][nf]
+                tp[nom] = XI['jugadores'][nf]['base']
+                if XI['jugadores'][nf]['baja']:
+                    alertas.append(f"{nom}: baja en FotMob ({XI['jugadores'][nf]['baja']})")
+            else:
+                # sin FotMob: la misma tabla con lo de ESPN (puede ir una jornada por detras)
+                tp[nom] = round(xi_fotmob.p_patron(u5, ultimo_tit), 3)
+                if XI:
+                    alertas.append(f'{nom}: sin emparejar con FotMob (titularidad de partida con ESPN)')
             if len(tit) < MUESTRA_MIN:
                 alertas.append(f'{nom}: solo {len(tit)} titularidades (muestra corta)')
         partidos.append({
             'local': loc, 'visitante': vis, 'inicio_utc': P.get('inicio_utc', ''),
-            'titular_prob': tp, 'jugadores': jug,
-            'bajas_local': [], 'bajas_visitante': [],
+            'titular_prob': tp, 'titular_base': dict(tp), 'jugadores': jug,
+            'xi_fotmob': XI['xi'] if XI else None,
+            'bajas_local': XI['equipos'].get('local', {}).get('bajas', []) if XI else [],
+            'bajas_visitante': XI['equipos'].get('visitante', {}).get('bajas', []) if XI else [],
             'forma_local': fl, 'forma_visitante': fv,
             'ultimos_local': dl, 'ultimos_visitante': dv,
             'motor': mot, 'arbitro': arb, 'h2h': _h2h(D, loc, vis),

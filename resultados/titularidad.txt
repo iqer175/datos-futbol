@@ -1,0 +1,6 @@
+Titularidad prevista frente a la real (2026-11-15)
+454 jugadores con cuota en 11 partidos; titulares 36.3%
+  titular_prob (analista)        n= 454  log-loss 0.4727  prob media 39.4%  real 36.3%
+      (0.0, 0.5]  n= 305  prevista 17.1%  real 17.4%
+      (0.5, 0.8]  n=  38  prevista 70.0%  real 76.3%
+      (0.8, 0.9]  n= 111  prevista 90.0%  real 74.8%

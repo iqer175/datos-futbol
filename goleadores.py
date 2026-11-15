@@ -108,7 +108,8 @@ class Partido:
             cols = e.get('columnas', [])
             prev = [i for i, c in enumerate(cols) if c and not c.get('este') and str(pd.Timestamp(c['fecha'])) < t
                     and ((c.get('stats') or {}).get('xg') or 0) > 0]
-            lid = q['liga']['id'] if isinstance(q.get('liga'), dict) else None
+            lg = q.get('liga') or (jx.get('partido') or {}).get('liga')     # el calendario no trae la liga
+            lid = lg['id'] if isinstance(lg, dict) else None
             lp = [i for i in prev if cols[i].get('liga_id') == lid] or prev
             xl = co['xg_liga'].get(str(lid), np.mean(list(co['xg_liga'].values())))
             eq_rate = (sum(cols[i]['stats']['xg'] for i in lp) + co['K_eq'] * xl) / (len(lp) + co['K_eq'])

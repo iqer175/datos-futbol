@@ -28,8 +28,13 @@ y fecha, y decir qué no se pudo verificar.
 Escribe `contexto.json` con, para cada partido: motor (Elo, goles esperados, córners, tarjetas,
 probabilidades), forma de los 6 últimos partidos, H2H, y para cada jugador de `cuotas.json` sus
 titularidades, si fue titular en los 3 últimos partidos de su equipo, minutos medios y remates de
-los 5 últimos. Deja `titular_prob` con un valor de partida según ese patrón (3 de 3 → 0.9; 2 de 3
-→ 0.7 o 0.5; 1 de 3 → 0.3; ninguno → 0.1) y `"noticias": "pendiente"`. También pone `arbitro`
+los 5 últimos. Desde 2026-11-16 deja `titular_prob` (y una copia fija en `titular_base`, que NO
+tocas) con la probabilidad de partida de `xi_fotmob.py`: titularidades en los 5 últimos partidos de
+LIGA según FotMob (tabla medida: 5 de 5 → 0,88; 4 de 5 con el último → 0,77; 0 de 5 → 0,08...) y
+sus bajas (fuera → 0,03; "Doubtful" → la mitad). Rellena `bajas_local`/`bajas_visitante` con las
+bajas de FotMob (`"fuente": "FotMob"`) y `jugadores.<nombre>.fotmob` con su detalle. `xi_fotmob`
+dice qué XI da FotMob: "lastStarting11" es el once del último partido de cualquier competición
+(¡también copa!), NO una previsión; "predicted" sí lo es. Y `"noticias": "pendiente"`. También pone `arbitro`
 (nombre, factor de tarjetas y partidos en la base); si sale `"sin designar"` y las noticias dan el
 árbitro, escribe solo su `nombre` completo (como lo da FotMob, p. ej. "Jesús Gil Manzano") y deja
 el factor, que el simulador lo recalcula.
@@ -66,9 +71,13 @@ Edita el fichero que dejó el script. Solo tocas estos campos:
   - Alineación oficial publicada: 1.0 si está, 0.0 si no.
   - Lesión o sanción confirmada → 0.0. Duda → 0.4-0.6. Rotación probable → baja 0.2.
   - Sin noticias: deja el valor del script.
-  Las claves son el nombre EXACTO de `cuotas.json`; no las cambies.
+  - Una baja de FotMob vale como punto de partida, no como confirmación: compruébala con la prensa
+    (FotMob tarda a veces en quitar a un lesionado que ya entrena, o en poner una sanción).
+  Las claves son el nombre EXACTO de `cuotas.json`; no las cambies. `titular_base` no se toca
+  (sirve para medir si tus ajustes mejoran la probabilidad de partida: `python xi_fotmob.py seguimiento`).
 - `jugadores.<nombre>.nota`: fuente y fecha si hay noticia.
-- `bajas_local`, `bajas_visitante`:
+- `bajas_local`, `bajas_visitante`: ya traen las de FotMob; corrige las que la prensa desmienta
+  (no las borres: pon `"desmentida": "<fuente, fecha>"`) y añade las que falten:
   `{"jugador": "...", "motivo": "lesión", "fuente": "...", "fecha": "2026-11-05"}`.
 - `alertas`: añade las tuyas a las del script (no borres las suyas).
 - `resumen`: 2-3 frases con lo que puede mover remates, goles o córners.
