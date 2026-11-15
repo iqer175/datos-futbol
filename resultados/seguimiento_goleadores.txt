@@ -1,2 +1,2 @@
-Seguimiento de goleadores (2026-11-15)
-Todavia no hay cuotas de goleador en ninguna jornada (el recolector las lee desde 2026-11-15).
+Seguimiento de goleador, asistente y anotará o asistirá (2026-11-15)
+Todavia no hay cuotas de estos mercados en ninguna jornada (el recolector las lee desde 2026-11-15/16).

@@ -21,7 +21,8 @@ se descarta.
 Uso:
   python parsear_remates.py --cuotas <cuotas.json> --local X --visitante Y bruto/a.txt bruto/b.txt
   (--todas copia también las cuotas < 1.50, para el modo cierre; --ver solo enseña, no escribe;
-   --solo goles copia solo el goleador, p. ej. de la pestaña Populares)
+   --solo "goles,asistencias,goles o asistencias" copia solo la tabla "Anotará o asistirá"
+   de Populares: columnas Anotará, Asistirá y Anotará o asistirá)
 """
 from __future__ import annotations
 
@@ -38,8 +39,9 @@ CABECERAS = {"Remates a puerta": "a puerta", "Remates": "remates",
              # goleador (2026-11-15): tabla "Anotará o asistirá" de Populares (columna "Anotará" =
              # marca en cualquier momento, linea 1) o "Jugador - Anotará" de Crear apuesta
              "Anotará o asistirá": "goles", "Jugador - Anotará": "goles"}
-# columnas con nombre en vez de "N+": "Anotará" es la linea 1 de goles; las demas no se copian
-COL_NOMBRE = {"Anotará": 1, "Asistirá": None, "Anotará o asistirá": None}
+# columnas con nombre en vez de "N+" (linea 1 de cada mercado): goleador, asistente (2026-11-16)
+# y anotara o asistira; cada columna sale como una tabla de su mercado
+COL_NOMBRE = {"Anotará": "goles", "Asistirá": "asistencias", "Anotará o asistirá": "goles o asistencias"}
 RUIDO = {"CA", "SUSTITUTO+", "Encuentro", "Match", "No disp.", "Ver más", "Ver menos",
          "Mostrar más", "Mostrar menos", "Show more", "Show less"}
 RE_LINEA = re.compile(r"(\d{1,2})\+")
@@ -74,7 +76,7 @@ def leer_tablas(texto: str) -> list[dict]:
             if x and not RE_ENTERO.fullmatch(x) and x not in RUIDO:
                 nombres.append(x)
             k += 1
-        cols, cur = {}, None
+        cols, cur, porcol = {}, None, {}
         while k < len(L):
             x = L[k]
             m = RE_LINEA.fullmatch(x)
@@ -82,17 +84,17 @@ def leer_tablas(texto: str) -> list[dict]:
                 cur = int(m.group(1))
                 cols[cur] = []
             elif mercado == "goles" and x in COL_NOMBRE:
-                if COL_NOMBRE[x] is None:
-                    break            # Asistirá / Anotará o asistirá: fin de lo que se copia
-                cur = COL_NOMBRE[x]
+                cur = 1
+                cols = porcol.setdefault(COL_NOMBRE[x], {})
                 cols[cur] = []
             elif cur is not None and RE_CUOTA.fullmatch(x):
                 cols[cur].append(float(x))
             elif x:
                 break
             k += 1
-        if nombres and cols:
-            tablas.append({"mercado": mercado, "equipo": equipo, "jugadores": nombres, "cols": cols})
+        for mc, cc in (porcol.items() if porcol else [(mercado, cols)]):
+            if nombres and cc:
+                tablas.append({"mercado": mc, "equipo": equipo, "jugadores": nombres, "cols": cc})
     return tablas
 
 
@@ -243,7 +245,9 @@ def main() -> int:
     print(f"{len(jugadores)} cuotas de jugador "
           f"({sum(j['mercado'] == 'remates' for j in jugadores)} remates, "
           f"{sum(j['mercado'] == 'a puerta' for j in jugadores)} a puerta, "
-          f"{sum(j['mercado'] == 'goles' for j in jugadores)} goleador)")
+          f"{sum(j['mercado'] == 'goles' for j in jugadores)} goleador, "
+          f"{sum(j['mercado'] == 'asistencias' for j in jugadores)} asistente, "
+          f"{sum(j['mercado'] == 'goles o asistencias' for j in jugadores)} anotará o asistirá)")
     if a.ver:
         return 0
     ruta = Path(a.cuotas)
