@@ -1,0 +1,3 @@
+Cuotas de LudoProps frente al recolector (2026-11-15)
+Todavia no hay lecturas de LudoProps de partidos con cuotas.json (lanzar "python cuotas_ludoprops.py leer --dir <carpeta>" justo despues del recolector).
+Uso en cierres: NO (datos/ludoprops_validacion.json)

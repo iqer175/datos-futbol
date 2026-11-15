@@ -141,11 +141,16 @@ Los números junto al nombre del jugador son sus remates de los últimos partido
 ```
 `leido_utc`: la "Hora del Servidor" del pie de página, pasada de CET a UTC (CET = UTC+1).
 Valida el fichero al acabar: `python -c "import json;d=json.load(open('<ruta>',encoding='utf-8'));print(len(d['partidos']))"`.
+Justo después (desde 2026-11-16), lee las mismas cuotas en LudoProps para compararlas con las tuyas:
+`python cuotas_ludoprops.py leer --dir <carpeta>` (no usa Chrome, tarda unos segundos por partido;
+escribe `ludoprops_<hora>.json`, nunca toca `cuotas.json`). Si falla, dilo en el informe y sigue: no es imprescindible.
 
 ## Modo cierre (solo si te lo piden con esas palabras)
 Sirve para guardar la cuota de cierre de los partidos que están a punto de empezar. Te dan la
 carpeta de la jornada y los partidos a releer (salen de `python cierres_jugadores.py pendientes`).
 - Relee SOLO esos partidos, con los mismos pasos 2 y 3 y las mismas reglas de bet365.
+- Al acabar, `python cuotas_ludoprops.py leer --dir <carpeta> --partido "<local> - <visitante>" ...`
+  con esos mismos partidos (sirve para validar LudoProps también en los cierres).
 - Copia los mismos mercados; las tablas de jugadores, con `parsear_remates.py --todas --cuotas
   <carpeta>/cierre_<...>.json` (copia también las menores de 1.50: la cuota puede haber bajado de ahí).
   El texto bruto de cierre va en `bruto_cierre/` (no en `bruto/`).

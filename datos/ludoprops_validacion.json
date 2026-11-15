@@ -1,0 +1,4 @@
+{
+ "usar_en_cierres": false,
+ "nota": "Poner true solo con el visto bueno del usuario, cuando cuotas_ludoprops.py comparar diga COINCIDEN."
+}
