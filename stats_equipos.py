@@ -2,7 +2,7 @@
 stats_equipos.py -- cruza datos/stats_equipos.csv (FotMob) con datos/partidos.csv.
 
   import stats_equipos
-  df = stats_equipos.unir(df)    # anade fm_<stat>_l / fm_<stat>_v a cada partido emparejado
+  df = stats_equipos.unir(df)    # anade fm_<stat>_l / fm_<stat>_v y fm_partido_id a cada partido emparejado
 
 Emparejado por nombre de equipo (datos/arbitros_equipos.csv: partidos.csv -> FotMob),
 fecha +-1 dia y marcador. Partidos sin emparejar quedan en NaN.
@@ -34,11 +34,11 @@ def unir(df):
     out = []
     for k in (0, -1, 1):     # mismo dia primero; luego +-1 (husos)
         S2 = S.assign(_dia=S.dia + pd.Timedelta(days=k))
-        m = d.merge(S2[['_dia', 'equipo', 'rival', 'gf', 'gc'] + list(cols)],
+        m = d.merge(S2[['_dia', 'equipo', 'rival', 'gf', 'gc', 'partido_id'] + list(cols)],
                     left_on=['_dia', '_fl', '_fv'], right_on=['_dia', 'equipo', 'rival'])
         m = m[(m.gf == m.gl) & (m.gc == m.gv)]
-        out.append(m[['_i'] + list(cols)])
-    M = pd.concat(out).drop_duplicates('_i').rename(columns=cols)
+        out.append(m[['_i', 'partido_id'] + list(cols)])
+    M = pd.concat(out).drop_duplicates('_i').rename(columns={**cols, 'partido_id': 'fm_partido_id'})
     d = d.merge(M, on='_i', how='left').drop(columns=['_dia', '_fl', '_fv', '_i'])
     return d
 

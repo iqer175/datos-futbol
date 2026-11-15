@@ -239,6 +239,7 @@ class Jugadores:
 # ---------------------------------------------------------------- simulacion
 def simular_jornada(carpeta, n_sim=200_000, ancla=True):
     import arbitros
+    import goleadores
     import stats_equipo
     import motor
     import remates_equipo
@@ -328,10 +329,21 @@ def simular_jornada(carpeta, n_sim=200_000, ancla=True):
             filas.append(dict(base, tipo='equipo', apuesta=k.replace('R:', ''), cuota=o, prob=p,
                               titularidades=np.nan, p_titular=np.nan, aviso=' | '.join(av), goles=origen,
                               clave=k))
+        GOL = None
         for j in P.get('jugadores', []):
             nom, mk, ln, o = j['jugador'], j['mercado'], int(j['linea']), j['cuota']
-            p, av, nom_e, nt = JG.evaluar(nom, mk, ln, loc, vis, RA)
-            p_solo = JG.evaluar(nom, mk, ln, loc, vis, RA, sustituto=False)[0]
+            if mk == 'goles':
+                # goleador con el xG de FotMob (goleadores.py; en prueba desde 2026-11-15), con los
+                # goles esperados del equipo del ancla (o del motor si no hay ancla)
+                if GOL is None:
+                    Rg = RA or R
+                    GOL = goleadores.Partido(liga, loc, vis, P.get('inicio_utc'), Rg['lh'], Rg['la'])
+                p, av, nom_e, nt = GOL.prob(nom, ln)
+                p_solo = GOL.prob(nom, ln, sustituto=False)[0]
+                av += ' | ' + goleadores.AVISO
+            else:
+                p, av, nom_e, nt = JG.evaluar(nom, mk, ln, loc, vis, RA)
+                p_solo = JG.evaluar(nom, mk, ln, loc, vis, RA, sustituto=False)[0]
             pt = float(cx.get('titular_prob', {}).get(nom, np.nan))
             if not np.isnan(pt) and pt < P_TITULAR_MIN:
                 av += f' | titularidad dudosa ({pt:.0%})'
