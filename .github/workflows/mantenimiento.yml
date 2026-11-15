@@ -1,0 +1,120 @@
+name: Mantenimiento FotMob (arbitros y estadisticas de equipo)
+
+# Tareas que dependen de la API de LudoProps (FotMob). Van APARTE de actualizar.yml a proposito:
+# si LudoProps falla o cambia, esto falla solo (y avisa), pero la actualizacion de datos sigue.
+#  - semanal (martes, despues de actualizar.yml de las 06:00): tabla de arbitros y ultimos
+#    partidos de estadisticas de equipo
+#  - mensual (el primer martes de cada mes): reajuste del modelo de estadisticas de equipo y de
+#    la tabla de titularidad
+on:
+  schedule:
+    - cron: "0 8 * * 2"
+  workflow_dispatch:
+    inputs:
+      mensual:
+        description: "Hacer tambien lo mensual (reajustes)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: escribir-repo        # el mismo que actualizar.yml y capturar.yml: nunca dos push a la vez
+  cancel-in-progress: false
+
+jobs:
+  mantenimiento:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      # cada paso puede fallar sin parar los demas; al final, si alguno fallo, el workflow
+      # sale en rojo (GitHub te avisa) DESPUES de publicar lo que si salio bien
+      - name: Arbitros (python arbitros.py actualizar)
+        id: arbitros
+        continue-on-error: true
+        timeout-minutes: 30
+        run: python arbitros.py actualizar
+
+      - name: Estadisticas de equipo recientes
+        id: stats
+        continue-on-error: true
+        timeout-minutes: 30
+        run: python descargar_stats_equipos.py --recientes
+
+      - name: Es dia de lo mensual?
+        id: mes
+        run: |
+          if [ "$(date -u +%d)" -le 7 ] || [ "${{ inputs.mensual }}" = "true" ]; then
+            echo "toca=1" >> "$GITHUB_OUTPUT"; echo "Toca lo mensual."
+          else
+            echo "toca=0" >> "$GITHUB_OUTPUT"; echo "Lo mensual va el primer martes del mes."
+          fi
+
+      - name: Reajuste del modelo de estadisticas de equipo (mensual)
+        id: modelo
+        if: steps.mes.outputs.toca == '1' && steps.stats.outcome == 'success'
+        continue-on-error: true
+        timeout-minutes: 40
+        run: python stats_equipo_modelo.py
+
+      - name: Tabla de titularidad (mensual)
+        id: titular
+        if: steps.mes.outputs.toca == '1'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python xi_fotmob.py tabla
+
+      - name: Comprobar que nada salio vacio
+        id: comprobar
+        continue-on-error: true
+        run: |
+          for f in datos/agregados/arbitros_factor.csv datos/stats_equipos.csv datos/agregados/stats_equipo_coef.json; do
+            test -s "$f" || { echo "$f vacio"; exit 1; }
+          done
+          n=$(($(wc -l < datos/agregados/arbitros_factor.csv) - 1))
+          echo "Arbitros en la tabla: $n"
+          [ "$n" -ge 300 ] || { echo "Muy pocos arbitros: algo fue mal"; exit 1; }
+          m=$(($(wc -l < datos/stats_equipos.csv) - 1))
+          echo "Filas en stats_equipos.csv: $m"
+          [ "$m" -ge 20000 ] || { echo "Muy pocas filas en stats_equipos.csv"; exit 1; }
+
+      - name: Publicar cambios
+        if: steps.comprobar.outcome == 'success'
+        run: |
+          git config user.name  "actualizador-futbol"
+          git config user.email "actions@github.com"
+          for f in datos/arbitros_fotmob.jsonl datos/arbitros_partidos.csv datos/arbitros_equipos.csv \
+                   datos/agregados/arbitros_factor.csv datos/stats_equipos.csv \
+                   datos/agregados/stats_equipo_coef.json resultados/stats_equipo.txt \
+                   datos/agregados/titular_tabla.json; do
+            if [ -e "$f" ]; then git add "$f"; fi
+          done
+          if git diff --staged --quiet; then
+            echo "Sin cambios que publicar."
+          else
+            git commit -m "Mantenimiento FotMob $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Avisar si algo fallo
+        if: >-
+          steps.arbitros.outcome == 'failure' || steps.stats.outcome == 'failure' ||
+          steps.modelo.outcome == 'failure' || steps.titular.outcome == 'failure' ||
+          steps.comprobar.outcome == 'failure'
+        run: |
+          echo "arbitros=${{ steps.arbitros.outcome }} stats=${{ steps.stats.outcome }} modelo=${{ steps.modelo.outcome }} titular=${{ steps.titular.outcome }} comprobar=${{ steps.comprobar.outcome }}"
+          echo "Algun paso fallo (puede ser que LudoProps no responda o haya cambiado). Lo demas se publico."
+          exit 1
