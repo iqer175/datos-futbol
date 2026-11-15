@@ -1,0 +1,59 @@
+Ajuste 2025-26 (6,221 partidos): alpha NB remates = 0.0489, rho entre equipos = -0.220
+  remates  local  real-perfil = +1.282 +1.009·gap   visitante -1.220 -0.753·gap
+  a puerta local  real-perfil = +0.439 +0.437·gap   visitante -0.405 -0.281·gap
+Prueba 2026-27 (1,849 partidos), coeficientes congelados. LL = log-loss (menor es mejor).
+
+mercado                        real           liga         perfil perfil+dominio        LL liga      LL perfil LL perfil+domi
+remates local más 8.5         88.6%          88.7%          84.5%          88.5%         0.3545         0.3398         0.3253
+remates local más 10.5        76.9%          76.7%          70.3%          76.9%         0.5384         0.5211         0.4982
+remates local más 12.5        62.8%          61.2%          53.6%          62.4%         0.6587         0.6381         0.6056
+remates local más 14.5        50.0%          45.0%          37.6%          47.1%         0.6978         0.6888         0.6434
+remates local más 16.5        36.7%          30.5%          24.3%          33.2%         0.6685         0.6607         0.6094
+remates visitante más 6.5     89.2%          91.3%          94.1%          90.2%         0.3424         0.3442         0.3225
+remates visitante más 8.5     78.0%          78.9%          84.9%          77.6%         0.5255         0.5187         0.4910
+remates visitante más 10.5    63.0%          61.8%          70.8%          61.1%         0.6571         0.6386         0.6115
+remates visitante más 12.5    46.1%          43.7%          54.3%          44.0%         0.6854         0.6620         0.6335
+remates visitante más 14.5    32.5%          27.9%          38.2%          29.1%         0.6330         0.6000         0.5813
+a puerta local más 2.5        82.6%          82.5%          78.5%          82.1%         0.4616         0.4493         0.4358
+a puerta local más 3.5        69.4%          67.3%          62.0%          67.4%         0.6141         0.6006         0.5790
+a puerta local más 4.5        54.5%          50.6%          44.9%          51.4%         0.6878         0.6747         0.6464
+a puerta local más 5.5        37.8%          35.1%          30.0%          36.5%         0.6604         0.6461         0.6216
+a puerta local más 6.5        24.0%          22.7%          18.7%          24.4%         0.5465         0.5301         0.5124
+a puerta visitante más 1.5    87.3%          89.2%          91.4%          88.3%         0.3822         0.3790         0.3669
+a puerta visitante más 2.5    73.3%          74.4%          79.0%          73.4%         0.5826         0.5755         0.5613
+a puerta visitante más 3.5    56.6%          56.2%          62.6%          55.6%         0.6833         0.6679         0.6530
+a puerta visitante más 4.5    39.7%          38.5%          45.5%          38.6%         0.6675         0.6491         0.6336
+a puerta visitante más 5.5    25.8%          24.2%          30.6%          24.8%         0.5660         0.5456         0.5281
+remates partido más 19.5      90.7%          85.1%          85.9%          88.9%         0.3212         0.3115         0.3029
+remates partido más 21.5      83.3%          76.0%          77.2%          80.3%         0.4612         0.4505         0.4428
+remates partido más 23.5      72.7%          65.1%          66.7%          69.2%         0.5918         0.5789         0.5733
+remates partido más 25.5      59.7%          53.2%          55.2%          56.6%         0.6778         0.6645         0.6636
+remates partido más 27.5      48.4%          41.5%          43.6%          43.7%         0.6948         0.6827         0.6851
+a puerta partido más 6.5      78.4%          74.9%          75.3%          76.8%         0.5196         0.5144         0.5123
+a puerta partido más 7.5      67.8%          63.5%          64.1%          65.4%         0.6266         0.6190         0.6173
+a puerta partido más 8.5      54.9%          51.4%          52.2%          53.1%         0.6855         0.6778         0.6767
+a puerta partido más 9.5      42.8%          39.8%          40.7%          41.0%         0.6751         0.6637         0.6644
+a puerta partido más 10.5     31.6%          29.4%          30.4%          30.2%         0.6175         0.6080         0.6092
+
+Log-loss medio de todas las líneas: liga 0.5828, perfil 0.5700, perfil+dominio 0.5536
+
+Calibración por quintiles, remates local 10.5:
+                  n  pred  real
+q                              
+(0.235, 0.693]  370  60.8  57.0
+(0.693, 0.757]  373  72.9  73.2
+(0.757, 0.805]  366  78.2  80.3
+(0.805, 0.857]  370  83.1  80.8
+(0.857, 0.979]  370  89.7  93.0
+
+Calibración por quintiles, a puerta visitante 3.5:
+                  n  pred  real
+q                              
+(0.147, 0.458]  370  38.9  39.2
+(0.458, 0.523]  370  49.2  49.7
+(0.523, 0.584]  369  55.4  58.3
+(0.584, 0.656]  370  61.8  62.2
+(0.656, 0.917]  370  72.5  73.8
+
+Coeficientes para remates_equipo.py:
+VENTANA_LIGA = 120; COEF = dict(alpha=0.0489, rho=-0.220, ta_l=1.282, tb_l=1.009, pa_l=0.439, pb_l=0.437, ta_v=-1.220, tb_v=-0.753, pa_v=-0.405, pb_v=-0.281)

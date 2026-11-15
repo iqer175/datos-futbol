@@ -15,7 +15,26 @@
     "h2h": "datos/h2h/laliga2.csv",
     "cierres": "datos/cierres/laliga2.csv"
   },
-  "bet365_url": "",
-  "nombres_bet365": {},
-  "notas": []
+  "bet365_url": "https://www.bet365.es/#/AC/B1/C1/D1002/E136792817/F0/G40/",
+  "nombres_bet365": {
+    "CD Castellón": "Castellon",
+    "Real Sociedad B": "Sociedad B",
+    "Sporting de Gijón": "Sp Gijon",
+    "Almería": "Almeria",
+    "FC Andorra": "Andorra",
+    "Córdoba": "Cordoba",
+    "Real Oviedo": "Oviedo",
+    "Cádiz": "Cadiz",
+    "RC Celta Fortuna": "Celta B",
+    "Leganés": "Leganes"
+  },
+  "casas": {
+    "winamax": "https://www.winamax.es/apuestas-deportivas/sports/1/32/37",
+    "bwin": "https://www.bwin.es/es/sports/f%C3%BAtbol-4/apuestas/espa%C3%B1a-28/laliga-2-102830",
+    "codere": "https://m.apuestas.codere.es/deportesEs/#/EventoPage",
+    "sportium": "https://www.sportium.es/apuestas/sports/soccer/competitions/45215/matches"
+  },
+  "notas": [
+    "En bet365 la liga se llama 'Segunda División' (buscar 'Segunda'). Guardar cuotas.json con los nombres del calendario, no con los de bet365."
+  ]
 }

@@ -20,6 +20,8 @@ Uso:
   python ligas.py ficha "LaLiga"  imprime la ficha de una liga (nombre o slug)
   python ligas.py anotar "LaLiga" --bet365 <direccion>
                                   guarda en la ficha la direccion de la liga en bet365
+  python ligas.py anotar "LaLiga" --casa winamax <direccion>
+                                  guarda la direccion de la liga en otra casa (comparar_casas.py)
 """
 import json
 import sys
@@ -62,7 +64,9 @@ BET365 = {
 }
 
 # campos que rellena una persona o la sesion principal: 'fichas' nunca los pisa
-MANUALES = ('bet365_url', 'nombres_bet365', 'notas')
+# casas con las que se comparan las apuestas candidatas (comparar_casas.py, 2026-11-11)
+CASAS = ('winamax', 'bwin', 'codere', 'sportium')
+MANUALES = ('bet365_url', 'nombres_bet365', 'notas', 'casas')
 
 
 def _nz(s):
@@ -117,6 +121,7 @@ def ficha_base(nombre):
                   'h2h': f'datos/h2h/{datos}.csv', 'cierres': f'datos/cierres/{datos}.csv'},
         'bet365_url': BET365.get(nombre, ''),
         'nombres_bet365': {},
+        'casas': {},
         'notas': [],
     }
 
@@ -158,5 +163,16 @@ if __name__ == '__main__':
         (carpeta(a[1]) / 'ficha.json').write_text(json.dumps(f, indent=2, ensure_ascii=False) + '\n',
                                                   encoding='utf-8', newline='\n')
         print(f'{f["liga"]}: bet365_url = {a[3]}')
+    elif a[0] == 'anotar' and len(a) == 5 and a[2] == '--casa':
+        casa, url = a[3].lower(), a[4]
+        if casa not in CASAS:
+            raise SystemExit('Casa desconocida: ' + casa + '. Validas: ' + ', '.join(CASAS))
+        if not url.startswith('https://'):
+            raise SystemExit('La direccion tiene que empezar por https://')
+        f = ficha(a[1]) or ficha_base(resolver(a[1]))
+        f.setdefault('casas', {})[casa] = url
+        (carpeta(a[1]) / 'ficha.json').write_text(json.dumps(f, indent=2, ensure_ascii=False) + '\n',
+                                                  encoding='utf-8', newline='\n')
+        print(f'{f["liga"]}: casas[{casa}] = {url}')
     else:
         raise SystemExit(__doc__)

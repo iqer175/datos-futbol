@@ -1,0 +1,1288 @@
+{
+ "liga": "LaLiga Hypermotion",
+ "leido_utc": "2026-11-13T17:53Z",
+ "prueba": true,
+ "nota_prueba": "Remates de equipo y del partido no aparecen en la pestana Remates de ninguno de los dos partidos. Columna 4+ y superiores NO copiadas (recuento incompleto, sin lectura fila a fila). Tabla Remates a puerta NO leida.",
+ "partidos": [
+  {
+   "local": "Valladolid",
+   "visitante": "Castellon",
+   "inicio_utc": "2026-11-14T13:00Z",
+   "leido_utc": "2026-11-13T17:51Z",
+   "mercados": {
+    "1": 2.9,
+    "X": 3.5,
+    "2": 2.3,
+    "Más 2.5": 1.7,
+    "Menos 2.5": 2.1,
+    "Más 1.5": 1.2,
+    "Menos 1.5": 4.33,
+    "Más 3.5": 2.62,
+    "Menos 3.5": 1.44,
+    "Más 4.5": 5.0,
+    "Menos 4.5": 1.16,
+    "Ambos marcan - Sí": 1.57,
+    "Ambos marcan - No": 2.25,
+    "1 & Ambos marcan - Sí": 5.0,
+    "2 & Ambos marcan - Sí": 4.0,
+    "X & Ambos marcan - Sí": 4.33,
+    "1 & Ambos marcan - No": 6.0,
+    "2 & Ambos marcan - No": 4.5,
+    "X & Ambos marcan - No": 13.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": [
+    {
+     "jugador": "Adam Jakobsen",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.5
+    },
+    {
+     "jugador": "Ousmane Camara",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.5
+    },
+    {
+     "jugador": "Yeray Cabanzon",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.53
+    },
+    {
+     "jugador": "Axel Perez",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Brain Obosso",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "David Nzanza",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.61
+    },
+    {
+     "jugador": "Iñigo Córdoba",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Israel Suero",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Miguel Ferrer",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.72
+    },
+    {
+     "jugador": "Oscar Albiol",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Robin Van Duiven",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.61
+    },
+    {
+     "jugador": "Victor Barbera",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Alvaro Garcia",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.72
+    },
+    {
+     "jugador": "Raul Sanchez",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.72
+    },
+    {
+     "jugador": "Marcos Andre",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.9
+    },
+    {
+     "jugador": "Hugo Calvo",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.9
+    },
+    {
+     "jugador": "Tai Abed",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.9
+    },
+    {
+     "jugador": "Victor Fernandez",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.9
+    },
+    {
+     "jugador": "Alvaro Martin",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 2.1
+    },
+    {
+     "jugador": "Luis Chacon",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 2.0
+    },
+    {
+     "jugador": "Fernandez Tomy",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 2.1
+    },
+    {
+     "jugador": "Ivan Alejo",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 2.2
+    },
+    {
+     "jugador": "Julien Ponceau",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 2.2
+    },
+    {
+     "jugador": "Pablo Santiago Lopez",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 2.2
+    },
+    {
+     "jugador": "Kaj de Rooij",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 2.25
+    },
+    {
+     "jugador": "Daniel Perez Guerrero",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 1.8
+    },
+    {
+     "jugador": "Daniel Perez Guerrero",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 3.4
+    },
+    {
+     "jugador": "Fran Castillo",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 1.8
+    },
+    {
+     "jugador": "Fran Castillo",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 3.4
+    },
+    {
+     "jugador": "Marcos Parriego",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 1.8
+    },
+    {
+     "jugador": "Marcos Parriego",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Rodrigo Rego",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 1.8
+    },
+    {
+     "jugador": "Rodrigo Rego",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Jari Vlak",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.1
+    },
+    {
+     "jugador": "Jari Vlak",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Antonio Gala",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Antonio Gala",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 5.0
+    },
+    {
+     "jugador": "Hamza Bellari",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Hamza Bellari",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Homam Ahmed",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Homam Ahmed",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 5.0
+    },
+    {
+     "jugador": "Matias Orozco",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Matias Orozco",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Thiago Ojeda",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Thiago Ojeda",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Mathis Lachuer",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.5
+    },
+    {
+     "jugador": "Mathis Lachuer",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Diego Barri",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Diego Barri",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 6.5
+    },
+    {
+     "jugador": "Clement Michelin",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Clement Michelin",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Alex Balboa",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.53
+    },
+    {
+     "jugador": "Alex Balboa",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 3.4
+    },
+    {
+     "jugador": "Alex Balboa",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Jeremy Mellot",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.53
+    },
+    {
+     "jugador": "Jeremy Mellot",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 3.4
+    },
+    {
+     "jugador": "Jeremy Mellot",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Stanko Juric",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.53
+    },
+    {
+     "jugador": "Stanko Juric",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 3.4
+    },
+    {
+     "jugador": "Stanko Juric",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Ramon Martinez",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.57
+    },
+    {
+     "jugador": "Ramon Martinez",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Ramon Martinez",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 10.0
+    },
+    {
+     "jugador": "Miguel Rubio",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.61
+    },
+    {
+     "jugador": "Miguel Rubio",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 3.75
+    },
+    {
+     "jugador": "Miguel Rubio",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 10.0
+    },
+    {
+     "jugador": "Alejandro Galdeano",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Alejandro Galdeano",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 4.0
+    },
+    {
+     "jugador": "Alejandro Galdeano",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Carlos Clerc",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Carlos Clerc",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 4.0
+    },
+    {
+     "jugador": "Carlos Clerc",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Ivan Garriel",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Ivan Garriel",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 4.0
+    },
+    {
+     "jugador": "Ivan Garriel",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Alberto Jimenez",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.72
+    },
+    {
+     "jugador": "Alberto Jimenez",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Alberto Jimenez",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Ilias Kostis",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.8
+    },
+    {
+     "jugador": "Ilias Kostis",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Ilias Kostis",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Juanjo Nieto",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.8
+    },
+    {
+     "jugador": "Juanjo Nieto",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Juanjo Nieto",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Lucas Alcazar",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.8
+    },
+    {
+     "jugador": "Lucas Alcazar",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Lucas Alcazar",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Tincho Conde",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.8
+    },
+    {
+     "jugador": "Tincho Conde",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Tincho Conde",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Federico Ceccherini",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 2.0
+    },
+    {
+     "jugador": "Federico Ceccherini",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Federico Ceccherini",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Michal Willmann",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 2.0
+    },
+    {
+     "jugador": "Michal Willmann",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Michal Willmann",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Agustin Sienra",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 2.1
+    },
+    {
+     "jugador": "Agustin Sienra",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 6.5
+    },
+    {
+     "jugador": "Agustin Sienra",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Alvaro Trilli",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Alvaro Trilli",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Alvaro Trilli",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "David Torres",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "David Torres",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "David Torres",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Pablo Tomeo",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Pablo Tomeo",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Pablo Tomeo",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 21.0
+    }
+   ]
+  },
+  {
+   "local": "Almeria",
+   "visitante": "Andorra",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "leido_utc": "2026-11-13T17:53Z",
+   "mercados": {
+    "1": 1.61,
+    "X": 4.1,
+    "2": 5.0,
+    "Sin empate 1": 1.25,
+    "Sin empate 2": 3.75,
+    "Más 2.5": 1.57,
+    "Menos 2.5": 2.35,
+    "Más 1.5": 1.16,
+    "Menos 1.5": 5.0,
+    "Más 3.5": 2.37,
+    "Menos 3.5": 1.53,
+    "Más 4.5": 4.33,
+    "Menos 4.5": 1.2,
+    "Ambos marcan - Sí": 1.61,
+    "Ambos marcan - No": 2.2,
+    "1 & Ambos marcan - Sí": 3.0,
+    "2 & Ambos marcan - Sí": 8.5,
+    "X & Ambos marcan - Sí": 4.75,
+    "1 & Ambos marcan - No": 3.25,
+    "2 & Ambos marcan - No": 11.0,
+    "X & Ambos marcan - No": 15.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": [
+    {
+     "jugador": "Thalys Henrique",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Alex Sola",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.72
+    },
+    {
+     "jugador": "Brian Cipenga",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.8
+    },
+    {
+     "jugador": "Jimenez Javi Munoz",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "Lautaro de Leon",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.9
+    },
+    {
+     "jugador": "Stefan Golubovic",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 2.0
+    },
+    {
+     "jugador": "André Horta",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 2.2
+    },
+    {
+     "jugador": "Julian Rijkhoff",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 2.2
+    },
+    {
+     "jugador": "Moro Sidibe",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 2.1
+    },
+    {
+     "jugador": "Nacho Quintana",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 2.25
+    },
+    {
+     "jugador": "Diego Diaz",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Diego Diaz",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Jordi Cano",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 1.61
+    },
+    {
+     "jugador": "Jordi Cano",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 2.75
+    },
+    {
+     "jugador": "Alex Calvo",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Alex Calvo",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Gui Guedes",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Gui Guedes",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Hugo Lopez",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Hugo Lopez",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Stefan Dzodic",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Stefan Dzodic",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Leonardo Lelo",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "Leonardo Lelo",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 3.4
+    },
+    {
+     "jugador": "Jorge Pulido",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.2
+    },
+    {
+     "jugador": "Jorge Pulido",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 4.5
+    },
+    {
+     "jugador": "Enes Sali",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Enes Sali",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Hugo Solozabal",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Hugo Solozabal",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 5.0
+    },
+    {
+     "jugador": "Kassoum Kone",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Kassoum Kone",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 5.0
+    },
+    {
+     "jugador": "Mikel Vesga",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Mikel Vesga",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Quim Junyent",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Quim Junyent",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 5.0
+    },
+    {
+     "jugador": "Randy Schneider",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Randy Schneider",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Rodrigo Ely",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.5
+    },
+    {
+     "jugador": "Rodrigo Ely",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Marc Domench",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.5
+    },
+    {
+     "jugador": "Marc Domench",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Efe Akman",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Efe Akman",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 6.0
+    },
+    {
+     "jugador": "Alex Munoz",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Alex Munoz",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Theo Le Normand",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Theo Le Normand",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Tiago Olmedo",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Tiago Olmedo",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Andrej Popovic",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.5
+    },
+    {
+     "jugador": "Andrej Popovic",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Andrej Popovic",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Daijiro Chirino",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.5
+    },
+    {
+     "jugador": "Daijiro Chirino",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Daijiro Chirino",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Marcos Luna",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.5
+    },
+    {
+     "jugador": "Marcos Luna",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Marcos Luna",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Andoni Lopez",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.53
+    },
+    {
+     "jugador": "Andoni Lopez",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Andoni Lopez",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Federico Bonini",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.53
+    },
+    {
+     "jugador": "Federico Bonini",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 3.4
+    },
+    {
+     "jugador": "Federico Bonini",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Juan Chumi",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.61
+    },
+    {
+     "jugador": "Juan Chumi",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 3.75
+    },
+    {
+     "jugador": "Juan Chumi",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 10.0
+    },
+    {
+     "jugador": "Nelson Monte",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.61
+    },
+    {
+     "jugador": "Nelson Monte",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 3.75
+    },
+    {
+     "jugador": "Nelson Monte",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 10.0
+    },
+    {
+     "jugador": "Sergio Molina",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.72
+    },
+    {
+     "jugador": "Sergio Molina",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Sergio Molina",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Marti Vila",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "Marti Vila",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 5.0
+    },
+    {
+     "jugador": "Marti Vila",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Gael Alonso",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 2.25
+    },
+    {
+     "jugador": "Gael Alonso",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Gael Alonso",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Juan Serrano",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 2.25
+    },
+    {
+     "jugador": "Juan Serrano",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Juan Serrano",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Lautaro Spatz",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 2.25
+    },
+    {
+     "jugador": "Lautaro Spatz",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Lautaro Spatz",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Thomas Carrique",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 2.25
+    },
+    {
+     "jugador": "Thomas Carrique",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Thomas Carrique",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Diego Alende",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Diego Alende",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Diego Alende",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Marc Bombardo",
+     "mercado": "remates",
+     "linea": 1,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Marc Bombardo",
+     "mercado": "remates",
+     "linea": 2,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Marc Bombardo",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 21.0
+    }
+   ]
+  }
+ ]
+}

@@ -15,6 +15,7 @@ Endpoints usados (site.api.espn.com/apis/site/v2/sports/soccer/<codigo>/...):
 Uso:
   python espn.py calendario [--dias 8]       muestra el calendario de las ligas
   python espn.py titulares  [--dias 35]      guarda jugadores y estadisticas de partidos jugados
+  python espn.py minutos                     rellena los minutos de los partidos guardados sin ellos
 """
 import argparse
 import sys
@@ -172,15 +173,38 @@ def guardar_titulares(ligas, dias=35):
     return len(nuevas)
 
 
+def rellenar_minutos():
+    """Vuelve a pedir a ESPN los partidos de jugadores.csv que no tienen minutos en ninguna
+    fila (se guardaron antes de que existiera la columna) y rellena SOLO esa columna."""
+    J = pd.read_csv(JUGADORES, dtype=str)
+    sin = J.groupby('espn_id').minutos.apply(lambda s: s.isna().all())
+    falta = J[J.espn_id.isin(sin[sin].index)].drop_duplicates('espn_id')
+    hechos = fallos = 0
+    for x in falta.itertuples():
+        jp = jugadores_partido(CODIGOS[x.liga], x.espn_id) if x.liga in CODIGOS else []
+        m = {str(a['jugador_id']): a['minutos'] for a in jp if a['minutos'] is not None}
+        if not m:
+            fallos += 1; continue
+        fila = J.espn_id == x.espn_id
+        J.loc[fila, 'minutos'] = J.loc[fila, 'jugador_id'].map(m).map(lambda v: v if pd.isna(v) else str(int(v)))
+        hechos += 1
+    if hechos:
+        J.to_csv(JUGADORES, index=False)
+    print(f'minutos: {len(falta)} partidos sin minutos, {hechos} rellenados, {fallos} sin ficha en ESPN', file=sys.stderr)
+    return hechos
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('accion', choices=['calendario', 'titulares'])
+    ap.add_argument('accion', choices=['calendario', 'titulares', 'minutos'])
     ap.add_argument('--dias', type=int, default=8)
     ap.add_argument('--ligas', default='LaLiga')
     a = ap.parse_args()
     ligas = list(CODIGOS) if a.ligas == 'todas' else a.ligas.split(',')
     if a.accion == 'calendario':
         print(calendario(ligas, datetime.now(timezone.utc), a.dias).to_string(index=False))
+    elif a.accion == 'minutos':
+        rellenar_minutos()
     else:
         guardar_titulares(ligas, a.dias)
 

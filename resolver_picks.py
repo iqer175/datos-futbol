@@ -9,6 +9,7 @@ descarga a una carpeta de JSON (un fichero por apuesta), este script decide cada
 Fuentes:
   - Remates / remates a puerta del jugador: datos/alineaciones/jugadores.csv (ESPN)
   - Goles, corners y resultado:            datos/partidos.csv (football-data)
+  - Remates del equipo / del partido:      datos/partidos.csv (en 2026-27 vienen de ESPN)
 
 Reglas de bet365 que se aplican:
   - Mercado de jugador: si no juega ni un minuto (no titular y no entra), la apuesta es NULA.
@@ -137,6 +138,23 @@ def resolver(p, df, J, PE):
             return 'revisar', 'football-data no trae corners de este partido'
         ok = c > ln if sentido == 'Más' else c < ln
         return ('ganada' if ok else 'perdida'), f'{f.local if es_l else f.visitante}: {int(c)} córners'
+    # remates del equipo o del partido: "Leganes - Más de 12.5 remates", "Más de 8.5 remates a puerta"
+    m = re.match(r'(?:(.+?) - )?(Más|Menos) de ([\d.]+) remates( a puerta)?$', sel)
+    if m:
+        eq, sentido, ln, pu = m.group(1), m.group(2), float(m.group(3)), bool(m.group(4))
+        a, b = (f.tiros_p_l, f.tiros_p_v) if pu else (f.tiros_l, f.tiros_v)
+        if pd.isna(a) or pd.isna(b):
+            return 'revisar', 'partidos.csv no trae remates de este partido'
+        if eq:
+            es_l = similitud(eq, f.local) >= similitud(eq, f.visitante)
+            x, quien = (a, f.local) if es_l else (b, f.visitante)
+        else:
+            x, quien = a + b, 'partido'
+        ud = 'remates a puerta' if pu else 'remates'
+        if x == ln:
+            return 'nula', f'{quien}: {int(x)} {ud} (igual a la línea)'
+        ok = x > ln if sentido == 'Más' else x < ln
+        return ('ganada' if ok else 'perdida'), f'{quien}: {int(x)} {ud} ({int(a)}-{int(b)}, ESPN)'
     m = re.match(r'(Más|Menos) de ([\d.]+)$', sel)
     if m:
         t = gl + gv; ln = float(m.group(2))
@@ -164,7 +182,8 @@ def main():
         ligas = sorted({p['competicion'] for p in picks if p.get('competicion') in espn.CODIGOS})
         espn.guardar_titulares(ligas, 14)
     df = pd.read_csv(DIR / 'datos' / 'partidos.csv', low_memory=False,
-                     usecols=['liga', 'fecha', 'local', 'visitante', 'gl', 'gv', 'corners_l', 'corners_v'])
+                     usecols=['liga', 'fecha', 'local', 'visitante', 'gl', 'gv', 'corners_l', 'corners_v',
+                              'tiros_l', 'tiros_v', 'tiros_p_l', 'tiros_p_v'])
     df['fecha'] = pd.to_datetime(df.fecha)
     J = pd.read_csv(DIR / 'datos' / 'alineaciones' / 'jugadores.csv', dtype=str)
     PE = partidos_espn(J)

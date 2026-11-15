@@ -15,14 +15,19 @@ peor que las simples, salvo que bet365 calcule mal la correlacion.
 
 Modelo de cada simulacion (parametros del motor v5 + medidos en 38.261 partidos):
   goles      Poisson(lh), Poisson(la) del motor; el 1X2 se recalibra con
-             CAL_LOCAL / CAL_EMPATE reponderando las simulaciones
+             CAL_LOCAL / CAL_EMPATE reponderando las simulaciones.
+             Con cuotas de 1X2 y Mas/Menos 2,5 del partido, anclar_al_mercado()
+             sustituye lh, la y el peso del empate por los que reproducen esas
+             cuotas sin margen (backtest_ancla.py, 2026-11-10: mejora los 13
+             mercados derivados de goles en 4/4 temporadas, 21.002 partidos)
   corners    total ~ binomial negativa (varianza/media 1.16, medida) repartida
              entre los dos equipos segun sus lambdas (correlacion negativa
              entre equipos, como en los datos: -0.25); cada lambda se corrige
              por el dominio del partido (CORNERS_DOMINIO, validado fuera de muestra)
   tarjetas   Poisson por equipo (los datos no estan sobredispersos), con mas
              tarjetas si el partido acaba apretado: 4.33 con 0-1 goles de
-             diferencia y 3.67 con 2+ (medido)
+             diferencia y 3.67 con 2+ (medido); analizar_jornada multiplica la media
+             por el factor del arbitro designado (arbitros.py, 2026-11-15)
   Limites: corners independientes del marcador (correlacion medida -0.01);
   tarjetas = amarillas (bet365 puede contar la roja como 2: mira la regla de
   la linea antes de apostar); sin goleadores hasta que el modelo de jugadores
@@ -36,11 +41,15 @@ Uso:
 """
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 
+from math import exp, log
+
 import numpy as np
 import pandas as pd
+from scipy.optimize import root
 
 import motor
 
@@ -49,7 +58,7 @@ N_DEF = 50_000
 VAR_MEDIA_CORNERS = 1.16          # total de corners, dentro de liga-temporada
 TARJ_APRETADO, TARJ_ABIERTO = 4.33, 3.67
 # colchones de la skill (puntos de probabilidad) por tipo de mercado
-COLCHON = {'1x2': 0.08, 'goles': 0.05, 'corners': 0.06, 'tarjetas': 0.06}
+COLCHON = {'1x2': 0.08, 'goles': 0.05, 'corners': 0.06, 'tarjetas': 0.06, 'remates_eq': 0.06, 'stats_eq': 0.06}
 # Corners por equipo segun el dominio (experimento_corners.py, 2026-11-05): ajustado en
 # 2025-26 (7.051 partidos) y probado sin reajustar en 2026-27 (2.188): mejora 9 de 10 lineas.
 #   corners local     = perfil + a_l + b_l * (Elo local - Elo visitante) / 100
@@ -58,13 +67,67 @@ CORNERS_DOMINIO = dict(a_l=0.489, b_l=0.506, a_v=-0.453, b_v=-0.373)
 COLCHON_COMBINADA = 1.25          # combinadas: cuota minima = 1.25 x cuota justa (provisional)
 
 
+# ------------------------------------------------------------------ ancla al mercado
+_K = np.arange(11)
+_I, _J = np.indices((11, 11))
+_LOGFACT = np.cumsum(np.log(np.maximum(_K, 1)))
+
+
+def _matriz(lh, la, cd):
+    """Marcadores 0-10 con Poisson independientes y el empate reponderado por exp(cd)."""
+    M = np.outer(np.exp(-lh + _K * log(lh) - _LOGFACT), np.exp(-la + _K * log(la) - _LOGFACT))
+    M[_I == _J] *= exp(cd)
+    return M / M.sum()
+
+
+def _potencia(o):
+    """Probabilidades sin margen (metodo de la potencia) de un mercado de N salidas."""
+    q = 1 / np.asarray(o, float); lo, hi = .2, 5
+    for _ in range(60):
+        k = (lo + hi) / 2
+        if (q ** k).sum() < 1: hi = k
+        else: lo = k
+    p = q ** ((lo + hi) / 2); return p / p.sum()
+
+
+def anclar_al_mercado(R, o1, ox, o2, o_mas25, o_menos25):
+    """Copia de R (motor.analizar) con los goles sacados de las cuotas del partido.
+
+    Resuelve lh, la y el peso del empate para que la simulacion reproduzca las
+    probabilidades sin margen de 1, X y Mas 2,5. No usa ningun parametro ajustado con
+    resultados. Los corners y las tarjetas siguen saliendo de los perfiles del motor.
+    Devuelve None si las cuotas no valen o no hay solucion (se simula con el motor)."""
+    try:
+        o = [float(x) for x in (o1, ox, o2, o_mas25, o_menos25)]
+    except (TypeError, ValueError):
+        return None
+    if not all(np.isfinite(x) and x > 1 for x in o):
+        return None
+    p1, px, _ = _potencia(o[:3]); po = motor.sin_margen_2(o[3], o[4])
+
+    def f(z):
+        M = _matriz(exp(z[0]), exp(z[1]), z[2])
+        return [M[_I > _J].sum() - p1, M[_I == _J].sum() - px, M[_I + _J > 2.5].sum() - po]
+    try:
+        r = root(f, [log(R['lh']), log(R['la']), motor.CAL_EMPATE], method='hybr')
+    except (OverflowError, ValueError, FloatingPointError):
+        return None
+    if not r.success or np.abs(r.fun).max() > 1e-4:
+        return None
+    return dict(R, lh=exp(r.x[0]), la=exp(r.x[1]), cal_local=0.0, cal_empate=float(r.x[2]),
+                ancla=dict(p1=float(p1), px=float(px), p_mas25=float(po), lh_motor=R['lh'], la_motor=R['la']))
+
+
 # ------------------------------------------------------------------ simulacion
 def simular(R, n=N_DEF, semilla=None):
-    """Simula a partir de la salida de motor.analizar. Devuelve dict de arrays + pesos."""
+    """Simula a partir de la salida de motor.analizar (o de anclar_al_mercado).
+    Devuelve dict de arrays + pesos."""
     rng = np.random.default_rng(semilla)
     gl = rng.poisson(R['lh'], n); gv = rng.poisson(R['la'], n)
     # pesos para que el 1X2 coincida con el del motor calibrado (CAL_LOCAL / CAL_EMPATE)
-    w = np.where(gl > gv, np.exp(motor.CAL_LOCAL), np.where(gl == gv, np.exp(motor.CAL_EMPATE), 1.0))
+    # o, si R viene anclado, con el del mercado (cal_local / cal_empate propios del partido)
+    cal_l, cal_e = R.get('cal_local', motor.CAL_LOCAL), R.get('cal_empate', motor.CAL_EMPATE)
+    w = np.where(gl > gv, np.exp(cal_l), np.where(gl == gv, np.exp(cal_e), 1.0))
     w = w / w.mean()
 
     # corners: total binomial negativa, reparto binomial por la proporcion de cada equipo
@@ -100,10 +163,71 @@ def simular(R, n=N_DEF, semilla=None):
     f = np.where(apretado, TARJ_APRETADO, TARJ_ABIERTO)
     f = f / np.average(f, weights=w)
     tl = rng.poisson(lt * sh_t * f); tv = rng.poisson(lt * (1 - sh_t) * f)
-    return dict(gl=gl, gv=gv, cl=cl, cv=cv, tl=tl, tv=tv, w=w)
+    out = dict(gl=gl, gv=gv, cl=cl, cv=cv, tl=tl, tv=tv, w=w)
+    # remates y remates a puerta de cada equipo (remates_equipo.py); independientes del marcador
+    if R.get('rem'):
+        import remates_equipo
+        out.update(remates_equipo.simular(R['rem'], n, rng))
+    # faltas, entradas, fueras de juego, paradas y centros de cada equipo (stats_equipo.py; en prueba)
+    if R.get('stq'):
+        import stats_equipo_modelo as sq
+        for s, m in R['stq'].items():
+            x = sq.simular(m, m, n, rng)
+            out[f'sq_{s}_l'], out[f'sq_{s}_v'] = x['l'], x['v']
+    return out
 
 
 # ------------------------------------------------------------------ catalogo
+# Remates del equipo / del partido: 'Remates más 24.5', 'Remates local menos 12.5',
+# 'Remates a puerta visitante más 3.5'... Linea entera: si se iguala, nula.
+_RE_REMATES = re.compile(r'^Remates( a puerta)?( local| visitante)? (más|menos) (\d+(?:\.\d)?)$')
+# nombre del mercado en bet365 -> estadistica de FotMob (stats_equipo.py)
+STATS_MERCADO = {'Faltas': 'faltas', 'Entradas': 'entradas', 'Fueras de juego': 'offsides',
+                 'Paradas': 'atajadas', 'Centros': 'centros'}
+_RE_STATS = re.compile(r'^(' + '|'.join(STATS_MERCADO) + r')( local| visitante)? (más|menos) (\d+(?:\.\d)?)$')
+
+
+class Catalogo(dict):
+    """dict de mercados que genera bajo demanda las lineas de remates de equipo."""
+    def __init__(self, S, *a, **k):
+        super().__init__(*a, **k); self._S = S
+
+    def _remates(self, k):
+        m = _RE_REMATES.match(k) if isinstance(k, str) else None
+        if not m or 'rl' not in self._S:
+            return None
+        S = self._S; pu, lado, sentido, ln = m.group(1), (m.group(2) or '').strip(), m.group(3), float(m.group(4))
+        a, b = (S['pl'], S['pv']) if pu else (S['rl'], S['rv'])
+        x = a if lado == 'local' else b if lado == 'visitante' else a + b
+        gana = x > ln if sentido == 'más' else x < ln
+        return gana, (x == ln) if ln == int(ln) else None, 'remates_eq'
+
+    def _stats(self, k):
+        m = _RE_STATS.match(k) if isinstance(k, str) else None
+        if not m:
+            return None
+        st = STATS_MERCADO[m.group(1)]
+        if f'sq_{st}_l' not in self._S:
+            return None
+        lado, sentido, ln = (m.group(2) or '').strip(), m.group(3), float(m.group(4))
+        a, b = self._S[f'sq_{st}_l'], self._S[f'sq_{st}_v']
+        x = a if lado == 'local' else b if lado == 'visitante' else a + b
+        gana = x > ln if sentido == 'más' else x < ln
+        return gana, (x == ln) if ln == int(ln) else None, 'stats_eq'
+
+    def __contains__(self, k):
+        return super().__contains__(k) or self._remates(k) is not None or self._stats(k) is not None
+
+    def __missing__(self, k):
+        v = self._remates(k)
+        if v is None:
+            v = self._stats(k)
+        if v is None:
+            raise KeyError(k)
+        self[k] = v
+        return v
+
+
 def catalogo(S):
     """{nombre: (array booleano de acierto, array de 'nula' o None, tipo)} con nombres tipo bet365."""
     gl, gv, cor, tar = S['gl'], S['gv'], S['cl'] + S['cv'], S['tl'] + S['tv']
@@ -130,7 +254,12 @@ def catalogo(S):
         C[f'Córners visitante más {ln}'] = (S['cv'] > ln, None, 'corners'); C[f'Córners visitante menos {ln}'] = (S['cv'] < ln, None, 'corners')
     for ln in (2.5, 3.5, 4.5, 5.5, 6.5):
         C[f'Tarjetas más {ln}'] = (tar > ln, None, 'tarjetas'); C[f'Tarjetas menos {ln}'] = (tar < ln, None, 'tarjetas')
-    return C
+    for ln in (0.5, 1.5, 2.5, 3.5):
+        C[f'Tarjetas local más {ln}'] = (S['tl'] > ln, None, 'tarjetas'); C[f'Tarjetas local menos {ln}'] = (S['tl'] < ln, None, 'tarjetas')
+        C[f'Tarjetas visitante más {ln}'] = (S['tv'] > ln, None, 'tarjetas'); C[f'Tarjetas visitante menos {ln}'] = (S['tv'] < ln, None, 'tarjetas')
+    ambos = (S['tl'] > 0) & (S['tv'] > 0)
+    C['Ambos reciben tarjetas - Sí'] = (ambos, None, 'tarjetas'); C['Ambos reciben tarjetas - No'] = (~ambos, None, 'tarjetas')
+    return Catalogo(S, C)
 
 
 def prob(S, C, nombre):

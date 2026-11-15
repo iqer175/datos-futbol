@@ -1,0 +1,277 @@
+{
+ "carpeta": "ligas/league-two/jornadas/2026-11-14",
+ "evaluado_utc": "2026-11-13T23:48Z",
+ "casas": [
+  "bwin",
+  "sportium"
+ ],
+ "candidatas": [
+  {
+   "partido": "Exeter - Cheltenham",
+   "inicio_utc": "2026-11-14T12:30Z",
+   "clave": "Anthony Scully|a puerta|2",
+   "apuesta": "Anthony Scully a puerta 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 5.5,
+     "prob": 0.2174,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.03558181818181819,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 3.75,
+     "prob": 0.1318,
+     "sustituto": false,
+     "nota": "\"No contarán los jugadores que no estén en la alineación inicial. El mercado se definirá en función de los resultados de OPTA\" (info de la casa; sustituto no cuenta)",
+     "margen": -0.13486666666666666,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 5.5,
+   "prob": 0.2174,
+   "margen": 0.0356,
+   "limpia": true,
+   "margen_bet365": 0.0356
+  },
+  {
+   "partido": "Exeter - Cheltenham",
+   "inicio_utc": "2026-11-14T12:30Z",
+   "clave": "Jack Fitzwater|a puerta|1",
+   "apuesta": "Jack Fitzwater a puerta 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 3.75,
+     "prob": 0.2883,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.021633333333333338,
+     "limpia": false
+    },
+    {
+     "casa": "bwin",
+     "cuota": 3.25,
+     "prob": 0.2832,
+     "sustituto": false,
+     "nota": "\"No contarán los jugadores que no estén en la alineación inicial. El mercado se definirá en función de los resultados de OPTA\" (info de la casa; sustituto no cuenta)",
+     "margen": -0.024492307692307702,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 3.75,
+   "prob": 0.2883,
+   "margen": 0.0216,
+   "limpia": false,
+   "margen_bet365": 0.0216
+  },
+  {
+   "partido": "Exeter - Cheltenham",
+   "inicio_utc": "2026-11-14T12:30Z",
+   "clave": "Anthony Scully|a puerta|1",
+   "apuesta": "Anthony Scully a puerta 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 1.83,
+     "prob": 0.5605,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.014051912568306069,
+     "limpia": false
+    },
+    {
+     "casa": "bwin",
+     "cuota": 1.57,
+     "prob": 0.4394,
+     "sustituto": false,
+     "nota": "\"No contarán los jugadores que no estén en la alineación inicial. El mercado se definirá en función de los resultados de OPTA\" (info de la casa; sustituto no cuenta)",
+     "margen": -0.19754267515923563,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 1.83,
+   "prob": 0.5605,
+   "margen": 0.0141,
+   "limpia": false,
+   "margen_bet365": 0.0141
+  },
+  {
+   "partido": "Bristol Rvs - Chesterfield",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "clave": "Menos 3.5",
+   "apuesta": "Menos 3.5",
+   "tipo": "equipo",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 1.44,
+     "prob": 0.6663,
+     "sustituto": true,
+     "nota": "",
+     "margen": -0.028144444444444416,
+     "limpia": false
+    },
+    {
+     "casa": "bwin",
+     "cuota": 1.37,
+     "prob": 0.6663,
+     "sustituto": null,
+     "nota": "Total de goles del partido, Menos de 3,5 (Tiempo reglamentario), no es de remates",
+     "margen": -0.06362700729927007,
+     "limpia": false
+    },
+    {
+     "casa": "sportium",
+     "cuota": 1.4,
+     "prob": 0.6663,
+     "sustituto": null,
+     "nota": "Total de goles del partido, Menos de 3.5 (Todo, Goles Totales); no es de remates",
+     "margen": -0.0479857142857143,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 1.44,
+   "prob": 0.6663,
+   "margen": -0.0281,
+   "limpia": false,
+   "margen_bet365": -0.0281
+  },
+  {
+   "partido": "Fleetwood Town - Tranmere",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "clave": "Ronan Coughlan|a puerta|3",
+   "apuesta": "Ronan Coughlan a puerta 3+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 5.5,
+     "prob": 0.2848,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.10298181818181817,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 4.33,
+     "prob": 0.2302,
+     "sustituto": false,
+     "nota": "\"No contarán los jugadores que no estén en la alineación inicial. El mercado se definirá en función de los resultados de OPTA\" (info de la casa; sustituto no cuenta)",
+     "margen": -0.0007468822170900724,
+     "limpia": false
+    },
+    {
+     "casa": "sportium",
+     "cuota": 5.0,
+     "prob": 0.2302,
+     "sustituto": null,
+     "nota": "Tiros a puerta del jugador (1+ 1.22, 2+ 2.20, 3+ 5.00, 4+ 10.00). La página no muestra la regla del sustituto; la página de reglas no se pudo leer en texto: no confirmado",
+     "margen": 0.030199999999999977,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 5.5,
+   "prob": 0.2848,
+   "margen": 0.103,
+   "limpia": true,
+   "margen_bet365": 0.103
+  },
+  {
+   "partido": "Fleetwood Town - Tranmere",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "clave": "Ronan Coughlan|a puerta|2",
+   "apuesta": "Ronan Coughlan a puerta 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 2.37,
+     "prob": 0.5248,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.1028590717299579,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 2.05,
+     "prob": 0.4529,
+     "sustituto": false,
+     "nota": "\"No contarán los jugadores que no estén en la alineación inicial. El mercado se definirá en función de los resultados de OPTA\" (info de la casa; sustituto no cuenta)",
+     "margen": -0.03490487804878051,
+     "limpia": false
+    },
+    {
+     "casa": "sportium",
+     "cuota": 2.2,
+     "prob": 0.4529,
+     "sustituto": null,
+     "nota": "Igual que la línea 3+: sin regla de sustituto visible en la casa",
+     "margen": -0.0016454545454545055,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 2.37,
+   "prob": 0.5248,
+   "margen": 0.1029,
+   "limpia": true,
+   "margen_bet365": 0.1029
+  },
+  {
+   "partido": "Fleetwood Town - Tranmere",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "clave": "Ronan Coughlan|a puerta|4",
+   "apuesta": "Ronan Coughlan a puerta 4+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 15.0,
+     "prob": 0.1348,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.06813333333333334,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 9.5,
+     "prob": 0.1039,
+     "sustituto": false,
+     "nota": "\"No contarán los jugadores que no estén en la alineación inicial. El mercado se definirá en función de los resultados de OPTA\" (info de la casa; sustituto no cuenta)",
+     "margen": -0.00136315789473683,
+     "limpia": false
+    },
+    {
+     "casa": "sportium",
+     "cuota": 10.0,
+     "prob": 0.1039,
+     "sustituto": null,
+     "nota": "Igual que la línea 3+: sin regla de sustituto visible en la casa",
+     "margen": 0.0039000000000000007,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 15.0,
+   "prob": 0.1348,
+   "margen": 0.0681,
+   "limpia": true,
+   "margen_bet365": 0.0681
+  }
+ ]
+}

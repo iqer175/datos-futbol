@@ -1,0 +1,14 @@
+Motor v6 (GLM goles+remates, W_GLM 0.60, V_GLM 0.30) frente al v5 de produccion (git HEAD de 2026-11-10).
+Walk-forward semanal por el camino real motor.Base + motor.analizar; cortes 22-23, 23-24, 24-25, 25-27.
+Constantes elegidas para v6: CAL_LOCAL=0.055 CAL_EMPATE=0.128 CAL_TOTAL=0.12
+
+27,433 partidos; real: 1 0.438 X 0.260 2 0.302  Mas 2.5 0.515
+control v5 (recalculo - analizar): 1X2 0.00000  O/U 0.00000
+v5 produccion (0.061, 0.177, 0.12)   1X2 1.0080 1.0074 1.0126 1.0177   O/U 0.6828 0.6793 0.6848 0.6835
+Diferencias del v6 frente al v5 de produccion (negativo = mejor):
+v6 CAL_LOCAL=0.061 CAL_EMPATE=0.177 CAL_TOTAL=0.072  1X2 -0.0016 -0.0002 -0.0012 -0.0008 (4/4)   O/U -0.0031 -0.0012 -0.0029 -0.0012 (4/4)   media 1 0.435 X 0.268 2 0.297 Mas2.5 0.511
+v6 CAL_LOCAL=0.061 CAL_EMPATE=0.177 CAL_TOTAL=0.12   1X2 -0.0017 -0.0002 -0.0011 -0.0008 (4/4)   O/U -0.0022 -0.0016 -0.0024 -0.0017 (4/4)   media 1 0.436 X 0.265 2 0.299 Mas2.5 0.522
+v6 CAL_LOCAL=0.061 CAL_EMPATE=0.177 CAL_TOTAL=0.155  1X2 -0.0018 -0.0001 -0.0011 -0.0008 (4/4)   O/U -0.0013 -0.0016 -0.0017 -0.0017 (4/4)   media 1 0.436 X 0.264 2 0.300 Mas2.5 0.530
+v6 CAL_LOCAL=0.055 CAL_EMPATE=0.128 CAL_TOTAL=0.072  1X2 -0.0019 -0.0002 -0.0011 -0.0011 (4/4)   O/U -0.0031 -0.0012 -0.0029 -0.0012 (4/4)   media 1 0.439 X 0.259 2 0.302 Mas2.5 0.511
+v6 CAL_LOCAL=0.055 CAL_EMPATE=0.128 CAL_TOTAL=0.12   1X2 -0.0019 -0.0001 -0.0010 -0.0010 (4/4)   O/U -0.0022 -0.0016 -0.0024 -0.0017 (4/4)   media 1 0.440 X 0.257 2 0.304 Mas2.5 0.522
+v6 CAL_LOCAL=0.055 CAL_EMPATE=0.128 CAL_TOTAL=0.155  1X2 -0.0019 +0.0000 -0.0008 -0.0009 (3/4)   O/U -0.0013 -0.0016 -0.0017 -0.0017 (4/4)   media 1 0.440 X 0.255 2 0.305 Mas2.5 0.530

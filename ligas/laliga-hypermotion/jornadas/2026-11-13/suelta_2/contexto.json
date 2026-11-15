@@ -1,0 +1,2211 @@
+{
+ "noticias": "parciales",
+ "noticias_utc": "2026-11-13T21:22Z",
+ "liga": "LaLiga Hypermotion",
+ "generado_utc": "2026-11-13T21:20Z",
+ "datos_hasta": {
+  "partidos": "2026-11-09",
+  "jugadores": "2026-11-09"
+ },
+ "partidos": [
+  {
+   "local": "Eldense",
+   "visitante": "Sabadell",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "titular_prob": {
+    "Agustin Coscia": 0.1,
+    "Aingeru Olabarrieta": 0.5,
+    "Alain Ribeiro": 0.1,
+    "Antonio David": 0.1,
+    "Arthur Bonaldo": 0.5,
+    "Borja Calvo": 0.1,
+    "Carlos Guirao": 0.5,
+    "Cristian Amarillo": 0.1,
+    "David Rodriguez": 0.1,
+    "David Ruiz": 0.1,
+    "Dinis Rodrigues": 0.1,
+    "Edgar Gonzalez": 0.7,
+    "Eneko Aguilar": 0.1,
+    "Floris Smand": 0.5,
+    "Gaston Valles": 0.9,
+    "Guillermo Macho": 0.1,
+    "Iker Carbonell": 0.1,
+    "Iker Ortega": 0.3,
+    "Javi Lopez": 0.3,
+    "Javi Martinez": 0.5,
+    "Javier Olaizola": 0.1,
+    "Jesus Clemente": 0.9,
+    "Joel Priego": 0.9,
+    "Jordi Martin": 0.1,
+    "Jorge Rastrojo": 0.9,
+    "Jose Luis Catala": 0.7,
+    "Juan Cervera": 0.1,
+    "Juan Larios": 0.9,
+    "Julien Yanda": 0.1,
+    "Justin Smith": 0.7,
+    "Manuel Nieto": 0.1,
+    "Marcos Bustillo": 0.7,
+    "Mariano Carmona": 0.3,
+    "Nicholas Gioacchini": 0.1,
+    "Oscar Sanz": 0.5,
+    "Patrick Nuamah": 0.1,
+    "Pau Cabanes": 0.1,
+    "Quadri Liameed": 0.9,
+    "Quim Utges": 0.1,
+    "Roberto Lopez": 0.3,
+    "Ton Ripoll": 0.9,
+    "Waldo Rubio": 0.1,
+    "Xavi Moreno": 0.1,
+    "Yanis Rahmani": 0.7
+   },
+   "jugadores": {
+    "Agustin Coscia": {
+     "nombre_espn": "Agustín Coscia",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Aingeru Olabarrieta": {
+     "nombre_espn": "Aingeru Olabarrieta",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": false,
+     "titularidades": 7,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 87,
+     "remates_ultimos_5": [
+      0,
+      3,
+      3,
+      0,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      2,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-11-01",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Alain Ribeiro": {
+     "nombre_espn": "Alain Ribeiro",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 59,
+     "remates_ultimos_5": [
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      0
+     ],
+     "ultima_titularidad": "2026-10-10",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Albert Orriols": {
+     "nota": "sin datos en ESPN"
+    },
+    "Alejandro Ibarrondo": {
+     "nota": "sin datos en ESPN"
+    },
+    "Alex Serradell": {
+     "nota": "sin datos en ESPN"
+    },
+    "Angel Miguelete": {
+     "nota": "sin datos en ESPN"
+    },
+    "Antonio David": {
+     "nombre_espn": "Antonio David Marín Fernández",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Arthur Bonaldo": {
+     "nombre_espn": "Arthur Bonaldo",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": false,
+     "titularidades": 7,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 72,
+     "remates_ultimos_5": [
+      0,
+      1,
+      1,
+      1,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Borja Calvo": {
+     "nombre_espn": "Borja Calvo",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "alicanteplaza: \"Borja Calvo estará tres meses de baja por una lesión muscular\" (parte médico del club, sin fecha de la noticia; no verificado que sea de esta temporada). Se mantiene 0.1 del script"
+    },
+    "Carlos Guirao": {
+     "nombre_espn": "Carlos Guirao",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": false,
+     "titularidades": 8,
+     "suplencias_con_minutos": 4,
+     "minutos_medios": 77,
+     "remates_ultimos_5": [
+      2,
+      1,
+      2,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-01",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Chavez Fidel": {
+     "nota": "sin datos en ESPN"
+    },
+    "Cristian Amarillo": {
+     "nombre_espn": "Cristian Amarillo Bleda",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "David Rodriguez": {
+     "nombre_espn": "David Rodríguez",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "David Ruiz": {
+     "nombre_espn": "David Ruiz Montero",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 6,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 83,
+     "remates_ultimos_5": [
+      0,
+      6,
+      0,
+      2,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      2,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-09-19",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Dinis Rodrigues": {
+     "nombre_espn": "Dinis Rodrigues",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Edgar Gonzalez": {
+     "nombre_espn": "Edgar González",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": true,
+     "titularidades": 10,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 82,
+     "remates_ultimos_5": [
+      2,
+      3,
+      0,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Eneko Aguilar": {
+     "nombre_espn": "Eneko Aguilar",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 11,
+     "minutos_medios": 54,
+     "remates_ultimos_5": [
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0
+     ],
+     "ultima_titularidad": "2026-10-04",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Floris Smand": {
+     "nombre_espn": "Floris Smand",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": false,
+     "titularidades": 12,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 90,
+     "remates_ultimos_5": [
+      0,
+      0,
+      0,
+      1,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-01",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Gaston Valles": {
+     "nombre_espn": "Gastón Valles",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 5,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 70,
+     "remates_ultimos_5": [
+      2,
+      0,
+      3,
+      3,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      0,
+      1,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Genar Fornes": {
+     "nota": "sin datos en ESPN"
+    },
+    "Guillermo Macho": {
+     "nombre_espn": "Guillermo Macho",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 5,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 76,
+     "remates_ultimos_5": [
+      1,
+      2,
+      2,
+      0,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      1,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-10-02",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Huson Chynoweth": {
+     "nota": "sin datos en ESPN"
+    },
+    "Iker Carbonell": {
+     "nombre_espn": "Iker Carbonell García",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Iker Ortega": {
+     "nombre_espn": "Iker Ortega",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": true,
+     "titularidades": 2,
+     "suplencias_con_minutos": 4,
+     "minutos_medios": 68,
+     "remates_ultimos_5": [
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Javi Lopez": {
+     "nombre_espn": "Javi López",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": 65,
+     "remates_ultimos_5": [
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      1
+     ],
+     "ultima_titularidad": "2026-10-25",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Javi Martinez": {
+     "nombre_espn": "Javier Martínez",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": false,
+     "titularidades": 5,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": 69,
+     "remates_ultimos_5": [
+      1,
+      0,
+      1,
+      3,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-01",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Javier Olaizola": {
+     "nombre_espn": "Javier Olaizola",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 2,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 90,
+     "remates_ultimos_5": [
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-08-29",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Jesus Clemente": {
+     "nombre_espn": "Jesus Clemente",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 9,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 88,
+     "remates_ultimos_5": [
+      0,
+      1,
+      0,
+      1,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      1,
+      1
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Joel Priego": {
+     "nombre_espn": "Joel Priego",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 13,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 82,
+     "remates_ultimos_5": [
+      2,
+      0,
+      1,
+      2,
+      5
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      1,
+      2
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Jordi Martin": {
+     "nombre_espn": "Jordi Martín",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 3,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": 68,
+     "remates_ultimos_5": [
+      0,
+      1,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-09-05",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Jorge Rastrojo": {
+     "nombre_espn": "Jorge Rastrojo",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 7,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 66,
+     "remates_ultimos_5": [
+      2,
+      3,
+      0,
+      2,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      2,
+      1,
+      0,
+      2,
+      0
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Jose Luis Catala": {
+     "nombre_espn": "José Luis Català Vázquez",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": true,
+     "titularidades": 7,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": 67,
+     "remates_ultimos_5": [
+      1,
+      0,
+      0,
+      1,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Juan Cervera": {
+     "nombre_espn": "Juan Carlos Lázaro Cervera",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Juan Larios": {
+     "nombre_espn": "Juan Larios",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 6,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 85,
+     "remates_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Julien Yanda": {
+     "nombre_espn": "Julien Yanda",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Justin Smith": {
+     "nombre_espn": "Justin Smith",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": true,
+     "titularidades": 11,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 83,
+     "remates_ultimos_5": [
+      1,
+      1,
+      0,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Lluis Blanch": {
+     "nota": "sin datos en ESPN"
+    },
+    "Manuel Nieto": {
+     "nombre_espn": "Manuel Nieto",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 4,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 74,
+     "remates_ultimos_5": [
+      1,
+      3,
+      6,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-10",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Marcos Bustillo": {
+     "nombre_espn": "Marcos Bustillo",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": true,
+     "titularidades": 3,
+     "suplencias_con_minutos": 4,
+     "minutos_medios": 79,
+     "remates_ultimos_5": [
+      0,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Mariano Carmona": {
+     "nombre_espn": "Mariano Carmona",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": true,
+     "titularidades": 5,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 75,
+     "remates_ultimos_5": [
+      1,
+      1,
+      1,
+      0,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Miki Codina": {
+     "nota": "sin datos en ESPN"
+    },
+    "Nicholas Gioacchini": {
+     "nombre_espn": "Nicholas Gioacchini",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 4,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 70,
+     "remates_ultimos_5": [
+      4,
+      1,
+      7,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      5,
+      0
+     ],
+     "ultima_titularidad": "2026-09-13",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Nikolay Obolskiy": {
+     "nota": "sin datos en ESPN"
+    },
+    "Oscar Sanz": {
+     "nombre_espn": "Óscar Sanz",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": false,
+     "titularidades": 12,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 82,
+     "remates_ultimos_5": [
+      2,
+      1,
+      4,
+      2,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      1,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Patrick Nuamah": {
+     "nombre_espn": "Patrick Nuamah",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Pau Cabanes": {
+     "nombre_espn": "Pau Cabanes",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": 76,
+     "remates_ultimos_5": [
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      1
+     ],
+     "ultima_titularidad": "2026-08-17",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Quadri Liameed": {
+     "nombre_espn": "Quadri Liameed",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 13,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 74,
+     "remates_ultimos_5": [
+      0,
+      0,
+      0,
+      1,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Quim Utges": {
+     "nombre_espn": "Quim Utgés",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Riera Pere Pons": {
+     "nota": "sin datos en ESPN"
+    },
+    "Roberto Lopez": {
+     "nombre_espn": "Roberto López",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": true,
+     "titularidades": 4,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 62,
+     "remates_ultimos_5": [
+      1,
+      4,
+      3,
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      2,
+      0
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Ton Ripoll": {
+     "nombre_espn": "Ton Ripoll",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 13,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 76,
+     "remates_ultimos_5": [
+      0,
+      0,
+      1,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Waldo Rubio": {
+     "nombre_espn": "Waldo Rubio",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 4,
+     "minutos_medios": 76,
+     "remates_ultimos_5": [
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      1
+     ],
+     "ultima_titularidad": "2026-10-02",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Xavi Moreno": {
+     "nombre_espn": "Xavi Moreno",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Yanis Rahmani": {
+     "nombre_espn": "Yanis Rahmani",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": true,
+     "titularidades": 3,
+     "suplencias_con_minutos": 7,
+     "minutos_medios": 69,
+     "remates_ultimos_5": [
+      2,
+      6,
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    }
+   },
+   "bajas_local": [],
+   "bajas_visitante": [],
+   "forma_local": "G-G-G-P-P-P, 9 GF y 10 GC en 6; tiros a puerta 26-27; corners 24-42",
+   "forma_visitante": "E-G-P-E-P-E, 4 GF y 5 GC en 6; tiros a puerta 20-17; corners 32-27",
+   "ultimos_local": [
+    "2026-10-02 Eldense 4-1 Oviedo",
+    "2026-10-10 Eldense 2-1 Cordoba",
+    "2026-10-18 Valladolid 2-3 Eldense",
+    "2026-10-25 Albacete 2-0 Eldense",
+    "2026-11-01 Eldense 0-2 Granada",
+    "2026-11-09 Las Palmas 2-0 Eldense"
+   ],
+   "ultimos_visitante": [
+    "2026-10-04 Sabadell 0-0 Andorra",
+    "2026-10-10 Ceuta 1-2 Sabadell",
+    "2026-10-18 Burgos 1-0 Sabadell",
+    "2026-10-25 Sabadell 1-1 Tenerife",
+    "2026-10-31 Albacete 2-1 Sabadell",
+    "2026-11-09 Sabadell 0-0 Sociedad B"
+   ],
+   "motor": {
+    "elo_l": 1377.9,
+    "elo_v": 1439.8,
+    "p1": 0.364,
+    "px": 0.306,
+    "p2": 0.329,
+    "lh": 1.15,
+    "la": 1.12,
+    "total": 2.27,
+    "over25": 0.396,
+    "btts": 0.461,
+    "corners": 9.55,
+    "tarjetas": 5.4,
+    "fiabilidad": "baja: Elo sin asentar (13 partidos en toda la base)",
+    "remates_l": 12.9,
+    "remates_v": 13.2,
+    "a_puerta_l": 4.0,
+    "a_puerta_v": 4.1
+   },
+   "h2h": "Sin enfrentamientos en la base.",
+   "alertas": [
+    "fiabilidad del motor baja: Elo sin asentar (13 partidos en toda la base)",
+    "Agustin Coscia: solo 0 titularidades (muestra corta)",
+    "Alain Ribeiro: solo 1 titularidades (muestra corta)",
+    "Albert Orriols: sin datos en ESPN",
+    "Alejandro Ibarrondo: sin datos en ESPN",
+    "Alex Serradell: sin datos en ESPN",
+    "Angel Miguelete: sin datos en ESPN",
+    "Antonio David: solo 0 titularidades (muestra corta)",
+    "Borja Calvo: solo 0 titularidades (muestra corta)",
+    "Chavez Fidel: sin datos en ESPN",
+    "Cristian Amarillo: solo 0 titularidades (muestra corta)",
+    "David Rodriguez: solo 0 titularidades (muestra corta)",
+    "Dinis Rodrigues: solo 0 titularidades (muestra corta)",
+    "Eneko Aguilar: solo 1 titularidades (muestra corta)",
+    "Gaston Valles: solo 5 titularidades (muestra corta)",
+    "Genar Fornes: sin datos en ESPN",
+    "Guillermo Macho: solo 5 titularidades (muestra corta)",
+    "Huson Chynoweth: sin datos en ESPN",
+    "Iker Carbonell: solo 0 titularidades (muestra corta)",
+    "Iker Ortega: solo 2 titularidades (muestra corta)",
+    "Javi Lopez: solo 1 titularidades (muestra corta)",
+    "Javi Martinez: solo 5 titularidades (muestra corta)",
+    "Javier Olaizola: solo 2 titularidades (muestra corta)",
+    "Jordi Martin: solo 3 titularidades (muestra corta)",
+    "Juan Cervera: solo 0 titularidades (muestra corta)",
+    "Julien Yanda: solo 0 titularidades (muestra corta)",
+    "Lluis Blanch: sin datos en ESPN",
+    "Manuel Nieto: solo 4 titularidades (muestra corta)",
+    "Marcos Bustillo: solo 3 titularidades (muestra corta)",
+    "Mariano Carmona: solo 5 titularidades (muestra corta)",
+    "Miki Codina: sin datos en ESPN",
+    "Nicholas Gioacchini: solo 4 titularidades (muestra corta)",
+    "Nikolay Obolskiy: sin datos en ESPN",
+    "Patrick Nuamah: solo 0 titularidades (muestra corta)",
+    "Pau Cabanes: solo 1 titularidades (muestra corta)",
+    "Quim Utges: solo 0 titularidades (muestra corta)",
+    "Riera Pere Pons: sin datos en ESPN",
+    "Roberto Lopez: solo 4 titularidades (muestra corta)",
+    "Waldo Rubio: solo 1 titularidades (muestra corta)",
+    "Xavi Moreno: solo 0 titularidades (muestra corta)",
+    "Yanis Rahmani: solo 3 titularidades (muestra corta)",
+    "noticias no verificadas: sin bajas, sanciones, dudas ni alineación probable de Eldense ni Sabadell en la búsqueda del 2026-11-13 (alicanteplaza, El Gol Digital, futboltotal, starting11, LaLiga sin contenido)",
+    "hora: LaLiga (ficha 2026-11-13) da domingo 15-11 17:30 hora de Canarias = 17:30 UTC, coincide con el dato; futboltotal da 11:00 y otra web 20:00, descartadas",
+    "alineación oficial no publicada en el momento de la búsqueda (LaLiga suele publicarla ~1 h antes): revisar titular_prob de los jugadores con cuota",
+    "Borja Calvo (Eldense): noticia de baja de tres meses sin fecha verificable; ya está en 0.1"
+   ],
+   "resumen": "Sin noticias verificadas de bajas, dudas ni once en Eldense ni Sabadell (búsqueda del 2026-11-13). El motor da Elo sin asentar (13 partidos en la base, fiabilidad baja), 1.15 y 1.12 goles esperados y total 2.27; sin H2H. Los remates de ambos equipos (~13) y los titulares de cuota se quedan con el valor del script hasta que salga la alineación."
+  },
+  {
+   "local": "Albacete",
+   "visitante": "Celta B",
+   "inicio_utc": "2026-11-16T19:30Z",
+   "titular_prob": {
+    "Adria Capdevila": 0.9,
+    "Agustin Albarracin": 0.1,
+    "Aldrine Kibet": 0.7,
+    "Alex Rubio": 0.3,
+    "Alexis Olmedo": 0.1,
+    "Alvaro Marin": 0.9,
+    "Angel Arcos": 0.9,
+    "Angel Davila": 0.1,
+    "Antonio Moreno": 0.1,
+    "Antonio Pacheco": 0.9,
+    "Anxo Rodriguez": 0.1,
+    "Carlos Neva": 0.9,
+    "Daniel Bernabeu": 0.1,
+    "David Sueiro": 0.1,
+    "Diego Rodriguez": 0.1,
+    "Enrique Ribes": 0.9,
+    "Fabio Garcia-Moreno": 0.1,
+    "Fran Gamez": 0.1,
+    "Higinio Marin": 0.9,
+    "Hugo Cuenca": 0.3,
+    "Hugo Lopez": 0.1,
+    "Jan Oliveras": 0.3,
+    "Javi Villar": 0.1,
+    "Javier Moreno": 0.1,
+    "Jesus Vallejo": 0.9,
+    "Joaquin Domingo": 0.1,
+    "Joel Lopez": 0.9,
+    "Jorge Perez-Lafuente Rey": 0.1,
+    "Jose Corpas": 0.5,
+    "Lorenzo Aguado": 0.9,
+    "Mario Soberon": 0.1,
+    "Mateo Sobral": 0.7,
+    "Munir El Haddadi": 0.1,
+    "Noah Rodriguez": 0.1,
+    "Oscar Marcos": 0.5,
+    "Pablo Gavian": 0.4,
+    "Pablo Meixus": 0.3,
+    "Pepe Sanchez": 0.1,
+    "Raul Chirveches": 0.1,
+    "Roberto Gonzalez": 0.1,
+    "Samuel Obeng": 0.1,
+    "Seyni Ndiaye": 0.7,
+    "Stefan Bajcetic": 0.1,
+    "Tomas Ingles": 0.1,
+    "Vicente Vidal": 0.1,
+    "Victor San Bartolome": 0.9,
+    "Victor Valverde": 0.9,
+    "Vladimir Silva": 0.1
+   },
+   "jugadores": {
+    "Adria Capdevila": {
+     "nombre_espn": "Adrià Capdevila",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 13,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 81,
+     "remates_ultimos_5": [
+      0,
+      0,
+      0,
+      1,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Agustin Albarracin": {
+     "nombre_espn": "Agustín Albarracín",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": 82,
+     "remates_ultimos_5": [
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0
+     ],
+     "ultima_titularidad": "2026-09-12",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Agustin Medina": {
+     "nota": "sin datos en ESPN"
+    },
+    "Aldrine Kibet": {
+     "nombre_espn": "Aldrine Kibet",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": true,
+     "titularidades": 7,
+     "suplencias_con_minutos": 4,
+     "minutos_medios": 74,
+     "remates_ultimos_5": [
+      1,
+      4,
+      2,
+      1,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      3,
+      0,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Alex Rubio": {
+     "nombre_espn": "Álex Rubio",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": true,
+     "titularidades": 6,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 66,
+     "remates_ultimos_5": [
+      3,
+      1,
+      3,
+      0,
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      0,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Alexis Olmedo": {
+     "nombre_espn": "Alexis Olmedo",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 3,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 41,
+     "remates_ultimos_5": [
+      0,
+      1,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-10",
+     "nota": "rccelta.es parte médico (actualizado 2026-11-12): distensión recto femoral der. 29-10, en fisioterapia y entrena con el grupo. Sin cambio: 0.1 del script"
+    },
+    "Alvaro Marin": {
+     "nombre_espn": "Alvaro Marin",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 11,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": 79,
+     "remates_ultimos_5": [
+      3,
+      6,
+      0,
+      3,
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      2,
+      2,
+      0,
+      1,
+      1
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Angel Arcos": {
+     "nombre_espn": "Ángel Arcos",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 11,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": 77,
+     "remates_ultimos_5": [
+      4,
+      3,
+      0,
+      2,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      2,
+      2,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Angel Davila": {
+     "nombre_espn": "Angel Davila Outerelo",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 4,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Antonio Moreno": {
+     "nombre_espn": "Antonio Moreno",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Antonio Pacheco": {
+     "nombre_espn": "Antonio Pacheco Ruiz",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 8,
+     "suplencias_con_minutos": 4,
+     "minutos_medios": 82,
+     "remates_ultimos_5": [
+      0,
+      0,
+      3,
+      0,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      1,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Antonio Puertas": {
+     "nota": "sin datos en ESPN"
+    },
+    "Antono Velilla": {
+     "nota": "sin datos en ESPN"
+    },
+    "Anxo Rodriguez": {
+     "nombre_espn": "Anxo Rodríguez",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 7,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 86,
+     "remates_ultimos_5": [
+      0,
+      2,
+      0,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-04",
+     "nota": "rccelta.es parte médico (actualizado 2026-11-12): rotura fibras recto femoral der. 17-10, alta médica y entrena con el grupo. Sin cambio: 0.1 del script"
+    },
+    "Carlos Neva": {
+     "nombre_espn": "Carlos Neva",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 13,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 89,
+     "remates_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Daniel Bernabeu": {
+     "nombre_espn": "Daniel Bernabeu",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 9,
+     "minutos_medios": 74,
+     "remates_ultimos_5": [
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0
+     ],
+     "ultima_titularidad": "2026-10-17",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "David Sueiro": {
+     "nombre_espn": "David Sueiro Muiños",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Diego Rodriguez": {
+     "nombre_espn": "Diego Rodríguez Rivas",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Enrique Ribes": {
+     "nombre_espn": "Enrique Ribes",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 13,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 85,
+     "remates_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Fabio Garcia-Moreno": {
+     "nombre_espn": "Fabio Garcia-Moreno",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Fran Gamez": {
+     "nombre_espn": "Fran Gamez",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 7,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": 75,
+     "remates_ultimos_5": [
+      0,
+      1,
+      1,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-12",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Germain Milla": {
+     "nota": "sin datos en ESPN"
+    },
+    "Higinio Marin": {
+     "nombre_espn": "Higinio Marín",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 3,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": 63,
+     "remates_ultimos_5": [
+      3,
+      2,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      1,
+      2
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Hugo Cuenca": {
+     "nombre_espn": "Hugo Cuenca",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": false,
+     "titularidades": 3,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": 71,
+     "remates_ultimos_5": [
+      1,
+      2,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-24",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Hugo Lopez": {
+     "nombre_espn": "Hugo López",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Hugo Martinez Capi": {
+     "nota": "sin datos en ESPN"
+    },
+    "Jan Oliveras": {
+     "nombre_espn": "Jan Oliveras",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": true,
+     "titularidades": 2,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 66,
+     "remates_ultimos_5": [
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Javi Villar": {
+     "nombre_espn": "Javi Villar",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 4,
+     "suplencias_con_minutos": 4,
+     "minutos_medios": 58,
+     "remates_ultimos_5": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-09-25",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Javier Moreno": {
+     "nombre_espn": "Javier Moreno",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 3,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 82,
+     "remates_ultimos_5": [
+      0,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-09-18",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Jesus Vallejo": {
+     "nombre_espn": "Jesús Vallejo",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 7,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 80,
+     "remates_ultimos_5": [
+      0,
+      1,
+      1,
+      0,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Joaquin Domingo": {
+     "nombre_espn": "Joaquín Domingo",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Joel Lopez": {
+     "nombre_espn": "Joel Lopez Salguero",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 11,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": 81,
+     "remates_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Jorge Perez-Lafuente Rey": {
+     "nombre_espn": "Jorge Pérez-Lafuente Rey",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Jose Corpas": {
+     "nombre_espn": "José Corpas",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": false,
+     "titularidades": 12,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 86,
+     "remates_ultimos_5": [
+      4,
+      1,
+      1,
+      3,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      2,
+      0,
+      0,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Lorenzo Aguado": {
+     "nombre_espn": "Lorenzo Aguado",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 7,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 70,
+     "remates_ultimos_5": [
+      1,
+      0,
+      2,
+      0,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Mario Soberon": {
+     "nombre_espn": "Mario Soberón",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 7,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 80,
+     "remates_ultimos_5": [
+      1,
+      5,
+      4,
+      3,
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      1,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-10-12",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Marmol Lluis Lopez": {
+     "nota": "sin datos en ESPN"
+    },
+    "Mateo Sobral": {
+     "nombre_espn": "Mateo Sobral Sabajanes",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": true,
+     "titularidades": 5,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 77,
+     "remates_ultimos_5": [
+      2,
+      1,
+      0,
+      2,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Munir El Haddadi": {
+     "nombre_espn": "Munir El Haddadi",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 18,
+     "remates_ultimos_5": [
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0
+     ],
+     "ultima_titularidad": "2026-08-29",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Noah Rodriguez": {
+     "nombre_espn": "Noah Rodríguez Guallar",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Oscar Marcos": {
+     "nombre_espn": "Óscar Marcos",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": false,
+     "titularidades": 10,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": 82,
+     "remates_ultimos_5": [
+      4,
+      2,
+      0,
+      2,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      4,
+      1,
+      0,
+      2,
+      3
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "rccelta.es parte médico (actualizado 2026-11-12): contusión rodilla izq. 31-10, alta médica. Sin cambio: 0.5 del script"
+    },
+    "Pablo Gavian": {
+     "nombre_espn": "Pablo Gavián Alonso",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": false,
+     "titularidades": 7,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 81,
+     "remates_ultimos_5": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "rccelta.es parte médico (actualizado 2026-11-12): contusión rodilla der. 31-10, en fisioterapia con pruebas pendientes. Duda: 0.5 → 0.4"
+    },
+    "Pablo Meixus": {
+     "nombre_espn": "Pablo Meixús",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": false,
+     "titularidades": 7,
+     "suplencias_con_minutos": 4,
+     "minutos_medios": 64,
+     "remates_ultimos_5": [
+      0,
+      0,
+      0,
+      1,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-24",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Pepe Sanchez": {
+     "nombre_espn": "Pepe Sanchez",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 3,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 80,
+     "remates_ultimos_5": [
+      0,
+      1,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-08-29",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Raul Chirveches": {
+     "nombre_espn": "Raúl Chirveches Sánchez",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Roberto Gonzalez": {
+     "nombre_espn": "Roberto González",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 3,
+     "suplencias_con_minutos": 4,
+     "minutos_medios": 57,
+     "remates_ultimos_5": [
+      0,
+      4,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-10-12",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Samuel Obeng": {
+     "nombre_espn": "Samuel Obeng",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 53,
+     "remates_ultimos_5": [
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0
+     ],
+     "ultima_titularidad": "2026-08-16",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Sergio Ortuno": {
+     "nota": "sin datos en ESPN"
+    },
+    "Seyni Ndiaye": {
+     "nombre_espn": "Seyni Ndiaye",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": true,
+     "titularidades": 3,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 88,
+     "remates_ultimos_5": [
+      0,
+      2,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Stefan Bajcetic": {
+     "nombre_espn": "Stefan Bajcetic",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Tomas Ingles": {
+     "nombre_espn": "Tomás Inglés",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Vicente Vidal": {
+     "nombre_espn": "Vicente Vidal",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Victor San Bartolome": {
+     "nombre_espn": "Victor San Bartolomé",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 8,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 65,
+     "remates_ultimos_5": [
+      0,
+      1,
+      2,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      1,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Victor Valverde": {
+     "nombre_espn": "Víctor Valverde Da Silva",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 7,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 71,
+     "remates_ultimos_5": [
+      2,
+      2,
+      3,
+      0,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    },
+    "Vladimir Silva": {
+     "nombre_espn": "Vladimir Silva",
+     "equipo": "RC Celta Fortuna",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas (búsqueda 2026-11-13)"
+    }
+   },
+   "bajas_local": [],
+   "bajas_visitante": [
+    {
+     "jugador": "Bernard Somuah",
+     "motivo": "lesión",
+     "fuente": "rccelta.es parte médico (actualizado 2026-11-12): rotura sindesmosis tobillo izq. 20-09, operado 28-09, en rehabilitación",
+     "fecha": "2026-11-12"
+    },
+    {
+     "jugador": "Anthony Khayat",
+     "motivo": "lesión",
+     "fuente": "rccelta.es parte médico (actualizado 2026-11-12): rotura LCA rodilla izq., operado 28-05-2026, baja estimada unos 8 meses",
+     "fecha": "2026-11-12"
+    }
+   ],
+   "forma_local": "P-P-P-G-G-G, 9 GF y 12 GC en 6; tiros a puerta 20-31; corners 38-29",
+   "forma_visitante": "P-G-E-P-E-P, 11 GF y 14 GC en 6; tiros a puerta 31-34; corners 18-44",
+   "ultimos_local": [
+    "2026-10-03 Albacete 1-3 Eibar",
+    "2026-10-12 Valladolid 5-0 Albacete",
+    "2026-10-17 Sp Gijon 2-1 Albacete",
+    "2026-10-25 Albacete 2-0 Eldense",
+    "2026-10-31 Albacete 2-1 Sabadell",
+    "2026-11-07 Leganes 1-3 Albacete"
+   ],
+   "ultimos_visitante": [
+    "2026-10-04 Sp Gijon 3-2 Celta B",
+    "2026-10-10 Celta B 4-1 Sociedad B",
+    "2026-10-19 Celta B 1-1 Tenerife",
+    "2026-10-24 Girona 5-1 Celta B",
+    "2026-10-31 Celta B 2-2 Cordoba",
+    "2026-11-07 Burgos 2-1 Celta B"
+   ],
+   "motor": {
+    "elo_l": 1409.7,
+    "elo_v": 1410.0,
+    "p1": 0.458,
+    "px": 0.259,
+    "p2": 0.283,
+    "lh": 1.65,
+    "la": 1.29,
+    "total": 2.95,
+    "over25": 0.565,
+    "btts": 0.587,
+    "corners": 9.81,
+    "tarjetas": 5.02,
+    "fiabilidad": "baja: Elo sin asentar (13 partidos en toda la base)",
+    "remates_l": 15.3,
+    "remates_v": 12.3,
+    "a_puerta_l": 5.0,
+    "a_puerta_v": 4.3
+   },
+   "h2h": "Sin enfrentamientos en la base.",
+   "alertas": [
+    "fiabilidad del motor baja: Elo sin asentar (13 partidos en toda la base)",
+    "Agustin Albarracin: solo 1 titularidades (muestra corta)",
+    "Agustin Medina: sin datos en ESPN",
+    "Alexis Olmedo: solo 3 titularidades (muestra corta)",
+    "Angel Davila: solo 0 titularidades (muestra corta)",
+    "Antonio Moreno: solo 0 titularidades (muestra corta)",
+    "Antonio Puertas: sin datos en ESPN",
+    "Antono Velilla: sin datos en ESPN",
+    "Daniel Bernabeu: solo 1 titularidades (muestra corta)",
+    "David Sueiro: solo 0 titularidades (muestra corta)",
+    "Diego Rodriguez: solo 0 titularidades (muestra corta)",
+    "Fabio Garcia-Moreno: solo 0 titularidades (muestra corta)",
+    "Germain Milla: sin datos en ESPN",
+    "Higinio Marin: solo 3 titularidades (muestra corta)",
+    "Hugo Cuenca: solo 3 titularidades (muestra corta)",
+    "Hugo Lopez: solo 0 titularidades (muestra corta)",
+    "Hugo Martinez Capi: sin datos en ESPN",
+    "Jan Oliveras: solo 2 titularidades (muestra corta)",
+    "Javi Villar: solo 4 titularidades (muestra corta)",
+    "Javier Moreno: solo 3 titularidades (muestra corta)",
+    "Joaquin Domingo: solo 0 titularidades (muestra corta)",
+    "Jorge Perez-Lafuente Rey: solo 0 titularidades (muestra corta)",
+    "Marmol Lluis Lopez: sin datos en ESPN",
+    "Mateo Sobral: solo 5 titularidades (muestra corta)",
+    "Munir El Haddadi: solo 1 titularidades (muestra corta)",
+    "Noah Rodriguez: solo 0 titularidades (muestra corta)",
+    "Pepe Sanchez: solo 3 titularidades (muestra corta)",
+    "Raul Chirveches: solo 0 titularidades (muestra corta)",
+    "Roberto Gonzalez: solo 3 titularidades (muestra corta)",
+    "Samuel Obeng: solo 1 titularidades (muestra corta)",
+    "Sergio Ortuno: sin datos en ESPN",
+    "Seyni Ndiaye: solo 3 titularidades (muestra corta)",
+    "Stefan Bajcetic: solo 0 titularidades (muestra corta)",
+    "Tomas Ingles: solo 0 titularidades (muestra corta)",
+    "Vicente Vidal: solo 0 titularidades (muestra corta)",
+    "Vladimir Silva: solo 0 titularidades (muestra corta)",
+    "noticias parciales: bajas del Celta verificadas en rccelta.es (parte médico 2026-11-12); no se encontraron bajas, dudas ni alineación probable del Albacete (búsquedas 2026-11-13; parte médico del Albacete no localizado)",
+    "fecha: LaLiga ficha Jornada 14, lunes 16-11 19:30 (Carlos Belmonte), coincide con 19:30 UTC; dos webs de entradas dan domingo 15, descartadas",
+    "Pablo Gavián (Celta): en duda por fisioterapia con pruebas pendientes; titular_prob 0.5 → 0.4",
+    "alineación oficial no publicada en el momento de la búsqueda: revisar titular_prob",
+    "Mario Soberón, Jaume Costa y Antonio Pacheco: noticias de molestias encontradas son de otras temporadas o sin fecha; no aplicadas"
+   ],
+   "resumen": "En el Celta (rccelta.es, parte médico 2026-11-12) Pablo Gavián pasa a duda (0.4), Óscar Marcos y Anxo Rodríguez tienen alta, y Somuah y Khayat están de baja larga (sin cuota). Del Albacete no se han encontrado bajas ni alineación probable, así que ese lado queda sin verificar. El motor da Elo sin asentar (fiabilidad baja), 1.65 y 1.29 goles esperados y total 2.95; con el Celta sin Gavián el efecto sobre remates del lado visitante es pequeño."
+  }
+ ]
+}

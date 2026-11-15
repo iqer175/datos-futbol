@@ -1,0 +1,186 @@
+{
+ "carpeta": "ligas/laliga-hypermotion/jornadas/2026-11-13/suelta_2",
+ "creado_utc": "2026-11-13T23:34Z",
+ "subida_maxima": 0.1,
+ "partidos": [
+  {
+   "local": "Eldense",
+   "visitante": "Sabadell",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "selecciones": [
+    {
+     "clave": "Jorge Rastrojo|a puerta|2",
+     "apuesta": "Jorge Rastrojo a puerta 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 4.0,
+     "prob": 0.3202,
+     "margen_bet365": 0.0702,
+     "cuota_minima": 3.45,
+     "prob_sin_sustituto": 0.2268,
+     "cuota_minima_sin_sustituto": 5.08
+    },
+    {
+     "clave": "Quadri Liameed|a puerta|1",
+     "apuesta": "Quadri Liameed a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 3.5,
+     "prob": 0.3374,
+     "margen_bet365": 0.0516,
+     "cuota_minima": 3.25,
+     "prob_sin_sustituto": 0.245,
+     "cuota_minima_sin_sustituto": 4.65
+    },
+    {
+     "clave": "Jorge Rastrojo|a puerta|3",
+     "apuesta": "Jorge Rastrojo a puerta 3+",
+     "tipo": "jugador",
+     "cuota_bet365": 13.0,
+     "prob": 0.1244,
+     "margen_bet365": 0.0475,
+     "cuota_minima": 10.6,
+     "prob_sin_sustituto": 0.0747,
+     "cuota_minima_sin_sustituto": 22.37
+    },
+    {
+     "clave": "Jorge Rastrojo|a puerta|1",
+     "apuesta": "Jorge Rastrojo a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 1.61,
+     "prob": 0.6626,
+     "margen_bet365": 0.0415,
+     "cuota_minima": 1.58,
+     "prob_sin_sustituto": 0.562,
+     "cuota_minima_sin_sustituto": 1.88
+    },
+    {
+     "clave": "Quadri Liameed|remates|1",
+     "apuesta": "Quadri Liameed remates 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 1.66,
+     "prob": 0.5993,
+     "margen_bet365": -0.0031,
+     "cuota_minima": 1.76,
+     "prob_sin_sustituto": 0.4788,
+     "cuota_minima_sin_sustituto": 2.23
+    },
+    {
+     "clave": "Ton Ripoll|remates|1",
+     "apuesta": "Ton Ripoll remates 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 1.5,
+     "prob": 0.6408,
+     "margen_bet365": -0.0258,
+     "cuota_minima": 1.64,
+     "prob_sin_sustituto": 0.5372,
+     "cuota_minima_sin_sustituto": 1.97
+    }
+   ]
+  },
+  {
+   "local": "Albacete",
+   "visitante": "Celta B",
+   "inicio_utc": "2026-11-16T19:30Z",
+   "selecciones": [
+    {
+     "clave": "Lorenzo Aguado|remates|2",
+     "apuesta": "Lorenzo Aguado remates 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 3.5,
+     "prob": 0.3262,
+     "margen_bet365": 0.0405,
+     "cuota_minima": 3.38,
+     "prob_sin_sustituto": 0.2047,
+     "cuota_minima_sin_sustituto": 5.72
+    },
+    {
+     "clave": "Lorenzo Aguado|remates|1",
+     "apuesta": "Lorenzo Aguado remates 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 1.57,
+     "prob": 0.6694,
+     "margen_bet365": 0.0325,
+     "cuota_minima": 1.56,
+     "prob_sin_sustituto": 0.5405,
+     "cuota_minima_sin_sustituto": 1.96
+    },
+    {
+     "clave": "Jesus Vallejo|remates|2",
+     "apuesta": "Jesús Vallejo remates 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 5.0,
+     "prob": 0.2304,
+     "margen_bet365": 0.0304,
+     "cuota_minima": 4.99,
+     "prob_sin_sustituto": 0.1687,
+     "cuota_minima_sin_sustituto": 7.21
+    },
+    {
+     "clave": "Jesus Vallejo|remates|1",
+     "apuesta": "Jesús Vallejo remates 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 1.83,
+     "prob": 0.5766,
+     "margen_bet365": 0.0301,
+     "cuota_minima": 1.83,
+     "prob_sin_sustituto": 0.4955,
+     "cuota_minima_sin_sustituto": 2.15
+    },
+    {
+     "clave": "Lorenzo Aguado|remates|3",
+     "apuesta": "Lorenzo Aguado remates 3+",
+     "tipo": "jugador",
+     "cuota_bet365": 10.0,
+     "prob": 0.1272,
+     "margen_bet365": 0.0272,
+     "cuota_minima": 10.29,
+     "prob_sin_sustituto": 0.0622,
+     "cuota_minima_sin_sustituto": 31.09
+    },
+    {
+     "clave": "Joel Lopez|a puerta|1",
+     "apuesta": "Joel Lopez Salguero a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 6.0,
+     "prob": 0.1924,
+     "margen_bet365": 0.0257,
+     "cuota_minima": 6.16,
+     "prob_sin_sustituto": 0.1399,
+     "cuota_minima_sin_sustituto": 9.1
+    },
+    {
+     "clave": "Angel Arcos|a puerta|2",
+     "apuesta": "Ángel Arcos a puerta 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 7.0,
+     "prob": 0.1651,
+     "margen_bet365": 0.0222,
+     "cuota_minima": 7.4,
+     "prob_sin_sustituto": 0.125,
+     "cuota_minima_sin_sustituto": 10.53
+    },
+    {
+     "clave": "Angel Arcos|a puerta|1",
+     "apuesta": "Ángel Arcos a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 2.1,
+     "prob": 0.4958,
+     "margen_bet365": 0.0196,
+     "cuota_minima": 2.15,
+     "prob_sin_sustituto": 0.4287,
+     "cuota_minima_sin_sustituto": 2.51
+    },
+    {
+     "clave": "Joel Lopez|remates|1",
+     "apuesta": "Joel Lopez Salguero remates 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 2.25,
+     "prob": 0.4436,
+     "margen_bet365": -0.0008,
+     "cuota_minima": 2.42,
+     "prob_sin_sustituto": 0.3853,
+     "cuota_minima_sin_sustituto": 2.81
+    }
+   ]
+  }
+ ]
+}
