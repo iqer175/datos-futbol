@@ -1,2 +1,2 @@
-Lineas con cuota de apertura: 502 (84 de jugador) en 19 partidos
+Lineas con cuota de apertura: 4,611 (3,947 de jugador) en 30 partidos
 Todavia no hay ninguna lectura de cierre valida (ficheros cierre_*.json leidos antes del inicio).

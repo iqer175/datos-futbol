@@ -8,6 +8,8 @@ forma es volver a leer bet365 poco antes del partido. El agente recolector-cuota
 "modo cierre", relee los partidos que estan a punto de empezar y guarda cada lectura en
     ligas/<slug>/jornadas/<fecha>/cierre_<AAAAMMDDTHHMM>.json
 con el MISMO formato que cuotas.json (solo los partidos releidos). Nunca toca cuotas.json.
+Desde 2026-11-16 tambien cuentan las lecturas ludoprops_*.json (cuotas_ludoprops.py cierre),
+pero SOLO cuando se han validado contra el recolector y el usuario lo ha aprobado.
 Una jornada dura varios dias: habra varias lecturas de cierre, una por tanda de partidos.
 
 Los mercados "N o mas remates" no tienen el otro lado, asi que no se puede quitar el margen:
@@ -67,7 +69,13 @@ def leer(f):
 def cierres_de(carpeta):
     """{(local, visitante): (leido, partido)} con la ultima lectura de cierre valida de cada partido."""
     out = {}
-    for f in sorted(carpeta.glob('cierre_*.json')):
+    fs = sorted(carpeta.glob('cierre_*.json'))
+    # lecturas de LudoProps (cuotas_ludoprops.py): solo si se validaron contra el recolector y el
+    # usuario dio el visto bueno (datos/ludoprops_validacion.json)
+    import cuotas_ludoprops
+    if cuotas_ludoprops.usar_en_cierres():
+        fs += sorted(carpeta.glob('ludoprops_*.json'))
+    for f in fs:
         d = leer(f)
         for P in d.get('partidos', []):
             leido, ini = hora(P.get('leido_utc') or d.get('leido_utc')), hora(P.get('inicio_utc'))
