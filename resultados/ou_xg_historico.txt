@@ -1,0 +1,11 @@
+Variante congelada O/U xG en 2025-08-15..2026-06-30, 5 grandes: 691 partidos
+  log-loss apertura bet365   0.6909
+  log-loss motor actual      0.6884
+  log-loss motor xG          0.6920
+  log-loss mezcla congelada  0.6897
+  mezcla - apertura: -0.0012  IC95 [-0.0030, +0.0005]
+    LaLiga           n= 251  -0.0013
+    Ligue 1          n=  90  +0.0046
+    Premier League   n= 130  -0.0049
+    Serie A          n= 220  -0.0012
+  apuestas regla fase 2: 31  CLV medio vs cierre Betfair -4.774%  IC95 [-7.409%, -2.089%]

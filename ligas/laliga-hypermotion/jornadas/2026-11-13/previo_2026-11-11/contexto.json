@@ -1,0 +1,1799 @@
+{
+ "liga": "LaLiga Hypermotion",
+ "generado_utc": "2026-11-11T13:49Z",
+ "datos_hasta": {
+  "partidos": "2026-11-09",
+  "jugadores": "2026-11-09"
+ },
+ "noticias": "parciales",
+ "noticias_utc": "2026-11-11T13:55Z",
+ "partidos": [
+  {
+   "local": "Leganes",
+   "visitante": "Burgos",
+   "inicio_utc": "2026-11-13T19:30Z",
+   "titular_prob": {
+    "Alex Sancris": 0.9,
+    "Alvaro Morata": 0.3,
+    "David Gonzalez": 0.1,
+    "Unax del Cura": 0.1,
+    "Alex Millan": 0.9,
+    "Ismael Gharbi": 0.9
+   },
+   "jugadores": {
+    "Alex Sancris": {
+     "nombre_espn": "Álex Sancris",
+     "equipo": "Leganés",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 8,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": 72,
+     "remates_ultimos_5": [
+      1,
+      0,
+      3,
+      5,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      1,
+      2,
+      1
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": ""
+    },
+    "Alvaro Morata": {
+     "nombre_espn": "Álvaro Morata",
+     "equipo": "Leganés",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": true,
+     "titularidades": 6,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 78,
+     "remates_ultimos_5": [
+      2,
+      2,
+      1,
+      0,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      2
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": ""
+    },
+    "David Gonzalez": {
+     "nombre_espn": "David González",
+     "equipo": "Burgos",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 10,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 84,
+     "remates_ultimos_5": [
+      2,
+      2,
+      1,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      1,
+      1,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-18",
+     "nota": ""
+    },
+    "Unax del Cura": {
+     "nombre_espn": "Unax Del Cura",
+     "equipo": "Leganés",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": ""
+    },
+    "Alex Millan": {
+     "nombre_espn": "Álex Millán",
+     "equipo": "Leganés",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 3,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": 58,
+     "remates_ultimos_5": [
+      2,
+      4,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      2,
+      0
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": ""
+    },
+    "Ismael Gharbi": {
+     "nombre_espn": "Ismaël Gharbi",
+     "equipo": "Leganés",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 12,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 76,
+     "remates_ultimos_5": [
+      1,
+      1,
+      1,
+      0,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": ""
+    }
+   },
+   "bajas_local": [
+    {
+     "jugador": "Pulido",
+     "motivo": "sanción: acumulación de tarjetas (1 partido)",
+     "fuente": "FutbolTotal, sancionados jornada 13 Hypermotion (publicado 2026-11-06)",
+     "fecha": "2026-11-06"
+    },
+    {
+     "jugador": "Kechta",
+     "motivo": "sanción: acumulación de tarjetas (1 partido)",
+     "fuente": "FutbolTotal, sancionados jornada 13 Hypermotion (publicado 2026-11-06)",
+     "fecha": "2026-11-06"
+    }
+   ],
+   "bajas_visitante": [
+    {
+     "jugador": "Grego S.",
+     "motivo": "sanción: acumulación de tarjetas (1 partido)",
+     "fuente": "FutbolTotal, sancionados jornada 13 Hypermotion (publicado 2026-11-06)",
+     "fecha": "2026-11-06"
+    }
+   ],
+   "forma_local": "P-P-P-E-P-P, 5 GF y 16 GC en 6; tiros a puerta 25-37; corners 30-35",
+   "forma_visitante": "P-P-G-G-E-G, 8 GF y 7 GC en 6; tiros a puerta 34-26; corners 31-20",
+   "ultimos_local": [
+    "2026-10-03 Cadiz 4-0 Leganes",
+    "2026-10-11 Almeria 3-0 Leganes",
+    "2026-10-16 Leganes 0-1 Cordoba",
+    "2026-10-24 Leganes 1-1 Mallorca",
+    "2026-11-02 Valladolid 4-3 Leganes",
+    "2026-11-07 Leganes 1-3 Albacete"
+   ],
+   "ultimos_visitante": [
+    "2026-10-03 Almeria 2-1 Burgos",
+    "2026-10-12 Burgos 0-1 Granada",
+    "2026-10-18 Burgos 1-0 Sabadell",
+    "2026-10-26 Andorra 2-3 Burgos",
+    "2026-11-01 Burgos 1-1 Castellon",
+    "2026-11-07 Burgos 2-1 Celta B"
+   ],
+   "motor": {
+    "elo_l": 1373.3,
+    "elo_v": 1500.3,
+    "p1": 0.312,
+    "px": 0.299,
+    "p2": 0.389,
+    "lh": 1.08,
+    "la": 1.28,
+    "total": 2.36,
+    "over25": 0.419,
+    "btts": 0.476,
+    "corners": 9.31,
+    "tarjetas": 5.37,
+    "fiabilidad": "alta"
+   },
+   "h2h": "H2H (5): Leganes 2, Burgos 3, empates 0; 2.4 goles de media, Más 2.5 en 3. 2023-05-12 Burgos 0-3 Leganes; 2023-10-04 Burgos 1-0 Leganes; 2024-01-22 Leganes 2-0 Burgos; 2025-11-01 Leganes 1-2 Burgos; 2026-01-31 Burgos 2-1 Leganes",
+   "alertas": [
+    "Unax del Cura: solo 0 titularidades (muestra corta)",
+    "Alex Millan: solo 3 titularidades (muestra corta)",
+    "Sin alineación probable ni parte de lesiones verificados para este partido (búsqueda 2026-11-11).",
+    "Pulido y Kechta (Leganés) y Grego S. (Burgos) figuran sancionados en la lista de FutbolTotal; no tienen cuota de remates y no se ha confirmado que cumplan este partido.",
+    "Fecha sin confirmar: este contexto da viernes 13-nov 19:30Z; una página oficial de LaLiga (jornada 14) da domingo 15-nov en Butarque."
+   ],
+   "resumen": "Sin alineación probable ni bajas verificadas. Pulido y Kechta (Leganés) y Grego S. (Burgos) están sancionados según la lista de FutbolTotal, pero no tienen cuota de remates. Sin cambios en titular_prob: Morata (0,3) sigue siendo el de mayor incertidumbre para los remates locales."
+  },
+  {
+   "local": "Valladolid",
+   "visitante": "Castellon",
+   "inicio_utc": "2026-11-14T13:00Z",
+   "titular_prob": {
+    "Juan Latasa": 0.1,
+    "Adam Jakobsen": 0.9,
+    "Adrian Arnu": 0.9,
+    "Ousmane Camara": 0.1,
+    "Yeray Cabanzon": 0.1,
+    "Axel Perez": 0.1
+   },
+   "jugadores": {
+    "Juan Latasa": {
+     "nombre_espn": "Juan Latasa",
+     "equipo": "Real Valladolid",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 7,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 75,
+     "remates_ultimos_5": [
+      2,
+      3,
+      4,
+      3,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      1,
+      2,
+      3,
+      0
+     ],
+     "ultima_titularidad": "2026-10-18",
+     "nota": ""
+    },
+    "Adam Jakobsen": {
+     "nombre_espn": "Adam Jakobsen",
+     "equipo": "Castellón",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 8,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 77,
+     "remates_ultimos_5": [
+      4,
+      2,
+      0,
+      3,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      0,
+      0,
+      3,
+      0
+     ],
+     "ultima_titularidad": "2026-11-01",
+     "nota": ""
+    },
+    "Adrian Arnu": {
+     "nombre_espn": "Adrián Arnun",
+     "equipo": "Real Valladolid",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 8,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 75,
+     "remates_ultimos_5": [
+      3,
+      1,
+      1,
+      3,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      2,
+      1,
+      1,
+      2,
+      0
+     ],
+     "ultima_titularidad": "2026-11-08",
+     "nota": ""
+    },
+    "Ousmane Camara": {
+     "nombre_espn": "Ousmane Camara",
+     "equipo": "Castellón",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 7,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 87,
+     "remates_ultimos_5": [
+      4,
+      5,
+      3,
+      2,
+      5
+     ],
+     "a_puerta_ultimos_5": [
+      2,
+      1,
+      3,
+      2,
+      2
+     ],
+     "ultima_titularidad": "2026-09-28",
+     "nota": ""
+    },
+    "Yeray Cabanzon": {
+     "nombre_espn": "Yeray Cabanzón",
+     "equipo": "Real Valladolid",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 4,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": 71,
+     "remates_ultimos_5": [
+      5,
+      2,
+      3,
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      0,
+      2,
+      0
+     ],
+     "ultima_titularidad": "2026-09-05",
+     "nota": ""
+    },
+    "Axel Perez": {
+     "nombre_espn": "Axel Pérez",
+     "equipo": "Castellón",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "No disp. en bet365; 0 titularidades en ESPN; sin noticias verificadas de lesión"
+    }
+   },
+   "bajas_local": [],
+   "bajas_visitante": [
+    {
+     "jugador": "Maty",
+     "motivo": "sanción: juego violento (1 partido)",
+     "fuente": "FutbolTotal, sancionados jornada 13 Hypermotion (publicado 2026-11-06)",
+     "fecha": "2026-11-06"
+    }
+   ],
+   "forma_local": "E-G-P-P-G-G, 16 GF y 11 GC en 6; tiros a puerta 43-34; corners 42-26",
+   "forma_visitante": "G-E-P-G-G-E, 11 GF y 3 GC en 6; tiros a puerta 25-22; corners 21-22",
+   "ultimos_local": [
+    "2026-10-04 Las Palmas 2-2 Valladolid",
+    "2026-10-12 Valladolid 5-0 Albacete",
+    "2026-10-18 Valladolid 2-3 Eldense",
+    "2026-10-23 Granada 2-1 Valladolid",
+    "2026-11-02 Valladolid 4-3 Leganes",
+    "2026-11-08 Sp Gijon 1-2 Valladolid"
+   ],
+   "ultimos_visitante": [
+    "2026-09-28 Leganes 0-2 Castellon",
+    "2026-10-04 Castellon 1-1 Ceuta",
+    "2026-10-11 Andorra 1-0 Castellon",
+    "2026-10-17 Las Palmas 0-3 Castellon",
+    "2026-10-25 Castellon 4-0 Sp Gijon",
+    "2026-11-01 Burgos 1-1 Castellon"
+   ],
+   "motor": {
+    "elo_l": 1407.7,
+    "elo_v": 1553.4,
+    "p1": 0.302,
+    "px": 0.272,
+    "p2": 0.426,
+    "lh": 1.21,
+    "la": 1.54,
+    "total": 2.75,
+    "over25": 0.518,
+    "btts": 0.551,
+    "corners": 9.03,
+    "tarjetas": 5.05,
+    "fiabilidad": "alta"
+   },
+   "h2h": "H2H (2): Valladolid 1, Castellon 1, empates 0; 2.5 goles de media, Más 2.5 en 1. 2025-08-22 Castellon 0-1 Valladolid; 2026-02-08 Valladolid 0-4 Castellon",
+   "alertas": [
+    "Yeray Cabanzon: solo 4 titularidades (muestra corta)",
+    "Axel Perez: solo 0 titularidades (muestra corta)",
+    "Maty (Castellón) sancionado según FutbolTotal; no tiene cuota de remates.",
+    "Sin alineación probable ni parte de lesiones verificados para este partido."
+   ],
+   "resumen": "Sin alineación probable ni lesiones verificadas. Maty (Castellón) cumple sanción en la lista de FutbolTotal, sin cuota de remates. Sin cambios en titular_prob; Axel Perez (No disp., 0 titularidades) se mantiene en 0,1."
+  },
+  {
+   "local": "Sociedad B",
+   "visitante": "Sp Gijon",
+   "inicio_utc": "2026-11-14T15:15Z",
+   "titular_prob": {
+    "Arkaitz Mariezkurrena": 0.3,
+    "Juan Otero": 0.9,
+    "Lander Astiazaran": 0.1,
+    "Gorka Carrera": 0.3,
+    "Javier Soroeta": 0.7,
+    "Job Ochieng": 0.1
+   },
+   "jugadores": {
+    "Arkaitz Mariezkurrena": {
+     "nombre_espn": "Arkaitz Mariezkurrena",
+     "equipo": "Real Sociedad II",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": false,
+     "titularidades": 4,
+     "suplencias_con_minutos": 7,
+     "minutos_medios": 58,
+     "remates_ultimos_5": [
+      2,
+      0,
+      1,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      2,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": ""
+    },
+    "Juan Otero": {
+     "nombre_espn": "Juan Otero",
+     "equipo": "Sporting Gijón",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 10,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 82,
+     "remates_ultimos_5": [
+      1,
+      0,
+      3,
+      0,
+      5
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      1,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-11-08",
+     "nota": ""
+    },
+    "Lander Astiazaran": {
+     "nombre_espn": "Lander Astiazarán",
+     "equipo": "Real Sociedad II",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 9,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": 90,
+     "remates_ultimos_5": [
+      5,
+      5,
+      6,
+      2,
+      5
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      1,
+      2,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-10-17",
+     "nota": ""
+    },
+    "Gorka Carrera": {
+     "nombre_espn": "Gorka Carrera",
+     "equipo": "Real Sociedad II",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": false,
+     "titularidades": 8,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 82,
+     "remates_ultimos_5": [
+      0,
+      1,
+      0,
+      2,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-10-24",
+     "nota": ""
+    },
+    "Javier Soroeta": {
+     "nombre_espn": "Javier Soroeta",
+     "equipo": "Real Sociedad II",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": true,
+     "titularidades": 3,
+     "suplencias_con_minutos": 7,
+     "minutos_medios": 65,
+     "remates_ultimos_5": [
+      2,
+      0,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": ""
+    },
+    "Job Ochieng": {
+     "nota": "sin datos en ESPN; 0.1 por defecto (sin titularidades registradas); sin noticias verificadas. Un preview de El Goldigital (Sociedad B-Ceuta) menciona lesión de Ochieng; fecha de esa noticia no verificada, no confirmada para este partido; No disp. en bet365"
+    }
+   },
+   "bajas_local": [],
+   "bajas_visitante": [],
+   "forma_local": "P-P-P-P-G-E, 6 GF y 12 GC en 6; tiros a puerta 29-27; corners 33-23",
+   "forma_visitante": "G-G-G-P-G-P, 9 GF y 9 GC en 6; tiros a puerta 30-28; corners 30-33",
+   "ultimos_local": [
+    "2026-10-04 Sociedad B 2-3 Granada",
+    "2026-10-10 Celta B 4-1 Sociedad B",
+    "2026-10-17 Sociedad B 2-4 Almeria",
+    "2026-10-24 Las Palmas 1-0 Sociedad B",
+    "2026-10-31 Sociedad B 1-0 Girona",
+    "2026-11-09 Sabadell 0-0 Sociedad B"
+   ],
+   "ultimos_visitante": [
+    "2026-10-04 Sp Gijon 3-2 Celta B",
+    "2026-10-11 Cadiz 0-1 Sp Gijon",
+    "2026-10-17 Sp Gijon 2-1 Albacete",
+    "2026-10-25 Castellon 4-0 Sp Gijon",
+    "2026-11-01 Ceuta 0-2 Sp Gijon",
+    "2026-11-08 Sp Gijon 1-2 Valladolid"
+   ],
+   "motor": {
+    "elo_l": 1377.1,
+    "elo_v": 1456.0,
+    "p1": 0.372,
+    "px": 0.282,
+    "p2": 0.346,
+    "lh": 1.32,
+    "la": 1.31,
+    "total": 2.63,
+    "over25": 0.489,
+    "btts": 0.535,
+    "corners": 9.5,
+    "tarjetas": 5.55,
+    "fiabilidad": "alta"
+   },
+   "h2h": "H2H (4): Sociedad B 2, Sp Gijon 2, empates 0; 1.5 goles de media, Más 2.5 en 1. 2021-11-12 Sp Gijon 0-1 Sociedad B; 2022-03-07 Sociedad B 2-1 Sp Gijon; 2025-12-06 Sociedad B 0-1 Sp Gijon; 2026-04-06 Sp Gijon 1-0 Sociedad B",
+   "alertas": [
+    "Arkaitz Mariezkurrena: solo 4 titularidades (muestra corta)",
+    "Javier Soroeta: solo 3 titularidades (muestra corta)",
+    "Job Ochieng: sin datos en ESPN",
+    "Job Ochieng: lesión citada por El Goldigital en un preview de otro partido, sin fecha verificada; se tomó 0,1 por falta de datos y No disp. en bet365.",
+    "Sin alineación probable ni parte de lesiones verificados para este partido."
+   ],
+   "resumen": "Sin alineación probable ni bajas verificadas. Ochieng (No disp.) tiene una lesión citada en una noticia sin fecha, y sin datos en ESPN; queda en 0,1. Sin cambios en el resto de titular_prob."
+  },
+  {
+   "local": "Almeria",
+   "visitante": "Andorra",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "titular_prob": {
+    "Leo Baptistao": 0.1,
+    "Jon Morcillo": 0.1,
+    "Miguel De la Fuente": 0.9,
+    "Nico Melamed": 0.1,
+    "Ibrahima Kone": 0.1,
+    "Adrian Embarba": 0.1
+   },
+   "jugadores": {
+    "Leo Baptistao": {
+     "nombre_espn": "Léo Baptistão",
+     "equipo": "Almería",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 3,
+     "suplencias_con_minutos": 8,
+     "minutos_medios": 60,
+     "remates_ultimos_5": [
+      4,
+      0,
+      4
+     ],
+     "a_puerta_ultimos_5": [
+      3,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-03",
+     "nota": ""
+    },
+    "Jon Morcillo": {
+     "nombre_espn": "Jon Morcillo",
+     "equipo": "Almería",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 4,
+     "minutos_medios": 58,
+     "remates_ultimos_5": [
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0
+     ],
+     "ultima_titularidad": "2026-08-29",
+     "nota": ""
+    },
+    "Adrian Embarba": {
+     "nota": "sin datos en ESPN; 0.1 por defecto (sin titularidades registradas); sin noticias verificadas"
+    },
+    "Miguel De la Fuente": {
+     "nombre_espn": "Miguel de la Fuente",
+     "equipo": "Almería",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 11,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": 85,
+     "remates_ultimos_5": [
+      3,
+      1,
+      1,
+      0,
+      4
+     ],
+     "a_puerta_ultimos_5": [
+      2,
+      1,
+      1,
+      0,
+      2
+     ],
+     "ultima_titularidad": "2026-11-08",
+     "nota": ""
+    },
+    "Nico Melamed": {
+     "nombre_espn": "Nicolás Melamed",
+     "equipo": "Almería",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 4,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 69,
+     "remates_ultimos_5": [
+      2,
+      3,
+      1,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      0,
+      1,
+      2
+     ],
+     "ultima_titularidad": "2026-09-20",
+     "nota": ""
+    },
+    "Ibrahima Kone": {
+     "nota": "sin datos en ESPN; 0.1 por defecto (sin titularidades registradas); sin noticias verificadas; No disp. en bet365"
+    }
+   },
+   "bajas_local": [],
+   "bajas_visitante": [],
+   "forma_local": "G-G-G-E-E-G, 13 GF y 6 GC en 6; tiros a puerta 29-29; corners 27-35",
+   "forma_visitante": "G-E-G-P-P-E, 8 GF y 9 GC en 6; tiros a puerta 31-24; corners 24-37",
+   "ultimos_local": [
+    "2026-10-03 Almeria 2-1 Burgos",
+    "2026-10-11 Almeria 3-0 Leganes",
+    "2026-10-17 Sociedad B 2-4 Almeria",
+    "2026-10-24 Almeria 2-2 Oviedo",
+    "2026-10-31 Eibar 1-1 Almeria",
+    "2026-11-08 Girona 0-1 Almeria"
+   ],
+   "ultimos_visitante": [
+    "2026-09-26 Granada 2-3 Andorra",
+    "2026-10-04 Sabadell 0-0 Andorra",
+    "2026-10-11 Andorra 1-0 Castellon",
+    "2026-10-18 Girona 2-0 Andorra",
+    "2026-10-26 Andorra 2-3 Burgos",
+    "2026-11-02 Tenerife 2-2 Andorra"
+   ],
+   "motor": {
+    "elo_l": 1547.7,
+    "elo_v": 1416.1,
+    "p1": 0.575,
+    "px": 0.233,
+    "p2": 0.192,
+    "lh": 1.95,
+    "la": 1.07,
+    "total": 3.03,
+    "over25": 0.582,
+    "btts": 0.565,
+    "corners": 9.23,
+    "tarjetas": 5.27,
+    "fiabilidad": "alta"
+   },
+   "h2h": "H2H (2): Almeria 2, Andorra 0, empates 0; 4.0 goles de media, Más 2.5 en 2. 2025-12-06 Andorra 1-2 Almeria; 2026-02-13 Almeria 3-2 Andorra",
+   "alertas": [
+    "Leo Baptistao: solo 3 titularidades (muestra corta)",
+    "Jon Morcillo: solo 1 titularidades (muestra corta)",
+    "Adrian Embarba: sin datos en ESPN",
+    "Nico Melamed: solo 4 titularidades (muestra corta)",
+    "Ibrahima Kone: sin datos en ESPN",
+    "Hora sin confirmar: FutbolTotal da sábado 14-nov 17:30 (Canarias), coherente con este contexto; otra fuente da domingo 15-nov 11:00.",
+    "Sin alineación probable ni parte de lesiones verificados para este partido."
+   ],
+   "resumen": "Sin alineación probable ni bajas verificadas. Kone y Embarba no tienen datos en ESPN y quedan en 0,1 por defecto. Sin cambios en titular_prob del resto; De la Fuente (0,9) no tiene noticia que lo cambie."
+  },
+  {
+   "local": "Mallorca",
+   "visitante": "Cordoba",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "titular_prob": {
+    "Adam Buksa": 0.1,
+    "Adrian Liso": 0.9,
+    "Alex Sala": 0.9,
+    "Abdon Prats": 0.1,
+    "Adrian Fuentes": 0.1,
+    "Andre Zito Luvumbo": 0.1
+   },
+   "jugadores": {
+    "Adam Buksa": {
+     "nombre_espn": "Adam Buksa",
+     "equipo": "Mallorca",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 7,
+     "minutos_medios": 58,
+     "remates_ultimos_5": [
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0
+     ],
+     "ultima_titularidad": "2026-10-04",
+     "nota": ""
+    },
+    "Andre Zito Luvumbo": {
+     "nota": "sin datos en ESPN; 0.1 por defecto (sin titularidades registradas); sin noticias verificadas"
+    },
+    "Adrian Liso": {
+     "nombre_espn": "Adrián Liso",
+     "equipo": "Mallorca",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 7,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 79,
+     "remates_ultimos_5": [
+      0,
+      0,
+      3,
+      2,
+      4
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      1,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-11-02",
+     "nota": ""
+    },
+    "Adrian Fuentes": {
+     "nota": "sin datos en ESPN; 0.1 por defecto (sin titularidades registradas); sin noticias verificadas"
+    },
+    "Alex Sala": {
+     "nombre_espn": "Álex Sala",
+     "equipo": "Mallorca",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 11,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 85,
+     "remates_ultimos_5": [
+      1,
+      4,
+      3,
+      1,
+      4
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      3,
+      1,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-11-02",
+     "nota": ""
+    },
+    "Abdon Prats": {
+     "nombre_espn": "Abdón Prats",
+     "equipo": "Mallorca",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "No disp. en bet365; 0 titularidades en ESPN; sin noticias verificadas"
+    }
+   },
+   "bajas_local": [],
+   "bajas_visitante": [
+    {
+     "jugador": "Isma Ruiz",
+     "motivo": "sanción: doble amarilla (1 partido)",
+     "fuente": "FutbolTotal, sancionados jornada 13 Hypermotion (publicado 2026-11-06)",
+     "fecha": "2026-11-06"
+    },
+    {
+     "jugador": "Alex",
+     "motivo": "sanción: juego violento (1 partido)",
+     "fuente": "FutbolTotal, sancionados jornada 13 Hypermotion (publicado 2026-11-06)",
+     "fecha": "2026-11-06"
+    }
+   ],
+   "forma_local": "P-E-G-E-E-G, 7 GF y 5 GC en 6; tiros a puerta 25-23; corners 41-22",
+   "forma_visitante": "G-P-G-G-E-G, 12 GF y 6 GC en 6; tiros a puerta 38-24; corners 49-29",
+   "ultimos_local": [
+    "2026-09-27 Mallorca 0-1 Almeria",
+    "2026-10-04 Girona 0-0 Mallorca",
+    "2026-10-11 Mallorca 3-1 Las Palmas",
+    "2026-10-17 Eibar 1-1 Mallorca",
+    "2026-10-24 Leganes 1-1 Mallorca",
+    "2026-11-02 Mallorca 2-1 Cadiz"
+   ],
+   "ultimos_visitante": [
+    "2026-10-05 Cordoba 3-2 Tenerife",
+    "2026-10-10 Eldense 2-1 Cordoba",
+    "2026-10-16 Leganes 0-1 Cordoba",
+    "2026-10-24 Cordoba 2-0 Eibar",
+    "2026-10-31 Celta B 2-2 Cordoba",
+    "2026-11-07 Cordoba 3-0 Ceuta"
+   ],
+   "motor": {
+    "elo_l": 1553.7,
+    "elo_v": 1435.1,
+    "p1": 0.56,
+    "px": 0.25,
+    "p2": 0.19,
+    "lh": 1.75,
+    "la": 0.95,
+    "total": 2.7,
+    "over25": 0.507,
+    "btts": 0.507,
+    "corners": 10.06,
+    "tarjetas": 5.65,
+    "fiabilidad": "alta"
+   },
+   "h2h": "Sin enfrentamientos en la base.",
+   "alertas": [
+    "Adam Buksa: solo 1 titularidades (muestra corta)",
+    "Andre Zito Luvumbo: sin datos en ESPN",
+    "Adrian Fuentes: sin datos en ESPN",
+    "Abdon Prats: solo 0 titularidades (muestra corta)",
+    "Isma Ruiz y Alex (Córdoba) sancionados según FutbolTotal; ninguno tiene cuota de remates.",
+    "Fecha sin confirmar: contexto da sábado 14-nov 17:30Z (coherente con FutbolTotal); una página de LaLiga da domingo 15-nov.",
+    "Sin alineación probable ni parte de lesiones verificados para este partido."
+   ],
+   "resumen": "Sin alineación probable ni bajas locales verificadas. Córdoba pierde a Isma Ruiz y Alex por sanción (sin cuota de remates). Fuentes, Zito Luvumbo y Prats (sin datos o No disp.) quedan en 0,1; Liso y Sala (0,9) sin cambios."
+  },
+  {
+   "local": "Oviedo",
+   "visitante": "Girona",
+   "inicio_utc": "2026-11-14T20:00Z",
+   "titular_prob": {
+    "Gonzalez Jacobo": 0.1,
+    "Ilyas Chaira": 0.3,
+    "Jose Luis Morales": 0.3,
+    "Chris Ramos": 0.1,
+    "Estanis Pedrola": 0.3,
+    "Abel Ruiz": 0.3
+   },
+   "jugadores": {
+    "Gonzalez Jacobo": {
+     "nombre_espn": "Jacobo González",
+     "equipo": "Real Oviedo",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 6,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 76,
+     "remates_ultimos_5": [
+      3,
+      1,
+      4,
+      2,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      0,
+      1,
+      1
+     ],
+     "ultima_titularidad": "2026-10-02",
+     "nota": ""
+    },
+    "Ilyas Chaira": {
+     "nombre_espn": "Ilyas Chaira",
+     "equipo": "Real Oviedo",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": true,
+     "titularidades": 1,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 67,
+     "remates_ultimos_5": [
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      1
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": ""
+    },
+    "Jose Luis Morales": {
+     "nombre_espn": "José Luis Morales",
+     "equipo": "Real Oviedo",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 59,
+     "remates_ultimos_5": [
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0
+     ],
+     "ultima_titularidad": "2026-10-24",
+     "nota": ""
+    },
+    "Chris Ramos": {
+     "nombre_espn": "Chris Ramos",
+     "equipo": "Real Oviedo",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 3,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 60,
+     "remates_ultimos_5": [
+      3,
+      2,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-09-27",
+     "nota": ""
+    },
+    "Estanis Pedrola": {
+     "nombre_espn": "Estanis Pedrola",
+     "equipo": "Real Oviedo",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": true,
+     "titularidades": 1,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 61,
+     "remates_ultimos_5": [
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      1
+     ],
+     "ultima_titularidad": "2026-11-07",
+     "nota": ""
+    },
+    "Abel Ruiz": {
+     "nombre_espn": "Abel Ruiz",
+     "equipo": "Girona",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": true,
+     "titularidades": 8,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": 65,
+     "remates_ultimos_5": [
+      1,
+      3,
+      4,
+      2,
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      1,
+      0,
+      2,
+      1
+     ],
+     "ultima_titularidad": "2026-11-08",
+     "nota": ""
+    }
+   },
+   "bajas_local": [],
+   "bajas_visitante": [
+    {
+     "jugador": "David López",
+     "motivo": "sanción: juego violento (1 partido)",
+     "fuente": "FutbolTotal, sancionados jornada 13 Hypermotion (publicado 2026-11-06)",
+     "fecha": "2026-11-06"
+    }
+   ],
+   "forma_local": "P-G-G-E-P-G, 12 GF y 12 GC en 6; tiros a puerta 39-34; corners 38-40",
+   "forma_visitante": "E-E-G-G-P-P, 8 GF y 4 GC en 6; tiros a puerta 27-17; corners 25-26",
+   "ultimos_local": [
+    "2026-10-02 Eldense 4-1 Oviedo",
+    "2026-10-12 Oviedo 3-1 Eibar",
+    "2026-10-18 Ceuta 1-2 Oviedo",
+    "2026-10-24 Almeria 2-2 Oviedo",
+    "2026-11-02 Oviedo 2-3 Las Palmas",
+    "2026-11-07 Cadiz 1-2 Oviedo"
+   ],
+   "ultimos_visitante": [
+    "2026-10-04 Girona 0-0 Mallorca",
+    "2026-10-12 Tenerife 1-1 Girona",
+    "2026-10-18 Girona 2-0 Andorra",
+    "2026-10-24 Girona 5-1 Celta B",
+    "2026-10-31 Sociedad B 1-0 Girona",
+    "2026-11-08 Girona 0-1 Almeria"
+   ],
+   "motor": {
+    "elo_l": 1484.9,
+    "elo_v": 1540.4,
+    "p1": 0.384,
+    "px": 0.287,
+    "p2": 0.329,
+    "lh": 1.31,
+    "la": 1.23,
+    "total": 2.55,
+    "over25": 0.468,
+    "btts": 0.518,
+    "corners": 9.29,
+    "tarjetas": 5.49,
+    "fiabilidad": "alta"
+   },
+   "h2h": "H2H (2): Oviedo 0, Girona 1, empates 1; 1.5 goles de media, Más 2.5 en 1. 2021-09-26 Oviedo 0-0 Girona; 2022-03-06 Girona 2-1 Oviedo",
+   "alertas": [
+    "Ilyas Chaira: solo 1 titularidades (muestra corta)",
+    "Jose Luis Morales: solo 1 titularidades (muestra corta)",
+    "Chris Ramos: solo 3 titularidades (muestra corta)",
+    "Estanis Pedrola: solo 1 titularidades (muestra corta)",
+    "David López (Girona) sancionado según FutbolTotal; no tiene cuota de remates.",
+    "Fecha sin confirmar: contexto da sábado 14-nov 20:00Z; un agregador da domingo 15-nov.",
+    "Sin alineación probable ni parte de lesiones verificados para este partido."
+   ],
+   "resumen": "Sin alineación probable ni lesiones verificadas. Girona pierde a David López por sanción (sin cuota). Sin cambios en titular_prob: Chaira, Morales y Pedrola (0,3) quedan con el valor del script."
+  },
+  {
+   "local": "Granada",
+   "visitante": "Las Palmas",
+   "inicio_utc": "2026-11-15T15:15Z",
+   "titular_prob": {
+    "Jorge Pascual": 0.9,
+    "Alejandro Marques": 0.1,
+    "Jose Arnaiz": 0.5,
+    "Owen Emeka": 0.1,
+    "Chinaza Onouha": 0.1,
+    "Jefte Betancor": 0.1
+   },
+   "jugadores": {
+    "Jorge Pascual": {
+     "nombre_espn": "Jorge Pascual Medina",
+     "equipo": "Granada",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 5,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": 71,
+     "remates_ultimos_5": [
+      2,
+      2,
+      3,
+      2,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      1,
+      2,
+      0
+     ],
+     "ultima_titularidad": "2026-11-01",
+     "nota": ""
+    },
+    "Alejandro Marques": {
+     "nombre_espn": "Alejandro Marqués",
+     "equipo": "Granada",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 3,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 59,
+     "remates_ultimos_5": [
+      1,
+      4,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      2,
+      0
+     ],
+     "ultima_titularidad": "2026-09-26",
+     "nota": ""
+    },
+    "Jose Arnaiz": {
+     "nombre_espn": "José Arnaiz",
+     "equipo": "Granada",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": false,
+     "titularidades": 11,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 76,
+     "remates_ultimos_5": [
+      2,
+      4,
+      1,
+      2,
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      2,
+      1,
+      0,
+      2
+     ],
+     "ultima_titularidad": "2026-10-23",
+     "nota": ""
+    },
+    "Owen Emeka": {
+     "nombre_espn": "Owen Mira Chukwuemeka",
+     "equipo": "Granada",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 3,
+     "suplencias_con_minutos": 7,
+     "minutos_medios": 57,
+     "remates_ultimos_5": [
+      1,
+      1,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-09-20",
+     "nota": ""
+    },
+    "Chinaza Onouha": {
+     "nombre_espn": "Chinaza Marvellous Onouha Okonyia",
+     "equipo": "Granada",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 5,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": 54,
+     "remates_ultimos_5": [
+      1,
+      1,
+      0,
+      0,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-04",
+     "nota": ""
+    },
+    "Jefte Betancor": {
+     "nota": "sin datos en ESPN; 0.1 por defecto (sin titularidades registradas); sin noticias verificadas"
+    }
+   },
+   "bajas_local": [],
+   "bajas_visitante": [],
+   "forma_local": "P-G-G-G-G-G, 12 GF y 6 GC en 6; tiros a puerta 25-32; corners 30-23",
+   "forma_visitante": "E-P-P-G-G-G, 9 GF y 10 GC en 6; tiros a puerta 21-31; corners 24-34",
+   "ultimos_local": [
+    "2026-09-26 Granada 2-3 Andorra",
+    "2026-10-04 Sociedad B 2-3 Granada",
+    "2026-10-12 Burgos 0-1 Granada",
+    "2026-10-18 Granada 2-0 Cadiz",
+    "2026-10-23 Granada 2-1 Valladolid",
+    "2026-11-01 Eldense 0-2 Granada"
+   ],
+   "ultimos_visitante": [
+    "2026-10-04 Las Palmas 2-2 Valladolid",
+    "2026-10-11 Mallorca 3-1 Las Palmas",
+    "2026-10-17 Las Palmas 0-3 Castellon",
+    "2026-10-24 Las Palmas 1-0 Sociedad B",
+    "2026-11-02 Oviedo 2-3 Las Palmas",
+    "2026-11-09 Las Palmas 2-0 Eldense"
+   ],
+   "motor": {
+    "elo_l": 1461.6,
+    "elo_v": 1483.4,
+    "p1": 0.429,
+    "px": 0.278,
+    "p2": 0.293,
+    "lh": 1.44,
+    "la": 1.19,
+    "total": 2.63,
+    "over25": 0.489,
+    "btts": 0.531,
+    "corners": 9.03,
+    "tarjetas": 4.54,
+    "fiabilidad": "alta"
+   },
+   "h2h": "H2H (4): Granada 1, Las Palmas 2, empates 1; 1.8 goles de media, Más 2.5 en 1. 2022-09-26 Las Palmas 2-0 Granada; 2023-04-15 Granada 2-1 Las Palmas; 2025-10-10 Granada 0-0 Las Palmas; 2026-04-02 Las Palmas 2-0 Granada",
+   "alertas": [
+    "Jorge Pascual: solo 5 titularidades (muestra corta)",
+    "Alejandro Marques: solo 3 titularidades (muestra corta)",
+    "Owen Emeka: solo 3 titularidades (muestra corta)",
+    "Chinaza Onouha: solo 5 titularidades (muestra corta)",
+    "Jefte Betancor: sin datos en ESPN",
+    "Sin alineación probable ni parte de lesiones verificados para este partido.",
+    "Hora: FutbolTotal da domingo 15-nov 11:00; contexto da 15:15Z, coherente con starting11 (15:15 GMT)."
+   ],
+   "resumen": "Sin alineación probable ni bajas verificadas. Betancor, sin datos en ESPN, queda en 0,1. Sin cambios en titular_prob del resto."
+  },
+  {
+   "local": "Eibar",
+   "visitante": "Cadiz",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "titular_prob": {
+    "Jon Bautista": 0.7,
+    "Adu Ares": 0.7,
+    "Ivan Gil": 0.7,
+    "Javi Ontiveros": 0.1,
+    "Javier Marton": 0.3,
+    "Francisco Pejino": 0.1
+   },
+   "jugadores": {
+    "Jon Bautista": {
+     "nombre_espn": "Jon Bautista",
+     "equipo": "Eibar",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": true,
+     "titularidades": 9,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 68,
+     "remates_ultimos_5": [
+      0,
+      1,
+      8,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      2,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": ""
+    },
+    "Adu Ares": {
+     "nombre_espn": "Malcom Adu Ares",
+     "equipo": "Eibar",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": true,
+     "titularidades": 9,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 74,
+     "remates_ultimos_5": [
+      1,
+      1,
+      0,
+      1,
+      4
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      0,
+      0,
+      1,
+      1
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": ""
+    },
+    "Ivan Gil": {
+     "nombre_espn": "Iván Gil",
+     "equipo": "Eibar",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": true,
+     "titularidades": 6,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 74,
+     "remates_ultimos_5": [
+      1,
+      3,
+      0,
+      2,
+      6
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      2,
+      0,
+      1,
+      1
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": ""
+    },
+    "Javi Ontiveros": {
+     "nombre_espn": "Javi Ontiveros",
+     "equipo": "Cádiz",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 2,
+     "suplencias_con_minutos": 4,
+     "minutos_medios": 59,
+     "remates_ultimos_5": [
+      1,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-09-19",
+     "nota": ""
+    },
+    "Javier Marton": {
+     "nombre_espn": "Javier Martón",
+     "equipo": "Eibar",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": false,
+     "titularidades": 3,
+     "suplencias_con_minutos": 9,
+     "minutos_medios": 67,
+     "remates_ultimos_5": [
+      1,
+      7,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      3,
+      1
+     ],
+     "ultima_titularidad": "2026-10-24",
+     "nota": ""
+    },
+    "Francisco Pejino": {
+     "nota": "sin datos en ESPN; 0.1 por defecto (sin titularidades registradas); sin noticias verificadas"
+    }
+   },
+   "bajas_local": [],
+   "bajas_visitante": [],
+   "forma_local": "G-G-P-E-P-E, 9 GF y 10 GC en 6; tiros a puerta 32-37; corners 23-43",
+   "forma_visitante": "G-P-P-G-P-P, 9 GF y 8 GC en 6; tiros a puerta 23-19; corners 31-38",
+   "ultimos_local": [
+    "2026-09-27 Eibar 3-2 Las Palmas",
+    "2026-10-03 Albacete 1-3 Eibar",
+    "2026-10-12 Oviedo 3-1 Eibar",
+    "2026-10-17 Eibar 1-1 Mallorca",
+    "2026-10-24 Cordoba 2-0 Eibar",
+    "2026-10-31 Eibar 1-1 Almeria"
+   ],
+   "ultimos_visitante": [
+    "2026-10-03 Cadiz 4-0 Leganes",
+    "2026-10-11 Cadiz 0-1 Sp Gijon",
+    "2026-10-18 Granada 2-0 Cadiz",
+    "2026-10-25 Cadiz 3-1 Ceuta",
+    "2026-11-02 Mallorca 2-1 Cadiz",
+    "2026-11-07 Cadiz 1-2 Oviedo"
+   ],
+   "motor": {
+    "elo_l": 1509.8,
+    "elo_v": 1365.1,
+    "p1": 0.6,
+    "px": 0.245,
+    "p2": 0.155,
+    "lh": 1.77,
+    "la": 0.8,
+    "total": 2.56,
+    "over25": 0.473,
+    "btts": 0.455,
+    "corners": 9.58,
+    "tarjetas": 5.27,
+    "fiabilidad": "alta"
+   },
+   "h2h": "H2H (4): Eibar 2, Cadiz 1, empates 1; 1.5 goles de media, Más 2.5 en 1. 2024-10-23 Eibar 1-0 Cadiz; 2025-03-31 Cadiz 0-0 Eibar; 2025-09-13 Cadiz 1-0 Eibar; 2026-03-01 Eibar 3-1 Cadiz",
+   "alertas": [
+    "Javi Ontiveros: solo 2 titularidades (muestra corta)",
+    "Javier Marton: solo 3 titularidades (muestra corta)",
+    "Francisco Pejino: sin datos en ESPN",
+    "Sin alineación probable ni parte de lesiones verificados para este partido."
+   ],
+   "resumen": "Sin alineación probable ni bajas verificadas para este partido. Pejino, sin datos en ESPN, queda en 0,1. Sin cambios en titular_prob del resto."
+  },
+  {
+   "local": "Eldense",
+   "visitante": "Sabadell",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "titular_prob": {
+    "Gaston Valles": 0.9,
+    "Manuel Nieto": 0.1,
+    "Pau Cabanes": 0.1,
+    "Dinis Rodrigues": 0.1,
+    "Agustin Coscia": 0.1,
+    "Nicholas Gioacchini": 0.1
+   },
+   "jugadores": {
+    "Gaston Valles": {
+     "nombre_espn": "Gastón Valles",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 5,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 70,
+     "remates_ultimos_5": [
+      2,
+      0,
+      3,
+      3,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      0,
+      1,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-11-09",
+     "nota": ""
+    },
+    "Manuel Nieto": {
+     "nombre_espn": "Manuel Nieto",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 4,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 74,
+     "remates_ultimos_5": [
+      1,
+      3,
+      6,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-10",
+     "nota": ""
+    },
+    "Pau Cabanes": {
+     "nombre_espn": "Pau Cabanes",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": 76,
+     "remates_ultimos_5": [
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      1
+     ],
+     "ultima_titularidad": "2026-08-17",
+     "nota": ""
+    },
+    "Dinis Rodrigues": {
+     "nombre_espn": "Dinis Rodrigues",
+     "equipo": "Eldense",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": ""
+    },
+    "Agustin Coscia": {
+     "nombre_espn": "Agustín Coscia",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "No disp. en bet365; 0 titularidades en ESPN; sin noticias verificadas"
+    },
+    "Nicholas Gioacchini": {
+     "nombre_espn": "Nicholas Gioacchini",
+     "equipo": "CD Sabadell",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 4,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 70,
+     "remates_ultimos_5": [
+      4,
+      1,
+      7,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      5,
+      0
+     ],
+     "ultima_titularidad": "2026-09-13",
+     "nota": ""
+    }
+   },
+   "bajas_local": [],
+   "bajas_visitante": [
+    {
+     "jugador": "Sanz",
+     "motivo": "sanción: acumulación de tarjetas (1 partido)",
+     "fuente": "FutbolTotal, sancionados jornada 13 Hypermotion (publicado 2026-11-06)",
+     "fecha": "2026-11-06"
+    }
+   ],
+   "forma_local": "G-G-G-P-P-P, 9 GF y 10 GC en 6; tiros a puerta 26-27; corners 24-42",
+   "forma_visitante": "E-G-P-E-P-E, 4 GF y 5 GC en 6; tiros a puerta 20-17; corners 32-27",
+   "ultimos_local": [
+    "2026-10-02 Eldense 4-1 Oviedo",
+    "2026-10-10 Eldense 2-1 Cordoba",
+    "2026-10-18 Valladolid 2-3 Eldense",
+    "2026-10-25 Albacete 2-0 Eldense",
+    "2026-11-01 Eldense 0-2 Granada",
+    "2026-11-09 Las Palmas 2-0 Eldense"
+   ],
+   "ultimos_visitante": [
+    "2026-10-04 Sabadell 0-0 Andorra",
+    "2026-10-10 Ceuta 1-2 Sabadell",
+    "2026-10-18 Burgos 1-0 Sabadell",
+    "2026-10-25 Sabadell 1-1 Tenerife",
+    "2026-10-31 Albacete 2-1 Sabadell",
+    "2026-11-09 Sabadell 0-0 Sociedad B"
+   ],
+   "motor": {
+    "elo_l": 1377.9,
+    "elo_v": 1439.8,
+    "p1": 0.364,
+    "px": 0.306,
+    "p2": 0.329,
+    "lh": 1.15,
+    "la": 1.12,
+    "total": 2.27,
+    "over25": 0.396,
+    "btts": 0.461,
+    "corners": 9.55,
+    "tarjetas": 5.4,
+    "fiabilidad": "baja: Elo sin asentar (13 partidos en toda la base)"
+   },
+   "h2h": "Sin enfrentamientos en la base.",
+   "alertas": [
+    "fiabilidad del motor baja: Elo sin asentar (13 partidos en toda la base)",
+    "Gaston Valles: solo 5 titularidades (muestra corta)",
+    "Manuel Nieto: solo 4 titularidades (muestra corta)",
+    "Pau Cabanes: solo 1 titularidades (muestra corta)",
+    "Dinis Rodrigues: solo 0 titularidades (muestra corta)",
+    "Agustin Coscia: solo 0 titularidades (muestra corta)",
+    "Nicholas Gioacchini: solo 4 titularidades (muestra corta)",
+    "Sanz (Sabadell) sancionado según FutbolTotal; no tiene cuota de remates.",
+    "Hora sin confirmar: contexto 17:30Z; una página de LaLiga da 17:30 y otra agregadora 20:00.",
+    "Sin alineación probable ni parte de lesiones verificados para este partido."
+   ],
+   "resumen": "Sin alineación probable ni bajas verificadas. Sanz (Sabadell) sancionado, sin cuota. El Elo del Eldense es de base corta (13 partidos) y el motor va con fiabilidad baja. Sin cambios en titular_prob; Coscia (No disp.) queda en 0,1."
+  },
+  {
+   "local": "Albacete",
+   "visitante": "Celta B",
+   "inicio_utc": "2026-11-16T19:30Z",
+   "titular_prob": {
+    "Samuel Obeng": 0.1,
+    "Agustin Albarracin": 0.1,
+    "Fabio Garcia-Moreno": 0.1,
+    "Jose Corpas": 0.0,
+    "Agustin Medina": 0.1,
+    "Antonio Puertas": 0.1
+   },
+   "jugadores": {
+    "Samuel Obeng": {
+     "nombre_espn": "Samuel Obeng",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 53,
+     "remates_ultimos_5": [
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0
+     ],
+     "ultima_titularidad": "2026-08-16",
+     "nota": ""
+    },
+    "Agustin Albarracin": {
+     "nombre_espn": "Agustín Albarracín",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": 82,
+     "remates_ultimos_5": [
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0
+     ],
+     "ultima_titularidad": "2026-09-12",
+     "nota": ""
+    },
+    "Agustin Medina": {
+     "nota": "sin datos en ESPN; 0.1 por defecto (sin titularidades registradas); sin noticias verificadas"
+    },
+    "Antonio Puertas": {
+     "nota": "sin datos en ESPN; 0.1 por defecto (sin titularidades registradas); sin noticias verificadas; No disp. en bet365"
+    },
+    "Fabio Garcia-Moreno": {
+     "nombre_espn": "Fabio Garcia-Moreno",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "No disp. en bet365; 0 titularidades en ESPN; sin noticias verificadas"
+    },
+    "Jose Corpas": {
+     "nombre_espn": "José Corpas",
+     "equipo": "Albacete",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": false,
+     "titularidades": 12,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 86,
+     "remates_ultimos_5": [
+      4,
+      1,
+      1,
+      3,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      2,
+      0,
+      0,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "Sancionado 3 partidos por juego peligroso con daño (FutbolTotal, 2026-11-06); arrastra hasta diciembre. No disp. en bet365."
+    }
+   },
+   "bajas_local": [
+    {
+     "jugador": "Jose Corpas",
+     "motivo": "sanción: juego peligroso con daño (3 partidos)",
+     "fuente": "FutbolTotal, sancionados jornada 13 Hypermotion (publicado 2026-11-06)",
+     "fecha": "2026-11-06"
+    }
+   ],
+   "bajas_visitante": [],
+   "forma_local": "P-P-P-G-G-G, 9 GF y 12 GC en 6; tiros a puerta 20-31; corners 38-29",
+   "forma_visitante": "P-G-E-P-E-P, 11 GF y 14 GC en 6; tiros a puerta 31-34; corners 18-44",
+   "ultimos_local": [
+    "2026-10-03 Albacete 1-3 Eibar",
+    "2026-10-12 Valladolid 5-0 Albacete",
+    "2026-10-17 Sp Gijon 2-1 Albacete",
+    "2026-10-25 Albacete 2-0 Eldense",
+    "2026-10-31 Albacete 2-1 Sabadell",
+    "2026-11-07 Leganes 1-3 Albacete"
+   ],
+   "ultimos_visitante": [
+    "2026-10-04 Sp Gijon 3-2 Celta B",
+    "2026-10-10 Celta B 4-1 Sociedad B",
+    "2026-10-19 Celta B 1-1 Tenerife",
+    "2026-10-24 Girona 5-1 Celta B",
+    "2026-10-31 Celta B 2-2 Cordoba",
+    "2026-11-07 Burgos 2-1 Celta B"
+   ],
+   "motor": {
+    "elo_l": 1409.7,
+    "elo_v": 1410.0,
+    "p1": 0.458,
+    "px": 0.259,
+    "p2": 0.283,
+    "lh": 1.65,
+    "la": 1.29,
+    "total": 2.95,
+    "over25": 0.565,
+    "btts": 0.587,
+    "corners": 9.81,
+    "tarjetas": 5.02,
+    "fiabilidad": "baja: Elo sin asentar (13 partidos en toda la base)"
+   },
+   "h2h": "Sin enfrentamientos en la base.",
+   "alertas": [
+    "fiabilidad del motor baja: Elo sin asentar (13 partidos en toda la base)",
+    "Samuel Obeng: solo 1 titularidades (muestra corta)",
+    "Agustin Albarracin: solo 1 titularidades (muestra corta)",
+    "Agustin Medina: sin datos en ESPN",
+    "Antonio Puertas: sin datos en ESPN",
+    "Fabio Garcia-Moreno: solo 0 titularidades (muestra corta)",
+    "Corpas: titular_prob pasa de 0,5 a 0,0 por sanción confirmada (3 partidos, FutbolTotal 2026-11-06).",
+    "Sin alineación probable ni parte de lesiones verificados para este partido. Celta B sin noticias verificadas."
+   ],
+   "resumen": "Corpas (Albacete) queda fuera por sanción de 3 partidos: sin cuota y con 12 titularidades previas, es una baja real para el juego de ataque local. Puertas y Medina (sin datos) quedan en 0,1; García-Moreno (No disp.) sin cambios."
+  }
+ ]
+}

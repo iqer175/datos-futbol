@@ -1,0 +1,2408 @@
+{
+ "liga": "LaLiga Hypermotion",
+ "leido_utc": "2026-11-11T13:28Z",
+ "partidos": [
+  {
+   "local": "Leganes",
+   "visitante": "Burgos",
+   "inicio_utc": "2026-11-13T19:30Z",
+   "leido_utc": "2026-11-11T13:28Z",
+   "mercados": {
+    "1": 2.2,
+    "X": 3.2,
+    "2": 3.4,
+    "Sin empate 1": 1.53,
+    "Sin empate 2": 2.37,
+    "Más 2.5": 2.25,
+    "Menos 2.5": 1.61,
+    "Más 1.5": 1.36,
+    "Menos 1.5": 3.0,
+    "Más 3.5": 4.0,
+    "Menos 3.5": 1.22,
+    "Más 4.5": 9.0,
+    "Menos 4.5": 1.071,
+    "Ambos marcan - Sí": 1.9,
+    "Ambos marcan - No": 1.8,
+    "1 & Ambos marcan - Sí": 5.0,
+    "2 & Ambos marcan - Sí": 7.5,
+    "X & Ambos marcan - Sí": 4.5,
+    "1 & Ambos marcan - No": 3.5,
+    "2 & Ambos marcan - No": 5.5,
+    "X & Ambos marcan - No": 8.0,
+    "R:goles 2-4": 1.57
+   },
+   "jugadores": [
+    {
+     "jugador": "Alex Sancris",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.53
+    },
+    {
+     "jugador": "Alex Sancris",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.25
+    },
+    {
+     "jugador": "Alex Sancris",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.75
+    },
+    {
+     "jugador": "Alex Sancris",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Alex Sancris",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Alex Sancris",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Alvaro Morata",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.8
+    },
+    {
+     "jugador": "Alvaro Morata",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Alvaro Morata",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Alvaro Morata",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Alvaro Morata",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "David Gonzalez",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.8
+    },
+    {
+     "jugador": "David Gonzalez",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.75
+    },
+    {
+     "jugador": "David Gonzalez",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 5.0
+    },
+    {
+     "jugador": "David Gonzalez",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 10.0
+    },
+    {
+     "jugador": "David Gonzalez",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Unax del Cura",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.8
+    },
+    {
+     "jugador": "Unax del Cura",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.75
+    },
+    {
+     "jugador": "Unax del Cura",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 5.0
+    },
+    {
+     "jugador": "Unax del Cura",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 10.0
+    },
+    {
+     "jugador": "Unax del Cura",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Alex Millan",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.9
+    },
+    {
+     "jugador": "Alex Millan",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Alex Millan",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 6.0
+    },
+    {
+     "jugador": "Alex Millan",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Alex Millan",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Ismael Gharbi",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 2.1
+    },
+    {
+     "jugador": "Ismael Gharbi",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Ismael Gharbi",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Ismael Gharbi",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Ismael Gharbi",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 21.0
+    }
+   ]
+  },
+  {
+   "local": "Valladolid",
+   "visitante": "Castellon",
+   "inicio_utc": "2026-11-14T13:00Z",
+   "leido_utc": "2026-11-11T13:28Z",
+   "mercados": {
+    "1": 3.0,
+    "X": 3.4,
+    "2": 2.3,
+    "Sin empate 1": 2.1,
+    "Sin empate 2": 1.66,
+    "Más 2.5": 1.7,
+    "Menos 2.5": 2.1,
+    "Más 1.5": 1.2,
+    "Menos 1.5": 4.33,
+    "Más 3.5": 2.62,
+    "Menos 3.5": 1.44,
+    "Más 4.5": 5.0,
+    "Menos 4.5": 1.16,
+    "Ambos marcan - Sí": 1.57,
+    "Ambos marcan - No": 2.25,
+    "1 & Ambos marcan - Sí": 5.0,
+    "2 & Ambos marcan - Sí": 4.33,
+    "X & Ambos marcan - Sí": 4.0,
+    "1 & Ambos marcan - No": 5.5,
+    "2 & Ambos marcan - No": 4.5,
+    "X & Ambos marcan - No": 13.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": [
+    {
+     "jugador": "Juan Latasa",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.72
+    },
+    {
+     "jugador": "Juan Latasa",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Juan Latasa",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 4.0
+    },
+    {
+     "jugador": "Juan Latasa",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Juan Latasa",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Juan Latasa",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Adam Jakobsen",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.5
+    },
+    {
+     "jugador": "Adam Jakobsen",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.2
+    },
+    {
+     "jugador": "Adam Jakobsen",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Adam Jakobsen",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 6.5
+    },
+    {
+     "jugador": "Adam Jakobsen",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Adam Jakobsen",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Adrian Arnu",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.0
+    },
+    {
+     "jugador": "Adrian Arnu",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Adrian Arnu",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Adrian Arnu",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 10.0
+    },
+    {
+     "jugador": "Adrian Arnu",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Ousmane Camara",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.5
+    },
+    {
+     "jugador": "Ousmane Camara",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.2
+    },
+    {
+     "jugador": "Ousmane Camara",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Ousmane Camara",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 6.5
+    },
+    {
+     "jugador": "Ousmane Camara",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Ousmane Camara",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Yeray Cabanzon",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.1
+    },
+    {
+     "jugador": "Yeray Cabanzon",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.4
+    },
+    {
+     "jugador": "Yeray Cabanzon",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 6.0
+    },
+    {
+     "jugador": "Yeray Cabanzon",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Yeray Cabanzon",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Axel Perez",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Axel Perez",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Axel Perez",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Axel Perez",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Axel Perez",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 17.0
+    }
+   ]
+  },
+  {
+   "local": "Sociedad B",
+   "visitante": "Sp Gijon",
+   "inicio_utc": "2026-11-14T15:15Z",
+   "leido_utc": "2026-11-11T13:29Z",
+   "mercados": {
+    "1": 2.4,
+    "X": 3.25,
+    "2": 2.9,
+    "Sin empate 1": 1.66,
+    "Sin empate 2": 2.1,
+    "Más 2.5": 1.95,
+    "Menos 2.5": 1.85,
+    "Más 1.5": 1.28,
+    "Menos 1.5": 3.5,
+    "Más 3.5": 3.4,
+    "Menos 3.5": 1.3,
+    "Más 4.5": 7.0,
+    "Menos 4.5": 1.1,
+    "Ambos marcan - Sí": 1.72,
+    "Ambos marcan - No": 2.0,
+    "1 & Ambos marcan - Sí": 4.75,
+    "2 & Ambos marcan - Sí": 6.0,
+    "X & Ambos marcan - Sí": 4.33,
+    "1 & Ambos marcan - No": 4.0,
+    "2 & Ambos marcan - No": 5.0,
+    "X & Ambos marcan - No": 10.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": [
+    {
+     "jugador": "Arkaitz Mariezkurrena",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.53
+    },
+    {
+     "jugador": "Arkaitz Mariezkurrena",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.1
+    },
+    {
+     "jugador": "Arkaitz Mariezkurrena",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Arkaitz Mariezkurrena",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Arkaitz Mariezkurrena",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Arkaitz Mariezkurrena",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Arkaitz Mariezkurrena",
+     "mercado": "remates",
+     "linea": 10,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Juan Otero",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Juan Otero",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.5
+    },
+    {
+     "jugador": "Juan Otero",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 3.75
+    },
+    {
+     "jugador": "Juan Otero",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 6.5
+    },
+    {
+     "jugador": "Juan Otero",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Juan Otero",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Lander Astiazaran",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.5
+    },
+    {
+     "jugador": "Lander Astiazaran",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.2
+    },
+    {
+     "jugador": "Lander Astiazaran",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Lander Astiazaran",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 6.5
+    },
+    {
+     "jugador": "Lander Astiazaran",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Lander Astiazaran",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Gorka Carrera",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.61
+    },
+    {
+     "jugador": "Gorka Carrera",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.5
+    },
+    {
+     "jugador": "Gorka Carrera",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 4.0
+    },
+    {
+     "jugador": "Gorka Carrera",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Gorka Carrera",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Gorka Carrera",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Javier Soroeta",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.61
+    },
+    {
+     "jugador": "Javier Soroeta",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.5
+    },
+    {
+     "jugador": "Javier Soroeta",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 4.0
+    },
+    {
+     "jugador": "Javier Soroeta",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Javier Soroeta",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Javier Soroeta",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Job Ochieng",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.57
+    },
+    {
+     "jugador": "Job Ochieng",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.25
+    },
+    {
+     "jugador": "Job Ochieng",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.75
+    },
+    {
+     "jugador": "Job Ochieng",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Job Ochieng",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Job Ochieng",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 21.0
+    }
+   ]
+  },
+  {
+   "local": "Almeria",
+   "visitante": "Andorra",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "leido_utc": "2026-11-11T13:29Z",
+   "mercados": {
+    "1": 1.66,
+    "X": 4.0,
+    "2": 4.75,
+    "Sin empate 1": 1.28,
+    "Sin empate 2": 3.5,
+    "Más 2.5": 1.57,
+    "Menos 2.5": 2.35,
+    "Más 1.5": 1.16,
+    "Menos 1.5": 5.0,
+    "Más 3.5": 2.37,
+    "Menos 3.5": 1.53,
+    "Más 4.5": 4.33,
+    "Menos 4.5": 1.2,
+    "Ambos marcan - Sí": 1.57,
+    "Ambos marcan - No": 2.25,
+    "1 & Ambos marcan - Sí": 3.1,
+    "2 & Ambos marcan - Sí": 7.5,
+    "X & Ambos marcan - Sí": 4.75,
+    "1 & Ambos marcan - No": 3.4,
+    "2 & Ambos marcan - No": 10.0,
+    "X & Ambos marcan - No": 15.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": [
+    {
+     "jugador": "Leo Baptistao",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Leo Baptistao",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 2.25
+    },
+    {
+     "jugador": "Leo Baptistao",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Leo Baptistao",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Leo Baptistao",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 10.0
+    },
+    {
+     "jugador": "Leo Baptistao",
+     "mercado": "remates",
+     "linea": 10,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Leo Baptistao",
+     "mercado": "remates",
+     "linea": 11,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Jon Morcillo",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Jon Morcillo",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Jon Morcillo",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Jon Morcillo",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Jon Morcillo",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 10.0
+    },
+    {
+     "jugador": "Jon Morcillo",
+     "mercado": "remates",
+     "linea": 10,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Jon Morcillo",
+     "mercado": "remates",
+     "linea": 11,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Adrian Embarba",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.8
+    },
+    {
+     "jugador": "Adrian Embarba",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Adrian Embarba",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Adrian Embarba",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Adrian Embarba",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Adrian Embarba",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Miguel De la Fuente",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.72
+    },
+    {
+     "jugador": "Miguel De la Fuente",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.5
+    },
+    {
+     "jugador": "Miguel De la Fuente",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 4.0
+    },
+    {
+     "jugador": "Miguel De la Fuente",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Miguel De la Fuente",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Miguel De la Fuente",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Nico Melamed",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.72
+    },
+    {
+     "jugador": "Nico Melamed",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Nico Melamed",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 4.0
+    },
+    {
+     "jugador": "Nico Melamed",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Nico Melamed",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Nico Melamed",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Ibrahima Kone",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.61
+    },
+    {
+     "jugador": "Ibrahima Kone",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Ibrahima Kone",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 4.0
+    },
+    {
+     "jugador": "Ibrahima Kone",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Ibrahima Kone",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Ibrahima Kone",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 21.0
+    }
+   ]
+  },
+  {
+   "local": "Mallorca",
+   "visitante": "Cordoba",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "leido_utc": "2026-11-11T13:30Z",
+   "mercados": {
+    "1": 1.7,
+    "X": 4.1,
+    "2": 4.33,
+    "Sin empate 1": 1.3,
+    "Sin empate 2": 3.4,
+    "Más 2.5": 1.66,
+    "Menos 2.5": 2.15,
+    "Más 1.5": 1.2,
+    "Menos 1.5": 4.33,
+    "Más 3.5": 2.62,
+    "Menos 3.5": 1.44,
+    "Más 4.5": 5.0,
+    "Menos 4.5": 1.16,
+    "Ambos marcan - Sí": 1.66,
+    "Ambos marcan - No": 2.1,
+    "1 & Ambos marcan - Sí": 3.25,
+    "2 & Ambos marcan - Sí": 7.5,
+    "X & Ambos marcan - Sí": 4.75,
+    "1 & Ambos marcan - No": 3.25,
+    "2 & Ambos marcan - No": 9.0,
+    "X & Ambos marcan - No": 15.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": [
+    {
+     "jugador": "Adam Buksa",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 1.8
+    },
+    {
+     "jugador": "Adam Buksa",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Adam Buksa",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 4.0
+    },
+    {
+     "jugador": "Adam Buksa",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 6.5
+    },
+    {
+     "jugador": "Adam Buksa",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Adam Buksa",
+     "mercado": "remates",
+     "linea": 10,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Andre Zito Luvumbo",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "Andre Zito Luvumbo",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Andre Zito Luvumbo",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Andre Zito Luvumbo",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Andre Zito Luvumbo",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Andre Zito Luvumbo",
+     "mercado": "remates",
+     "linea": 10,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Adrian Liso",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.57
+    },
+    {
+     "jugador": "Adrian Liso",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.25
+    },
+    {
+     "jugador": "Adrian Liso",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Adrian Liso",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 6.0
+    },
+    {
+     "jugador": "Adrian Liso",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 10.0
+    },
+    {
+     "jugador": "Adrian Liso",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Adrian Fuentes",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.72
+    },
+    {
+     "jugador": "Adrian Fuentes",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Adrian Fuentes",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 4.0
+    },
+    {
+     "jugador": "Adrian Fuentes",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Adrian Fuentes",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Adrian Fuentes",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Alex Sala",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "Alex Sala",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Alex Sala",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 5.0
+    },
+    {
+     "jugador": "Alex Sala",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Alex Sala",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Alex Sala",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Abdon Prats",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.0
+    },
+    {
+     "jugador": "Abdon Prats",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Abdon Prats",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Abdon Prats",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 10.0
+    },
+    {
+     "jugador": "Abdon Prats",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 19.0
+    }
+   ]
+  },
+  {
+   "local": "Oviedo",
+   "visitante": "Girona",
+   "inicio_utc": "2026-11-14T20:00Z",
+   "leido_utc": "2026-11-11T13:30Z",
+   "mercados": {
+    "1": 2.37,
+    "X": 3.25,
+    "2": 3.0,
+    "Sin empate 1": 1.66,
+    "Sin empate 2": 2.1,
+    "Más 2.5": 2.0,
+    "Menos 2.5": 1.8,
+    "Más 1.5": 1.28,
+    "Menos 1.5": 3.5,
+    "Más 3.5": 3.4,
+    "Menos 3.5": 1.3,
+    "Más 4.5": 7.0,
+    "Menos 4.5": 1.1,
+    "Ambos marcan - Sí": 1.72,
+    "Ambos marcan - No": 2.0,
+    "1 & Ambos marcan - Sí": 4.75,
+    "2 & Ambos marcan - Sí": 6.0,
+    "X & Ambos marcan - Sí": 4.33,
+    "1 & Ambos marcan - No": 4.0,
+    "2 & Ambos marcan - No": 5.5,
+    "X & Ambos marcan - No": 9.5,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": [
+    {
+     "jugador": "Gonzalez Jacobo",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.8
+    },
+    {
+     "jugador": "Gonzalez Jacobo",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Gonzalez Jacobo",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Gonzalez Jacobo",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Gonzalez Jacobo",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Gonzalez Jacobo",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Ilyas Chaira",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "Ilyas Chaira",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.75
+    },
+    {
+     "jugador": "Ilyas Chaira",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 5.0
+    },
+    {
+     "jugador": "Ilyas Chaira",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Ilyas Chaira",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Ilyas Chaira",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Jose Luis Morales",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.9
+    },
+    {
+     "jugador": "Jose Luis Morales",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Jose Luis Morales",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 5.0
+    },
+    {
+     "jugador": "Jose Luis Morales",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Jose Luis Morales",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Chris Ramos",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.61
+    },
+    {
+     "jugador": "Chris Ramos",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.5
+    },
+    {
+     "jugador": "Chris Ramos",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 4.0
+    },
+    {
+     "jugador": "Chris Ramos",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Chris Ramos",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Chris Ramos",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Estanis Pedrola",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.53
+    },
+    {
+     "jugador": "Estanis Pedrola",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.25
+    },
+    {
+     "jugador": "Estanis Pedrola",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.75
+    },
+    {
+     "jugador": "Estanis Pedrola",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 6.5
+    },
+    {
+     "jugador": "Estanis Pedrola",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Estanis Pedrola",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Abel Ruiz",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "Abel Ruiz",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Abel Ruiz",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Abel Ruiz",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Abel Ruiz",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 21.0
+    }
+   ]
+  },
+  {
+   "local": "Granada",
+   "visitante": "Las Palmas",
+   "inicio_utc": "2026-11-15T15:15Z",
+   "leido_utc": "2026-11-11T13:31Z",
+   "mercados": {
+    "1": 1.72,
+    "X": 3.6,
+    "2": 4.75,
+    "Sin empate 1": 1.3,
+    "Sin empate 2": 3.4,
+    "Más 2.5": 1.85,
+    "Menos 2.5": 1.95,
+    "Más 1.5": 1.25,
+    "Menos 1.5": 3.75,
+    "Más 3.5": 3.0,
+    "Menos 3.5": 1.36,
+    "Más 4.5": 6.0,
+    "Menos 4.5": 1.12,
+    "Ambos marcan - Sí": 1.72,
+    "Ambos marcan - No": 2.0,
+    "1 & Ambos marcan - Sí": 3.6,
+    "2 & Ambos marcan - Sí": 8.5,
+    "X & Ambos marcan - Sí": 4.75,
+    "1 & Ambos marcan - No": 3.0,
+    "2 & Ambos marcan - No": 8.0,
+    "X & Ambos marcan - No": 11.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": [
+    {
+     "jugador": "Jorge Pascual",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.5
+    },
+    {
+     "jugador": "Jorge Pascual",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.0
+    },
+    {
+     "jugador": "Jorge Pascual",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Jorge Pascual",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 4.5
+    },
+    {
+     "jugador": "Jorge Pascual",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Jorge Pascual",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Jorge Pascual",
+     "mercado": "remates",
+     "linea": 10,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Alejandro Marques",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.61
+    },
+    {
+     "jugador": "Alejandro Marques",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.25
+    },
+    {
+     "jugador": "Alejandro Marques",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Alejandro Marques",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 6.0
+    },
+    {
+     "jugador": "Alejandro Marques",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Alejandro Marques",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Jose Arnaiz",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "Jose Arnaiz",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.75
+    },
+    {
+     "jugador": "Jose Arnaiz",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 4.5
+    },
+    {
+     "jugador": "Jose Arnaiz",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Jose Arnaiz",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Jose Arnaiz",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Owen Emeka",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.5
+    },
+    {
+     "jugador": "Owen Emeka",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.1
+    },
+    {
+     "jugador": "Owen Emeka",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.4
+    },
+    {
+     "jugador": "Owen Emeka",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 6.0
+    },
+    {
+     "jugador": "Owen Emeka",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Owen Emeka",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Chinaza Onouha",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Chinaza Onouha",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Chinaza Onouha",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 4.5
+    },
+    {
+     "jugador": "Chinaza Onouha",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Chinaza Onouha",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Jefte Betancor",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Jefte Betancor",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.5
+    },
+    {
+     "jugador": "Jefte Betancor",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Jefte Betancor",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Jefte Betancor",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 15.0
+    }
+   ]
+  },
+  {
+   "local": "Eibar",
+   "visitante": "Cadiz",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "leido_utc": "2026-11-11T13:31Z",
+   "mercados": {
+    "1": 1.61,
+    "X": 3.75,
+    "2": 5.5,
+    "Sin empate 1": 1.25,
+    "Sin empate 2": 3.75,
+    "Más 2.5": 1.75,
+    "Menos 2.5": 2.05,
+    "Más 1.5": 1.22,
+    "Menos 1.5": 4.0,
+    "Más 3.5": 2.75,
+    "Menos 3.5": 1.4,
+    "Más 4.5": 5.5,
+    "Menos 4.5": 1.14,
+    "Ambos marcan - Sí": 1.8,
+    "Ambos marcan - No": 1.9,
+    "1 & Ambos marcan - Sí": 3.4,
+    "2 & Ambos marcan - Sí": 9.5,
+    "X & Ambos marcan - Sí": 4.75,
+    "1 & Ambos marcan - No": 2.75,
+    "2 & Ambos marcan - No": 10.0,
+    "X & Ambos marcan - No": 12.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": [
+    {
+     "jugador": "Jon Bautista",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 1.61
+    },
+    {
+     "jugador": "Jon Bautista",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 2.2
+    },
+    {
+     "jugador": "Jon Bautista",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Jon Bautista",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 5.0
+    },
+    {
+     "jugador": "Jon Bautista",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Jon Bautista",
+     "mercado": "remates",
+     "linea": 10,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Jon Bautista",
+     "mercado": "remates",
+     "linea": 11,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Adu Ares",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.9
+    },
+    {
+     "jugador": "Adu Ares",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Adu Ares",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 5.0
+    },
+    {
+     "jugador": "Adu Ares",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Adu Ares",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Ivan Gil",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "Ivan Gil",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Ivan Gil",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 5.0
+    },
+    {
+     "jugador": "Ivan Gil",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Ivan Gil",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Ivan Gil",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Javi Ontiveros",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.72
+    },
+    {
+     "jugador": "Javi Ontiveros",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.5
+    },
+    {
+     "jugador": "Javi Ontiveros",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 4.0
+    },
+    {
+     "jugador": "Javi Ontiveros",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Javi Ontiveros",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Javi Ontiveros",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Javier Marton",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "Javier Marton",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.75
+    },
+    {
+     "jugador": "Javier Marton",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 4.5
+    },
+    {
+     "jugador": "Javier Marton",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Javier Marton",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Javier Marton",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Francisco Pejino",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.5
+    },
+    {
+     "jugador": "Francisco Pejino",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.2
+    },
+    {
+     "jugador": "Francisco Pejino",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Francisco Pejino",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 6.0
+    },
+    {
+     "jugador": "Francisco Pejino",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Francisco Pejino",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 21.0
+    }
+   ]
+  },
+  {
+   "local": "Eldense",
+   "visitante": "Sabadell",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "leido_utc": "2026-11-11T13:32Z",
+   "mercados": {
+    "1": 2.37,
+    "X": 3.0,
+    "2": 3.1,
+    "Sin empate 1": 1.61,
+    "Sin empate 2": 2.2,
+    "Más 2.5": 2.4,
+    "Menos 2.5": 1.53,
+    "Más 1.5": 1.44,
+    "Menos 1.5": 2.62,
+    "Más 3.5": 4.5,
+    "Menos 3.5": 1.18,
+    "Más 4.5": 11.0,
+    "Menos 4.5": 1.05,
+    "Ambos marcan - Sí": 2.0,
+    "Ambos marcan - No": 1.72,
+    "1 & Ambos marcan - Sí": 6.0,
+    "2 & Ambos marcan - Sí": 7.5,
+    "X & Ambos marcan - Sí": 4.5,
+    "1 & Ambos marcan - No": 3.75,
+    "2 & Ambos marcan - No": 5.0,
+    "X & Ambos marcan - No": 7.0,
+    "R:goles 2-4": 1.61
+   },
+   "jugadores": [
+    {
+     "jugador": "Gaston Valles",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.5
+    },
+    {
+     "jugador": "Gaston Valles",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.2
+    },
+    {
+     "jugador": "Gaston Valles",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Gaston Valles",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 6.5
+    },
+    {
+     "jugador": "Gaston Valles",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Gaston Valles",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Manuel Nieto",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.0
+    },
+    {
+     "jugador": "Manuel Nieto",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Manuel Nieto",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Manuel Nieto",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 10.0
+    },
+    {
+     "jugador": "Manuel Nieto",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Pau Cabanes",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.72
+    },
+    {
+     "jugador": "Pau Cabanes",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Pau Cabanes",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 4.5
+    },
+    {
+     "jugador": "Pau Cabanes",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Pau Cabanes",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Dinis Rodrigues",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "Dinis Rodrigues",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Dinis Rodrigues",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Dinis Rodrigues",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Dinis Rodrigues",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Agustin Coscia",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 2.1
+    },
+    {
+     "jugador": "Agustin Coscia",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 3.75
+    },
+    {
+     "jugador": "Agustin Coscia",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Agustin Coscia",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Agustin Coscia",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Nicholas Gioacchini",
+     "mercado": "remates",
+     "linea": 3,
+     "cuota": 2.1
+    },
+    {
+     "jugador": "Nicholas Gioacchini",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 3.75
+    },
+    {
+     "jugador": "Nicholas Gioacchini",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Nicholas Gioacchini",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Nicholas Gioacchini",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 21.0
+    }
+   ]
+  },
+  {
+   "local": "Albacete",
+   "visitante": "Celta B",
+   "inicio_utc": "2026-11-16T19:30Z",
+   "leido_utc": "2026-11-11T13:32Z",
+   "mercados": {
+    "1": 1.57,
+    "X": 3.9,
+    "2": 5.5,
+    "Sin empate 1": 1.22,
+    "Sin empate 2": 4.0,
+    "Más 2.5": 1.57,
+    "Menos 2.5": 2.35,
+    "Más 1.5": 1.16,
+    "Menos 1.5": 5.0,
+    "Más 3.5": 2.37,
+    "Menos 3.5": 1.53,
+    "Más 4.5": 4.0,
+    "Menos 4.5": 1.22,
+    "Ambos marcan - Sí": 1.61,
+    "Ambos marcan - No": 2.2,
+    "1 & Ambos marcan - Sí": 3.0,
+    "2 & Ambos marcan - Sí": 9.0,
+    "X & Ambos marcan - Sí": 4.75,
+    "1 & Ambos marcan - No": 3.0,
+    "2 & Ambos marcan - No": 11.0,
+    "X & Ambos marcan - No": 15.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": [
+    {
+     "jugador": "Samuel Obeng",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.53
+    },
+    {
+     "jugador": "Samuel Obeng",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.1
+    },
+    {
+     "jugador": "Samuel Obeng",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 3.4
+    },
+    {
+     "jugador": "Samuel Obeng",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Samuel Obeng",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 10.0
+    },
+    {
+     "jugador": "Samuel Obeng",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Samuel Obeng",
+     "mercado": "remates",
+     "linea": 10,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Agustin Albarracin",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "Agustin Albarracin",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.75
+    },
+    {
+     "jugador": "Agustin Albarracin",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 4.5
+    },
+    {
+     "jugador": "Agustin Albarracin",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Agustin Albarracin",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Agustin Albarracin",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Agustin Medina",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.72
+    },
+    {
+     "jugador": "Agustin Medina",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Agustin Medina",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Agustin Medina",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Agustin Medina",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Agustin Medina",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Antonio Puertas",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.61
+    },
+    {
+     "jugador": "Antonio Puertas",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.25
+    },
+    {
+     "jugador": "Antonio Puertas",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Antonio Puertas",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 6.0
+    },
+    {
+     "jugador": "Antonio Puertas",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Antonio Puertas",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Fabio Garcia-Moreno",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.72
+    },
+    {
+     "jugador": "Fabio Garcia-Moreno",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Fabio Garcia-Moreno",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Fabio Garcia-Moreno",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Fabio Garcia-Moreno",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Fabio Garcia-Moreno",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Jose Corpas",
+     "mercado": "remates",
+     "linea": 4,
+     "cuota": 1.72
+    },
+    {
+     "jugador": "Jose Corpas",
+     "mercado": "remates",
+     "linea": 5,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Jose Corpas",
+     "mercado": "remates",
+     "linea": 6,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Jose Corpas",
+     "mercado": "remates",
+     "linea": 7,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Jose Corpas",
+     "mercado": "remates",
+     "linea": 8,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Jose Corpas",
+     "mercado": "remates",
+     "linea": 9,
+     "cuota": 21.0
+    }
+   ]
+  }
+ ]
+}

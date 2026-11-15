@@ -1,0 +1,503 @@
+liga,jornada,local,visitante,inicio_utc,tipo,clave,cuota_apertura,leido_apertura,cuota_cierre,leido_cierre,min_antes,clv,prob,margen,limpia,recomendada
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,1,2.2,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,X,3.1,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,2,3.4,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,Sin empate 1,1.53,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,Sin empate 2,2.37,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,Más 2.5,2.25,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,Menos 2.5,1.61,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,Más 1.5,1.36,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,Menos 1.5,3.0,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,Más 3.5,4.0,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,Menos 3.5,1.22,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,Más 4.5,9.0,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,Menos 4.5,1.071,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,Ambos marcan - Sí,1.9,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,Ambos marcan - No,1.8,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,1 & Ambos marcan - Sí,5.0,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,2 & Ambos marcan - Sí,7.5,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,X & Ambos marcan - Sí,4.5,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,1 & Ambos marcan - No,3.5,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,2 & Ambos marcan - No,5.5,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,X & Ambos marcan - No,8.0,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Leganes,Burgos,2026-11-13T19:30Z,equipo,R:goles 2-4,1.57,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,1,2.8,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,X,3.3,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,2,2.3,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,Sin empate 1,2.1,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,Sin empate 2,1.66,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,Más 2.5,1.7,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,Menos 2.5,2.1,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,Más 1.5,1.2,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,Menos 1.5,4.33,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,Más 3.5,2.62,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,Menos 3.5,1.44,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,Más 4.5,5.0,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,Menos 4.5,1.16,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,Ambos marcan - Sí,1.57,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,Ambos marcan - No,2.25,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,1 & Ambos marcan - Sí,5.0,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,2 & Ambos marcan - Sí,4.33,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,X & Ambos marcan - Sí,4.33,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,1 & Ambos marcan - No,5.5,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,2 & Ambos marcan - No,4.5,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,X & Ambos marcan - No,13.0,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Valladolid,Castellon,2026-11-14T13:00Z,equipo,R:goles 2-4,1.53,2026-11-10 17:49:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,1,2.37,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,X,3.2,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,2,2.8,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,Sin empate 1,1.72,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,Sin empate 2,2.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,Más 2.5,1.95,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,Menos 2.5,1.85,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,Más 1.5,1.28,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,Menos 1.5,3.5,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,Más 3.5,3.25,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,Menos 3.5,1.33,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,Más 4.5,6.5,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,Menos 4.5,1.11,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,Ambos marcan - Sí,1.72,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,Ambos marcan - No,2.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,1 & Ambos marcan - Sí,4.75,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,2 & Ambos marcan - Sí,5.5,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,X & Ambos marcan - Sí,4.33,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,1 & Ambos marcan - No,4.33,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,2 & Ambos marcan - No,5.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,X & Ambos marcan - No,10.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Sociedad B,Sp Gijon,2026-11-14T15:15Z,equipo,R:goles 2-4,1.53,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,1,1.7,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,X,3.9,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,2,4.1,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,Sin empate 1,1.33,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,Sin empate 2,3.25,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,Más 2.5,1.5,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,Menos 2.5,2.5,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,Más 1.5,1.14,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,Menos 1.5,5.5,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,Más 3.5,2.2,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,Menos 3.5,1.61,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,Más 4.5,3.75,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,Menos 4.5,1.25,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,Ambos marcan - Sí,1.5,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,Ambos marcan - No,2.5,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,1 & Ambos marcan - Sí,3.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,2 & Ambos marcan - Sí,6.5,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,X & Ambos marcan - Sí,4.75,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,1 & Ambos marcan - No,3.5,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,2 & Ambos marcan - No,10.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,X & Ambos marcan - No,19.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Almeria,Andorra,2026-11-14T17:30Z,equipo,R:goles 2-4,1.57,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,1,1.66,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,X,3.75,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,2,4.33,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,Sin empate 1,1.3,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,Sin empate 2,3.4,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,Más 2.5,1.66,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,Menos 2.5,2.15,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,Más 1.5,1.2,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,Menos 1.5,4.33,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,Más 3.5,2.62,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,Menos 3.5,1.44,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,Más 4.5,5.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,Menos 4.5,1.16,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,Ambos marcan - Sí,1.66,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,Ambos marcan - No,2.1,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,1 & Ambos marcan - Sí,3.25,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,2 & Ambos marcan - Sí,7.5,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,X & Ambos marcan - Sí,4.75,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,1 & Ambos marcan - No,3.25,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,2 & Ambos marcan - No,9.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,X & Ambos marcan - No,15.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Mallorca,Cordoba,2026-11-14T17:30Z,equipo,R:goles 2-4,1.53,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,1,2.25,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,X,3.25,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,2,3.2,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,Sin empate 1,1.57,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,Sin empate 2,2.25,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,Más 2.5,2.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,Menos 2.5,1.8,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,Más 1.5,1.28,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,Menos 1.5,3.5,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,Más 3.5,3.4,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,Menos 3.5,1.3,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,Más 4.5,7.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,Menos 4.5,1.1,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,Ambos marcan - Sí,1.72,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,Ambos marcan - No,2.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,1 & Ambos marcan - Sí,4.5,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,2 & Ambos marcan - Sí,6.5,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,X & Ambos marcan - Sí,4.33,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,1 & Ambos marcan - No,3.75,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,2 & Ambos marcan - No,5.5,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,X & Ambos marcan - No,10.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Oviedo,Girona,2026-11-14T20:00Z,equipo,R:goles 2-4,1.53,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,1,1.66,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,X,3.6,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,2,4.75,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,Sin empate 1,1.28,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,Sin empate 2,3.5,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,Más 2.5,1.8,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,Menos 2.5,2.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,Más 1.5,1.25,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,Menos 1.5,3.75,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,Más 3.5,3.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,Menos 3.5,1.36,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,Más 4.5,6.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,Menos 4.5,1.12,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,Ambos marcan - Sí,1.8,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,Ambos marcan - No,1.9,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,1 & Ambos marcan - Sí,3.6,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,2 & Ambos marcan - Sí,9.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,X & Ambos marcan - Sí,4.75,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,1 & Ambos marcan - No,3.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,2 & Ambos marcan - No,9.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,X & Ambos marcan - No,11.0,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Granada,Las Palmas,2026-11-15T15:15Z,equipo,R:goles 2-4,1.53,2026-11-10 17:50:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,1,1.61,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,X,3.7,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,2,5.25,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,Sin empate 1,1.25,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,Sin empate 2,3.75,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,Más 2.5,1.85,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,Menos 2.5,1.95,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,Más 1.5,1.25,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,Menos 1.5,3.75,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,Más 3.5,3.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,Menos 3.5,1.36,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,Más 4.5,6.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,Menos 4.5,1.12,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,Ambos marcan - Sí,1.83,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,Ambos marcan - No,1.83,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,1 & Ambos marcan - Sí,3.5,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,2 & Ambos marcan - Sí,10.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,X & Ambos marcan - Sí,5.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,1 & Ambos marcan - No,2.75,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,2 & Ambos marcan - No,10.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,X & Ambos marcan - No,11.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eibar,Cadiz,2026-11-15T17:30Z,equipo,R:goles 2-4,1.53,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,1,2.25,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,X,3.2,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,2,3.1,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,Sin empate 1,1.61,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,Sin empate 2,2.2,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,Más 2.5,2.15,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,Menos 2.5,1.66,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,Más 1.5,1.36,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,Menos 1.5,3.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,Más 3.5,3.75,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,Menos 3.5,1.25,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,Más 4.5,9.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,Menos 4.5,1.071,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,Ambos marcan - Sí,1.83,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,Ambos marcan - No,1.83,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,1 & Ambos marcan - Sí,5.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,2 & Ambos marcan - Sí,7.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,X & Ambos marcan - Sí,4.5,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,1 & Ambos marcan - No,3.75,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,2 & Ambos marcan - No,5.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,X & Ambos marcan - No,8.5,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Eldense,Sabadell,2026-11-15T17:30Z,equipo,R:goles 2-4,1.57,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,1,1.6,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,X,3.7,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,2,5.25,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,Sin empate 1,1.25,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,Sin empate 2,3.75,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,Más 2.5,1.65,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,Menos 2.5,2.2,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,Más 1.5,1.18,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,Menos 1.5,4.5,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,Más 3.5,2.5,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,Menos 3.5,1.5,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,Más 4.5,4.5,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,Menos 4.5,1.18,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,Ambos marcan - Sí,1.66,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,Ambos marcan - No,2.1,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,1 & Ambos marcan - Sí,3.2,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,2 & Ambos marcan - Sí,9.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,X & Ambos marcan - Sí,4.75,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,1 & Ambos marcan - No,3.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,2 & Ambos marcan - No,10.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,X & Ambos marcan - No,13.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,equipo,R:goles 2-4,1.53,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Agustin Medina|remates|4,1.83,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Agustin Medina|remates|5,2.75,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Agustin Medina|remates|6,4.5,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Agustin Medina|remates|7,8.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Agustin Medina|remates|8,15.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Agustin Medina|remates|9,21.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Antonio Puertas|remates|4,1.66,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Antonio Puertas|remates|5,2.5,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Antonio Puertas|remates|6,3.75,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Antonio Puertas|remates|7,6.5,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Antonio Puertas|remates|8,11.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Antonio Puertas|remates|9,21.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Fabio Garcia-Moreno|remates|4,1.8,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Fabio Garcia-Moreno|remates|5,2.62,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Fabio Garcia-Moreno|remates|6,4.33,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Fabio Garcia-Moreno|remates|7,8.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Fabio Garcia-Moreno|remates|8,15.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Fabio Garcia-Moreno|remates|9,21.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Jose Corpas|remates|4,1.83,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Jose Corpas|remates|5,2.75,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Jose Corpas|remates|6,4.5,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Jose Corpas|remates|7,8.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Jose Corpas|remates|8,15.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Jose Corpas|remates|9,21.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Mario Soberon|remates|4,1.61,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Mario Soberon|remates|5,2.37,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Mario Soberon|remates|6,3.75,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Mario Soberon|remates|7,6.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Mario Soberon|remates|8,11.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Mario Soberon|remates|9,19.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Samuel Obeng|remates|4,1.66,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Samuel Obeng|remates|5,2.5,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Samuel Obeng|remates|6,3.75,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Samuel Obeng|remates|7,6.5,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Samuel Obeng|remates|8,11.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+LaLiga Hypermotion,2026-11-13,Albacete,Celta B,2026-11-16T19:30Z,jugador,Samuel Obeng|remates|9,21.0,2026-11-10 17:51:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,1,2.05,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,X,3.8,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,2,3.3,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,Sin empate 1,1.5,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,Sin empate 2,2.5,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,Más 2.5,1.61,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,Menos 2.5,2.3,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,Más 1.5,1.16,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,Menos 1.5,5.0,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,Más 3.5,2.37,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,Menos 3.5,1.57,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,Más 4.5,4.33,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,Menos 4.5,1.22,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,Ambos marcan - Sí,1.53,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,Ambos marcan - No,2.37,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,1 & Ambos marcan - Sí,3.5,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,2 & Ambos marcan - Sí,5.5,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,X & Ambos marcan - Sí,4.33,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,1 & Ambos marcan - No,4.33,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,2 & Ambos marcan - No,7.0,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,X & Ambos marcan - No,17.0,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Toulouse,Strasbourg,2026-11-06T19:45Z,equipo,R:goles 2-4,1.53,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,1,4.33,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,X,4.0,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,2,1.75,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,Sin empate 1,3.25,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,Sin empate 2,1.33,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,Más 2.5,1.72,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,Menos 2.5,2.1,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,Más 1.5,1.22,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,Menos 1.5,4.33,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,Más 3.5,2.75,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,Menos 3.5,1.44,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,Más 4.5,5.0,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,Menos 4.5,1.16,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,Ambos marcan - Sí,1.66,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,Ambos marcan - No,2.1,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,1 & Ambos marcan - Sí,7.5,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,2 & Ambos marcan - Sí,3.4,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,X & Ambos marcan - Sí,4.75,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,1 & Ambos marcan - No,8.0,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,2 & Ambos marcan - No,3.25,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,X & Ambos marcan - No,13.0,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Auxerre,Paris FC,2026-11-07T18:00Z,equipo,R:goles 2-4,1.53,2026-11-06 00:05:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,1,1.1,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,X,10.0,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,2,21.0,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,Sin empate 1,1.02,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,Sin empate 2,19.0,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,Más 2.5,1.28,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,Menos 2.5,3.75,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,Más 1.5,1.071,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,Menos 1.5,9.0,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,Más 3.5,1.66,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,Menos 3.5,2.2,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,Más 4.5,2.5,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,Menos 4.5,1.53,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,Ambos marcan - Sí,2.05,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,Ambos marcan - No,1.7,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,1 & Ambos marcan - Sí,2.5,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,2 & Ambos marcan - Sí,29.0,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,X & Ambos marcan - Sí,11.0,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,1 & Ambos marcan - No,1.8,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,2 & Ambos marcan - No,34.0,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,X & Ambos marcan - No,29.0,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Paris SG,Troyes,2026-11-07T20:05Z,equipo,R:goles 2-4,1.72,2026-11-06 00:06:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,1,2.1,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,X,3.6,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,2,3.3,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,Sin empate 1,1.57,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,Sin empate 2,2.25,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,Más 2.5,1.61,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,Menos 2.5,2.3,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,Más 1.5,1.2,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,Menos 1.5,4.5,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,Más 3.5,2.5,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,Menos 3.5,1.53,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,Más 4.5,4.5,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,Menos 4.5,1.2,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,Ambos marcan - Sí,1.53,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,Ambos marcan - No,2.37,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,1 & Ambos marcan - Sí,3.6,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,2 & Ambos marcan - Sí,5.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,X & Ambos marcan - Sí,4.33,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,1 & Ambos marcan - No,4.33,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,2 & Ambos marcan - No,6.5,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,X & Ambos marcan - No,15.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Rennes,Lille,2026-11-08T14:00Z,equipo,R:goles 2-4,1.53,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,1,3.5,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,X,3.6,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,2,2.05,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,Sin empate 1,2.5,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,Sin empate 2,1.5,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,Más 2.5,1.72,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,Menos 2.5,2.1,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,Más 1.5,1.22,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,Menos 1.5,4.33,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,Más 3.5,2.75,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,Menos 3.5,1.44,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,Más 4.5,5.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,Menos 4.5,1.16,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,Ambos marcan - Sí,1.61,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,Ambos marcan - No,2.2,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,1 & Ambos marcan - Sí,6.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,2 & Ambos marcan - Sí,3.75,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,X & Ambos marcan - Sí,4.33,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,1 & Ambos marcan - No,7.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,2 & Ambos marcan - No,3.75,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,X & Ambos marcan - No,13.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,equipo,R:goles 2-4,1.53,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Elye Wahi|remates|3,1.83,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Elye Wahi|remates|4,3.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Elye Wahi|remates|5,5.5,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Elye Wahi|remates|6,11.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Elye Wahi|remates|7,21.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Prosper Peter|remates|3,1.83,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Prosper Peter|remates|4,3.25,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Prosper Peter|remates|5,5.5,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Prosper Peter|remates|6,11.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Prosper Peter|remates|7,21.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Isak Jansson|remates|3,1.9,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Isak Jansson|remates|4,3.4,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Isak Jansson|remates|5,6.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Isak Jansson|remates|6,13.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Isak Jansson|remates|7,21.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Jim Allevinah|remates|3,2.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Jim Allevinah|remates|4,3.4,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Jim Allevinah|remates|5,6.5,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Jim Allevinah|remates|6,13.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Jim Allevinah|remates|7,21.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Amine El Ouazzani|remates|3,2.1,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Amine El Ouazzani|remates|4,3.75,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Amine El Ouazzani|remates|5,7.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Amine El Ouazzani|remates|6,15.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Amine El Ouazzani|remates|7,21.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Harouna Djibirin|remates|3,2.1,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Harouna Djibirin|remates|4,3.75,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Harouna Djibirin|remates|5,7.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Harouna Djibirin|remates|6,15.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Angers,Nice,2026-11-08T16:15Z,jugador,Harouna Djibirin|remates|7,21.0,2026-11-06 00:07:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,1,2.8,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,X,3.5,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,2,2.45,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,Sin empate 1,2.0,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,Sin empate 2,1.72,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,Más 2.5,1.9,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,Menos 2.5,1.9,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,Más 1.5,1.28,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,Menos 1.5,3.75,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,Más 3.5,3.2,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,Menos 3.5,1.36,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,Más 4.5,6.0,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,Menos 4.5,1.12,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,Ambos marcan - Sí,1.7,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,Ambos marcan - No,2.05,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,1 & Ambos marcan - Sí,5.5,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,2 & Ambos marcan - Sí,4.75,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,X & Ambos marcan - Sí,4.33,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,1 & Ambos marcan - No,5.0,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,2 & Ambos marcan - No,4.33,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,X & Ambos marcan - No,11.0,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Brest,Lyon,2026-11-08T16:15Z,equipo,R:goles 2-4,1.53,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,1,2.8,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,X,3.3,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,2,2.55,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,Sin empate 1,1.9,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,Sin empate 2,1.8,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,Más 2.5,2.0,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,Menos 2.5,1.8,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,Más 1.5,1.3,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,Menos 1.5,3.5,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,Más 3.5,3.5,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,Menos 3.5,1.3,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,Más 4.5,6.5,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,Menos 4.5,1.11,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,Ambos marcan - Sí,1.75,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,Ambos marcan - No,2.0,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,1 & Ambos marcan - Sí,5.5,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,2 & Ambos marcan - Sí,5.0,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,X & Ambos marcan - Sí,4.33,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,1 & Ambos marcan - No,5.0,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,2 & Ambos marcan - No,4.33,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,X & Ambos marcan - No,9.5,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Havre,Lorient,2026-11-08T16:15Z,equipo,R:goles 2-4,1.53,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,1,4.5,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,X,4.0,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,2,1.72,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,Sin empate 1,3.4,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,Sin empate 2,1.3,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,Más 2.5,1.61,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,Menos 2.5,2.3,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,Más 1.5,1.16,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,Menos 1.5,5.0,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,Más 3.5,2.37,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,Menos 3.5,1.57,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,Más 4.5,4.33,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,Menos 4.5,1.22,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,Ambos marcan - Sí,1.57,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,Ambos marcan - No,2.25,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,1 & Ambos marcan - Sí,7.5,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,2 & Ambos marcan - Sí,3.1,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,X & Ambos marcan - Sí,4.5,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,1 & Ambos marcan - No,10.0,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,2 & Ambos marcan - No,3.4,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,X & Ambos marcan - No,15.0,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Le Mans,Monaco,2026-11-08T16:15Z,equipo,R:goles 2-4,1.53,2026-11-06 00:08:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,1,2.15,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,X,3.9,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,2,3.0,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,Sin empate 1,1.61,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,Sin empate 2,2.2,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,Más 2.5,1.5,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,Menos 2.5,2.62,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,Más 1.5,1.14,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,Menos 1.5,5.5,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,Más 3.5,2.2,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,Menos 3.5,1.66,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,Más 4.5,3.75,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,Menos 4.5,1.28,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,Ambos marcan - Sí,1.44,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,Ambos marcan - No,2.62,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,1 & Ambos marcan - Sí,3.4,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,2 & Ambos marcan - Sí,4.5,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,X & Ambos marcan - Sí,4.33,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,1 & Ambos marcan - No,5.0,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,2 & Ambos marcan - No,7.0,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,X & Ambos marcan - No,19.0,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,equipo,R:goles 2-4,1.57,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Odsonne Edouard|a puerta|2,2.2,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Odsonne Edouard|a puerta|3,5.0,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Odsonne Edouard|a puerta|4,13.0,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Florian Thauvin|a puerta|2,2.5,2026-11-06 00:09:00+00:00,,,,,,,,True
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Florian Thauvin|a puerta|3,6.0,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Florian Thauvin|a puerta|4,17.0,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Amine Gouiri|a puerta|2,2.62,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Amine Gouiri|a puerta|3,6.5,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Amine Gouiri|a puerta|4,17.0,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Franjo Ivanovic|a puerta|2,2.62,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Franjo Ivanovic|a puerta|3,6.5,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Franjo Ivanovic|a puerta|4,17.0,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Abdallah Sima|a puerta|2,2.75,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Abdallah Sima|a puerta|3,8.0,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Abdallah Sima|a puerta|4,21.0,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Junior Kadile|a puerta|2,3.25,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Junior Kadile|a puerta|3,9.0,2026-11-06 00:09:00+00:00,,,,,,,,False
+Ligue 1,2026-11-06,Lens,Marseille,2026-11-08T19:45Z,jugador,Junior Kadile|a puerta|4,21.0,2026-11-06 00:09:00+00:00,,,,,,,,False

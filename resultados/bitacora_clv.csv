@@ -1,0 +1,4 @@
+id,fecha_apuesta,liga,fecha_partido,local,visitante,mercado,seleccion,cuota,casa,stake,p_modelo,nota,cuota_efectiva,p_cierre,ref_cierre,cuota_cierre,clv,goles,gana,beneficio,estado
+t0,2026-10-30T10:00,Super League Grecia,2026-11-02,Kalamata,Iraklis,1x2,1,2.24,betfair,1,,prueba,2.178,0.4787330672783014,betfair,2.08,0.04268062053214039,1-1,False,-1,liquidada
+t1,2026-10-30T10:00,Liga Portugal,2026-11-02,Benfica,Alverca,1x2,x,8.0,bet365,1,,prueba,8.0,0.07445085215570266,betfair,12.5,-0.40439318275437874,1-0,False,-1,liquidada
+t2,2026-10-30T10:00,Liga Portugal,2026-11-02,Gil Vicente,Guimaraes,ou25,over,2.2,bet365,1,,prueba,2.2,0.4580798837468086,betfair,2.16,0.007775744242978888,0-0,False,-1,liquidada

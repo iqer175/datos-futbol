@@ -1,0 +1,1603 @@
+{
+ "carpeta": "ligas/laliga-hypermotion/jornadas/2026-11-13",
+ "evaluado_utc": "2026-11-13T23:58Z",
+ "casas": [
+  "bwin",
+  "codere"
+ ],
+ "candidatas": [
+  {
+   "partido": "Valladolid - Castellon",
+   "inicio_utc": "2026-11-14T13:00Z",
+   "clave": "Matias Orozco|remates|2",
+   "apuesta": "Matías Orozco remates 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 2.37,
+     "prob": 0.548,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.1260590717299579,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 2.37,
+   "prob": 0.548,
+   "margen": 0.1261,
+   "limpia": true,
+   "margen_bet365": 0.1261
+  },
+  {
+   "partido": "Valladolid - Castellon",
+   "inicio_utc": "2026-11-14T13:00Z",
+   "clave": "Matias Orozco|remates|3",
+   "apuesta": "Matías Orozco remates 3+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 5.5,
+     "prob": 0.305,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.12318181818181817,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 5.5,
+   "prob": 0.305,
+   "margen": 0.1232,
+   "limpia": true,
+   "margen_bet365": 0.1232
+  },
+  {
+   "partido": "Valladolid - Castellon",
+   "inicio_utc": "2026-11-14T13:00Z",
+   "clave": "Matias Orozco|a puerta|1",
+   "apuesta": "Matías Orozco a puerta 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 2.5,
+     "prob": 0.514,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.11399999999999999,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 2.5,
+   "prob": 0.514,
+   "margen": 0.114,
+   "limpia": true,
+   "margen_bet365": 0.114
+  },
+  {
+   "partido": "Valladolid - Castellon",
+   "inicio_utc": "2026-11-14T13:00Z",
+   "clave": "Matias Orozco|a puerta|2",
+   "apuesta": "Matías Orozco a puerta 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 10.0,
+     "prob": 0.1789,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.0789,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 10.0,
+   "prob": 0.1789,
+   "margen": 0.0789,
+   "limpia": true,
+   "margen_bet365": 0.0789
+  },
+  {
+   "partido": "Valladolid - Castellon",
+   "inicio_utc": "2026-11-14T13:00Z",
+   "clave": "Matias Orozco|remates|4",
+   "apuesta": "Matías Orozco remates 4+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 13.0,
+     "prob": 0.1477,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.07077692307692307,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 13.0,
+   "prob": 0.1477,
+   "margen": 0.0708,
+   "limpia": true,
+   "margen_bet365": 0.0708
+  },
+  {
+   "partido": "Sociedad B - Sp Gijon",
+   "inicio_utc": "2026-11-14T15:15Z",
+   "clave": "Guillermo Rosas|a puerta|1",
+   "apuesta": "Guillermo Rosas a puerta 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 4.5,
+     "prob": 0.3653,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.1430777777777778,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 2.45,
+     "prob": 0.3568,
+     "sustituto": null,
+     "nota": "bwin: 'Guille Rosas', pestaña Tiros, 'Jugador - Total de tiros a portería' 1+. bwin no muestra en esa tabla la regla sobre sustitutos (no encontré el texto de la i); no se sabe si cuentan los remates del sustituto.",
+     "margen": -0.051363265306122396,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 4.5,
+   "prob": 0.3653,
+   "margen": 0.1431,
+   "limpia": true,
+   "margen_bet365": 0.1431
+  },
+  {
+   "partido": "Sociedad B - Sp Gijon",
+   "inicio_utc": "2026-11-14T15:15Z",
+   "clave": "Andres Cuenca|remates|1",
+   "apuesta": "Andrés Cuenca remates 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 2.37,
+     "prob": 0.4705,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.048559071729957826,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 2.37,
+   "prob": 0.4705,
+   "margen": 0.0486,
+   "limpia": true,
+   "margen_bet365": 0.0486
+  },
+  {
+   "partido": "Sociedad B - Sp Gijon",
+   "inicio_utc": "2026-11-14T15:15Z",
+   "clave": "Guillermo Rosas|a puerta|2",
+   "apuesta": "Guillermo Rosas a puerta 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 21.0,
+     "prob": 0.0849,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.03728095238095239,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 8.75,
+     "prob": 0.0843,
+     "sustituto": null,
+     "nota": "bwin: 'Guille Rosas', tiros a portería 2+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.029985714285714282,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 21.0,
+   "prob": 0.0849,
+   "margen": 0.0373,
+   "limpia": true,
+   "margen_bet365": 0.0373
+  },
+  {
+   "partido": "Sociedad B - Sp Gijon",
+   "inicio_utc": "2026-11-14T15:15Z",
+   "clave": "Andres Cuenca|remates|2",
+   "apuesta": "Andrés Cuenca remates 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 8.0,
+     "prob": 0.146,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.02099999999999999,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 8.0,
+   "prob": 0.146,
+   "margen": 0.021,
+   "limpia": false,
+   "margen_bet365": 0.021
+  },
+  {
+   "partido": "Sociedad B - Sp Gijon",
+   "inicio_utc": "2026-11-14T15:15Z",
+   "clave": "Inaki Ruperez|remates|1",
+   "apuesta": "Iñaki Rupérez remates 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 1.57,
+     "prob": 0.616,
+     "sustituto": true,
+     "nota": "",
+     "margen": -0.020942675159235646,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 1.57,
+   "prob": 0.616,
+   "margen": -0.0209,
+   "limpia": false,
+   "margen_bet365": -0.0209
+  },
+  {
+   "partido": "Almeria - Andorra",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "clave": "Lautaro Spatz|a puerta|1",
+   "apuesta": "Lautaro Spatz a puerta 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 6.0,
+     "prob": 0.2042,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.037533333333333335,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 3.2,
+     "prob": 0.1946,
+     "sustituto": null,
+     "nota": "bwin: 'Lautaro Marco Spatz', tiros a portería 1+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.1179,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 6.0,
+   "prob": 0.2042,
+   "margen": 0.0375,
+   "limpia": true,
+   "margen_bet365": 0.0375
+  },
+  {
+   "partido": "Almeria - Andorra",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "clave": "Quim Junyent|a puerta|1",
+   "apuesta": "Quim Junyent a puerta 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 2.5,
+     "prob": 0.437,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.03699999999999998,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 1.66,
+     "prob": 0.3735,
+     "sustituto": null,
+     "nota": "bwin: tiros a portería 1+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.22890963855421692,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 2.5,
+   "prob": 0.437,
+   "margen": 0.037,
+   "limpia": true,
+   "margen_bet365": 0.037
+  },
+  {
+   "partido": "Almeria - Andorra",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "clave": "Quim Junyent|a puerta|2",
+   "apuesta": "Quim Junyent a puerta 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 10.0,
+     "prob": 0.1251,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.025099999999999983,
+     "limpia": false
+    },
+    {
+     "casa": "bwin",
+     "cuota": 4.2,
+     "prob": 0.0929,
+     "sustituto": null,
+     "nota": "bwin: tiros a portería 2+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.1451952380952381,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 10.0,
+   "prob": 0.1251,
+   "margen": 0.0251,
+   "limpia": false,
+   "margen_bet365": 0.0251
+  },
+  {
+   "partido": "Almeria - Andorra",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "clave": "Más 2.5",
+   "apuesta": "Más 2.5",
+   "tipo": "equipo",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 1.57,
+     "prob": 0.6091,
+     "sustituto": true,
+     "nota": "",
+     "margen": -0.027842675159235664,
+     "limpia": false
+    },
+    {
+     "casa": "bwin",
+     "cuota": 1.55,
+     "prob": 0.6091,
+     "sustituto": null,
+     "nota": "Total de goles del partido, tiempo reglamentario, línea 2,5 'Más de'. Mercado de partido: el sustituto no aplica.",
+     "margen": -0.03606129032258065,
+     "limpia": false
+    },
+    {
+     "casa": "codere",
+     "cuota": 1.57,
+     "prob": 0.6091,
+     "sustituto": null,
+     "nota": "Mercado de equipo (no de jugador): la regla del sustituto no aplica. Visto en Principales, Almería - Andorra FC.",
+     "margen": -0.027842675159235664,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 1.57,
+   "prob": 0.6091,
+   "margen": -0.0278,
+   "limpia": false,
+   "margen_bet365": -0.0278
+  },
+  {
+   "partido": "Mallorca - Cordoba",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "clave": "Pablo Torre|remates|4",
+   "apuesta": "Pablo Torre remates 4+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 3.5,
+     "prob": 0.32,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.03428571428571431,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 3.5,
+   "prob": 0.32,
+   "margen": 0.0343,
+   "limpia": true,
+   "margen_bet365": 0.0343
+  },
+  {
+   "partido": "Mallorca - Cordoba",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "clave": "Pablo Torre|remates|5",
+   "apuesta": "Pablo Torre remates 5+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 6.5,
+     "prob": 0.182,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.02815384615384614,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 6.5,
+   "prob": 0.182,
+   "margen": 0.0282,
+   "limpia": false,
+   "margen_bet365": 0.0282
+  },
+  {
+   "partido": "Mallorca - Cordoba",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "clave": "Alex Sala|a puerta|2",
+   "apuesta": "Álex Sala a puerta 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 3.25,
+     "prob": 0.3299,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.022207692307692317,
+     "limpia": false
+    },
+    {
+     "casa": "bwin",
+     "cuota": 3.0,
+     "prob": 0.3057,
+     "sustituto": null,
+     "nota": "bwin: 'Alex Sala', tiros a portería 2+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.027633333333333288,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 3.25,
+   "prob": 0.3299,
+   "margen": 0.0222,
+   "limpia": false,
+   "margen_bet365": 0.0222
+  },
+  {
+   "partido": "Mallorca - Cordoba",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "clave": "Pablo Torre|remates|3",
+   "apuesta": "Pablo Torre remates 3+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 2.0,
+     "prob": 0.5116,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.011600000000000055,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 2.0,
+   "prob": 0.5116,
+   "margen": 0.0116,
+   "limpia": false,
+   "margen_bet365": 0.0116
+  },
+  {
+   "partido": "Mallorca - Cordoba",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "clave": "Pablo Torre|a puerta|2",
+   "apuesta": "Pablo Torre a puerta 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 3.4,
+     "prob": 0.302,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.007882352941176451,
+     "limpia": false
+    },
+    {
+     "casa": "bwin",
+     "cuota": 3.1,
+     "prob": 0.216,
+     "sustituto": null,
+     "nota": "bwin: 'Pablo Torre Carral', tiros a portería 2+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.10658064516129032,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 3.4,
+   "prob": 0.302,
+   "margen": 0.0079,
+   "limpia": false,
+   "margen_bet365": 0.0079
+  },
+  {
+   "partido": "Mallorca - Cordoba",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "clave": "Pablo Torre|a puerta|1",
+   "apuesta": "Pablo Torre a puerta 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 1.5,
+     "prob": 0.6464,
+     "sustituto": true,
+     "nota": "",
+     "margen": -0.020266666666666655,
+     "limpia": false
+    },
+    {
+     "casa": "bwin",
+     "cuota": 1.44,
+     "prob": 0.5499,
+     "sustituto": null,
+     "nota": "bwin: 'Pablo Torre Carral', tiros a portería 1+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.14454444444444436,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 1.5,
+   "prob": 0.6464,
+   "margen": -0.0203,
+   "limpia": false,
+   "margen_bet365": -0.0203
+  },
+  {
+   "partido": "Oviedo - Girona",
+   "inicio_utc": "2026-11-14T20:00Z",
+   "clave": "Mikel Goti|a puerta|1",
+   "apuesta": "Mikel Goti a puerta 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 2.1,
+     "prob": 0.5168,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.04060952380952387,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 1.49,
+     "prob": 0.4644,
+     "sustituto": null,
+     "nota": "bwin: tiros a portería 1+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.2067409395973155,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 2.1,
+   "prob": 0.5168,
+   "margen": 0.0406,
+   "limpia": true,
+   "margen_bet365": 0.0406
+  },
+  {
+   "partido": "Oviedo - Girona",
+   "inicio_utc": "2026-11-14T20:00Z",
+   "clave": "Mikel Goti|a puerta|2",
+   "apuesta": "Mikel Goti a puerta 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 7.0,
+     "prob": 0.1811,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.03824285714285716,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 3.3,
+     "prob": 0.1487,
+     "sustituto": null,
+     "nota": "bwin: tiros a portería 2+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.15433030303030304,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 7.0,
+   "prob": 0.1811,
+   "margen": 0.0382,
+   "limpia": true,
+   "margen_bet365": 0.0382
+  },
+  {
+   "partido": "Oviedo - Girona",
+   "inicio_utc": "2026-11-14T20:00Z",
+   "clave": "Youness Lachhab|remates|2",
+   "apuesta": "Youness Lachhab remates 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 3.0,
+     "prob": 0.3354,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.002066666666666661,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 3.0,
+   "prob": 0.3354,
+   "margen": 0.0021,
+   "limpia": false,
+   "margen_bet365": 0.0021
+  },
+  {
+   "partido": "Tenerife - Ceuta",
+   "inicio_utc": "2026-11-15T13:00Z",
+   "clave": "Christian Gomis|a puerta|2",
+   "apuesta": "Christian Gomis a puerta 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 3.25,
+     "prob": 0.4549,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.14720769230769232,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 2.65,
+     "prob": 0.372,
+     "sustituto": null,
+     "nota": "bwin: 'Christian Pierre Louis Gomis', tiros a portería 2+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.005358490566037766,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 3.25,
+   "prob": 0.4549,
+   "margen": 0.1472,
+   "limpia": true,
+   "margen_bet365": 0.1472
+  },
+  {
+   "partido": "Tenerife - Ceuta",
+   "inicio_utc": "2026-11-15T13:00Z",
+   "clave": "Christian Gomis|a puerta|3",
+   "apuesta": "Christian Gomis a puerta 3+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 9.0,
+     "prob": 0.223,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.1118888888888889,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 6.5,
+     "prob": 0.1661,
+     "sustituto": null,
+     "nota": "bwin: tiros a portería 3+. Sin regla de sustituto visible en bwin.",
+     "margen": 0.012253846153846143,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 9.0,
+   "prob": 0.223,
+   "margen": 0.1119,
+   "limpia": true,
+   "margen_bet365": 0.1119
+  },
+  {
+   "partido": "Tenerife - Ceuta",
+   "inicio_utc": "2026-11-15T13:00Z",
+   "clave": "Kuki Zalazar|remates|3",
+   "apuesta": "Kuki Zalazar remates 3+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 3.4,
+     "prob": 0.3529,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.05878235294117645,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 3.4,
+   "prob": 0.3529,
+   "margen": 0.0588,
+   "limpia": true,
+   "margen_bet365": 0.0588
+  },
+  {
+   "partido": "Tenerife - Ceuta",
+   "inicio_utc": "2026-11-15T13:00Z",
+   "clave": "Kuki Zalazar|remates|2",
+   "apuesta": "Kuki Zalazar remates 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 1.83,
+     "prob": 0.5953,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.04885191256830612,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 1.83,
+   "prob": 0.5953,
+   "margen": 0.0489,
+   "limpia": true,
+   "margen_bet365": 0.0489
+  },
+  {
+   "partido": "Tenerife - Ceuta",
+   "inicio_utc": "2026-11-15T13:00Z",
+   "clave": "Christian Gomis|a puerta|4",
+   "apuesta": "Christian Gomis a puerta 4+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 21.0,
+     "prob": 0.0947,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.04708095238095239,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 16.0,
+     "prob": 0.0655,
+     "sustituto": null,
+     "nota": "bwin: tiros a portería 4+. Sin regla de sustituto visible en bwin.",
+     "margen": 0.0030000000000000027,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 21.0,
+   "prob": 0.0947,
+   "margen": 0.0471,
+   "limpia": true,
+   "margen_bet365": 0.0471
+  },
+  {
+   "partido": "Tenerife - Ceuta",
+   "inicio_utc": "2026-11-15T13:00Z",
+   "clave": "Kuki Zalazar|remates|4",
+   "apuesta": "Kuki Zalazar remates 4+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 7.0,
+     "prob": 0.1831,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.040242857142857164,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 7.0,
+   "prob": 0.1831,
+   "margen": 0.0402,
+   "limpia": true,
+   "margen_bet365": 0.0402
+  },
+  {
+   "partido": "Tenerife - Ceuta",
+   "inicio_utc": "2026-11-15T13:00Z",
+   "clave": "Kuki Zalazar|a puerta|1",
+   "apuesta": "Kuki Zalazar a puerta 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 2.5,
+     "prob": 0.4382,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.038199999999999956,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 2.05,
+     "prob": 0.4029,
+     "sustituto": null,
+     "nota": "bwin: tiros a portería 1+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.08490487804878055,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 2.5,
+   "prob": 0.4382,
+   "margen": 0.0382,
+   "limpia": true,
+   "margen_bet365": 0.0382
+  },
+  {
+   "partido": "Tenerife - Ceuta",
+   "inicio_utc": "2026-11-15T13:00Z",
+   "clave": "Kuki Zalazar|remates|5",
+   "apuesta": "Kuki Zalazar remates 5+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 17.0,
+     "prob": 0.0854,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.0265764705882353,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 17.0,
+   "prob": 0.0854,
+   "margen": 0.0266,
+   "limpia": false,
+   "margen_bet365": 0.0266
+  },
+  {
+   "partido": "Tenerife - Ceuta",
+   "inicio_utc": "2026-11-15T13:00Z",
+   "clave": "Kuki Zalazar|a puerta|2",
+   "apuesta": "Kuki Zalazar a puerta 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 10.0,
+     "prob": 0.1258,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.02579999999999999,
+     "limpia": false
+    },
+    {
+     "casa": "bwin",
+     "cuota": 6.25,
+     "prob": 0.1093,
+     "sustituto": null,
+     "nota": "bwin: tiros a portería 2+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.05070000000000001,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 10.0,
+   "prob": 0.1258,
+   "margen": 0.0258,
+   "limpia": false,
+   "margen_bet365": 0.0258
+  },
+  {
+   "partido": "Granada - Las Palmas",
+   "inicio_utc": "2026-11-15T15:15Z",
+   "clave": "Ivan Jaime|remates|3",
+   "apuesta": "Iván Jaime remates 3+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 3.4,
+     "prob": 0.3318,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.037682352941176445,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 3.4,
+   "prob": 0.3318,
+   "margen": 0.0377,
+   "limpia": true,
+   "margen_bet365": 0.0377
+  },
+  {
+   "partido": "Granada - Las Palmas",
+   "inicio_utc": "2026-11-15T15:15Z",
+   "clave": "Ivan Jaime|remates|4",
+   "apuesta": "Iván Jaime remates 4+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 7.0,
+     "prob": 0.1671,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.02424285714285715,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 7.0,
+   "prob": 0.1671,
+   "margen": 0.0242,
+   "limpia": false,
+   "margen_bet365": 0.0242
+  },
+  {
+   "partido": "Granada - Las Palmas",
+   "inicio_utc": "2026-11-15T15:15Z",
+   "clave": "Enzo Loiodice|remates|2",
+   "apuesta": "Enzo Loiodice remates 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 3.75,
+     "prob": 0.2905,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.023833333333333317,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 3.75,
+   "prob": 0.2905,
+   "margen": 0.0238,
+   "limpia": false,
+   "margen_bet365": 0.0238
+  },
+  {
+   "partido": "Granada - Las Palmas",
+   "inicio_utc": "2026-11-15T15:15Z",
+   "clave": "Ivan Jaime|remates|2",
+   "apuesta": "Iván Jaime remates 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 1.8,
+     "prob": 0.5749,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.019344444444444386,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 1.8,
+   "prob": 0.5749,
+   "margen": 0.0193,
+   "limpia": false,
+   "margen_bet365": 0.0193
+  },
+  {
+   "partido": "Granada - Las Palmas",
+   "inicio_utc": "2026-11-15T15:15Z",
+   "clave": "Enzo Loiodice|remates|1",
+   "apuesta": "Enzo Loiodice remates 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 1.61,
+     "prob": 0.6373,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.016181987577639778,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 1.61,
+   "prob": 0.6373,
+   "margen": 0.0162,
+   "limpia": false,
+   "margen_bet365": 0.0162
+  },
+  {
+   "partido": "Granada - Las Palmas",
+   "inicio_utc": "2026-11-15T15:15Z",
+   "clave": "Juan Herzog|remates|1",
+   "apuesta": "Juanma Herzog remates 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 2.75,
+     "prob": 0.3788,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.015163636363636379,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 2.75,
+   "prob": 0.3788,
+   "margen": 0.0152,
+   "limpia": false,
+   "margen_bet365": 0.0152
+  },
+  {
+   "partido": "Eibar - Cadiz",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "clave": "Dilan Zarate|remates|1",
+   "apuesta": "Dilan Zárate remates 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 2.0,
+     "prob": 0.6087,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.10870000000000002,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 2.0,
+   "prob": 0.6087,
+   "margen": 0.1087,
+   "limpia": true,
+   "margen_bet365": 0.1087
+  },
+  {
+   "partido": "Eibar - Cadiz",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "clave": "Dilan Zarate|remates|2",
+   "apuesta": "Dilan Zárate remates 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 5.5,
+     "prob": 0.261,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.07918181818181819,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 5.5,
+   "prob": 0.261,
+   "margen": 0.0792,
+   "limpia": true,
+   "margen_bet365": 0.0792
+  },
+  {
+   "partido": "Eibar - Cadiz",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "clave": "Dilan Zarate|a puerta|1",
+   "apuesta": "Dilan Zárate a puerta 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 4.33,
+     "prob": 0.3066,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.07565311778290992,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 3.4,
+     "prob": 0.2544,
+     "sustituto": null,
+     "nota": "bwin: 'Dilan Zarate', tiros a portería 1+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.039717647058823524,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 4.33,
+   "prob": 0.3066,
+   "margen": 0.0757,
+   "limpia": true,
+   "margen_bet365": 0.0757
+  },
+  {
+   "partido": "Eibar - Cadiz",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "clave": "Dilan Zarate|remates|3",
+   "apuesta": "Dilan Zárate remates 3+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 17.0,
+     "prob": 0.0884,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.0295764705882353,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 17.0,
+   "prob": 0.0884,
+   "margen": 0.0296,
+   "limpia": false,
+   "margen_bet365": 0.0296
+  },
+  {
+   "partido": "Eldense - Sabadell",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "clave": "Jorge Rastrojo|a puerta|2",
+   "apuesta": "Jorge Rastrojo a puerta 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 4.0,
+     "prob": 0.3202,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.07019999999999998,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 2.55,
+     "prob": 0.2268,
+     "sustituto": null,
+     "nota": "bwin: tiros a portería 2+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.1653568627450981,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 4.0,
+   "prob": 0.3202,
+   "margen": 0.0702,
+   "limpia": true,
+   "margen_bet365": 0.0702
+  },
+  {
+   "partido": "Eldense - Sabadell",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "clave": "Quadri Liameed|a puerta|1",
+   "apuesta": "Quadri Liameed a puerta 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 3.5,
+     "prob": 0.3374,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.05168571428571428,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 2.9,
+     "prob": 0.245,
+     "sustituto": null,
+     "nota": "bwin: tiros a portería 1+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.09982758620689658,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 3.5,
+   "prob": 0.3374,
+   "margen": 0.0517,
+   "limpia": true,
+   "margen_bet365": 0.0517
+  },
+  {
+   "partido": "Eldense - Sabadell",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "clave": "Jorge Rastrojo|a puerta|3",
+   "apuesta": "Jorge Rastrojo a puerta 3+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 13.0,
+     "prob": 0.1244,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.04747692307692307,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 6.0,
+     "prob": 0.0747,
+     "sustituto": null,
+     "nota": "bwin: tiros a portería 3+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.09196666666666665,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 13.0,
+   "prob": 0.1244,
+   "margen": 0.0475,
+   "limpia": true,
+   "margen_bet365": 0.0475
+  },
+  {
+   "partido": "Eldense - Sabadell",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "clave": "Jorge Rastrojo|a puerta|1",
+   "apuesta": "Jorge Rastrojo a puerta 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 1.61,
+     "prob": 0.6626,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.04148198757763977,
+     "limpia": true
+    },
+    {
+     "casa": "bwin",
+     "cuota": 1.32,
+     "prob": 0.562,
+     "sustituto": null,
+     "nota": "bwin: tiros a portería 1+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.19557575757575751,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 1.61,
+   "prob": 0.6626,
+   "margen": 0.0415,
+   "limpia": true,
+   "margen_bet365": 0.0415
+  },
+  {
+   "partido": "Eldense - Sabadell",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "clave": "Quadri Liameed|remates|1",
+   "apuesta": "Quadri Liameed remates 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 1.66,
+     "prob": 0.5993,
+     "sustituto": true,
+     "nota": "",
+     "margen": -0.0031096385542168647,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 1.66,
+   "prob": 0.5993,
+   "margen": -0.0031,
+   "limpia": false,
+   "margen_bet365": -0.0031
+  },
+  {
+   "partido": "Eldense - Sabadell",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "clave": "Ton Ripoll|remates|1",
+   "apuesta": "Ton Ripoll remates 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 1.5,
+     "prob": 0.6408,
+     "sustituto": true,
+     "nota": "",
+     "margen": -0.025866666666666593,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 1.5,
+   "prob": 0.6408,
+   "margen": -0.0259,
+   "limpia": false,
+   "margen_bet365": -0.0259
+  },
+  {
+   "partido": "Albacete - Celta B",
+   "inicio_utc": "2026-11-16T19:30Z",
+   "clave": "Lorenzo Aguado|remates|2",
+   "apuesta": "Lorenzo Aguado remates 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 3.5,
+     "prob": 0.3262,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.04048571428571429,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 3.5,
+   "prob": 0.3262,
+   "margen": 0.0405,
+   "limpia": true,
+   "margen_bet365": 0.0405
+  },
+  {
+   "partido": "Albacete - Celta B",
+   "inicio_utc": "2026-11-16T19:30Z",
+   "clave": "Lorenzo Aguado|remates|1",
+   "apuesta": "Lorenzo Aguado remates 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 1.57,
+     "prob": 0.6694,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.03245732484076436,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 1.57,
+   "prob": 0.6694,
+   "margen": 0.0325,
+   "limpia": true,
+   "margen_bet365": 0.0325
+  },
+  {
+   "partido": "Albacete - Celta B",
+   "inicio_utc": "2026-11-16T19:30Z",
+   "clave": "Jesus Vallejo|remates|2",
+   "apuesta": "Jesús Vallejo remates 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 5.0,
+     "prob": 0.2304,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.030399999999999983,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 5.0,
+   "prob": 0.2304,
+   "margen": 0.0304,
+   "limpia": true,
+   "margen_bet365": 0.0304
+  },
+  {
+   "partido": "Albacete - Celta B",
+   "inicio_utc": "2026-11-16T19:30Z",
+   "clave": "Jesus Vallejo|remates|1",
+   "apuesta": "Jesús Vallejo remates 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 1.83,
+     "prob": 0.5766,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.030151912568306072,
+     "limpia": true
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 1.83,
+   "prob": 0.5766,
+   "margen": 0.0302,
+   "limpia": true,
+   "margen_bet365": 0.0302
+  },
+  {
+   "partido": "Albacete - Celta B",
+   "inicio_utc": "2026-11-16T19:30Z",
+   "clave": "Lorenzo Aguado|remates|3",
+   "apuesta": "Lorenzo Aguado remates 3+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 10.0,
+     "prob": 0.1272,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.027200000000000002,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 10.0,
+   "prob": 0.1272,
+   "margen": 0.0272,
+   "limpia": false,
+   "margen_bet365": 0.0272
+  },
+  {
+   "partido": "Albacete - Celta B",
+   "inicio_utc": "2026-11-16T19:30Z",
+   "clave": "Joel Lopez|a puerta|1",
+   "apuesta": "Joel Lopez Salguero a puerta 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 6.0,
+     "prob": 0.1924,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.02573333333333333,
+     "limpia": false
+    },
+    {
+     "casa": "bwin",
+     "cuota": 6.0,
+     "prob": 0.1399,
+     "sustituto": null,
+     "nota": "bwin: 'Joel Lopez', tiros a portería 1+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.02676666666666666,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 6.0,
+   "prob": 0.1924,
+   "margen": 0.0257,
+   "limpia": false,
+   "margen_bet365": 0.0257
+  },
+  {
+   "partido": "Albacete - Celta B",
+   "inicio_utc": "2026-11-16T19:30Z",
+   "clave": "Angel Arcos|a puerta|2",
+   "apuesta": "Ángel Arcos a puerta 2+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 7.0,
+     "prob": 0.1651,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.022242857142857148,
+     "limpia": false
+    },
+    {
+     "casa": "bwin",
+     "cuota": 4.4,
+     "prob": 0.125,
+     "sustituto": null,
+     "nota": "bwin: 'Angel Arcos', tiros a portería 2+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.10227272727272727,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 7.0,
+   "prob": 0.1651,
+   "margen": 0.0222,
+   "limpia": false,
+   "margen_bet365": 0.0222
+  },
+  {
+   "partido": "Albacete - Celta B",
+   "inicio_utc": "2026-11-16T19:30Z",
+   "clave": "Angel Arcos|a puerta|1",
+   "apuesta": "Ángel Arcos a puerta 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 2.1,
+     "prob": 0.4958,
+     "sustituto": true,
+     "nota": "",
+     "margen": 0.019609523809523854,
+     "limpia": false
+    },
+    {
+     "casa": "bwin",
+     "cuota": 1.7,
+     "prob": 0.4287,
+     "sustituto": null,
+     "nota": "bwin: 'Angel Arcos', tiros a portería 1+. Sin regla de sustituto visible en bwin.",
+     "margen": -0.15953529411764705,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 2.1,
+   "prob": 0.4958,
+   "margen": 0.0196,
+   "limpia": false,
+   "margen_bet365": 0.0196
+  },
+  {
+   "partido": "Albacete - Celta B",
+   "inicio_utc": "2026-11-16T19:30Z",
+   "clave": "Joel Lopez|remates|1",
+   "apuesta": "Joel Lopez Salguero remates 1+",
+   "tipo": "jugador",
+   "ofertas": [
+    {
+     "casa": "bet365",
+     "cuota": 2.25,
+     "prob": 0.4436,
+     "sustituto": true,
+     "nota": "",
+     "margen": -0.0008444444444444255,
+     "limpia": false
+    }
+   ],
+   "mejor_casa": "bet365",
+   "mejor_cuota": 2.25,
+   "prob": 0.4436,
+   "margen": -0.0008,
+   "limpia": false,
+   "margen_bet365": -0.0008
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "doc_id": "2026-11-15-eldense-sabadell-rastrojo-1apuerta",
+  "data": {
+   "competicion": "LaLiga Hypermotion",
+   "fecha": "2026-11-15",
+   "local": "Eldense",
+   "visitante": "Sabadell",
+   "mercado": "Remates a puerta del jugador",
+   "seleccion": "Jorge Rastrojo - 1 o más remates a puerta",
+   "cuota": 1.61,
+   "prob": 66,
+   "prob_apuesta": 64,
+   "stake": 0.5,
+   "confianza": "baja",
+   "estado": "pendiente",
+   "creado": "2026-11-13T21:27:08Z",
+   "tesis": "modelo 66.3% (con Sustituto+; sin él 56%) frente al 62.1% que pide la cuota; a puerta en el 57% de sus 7 titularidades y en 3 de las últimas 5 (5 a puerta de 7 remates)",
+   "nota": "simulador + contexto (goles ancla) | SOLO si es titular (noticias parciales, alineación no publicada) | muestra 7 titularidades | margen 4.1 pts | Sustituto+ pesa 10 pts: juega 66 min de media | fiabilidad del motor baja (Elo del Sabadell sin asentar, 13 partidos), goles anclados al mercado | bajas de Eldense y Sabadell NO verificadas | cuota leída 2026-11-13T21:09Z, aún no tomada"
+  }
+ },
+ {
+  "doc_id": "2026-11-16-albacete-celtab-aguado-1remate",
+  "data": {
+   "competicion": "LaLiga Hypermotion",
+   "fecha": "2026-11-16",
+   "local": "Albacete",
+   "visitante": "Celta B",
+   "mercado": "Remates del jugador",
+   "seleccion": "Lorenzo Aguado - 1 o más remates",
+   "cuota": 1.57,
+   "prob": 67,
+   "prob_apuesta": 65,
+   "stake": 0.5,
+   "confianza": "baja",
+   "estado": "pendiente",
+   "creado": "2026-11-13T21:27:08Z",
+   "tesis": "modelo 66.9% (con Sustituto+; sin él 54%) frente al 63.7% que pide la cuota; remata en el 57% de sus 7 titularidades y en 3 de las últimas 5; Albacete 15.3 remates esperados",
+   "nota": "simulador + contexto (goles ancla) | SOLO si es titular (noticias parciales, alineación no publicada) | muestra 7 titularidades | margen 3.2 pts, justo | fiabilidad del motor baja (Elo del Celta B sin asentar, 13 partidos); el mercado ve al Albacete más favorito que el Elo, lo que juega a favor del volumen local | bajas del Albacete NO verificadas | cuota leída 2026-11-13T21:13Z, aún no tomada"
+  }
+ }
+]

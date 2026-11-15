@@ -1,5 +1,5 @@
 """
-motor.py -- motor de pronostico v3.  Sustituye a modelo.py.
+motor.py -- motor de pronostico v6.  Sustituye a modelo.py.
 
 QUE CAMBIA Y POR QUE
 --------------------
@@ -58,6 +58,17 @@ QUE CAMBIA EN v5 (2026-11-05) -- experimentos_motor.py, regla de 4/4 temporadas
   ventaja local propia por liga en el Elo (efecto nulo), y CAL_TOTAL 0.044 en vez de 0.12
   (gana 2 temporadas y pierde 2: el nivel de goles cambia de un ano a otro).
 
+QUE CAMBIA EN v6 (2026-11-10) -- experimento_remates.py, regla de 4/4 temporadas
+  El GLM deja de aprender solo de los goles: su objetivo es mitad goles, mitad un "xG de
+  remates" (REM_CP por remate a puerta + REM_CF por remate fuera, coeficientes ajustados
+  solo con partidos anteriores a 2022-07). Los remates estan en el 91 % de la base; el xG,
+  en el 5 %. Con ese GLM sube su peso en el total (W_GLM 0.35 -> 0.60) y entra por primera
+  vez en la supremacia (V_GLM 0.30; el resto sigue siendo Elo). Medido sobre 27.525
+  partidos: mejora las 4 temporadas en 1X2 (-0.0001 a -0.0023) y en Mas/Menos (-0.0011 a
+  -0.0017). Elegida entre 17 combinaciones: la cifra esta algo favorecida por la busqueda.
+  Con el GLM de goles (v2) la supremacia mixta NO mejoraba (2/4): la ganancia es de los remates.
+  El mercado sigue por delante (1X2 0.0125-0.018, Mas/Menos 0.0055-0.008).
+
 LO QUE SE PROBO EN v3 Y SE DESCARTO
   - Correccion del Elo por forma reciente. La hipotesis era que el Elo tarda en bajar
     a los equipos que se hunden. MEDIDO SOBRE 50.060 observaciones equipo-partido:
@@ -81,7 +92,12 @@ from scipy.optimize import minimize
 HALF_LIFE = 180.0
 RIDGE     = 3.0
 VENTANA   = 1460      # dias de historico para el GLM
-W_GLM     = 0.35      # peso del GLM en el total (0.65 se lo lleva la linea Elo)
+W_GLM     = 0.60      # peso del GLM en el total (el resto se lo lleva la linea Elo)
+V_GLM     = 0.30      # peso del GLM en la supremacia (el resto, Elo)
+W_GLM_V5  = 0.35      # peso del GLM de goles en el motor v5: lo usan los backtests antiguos
+# objetivo del GLM (v6): REM_ALPHA·goles + (1 - REM_ALPHA)·(REM_CP·a puerta + REM_CF·fuera)
+REM_ALPHA = 0.5
+REM_CP, REM_CF = 0.331, -0.015    # goles por remate a puerta / fuera, ajustados con datos < 2022-07
 
 # --- calibracion v3, medida sobre 5.160 partidos de backtest (2025-08 a 2026-09) ---
 # El motor v2 tenia dos sesgos sistematicos frente al resultado real:
@@ -98,8 +114,15 @@ CAL_TOTAL  = 0.12     # goles que se suman al total (equivale a +0.115 en el log
 # Probado y descartado: temperatura sobre las probabilidades (T=0.93), empeora la mas reciente.
 # v5 (2026-11-05): con el Elo a K=15 (actualizar_datos.K_BASE) se recalibran a 0.061 / 0.177
 # (ajuste 2022-24). Frente a v4 mejora el log-loss 1X2 en las 4 temporadas (-0.0003 a -0.0010).
-CAL_LOCAL  = 0.061    # multiplica la probabilidad de local por exp(), luego se renormaliza
-CAL_EMPATE = 0.177    # idem para el empate
+# v6 (2026-11-10): con el GLM de remates y la supremacia mixta se recalibran a 0.055 / 0.128
+# (ajuste 2022-24, experimento_remates.py). Comprobado por el camino real (Base + analizar)
+# frente al v5 de produccion en 27.433 partidos: 1X2 -0.0019 -0.0001 -0.0010 -0.0010 y
+# Mas/Menos -0.0022 -0.0016 -0.0024 -0.0017, mejora en las 4 temporadas
+# (resultados/motor_v6_verificacion.txt). CAL_TOTAL se queda en 0.12: con 0.072 o 0.155 tambien
+# mejora 4/4 en Mas/Menos, pero 0.12 es el mas parejo entre temporadas y no toca la variante
+# congelada de xG, que lo usa.
+CAL_LOCAL  = 0.055    # multiplica la probabilidad de local por exp(), luego se renormaliza
+CAL_EMPATE = 0.128    # idem para el empate
 K_SHRINK  = 6.0
 MAX_N     = 40
 
@@ -150,6 +173,19 @@ def objetivo_xg(df, alpha):
     return alpha*gl + (1-alpha)*xl, alpha*gv + (1-alpha)*xv
 
 
+def objetivo_remates(df, alpha=None):
+    """Objetivo del GLM v6: alpha·goles + (1-alpha)·xG de remates; sin remates, goles."""
+    alpha = REM_ALPHA if alpha is None else alpha
+    gl, gv = df.gl.values.astype(float), df.gv.values.astype(float)
+    cols = ['tiros_l', 'tiros_v', 'tiros_p_l', 'tiros_p_v']
+    if not all(c in df for c in cols):
+        return gl, gv
+    hay = df[cols].notna().all(axis=1).values
+    xl = np.where(hay, REM_CP * df.tiros_p_l + REM_CF * (df.tiros_l - df.tiros_p_l).clip(lower=0), gl)
+    xv = np.where(hay, REM_CP * df.tiros_p_v + REM_CF * (df.tiros_v - df.tiros_p_v).clip(lower=0), gv)
+    return alpha * gl + (1 - alpha) * xl, alpha * gv + (1 - alpha) * xv
+
+
 def ligas_con_xg(df, hasta, minimo=0.8, dias=60):
     """Ligas donde al menos el 80 % de los partidos de los ultimos 60 dias trae xG.
     (Con 120 dias, en septiembre entraban partidos de mayo sin xG y se perdian ligas.)"""
@@ -196,13 +232,19 @@ def ajustar_glm(df, hasta, ridge=RIDGE, ventana=VENTANA, half=HALF_LIFE, y=None)
                 loc=r.x[2*ne+nl:], eqs=eqs, lgs=lgs)
 
 
-def total_glm(G, local, visit, liga):
+def lambdas_glm(G, local, visit, liga):
+    """(goles esperados del local, del visitante) segun el GLM, o None si no los conoce."""
     if G is None or local not in G['eqs'] or visit not in G['eqs'] or liga not in G['lgs']:
         return None
     il, iv, ig = G['eqs'].get_loc(local), G['eqs'].get_loc(visit), G['lgs'].get_loc(liga)
     lh = exp(G['base'][ig] + G['loc'][ig] + G['att'][il] - G['dfn'][iv])
     la = exp(G['base'][ig] + G['att'][iv] - G['dfn'][il])
-    return lh + la
+    return lh, la
+
+
+def total_glm(G, local, visit, liga):
+    g = lambdas_glm(G, local, visit, liga)
+    return None if g is None else g[0] + g[1]
 
 
 # ------------------------------------------------------------- perfil auxiliar
@@ -221,7 +263,7 @@ class Base:
             df.assign(eq=df.visitante, cf=df.corners_v, cc=df.corners_l, am=df.amar_v, elo=el_v),
         ])[['eq','liga','pais','fecha','cf','cc','am','elo']].sort_values(['eq','fecha'])
         self.idx = {eq: g for eq, g in L.groupby('eq')}
-        self.glm = ajustar_glm(df, self.hasta)
+        self.glm = ajustar_glm(df, self.hasta, y=objetivo_remates(df))    # v6: goles + remates
         # GLM de la variante congelada O/U con xG
         self.ligas_xg = ligas_con_xg(df, self.hasta)
         self.glm_xg = (ajustar_glm(df, self.hasta, half=OU_XG_HALF_LIFE, y=objetivo_xg(df, OU_XG_ALPHA))
@@ -280,10 +322,12 @@ def analizar(B, local, visit, liga, hasta=None):
         raise SystemExit(f"Sin Elo para {local if np.isnan(el) else visit}")
     d = (el - ev) / 100.0
 
-    sup = C['a'] * d + C['b']                 # supremacia: Elo puro
+    sup_elo = C['a'] * d + C['b']             # supremacia segun el Elo
     tot_elo = C['bt'] + C['at'] * abs(d)      # linea base de total
-    tg = total_glm(B.glm, local, visit, liga)
+    g = lambdas_glm(B.glm, local, visit, liga)
+    tg, sg = (None, None) if g is None else (g[0] + g[1], g[0] - g[1])
     tot = tot_elo if tg is None else (1 - W_GLM) * tot_elo + W_GLM * tg
+    sup = sup_elo if sg is None else (1 - V_GLM) * sup_elo + V_GLM * sg
     tot += CAL_TOTAL      # correccion de calibracion: el motor se quedaba corto en goles
 
     lh = max(0.15, (tot + sup) / 2); la = max(0.15, (tot - sup) / 2)
@@ -315,7 +359,8 @@ def analizar(B, local, visit, liga, hasta=None):
 
     return dict(liga=liga, elo_l=el, elo_v=ev, gap_l=gap_l, gap_v=gap_v,
                 nb_l=nb_l, nb_v=nb_v, fiabilidad=fiab,
-                lh=lh, la=la, lc=lc, lt=lt, sup=sup, tot=tot, tot_elo=tot_elo, tot_glm=tg,
+                lh=lh, la=la, lc=lc, lt=lt, sup=sup, sup_elo=sup_elo, sup_glm=sg,
+                tot=tot, tot_elo=tot_elo, tot_glm=tg,
                 tot_glm_xg=tg_xg, over25_xg_motor=over_xg,
                 peso_secundarios=peso2, sl=sl, sv=sv, m=mercados(lh, la, lc, lt))
 

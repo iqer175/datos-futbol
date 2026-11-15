@@ -1,0 +1,22 @@
+[
+ {
+  "doc_id": "2026-11-14-fleetwoodtown-tranmere-coughlan-2apuerta",
+  "data": {
+   "competicion": "League Two",
+   "fecha": "2026-11-14",
+   "local": "Fleetwood Town",
+   "visitante": "Tranmere",
+   "mercado": "Remates a puerta del jugador",
+   "seleccion": "Ronan Coughlan - 2 o más remates a puerta",
+   "cuota": 2.37,
+   "prob": 45,
+   "prob_apuesta": 43,
+   "stake": 0.5,
+   "confianza": "baja",
+   "estado": "pendiente",
+   "creado": "2026-11-13T23:26:47Z",
+   "tesis": "Delantero titular en las 3 últimas (5,1,0,3,4 a puerta en sus últimos 5); el modelo sin Sustituto+ da 45,3% frente al 42,2% de la cuota y Fleetwood espera 5,0 remates a puerta contra Tranmere",
+   "nota": "simulador + contexto | prob SIN Sustituto+ (la tabla de bet365 no lo lleva; con Sustituto+ sería 52,5%) | margen 3,1 pts, justo en el límite | SOLO si es titular (p_titular 0.9; Fleetwood tiene sancionados sin nombrar y ESPN llega a 2026-11-03) | muestra 8 titularidades | cuota leída 2026-11-13T23:18Z, aún no tomada"
+  }
+ }
+]

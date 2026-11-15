@@ -93,7 +93,7 @@ def lambdas(df, ev, tg):
         tot_elo = C.bt.values + C['at'].values * np.abs(d)
         k = np.array([pos[i] for i in g.index])
         tgk = tg[k]
-        tot = np.where(np.isnan(tgk), tot_elo, (1 - motor.W_GLM) * tot_elo + motor.W_GLM * tgk)
+        tot = np.where(np.isnan(tgk), tot_elo, (1 - motor.W_GLM_V5) * tot_elo + motor.W_GLM_V5 * tgk)
         lh[k] = (tot + sup) / 2; la[k] = (tot - sup) / 2
     return lh, la
 

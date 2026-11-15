@@ -29,7 +29,10 @@ Escribe `contexto.json` con, para cada partido: motor (Elo, goles esperados, có
 probabilidades), forma de los 6 últimos partidos, H2H, y para cada jugador de `cuotas.json` sus
 titularidades, si fue titular en los 3 últimos partidos de su equipo, minutos medios y remates de
 los 5 últimos. Deja `titular_prob` con un valor de partida según ese patrón (3 de 3 → 0.9; 2 de 3
-→ 0.7 o 0.5; 1 de 3 → 0.3; ninguno → 0.1) y `"noticias": "pendiente"`.
+→ 0.7 o 0.5; 1 de 3 → 0.3; ninguno → 0.1) y `"noticias": "pendiente"`. También pone `arbitro`
+(nombre, factor de tarjetas y partidos en la base); si sale `"sin designar"` y las noticias dan el
+árbitro, escribe solo su `nombre` completo (como lo da FotMob, p. ej. "Jesús Gil Manzano") y deja
+el factor, que el simulador lo recalcula.
 
 No recalcules ni reescribas esos datos. Si el script falla o un partido sale con la alerta "el
 motor no reconoce el partido", dilo en el informe y sigue con el resto.

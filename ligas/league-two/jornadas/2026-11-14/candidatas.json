@@ -1,0 +1,103 @@
+{
+ "carpeta": "ligas/league-two/jornadas/2026-11-14",
+ "creado_utc": "2026-11-13T23:31Z",
+ "subida_maxima": 0.1,
+ "partidos": [
+  {
+   "local": "Exeter",
+   "visitante": "Cheltenham",
+   "inicio_utc": "2026-11-14T12:30Z",
+   "selecciones": [
+    {
+     "clave": "Anthony Scully|a puerta|2",
+     "apuesta": "Anthony Scully a puerta 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 5.5,
+     "prob": 0.2174,
+     "margen_bet365": 0.0356,
+     "cuota_minima": 5.34,
+     "prob_sin_sustituto": 0.1318,
+     "cuota_minima_sin_sustituto": 9.83
+    },
+    {
+     "clave": "Jack Fitzwater|a puerta|1",
+     "apuesta": "Jack Fitzwater a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 3.75,
+     "prob": 0.2883,
+     "margen_bet365": 0.0217,
+     "cuota_minima": 3.87,
+     "prob_sin_sustituto": 0.2832,
+     "cuota_minima_sin_sustituto": 3.95
+    },
+    {
+     "clave": "Anthony Scully|a puerta|1",
+     "apuesta": "Anthony Scully a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 1.83,
+     "prob": 0.5605,
+     "margen_bet365": 0.0141,
+     "cuota_minima": 1.89,
+     "prob_sin_sustituto": 0.4394,
+     "cuota_minima_sin_sustituto": 2.44
+    }
+   ]
+  },
+  {
+   "local": "Bristol Rvs",
+   "visitante": "Chesterfield",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "selecciones": [
+    {
+     "clave": "Menos 3.5",
+     "apuesta": "Menos 3.5",
+     "tipo": "equipo",
+     "cuota_bet365": 1.44,
+     "prob": 0.6663,
+     "margen_bet365": -0.0281,
+     "cuota_minima": 1.57
+    }
+   ]
+  },
+  {
+   "local": "Fleetwood Town",
+   "visitante": "Tranmere",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "selecciones": [
+    {
+     "clave": "Ronan Coughlan|a puerta|3",
+     "apuesta": "Ronan Coughlan a puerta 3+",
+     "tipo": "jugador",
+     "cuota_bet365": 5.5,
+     "prob": 0.2848,
+     "margen_bet365": 0.103,
+     "cuota_minima": 3.92,
+     "prob_sin_sustituto": 0.2302,
+     "cuota_minima_sin_sustituto": 5.0
+    },
+    {
+     "clave": "Ronan Coughlan|a puerta|2",
+     "apuesta": "Ronan Coughlan a puerta 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 2.37,
+     "prob": 0.5248,
+     "margen_bet365": 0.1029,
+     "cuota_minima": 2.02,
+     "prob_sin_sustituto": 0.4529,
+     "cuota_minima_sin_sustituto": 2.36
+    },
+    {
+     "clave": "Ronan Coughlan|a puerta|4",
+     "apuesta": "Ronan Coughlan a puerta 4+",
+     "tipo": "jugador",
+     "cuota_bet365": 15.0,
+     "prob": 0.1348,
+     "margen_bet365": 0.0682,
+     "cuota_minima": 9.54,
+     "prob_sin_sustituto": 0.1039,
+     "cuota_minima_sin_sustituto": 13.53
+    }
+   ]
+  }
+ ]
+}

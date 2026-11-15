@@ -1,0 +1,1602 @@
+{
+ "liga": "League Two",
+ "generado_utc": "2026-11-13T23:21Z",
+ "datos_hasta": {
+  "partidos": "2026-11-03",
+  "jugadores": "2026-11-03"
+ },
+ "noticias": "parciales",
+ "noticias_utc": "2026-11-13T23:24:23Z",
+ "partidos": [
+  {
+   "local": "Exeter",
+   "visitante": "Cheltenham",
+   "inicio_utc": "2026-11-14T12:30Z",
+   "titular_prob": {
+    "Ajay Matthews": 0.1,
+    "Andrew Oluwabori": 0.1,
+    "Anthony Scully": 0.9,
+    "Charlie Cummins": 0.0,
+    "Danny Rose": 0.1,
+    "Edward James": 0.1,
+    "Ethan Sutherland": 0.0,
+    "George Birch": 0.9,
+    "Gwion Edwards": 0.1,
+    "Harry Kite": 0.7,
+    "Jack Fitzwater": 0.9,
+    "Jack Taylor": 0.9,
+    "Jake Doyle-Hayes": 0.3,
+    "Josh Gordon": 0.3,
+    "Lakyle Samuel": 0.9,
+    "Liam Oakes": 0.1,
+    "Louie Cayless": 0.1,
+    "Luca Woodhouse": 0.9,
+    "Reece Cole": 0.1,
+    "Sonny Cox": 0.7,
+    "Taylor Perry": 0.9,
+    "Tobias Alsop": 0.1,
+    "Vincent Harper": 0.0
+   },
+   "jugadores": {
+    "Ajay Matthews": {
+     "nombre_espn": "Ajay Matthews",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Andrew Oluwabori": {
+     "nombre_espn": "Andrew Oluwabori",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 2,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 42,
+     "remates_ultimos_5": [
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-09-01",
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Anthony Scully": {
+     "nombre_espn": "Anthony Scully",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 6,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 66,
+     "remates_ultimos_5": [
+      1,
+      1,
+      3,
+      2,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      1,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Ben Lang": {
+     "nota": "sin datos en ESPN"
+    },
+    "Charlie Cummins": {
+     "nombre_espn": "Charlie Cummins",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 14,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 90,
+     "remates_ultimos_5": [
+      1,
+      1,
+      4,
+      2,
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      2,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "No disponible: sub-21 de Irlanda (partidos 13 y 17 nov). Matt Taylor, exetercityfc.co.uk, 11 nov 2026 ('Ethan y Charlie empezaron el último partido'); lista de selecciones exetercityfc.co.uk/Nov26Internationals, 10 nov 2026."
+    },
+    "Daniel Watts": {
+     "nota": "sin datos en ESPN"
+    },
+    "Danny Rose": {
+     "nombre_espn": "Danny Rose",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 3,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 76,
+     "remates_ultimos_5": [
+      1,
+      0,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-09-26",
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Ed Turns": {
+     "nota": "sin datos en ESPN"
+    },
+    "Edward James": {
+     "nombre_espn": "Edward James",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 7,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 88,
+     "remates_ultimos_5": [
+      2,
+      0,
+      3,
+      1,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-09-19",
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Ethan Sutherland": {
+     "nombre_espn": "Ethan Sutherland",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 2,
+     "suplencias_con_minutos": 10,
+     "minutos_medios": 84,
+     "remates_ultimos_5": [
+      0,
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      2
+     ],
+     "ultima_titularidad": "2026-09-26",
+     "nota": "No disponible: sub-21 de Escocia (amistosos 12 y 15 nov). Matt Taylor, exetercityfc.co.uk, 11 nov 2026; lista de selecciones, 10 nov 2026."
+    },
+    "George Birch": {
+     "nombre_espn": "George Birch",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 6,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": 78,
+     "remates_ultimos_5": [
+      0,
+      1,
+      1,
+      2,
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "George Williams": {
+     "nota": "sin datos en ESPN"
+    },
+    "Gwion Edwards": {
+     "nombre_espn": "Gwion Edwards",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 6,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 78,
+     "remates_ultimos_5": [
+      2,
+      0,
+      1,
+      0,
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      1,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-09-26",
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Harry Kite": {
+     "nombre_espn": "Harry Kite",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": true,
+     "titularidades": 2,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 79,
+     "remates_ultimos_5": [
+      0,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Jack Fitzwater": {
+     "nombre_espn": "Jack Fitzwater",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 14,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 90,
+     "remates_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Jack Taylor": {
+     "nombre_espn": "Jack Taylor",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 7,
+     "suplencias_con_minutos": 2,
+     "minutos_medios": 87,
+     "remates_ultimos_5": [
+      0,
+      1,
+      0,
+      1,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "Sin baja. Entrevista pre-Cheltenham, exetercityfc.co.uk/JTPreChelt26, 11 nov 2026: vuelve de la FA Cup en Huddersfield con ganas de la Liga 2; no confirma titular."
+    },
+    "Jake Doyle-Hayes": {
+     "nombre_espn": "Jake Doyle-Hayes",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": false,
+     "titularidades": 11,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 76,
+     "remates_ultimos_5": [
+      0,
+      0,
+      0,
+      1,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-20",
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Josh Gordon": {
+     "nombre_espn": "Josh Gordon",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": false,
+     "titularidades": 10,
+     "suplencias_con_minutos": 4,
+     "minutos_medios": 80,
+     "remates_ultimos_5": [
+      2,
+      3,
+      2,
+      1,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-24",
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Lakyle Samuel": {
+     "nombre_espn": "Lakyle Samuel",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 10,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 87,
+     "remates_ultimos_5": [
+      0,
+      1,
+      0,
+      0,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Liam Oakes": {
+     "nombre_espn": "Liam Oakes",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 4,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Louie Cayless": {
+     "nombre_espn": "Louie Cayless",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Luca Woodhouse": {
+     "nombre_espn": "Luca Woodhouse",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 12,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 89,
+     "remates_ultimos_5": [
+      0,
+      0,
+      3,
+      1,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      1,
+      1,
+      1
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Reece Cole": {
+     "nombre_espn": "Reece Cole",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 8,
+     "suplencias_con_minutos": 4,
+     "minutos_medios": 88,
+     "remates_ultimos_5": [
+      4,
+      1,
+      3,
+      3,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      3,
+      0,
+      0,
+      1,
+      0
+     ],
+     "ultima_titularidad": "2026-09-26",
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Sonny Cox": {
+     "nombre_espn": "Sonny Cox",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": true,
+     "titularidades": 4,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": 66,
+     "remates_ultimos_5": [
+      0,
+      3,
+      0,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      2,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Taylor Perry": {
+     "nombre_espn": "Taylor Perry",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 8,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 70,
+     "remates_ultimos_5": [
+      0,
+      1,
+      1,
+      2,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Tobias Alsop": {
+     "nombre_espn": "Tobias Alsop",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas al 2026-11-13 (club sin bajas nuevas en sus comunicados de 11 nov 2026)"
+    },
+    "Tom Dean": {
+     "nota": "sin datos en ESPN"
+    },
+    "Vincent Harper": {
+     "nombre_espn": "Vincent Harper",
+     "equipo": "Exeter City",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 6,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 80,
+     "remates_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-09-19",
+     "nota": "No disponible: selección de Kenia (partido 13 nov en Sudáfrica). Matt Taylor, exetercityfc.co.uk, 11 nov 2026; lista de selecciones, 10 nov 2026."
+    }
+   },
+   "bajas_local": [
+    {
+     "jugador": "Charlie Cummins",
+     "motivo": "selección (sub-21 Irlanda)",
+     "fuente": "exetercityfc.co.uk, Matt Taylor, 11 nov 2026",
+     "fecha": "2026-11-11"
+    },
+    {
+     "jugador": "Ethan Sutherland",
+     "motivo": "selección (sub-21 Escocia)",
+     "fuente": "exetercityfc.co.uk, Matt Taylor, 11 nov 2026",
+     "fecha": "2026-11-11"
+    },
+    {
+     "jugador": "Vincent Harper",
+     "motivo": "selección (Kenia)",
+     "fuente": "exetercityfc.co.uk, Matt Taylor, 11 nov 2026",
+     "fecha": "2026-11-11"
+    }
+   ],
+   "bajas_visitante": [],
+   "forma_local": "G-G-E-G-G-P, 7 GF y 3 GC en 6; tiros a puerta 21-16; corners 26-28",
+   "forma_visitante": "P-P-P-G-G-P, 7 GF y 13 GC en 6; tiros a puerta 13-29; corners 22-27",
+   "ultimos_local": [
+    "2026-10-03 Exeter 1-0 Rotherham",
+    "2026-10-10 Shrewsbury 0-1 Exeter",
+    "2026-10-17 Colchester 0-0 Exeter",
+    "2026-10-20 Exeter 2-0 Crewe",
+    "2026-10-24 Exeter 2-1 Fleetwood Town",
+    "2026-10-31 Salford 2-1 Exeter"
+   ],
+   "ultimos_visitante": [
+    "2026-10-03 Accrington 2-0 Cheltenham",
+    "2026-10-10 Cheltenham 0-2 Salford",
+    "2026-10-17 Oldham 4-1 Cheltenham",
+    "2026-10-20 Cheltenham 4-2 Fleetwood Town",
+    "2026-10-24 Cheltenham 1-0 Newport County",
+    "2026-10-31 Tranmere 3-1 Cheltenham"
+   ],
+   "motor": {
+    "elo_l": 1265.0,
+    "elo_v": 1188.5,
+    "p1": 0.501,
+    "px": 0.272,
+    "p2": 0.227,
+    "lh": 1.56,
+    "la": 0.99,
+    "total": 2.55,
+    "over25": 0.469,
+    "btts": 0.497,
+    "corners": 9.47,
+    "tarjetas": 3.61,
+    "fiabilidad": "alta",
+    "remates_l": 15.4,
+    "remates_v": 10.2,
+    "a_puerta_l": 5.0,
+    "a_puerta_v": 2.9
+   },
+   "h2h": "Sin enfrentamientos en la base.",
+   "alertas": [
+    "Ajay Matthews: solo 0 titularidades (muestra corta)",
+    "Andrew Oluwabori: solo 2 titularidades (muestra corta)",
+    "Ben Lang: sin datos en ESPN",
+    "Daniel Watts: sin datos en ESPN",
+    "Danny Rose: solo 3 titularidades (muestra corta)",
+    "Ed Turns: sin datos en ESPN",
+    "Ethan Sutherland: solo 2 titularidades (muestra corta)",
+    "George Williams: sin datos en ESPN",
+    "Harry Kite: solo 2 titularidades (muestra corta)",
+    "Liam Oakes: solo 0 titularidades (muestra corta)",
+    "Louie Cayless: solo 0 titularidades (muestra corta)",
+    "Sonny Cox: solo 4 titularidades (muestra corta)",
+    "Tobias Alsop: solo 0 titularidades (muestra corta)",
+    "Tom Dean: sin datos en ESPN",
+    "Selecciones: Cummins, Sutherland y Harper no disponibles (club, 11 nov 2026). Cummins era de los que más remataban (10 remates en sus últimos 5).",
+    "Exeter: el club no menciona lesionados ni sancionados en sus comunicados previos; sin alineación oficial todavía.",
+    "Datos de ESPN solo hasta 2026-11-03: la forma y las titularidades pueden estar un partido atrás."
+   ],
+   "resumen": "Sin Cummins, Sutherland y Harper (selecciones, confirmado por el club el 11 nov). Quitar a Cummins baja el remate del local, que el motor ya cifra en 15,4; el resto de titulares de cuota sin baja confirmada."
+  },
+  {
+   "local": "Bristol Rvs",
+   "visitante": "Chesterfield",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "titular_prob": {},
+   "jugadores": {},
+   "bajas_local": [],
+   "bajas_visitante": [],
+   "forma_local": "P-P-P-P-E-P, 4 GF y 12 GC en 6; tiros a puerta 24-26; corners 27-23",
+   "forma_visitante": "G-E-P-E-G-P, 13 GF y 11 GC en 6; tiros a puerta 30-19; corners 42-14",
+   "ultimos_local": [
+    "2026-10-03 Crewe 3-1 Bristol Rvs",
+    "2026-10-10 Bristol Rvs 1-3 Barnet",
+    "2026-10-17 Shrewsbury 1-0 Bristol Rvs",
+    "2026-10-20 Bristol Rvs 1-2 Salford",
+    "2026-10-24 Bristol Rvs 0-0 Swindon",
+    "2026-10-31 Fleetwood Town 3-1 Bristol Rvs"
+   ],
+   "ultimos_visitante": [
+    "2026-10-03 Chesterfield 4-2 Tranmere",
+    "2026-10-10 Crawley Town 2-2 Chesterfield",
+    "2026-10-17 Port Vale 1-0 Chesterfield",
+    "2026-10-20 Chesterfield 1-1 Colchester",
+    "2026-10-24 Chesterfield 5-1 Crewe",
+    "2026-10-30 Newport County 4-1 Chesterfield"
+   ],
+   "motor": {
+    "elo_l": 1199.1,
+    "elo_v": 1273.1,
+    "p1": 0.349,
+    "px": 0.276,
+    "p2": 0.375,
+    "lh": 1.31,
+    "la": 1.41,
+    "total": 2.72,
+    "over25": 0.512,
+    "btts": 0.552,
+    "corners": 9.35,
+    "tarjetas": 3.99,
+    "fiabilidad": "alta",
+    "remates_l": 13.2,
+    "remates_v": 13.1,
+    "a_puerta_l": 4.1,
+    "a_puerta_v": 4.1
+   },
+   "h2h": "H2H (2): Bristol Rvs 0, Chesterfield 2, empates 0; 4.5 goles de media, Más 2.5 en 2. 2025-08-16 Chesterfield 3-1 Bristol Rvs; 2026-02-07 Bristol Rvs 2-3 Chesterfield",
+   "alertas": [
+    "Noticias no verificadas (búsqueda del 2026-11-13): no encontré bajas, sanciones ni alineación probable de esta semana para este partido. Solo aparecen temporadas anteriores o entradas sin detalle."
+   ],
+   "resumen": ""
+  },
+  {
+   "local": "Colchester",
+   "visitante": "Gillingham",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "titular_prob": {},
+   "jugadores": {},
+   "bajas_local": [],
+   "bajas_visitante": [],
+   "forma_local": "E-P-E-E-P-P, 4 GF y 9 GC en 6; tiros a puerta 20-27; corners 27-35",
+   "forma_visitante": "E-G-P-E-P-G, 9 GF y 10 GC en 6; tiros a puerta 16-35; corners 21-32",
+   "ultimos_local": [
+    "2026-09-26 Shrewsbury 2-2 Colchester",
+    "2026-10-10 Newport County 1-0 Colchester",
+    "2026-10-17 Colchester 0-0 Exeter",
+    "2026-10-20 Chesterfield 1-1 Colchester",
+    "2026-10-24 Northampton 2-0 Colchester",
+    "2026-10-31 Colchester 1-3 Walsall"
+   ],
+   "ultimos_visitante": [
+    "2026-10-03 Gillingham 0-0 Newport County",
+    "2026-10-10 Rotherham 1-4 Gillingham",
+    "2026-10-17 Accrington 3-1 Gillingham",
+    "2026-10-20 Gillingham 1-1 Port Vale",
+    "2026-10-24 Gillingham 1-4 Grimsby",
+    "2026-10-31 Shrewsbury 1-2 Gillingham"
+   ],
+   "motor": {
+    "elo_l": 1211.5,
+    "elo_v": 1196.0,
+    "p1": 0.451,
+    "px": 0.278,
+    "p2": 0.271,
+    "lh": 1.47,
+    "la": 1.12,
+    "total": 2.59,
+    "over25": 0.48,
+    "btts": 0.519,
+    "corners": 9.6,
+    "tarjetas": 3.82,
+    "fiabilidad": "alta",
+    "remates_l": 15.2,
+    "remates_v": 11.3,
+    "a_puerta_l": 5.0,
+    "a_puerta_v": 3.7
+   },
+   "h2h": "H2H (5): Colchester 1, Gillingham 1, empates 3; 1.4 goles de media, Más 2.5 en 0. 2024-01-01 Colchester 0-1 Gillingham; 2024-12-26 Colchester 2-0 Gillingham; 2025-04-01 Gillingham 1-1 Colchester; 2025-12-06 Colchester 0-0 Gillingham; 2025-12-29 Gillingham 1-1 Colchester",
+   "alertas": [
+    "Noticias no verificadas (búsqueda del 2026-11-13): no encontré bajas, sanciones ni alineación probable de esta semana para este partido. Solo aparecen temporadas anteriores o entradas sin detalle."
+   ],
+   "resumen": ""
+  },
+  {
+   "local": "Crewe",
+   "visitante": "Newport County",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "titular_prob": {},
+   "jugadores": {},
+   "bajas_local": [],
+   "bajas_visitante": [],
+   "forma_local": "G-G-G-P-P-E, 9 GF y 11 GC en 6; tiros a puerta 20-20; corners 19-28",
+   "forma_visitante": "E-G-E-E-P-G, 8 GF y 5 GC en 6; tiros a puerta 23-15; corners 26-14",
+   "ultimos_local": [
+    "2026-10-03 Crewe 3-1 Bristol Rvs",
+    "2026-10-10 Swindon 0-1 Crewe",
+    "2026-10-17 Crewe 3-2 Rochdale",
+    "2026-10-20 Exeter 2-0 Crewe",
+    "2026-10-24 Chesterfield 5-1 Crewe",
+    "2026-10-31 Crewe 1-1 Barnet"
+   ],
+   "ultimos_visitante": [
+    "2026-10-03 Gillingham 0-0 Newport County",
+    "2026-10-10 Newport County 1-0 Colchester",
+    "2026-10-17 Newport County 1-1 York",
+    "2026-10-20 Rotherham 2-2 Newport County",
+    "2026-10-24 Cheltenham 1-0 Newport County",
+    "2026-10-30 Newport County 4-1 Chesterfield"
+   ],
+   "motor": {
+    "elo_l": 1242.9,
+    "elo_v": 1186.2,
+    "p1": 0.478,
+    "px": 0.275,
+    "p2": 0.247,
+    "lh": 1.52,
+    "la": 1.05,
+    "total": 2.56,
+    "over25": 0.472,
+    "btts": 0.507,
+    "corners": 9.39,
+    "tarjetas": 3.45,
+    "fiabilidad": "alta",
+    "remates_l": 14.6,
+    "remates_v": 12.0,
+    "a_puerta_l": 4.5,
+    "a_puerta_v": 3.5
+   },
+   "h2h": "H2H (5): Crewe 0, Newport County 3, empates 2; 2.8 goles de media, Más 2.5 en 3. 2023-12-29 Newport County 1-1 Crewe; 2024-09-28 Newport County 2-1 Crewe; 2025-02-08 Crewe 0-3 Newport County; 2025-12-10 Crewe 2-2 Newport County; 2025-12-29 Newport County 2-0 Crewe",
+   "alertas": [
+    "Noticias no verificadas (búsqueda del 2026-11-13): no encontré bajas, sanciones ni alineación probable de esta semana para este partido. Solo aparecen temporadas anteriores o entradas sin detalle."
+   ],
+   "resumen": ""
+  },
+  {
+   "local": "Port Vale",
+   "visitante": "Accrington",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "titular_prob": {},
+   "jugadores": {},
+   "bajas_local": [],
+   "bajas_visitante": [],
+   "forma_local": "P-G-G-E-P-G, 7 GF y 7 GC en 6; tiros a puerta 25-23; corners 28-36",
+   "forma_visitante": "G-E-G-E-G-E, 12 GF y 3 GC en 6; tiros a puerta 32-11; corners 41-21",
+   "ultimos_local": [
+    "2026-09-19 Walsall 2-0 Port Vale",
+    "2026-10-10 Port Vale 1-0 Grimsby",
+    "2026-10-17 Port Vale 1-0 Chesterfield",
+    "2026-10-20 Gillingham 1-1 Port Vale",
+    "2026-10-24 York 2-0 Port Vale",
+    "2026-10-31 Port Vale 4-2 Rochdale"
+   ],
+   "ultimos_visitante": [
+    "2026-10-03 Accrington 2-0 Cheltenham",
+    "2026-10-10 Oldham 0-0 Accrington",
+    "2026-10-17 Accrington 3-1 Gillingham",
+    "2026-10-20 York 1-1 Accrington",
+    "2026-10-24 Rochdale 0-5 Accrington",
+    "2026-10-31 Accrington 1-1 Northampton"
+   ],
+   "motor": {
+    "elo_l": 1239.3,
+    "elo_v": 1217.8,
+    "p1": 0.427,
+    "px": 0.295,
+    "p2": 0.278,
+    "lh": 1.32,
+    "la": 1.04,
+    "total": 2.36,
+    "over25": 0.42,
+    "btts": 0.474,
+    "corners": 9.89,
+    "tarjetas": 4.03,
+    "fiabilidad": "alta",
+    "remates_l": 14.0,
+    "remates_v": 11.5,
+    "a_puerta_l": 4.6,
+    "a_puerta_v": 3.7
+   },
+   "h2h": "H2H (2): Port Vale 1, Accrington 0, empates 1; 3.5 goles de media, Más 2.5 en 2. 2024-09-21 Accrington 2-2 Port Vale; 2025-02-01 Port Vale 2-1 Accrington",
+   "alertas": [
+    "Noticias no verificadas (búsqueda del 2026-11-13): no encontré bajas, sanciones ni alineación probable de esta semana para este partido. Solo aparecen temporadas anteriores o entradas sin detalle."
+   ],
+   "resumen": ""
+  },
+  {
+   "local": "Rochdale",
+   "visitante": "York",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "titular_prob": {},
+   "jugadores": {},
+   "bajas_local": [],
+   "bajas_visitante": [],
+   "forma_local": "G-E-P-E-P-P, 8 GF y 15 GC en 6; tiros a puerta 21-33; corners 35-28",
+   "forma_visitante": "E-E-E-G-P-P, 8 GF y 11 GC en 6; tiros a puerta 18-29; corners 25-33",
+   "ultimos_local": [
+    "2026-10-03 Rochdale 1-0 Swindon",
+    "2026-10-10 Tranmere 1-1 Rochdale",
+    "2026-10-17 Crewe 3-2 Rochdale",
+    "2026-10-20 Rochdale 2-2 Grimsby",
+    "2026-10-24 Rochdale 0-5 Accrington",
+    "2026-10-31 Port Vale 4-2 Rochdale"
+   ],
+   "ultimos_visitante": [
+    "2026-10-10 York 1-1 Northampton",
+    "2026-10-17 Newport County 1-1 York",
+    "2026-10-20 York 1-1 Accrington",
+    "2026-10-24 York 2-0 Port Vale",
+    "2026-10-27 Barnet 3-1 York",
+    "2026-10-31 Grimsby 5-2 York"
+   ],
+   "motor": {
+    "elo_l": 1226.4,
+    "elo_v": 1318.6,
+    "p1": 0.335,
+    "px": 0.262,
+    "p2": 0.403,
+    "lh": 1.39,
+    "la": 1.59,
+    "total": 2.98,
+    "over25": 0.572,
+    "btts": 0.598,
+    "corners": 9.9,
+    "tarjetas": 3.46,
+    "fiabilidad": "baja: Elo sin asentar (14 partidos en toda la base)",
+    "remates_l": 12.9,
+    "remates_v": 14.3,
+    "a_puerta_l": 4.0,
+    "a_puerta_v": 4.5
+   },
+   "h2h": "Sin enfrentamientos en la base.",
+   "alertas": [
+    "fiabilidad del motor baja: Elo sin asentar (14 partidos en toda la base)",
+    "Noticias no verificadas (búsqueda del 2026-11-13): no encontré bajas, sanciones ni alineación probable de esta semana para este partido. Solo aparecen temporadas anteriores o entradas sin detalle."
+   ],
+   "resumen": ""
+  },
+  {
+   "local": "Salford",
+   "visitante": "Northampton",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "titular_prob": {},
+   "jugadores": {},
+   "bajas_local": [],
+   "bajas_visitante": [],
+   "forma_local": "G-G-G-G-G-G, 13 GF y 5 GC en 6; tiros a puerta 27-18; corners 32-29",
+   "forma_visitante": "E-G-P-G-E-P, 6 GF y 4 GC en 6; tiros a puerta 24-16; corners 36-25",
+   "ultimos_local": [
+    "2026-10-03 Salford 1-0 Fleetwood Town",
+    "2026-10-10 Cheltenham 0-2 Salford",
+    "2026-10-17 Salford 2-1 Crawley Town",
+    "2026-10-20 Bristol Rvs 1-2 Salford",
+    "2026-10-26 Walsall 2-4 Salford",
+    "2026-10-31 Salford 2-1 Exeter"
+   ],
+   "ultimos_visitante": [
+    "2026-10-10 York 1-1 Northampton",
+    "2026-10-17 Grimsby 0-2 Northampton",
+    "2026-10-20 Northampton 0-1 Tranmere",
+    "2026-10-24 Northampton 2-0 Colchester",
+    "2026-10-31 Accrington 1-1 Northampton",
+    "2026-11-03 Northampton 0-1 Oldham"
+   ],
+   "motor": {
+    "elo_l": 1324.6,
+    "elo_v": 1186.2,
+    "p1": 0.572,
+    "px": 0.255,
+    "p2": 0.174,
+    "lh": 1.7,
+    "la": 0.85,
+    "total": 2.55,
+    "over25": 0.469,
+    "btts": 0.468,
+    "corners": 9.77,
+    "tarjetas": 3.36,
+    "fiabilidad": "alta",
+    "remates_l": 15.6,
+    "remates_v": 10.1,
+    "a_puerta_l": 4.9,
+    "a_puerta_v": 3.0
+   },
+   "h2h": "H2H (4): Salford 2, Northampton 1, empates 1; 2.2 goles de media, Más 2.5 en 2. 2021-09-25 Salford 2-2 Northampton; 2022-01-29 Northampton 1-0 Salford; 2022-10-08 Northampton 0-1 Salford; 2023-01-07 Salford 2-1 Northampton",
+   "alertas": [
+    "Noticias no verificadas (búsqueda del 2026-11-13): no encontré bajas, sanciones ni alineación probable de esta semana para este partido. Solo aparecen temporadas anteriores o entradas sin detalle."
+   ],
+   "resumen": ""
+  },
+  {
+   "local": "Shrewsbury",
+   "visitante": "Oldham",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "titular_prob": {},
+   "jugadores": {},
+   "bajas_local": [],
+   "bajas_visitante": [],
+   "forma_local": "G-P-G-G-E-P, 10 GF y 9 GC en 6; tiros a puerta 30-24; corners 36-24",
+   "forma_visitante": "E-G-P-E-P-G, 6 GF y 6 GC en 6; tiros a puerta 19-22; corners 18-41",
+   "ultimos_local": [
+    "2026-10-03 Grimsby 1-2 Shrewsbury",
+    "2026-10-10 Shrewsbury 0-1 Exeter",
+    "2026-10-17 Shrewsbury 1-0 Bristol Rvs",
+    "2026-10-20 Crawley Town 2-3 Shrewsbury",
+    "2026-10-24 Rotherham 3-3 Shrewsbury",
+    "2026-10-31 Shrewsbury 1-2 Gillingham"
+   ],
+   "ultimos_visitante": [
+    "2026-10-10 Oldham 0-0 Accrington",
+    "2026-10-17 Oldham 4-1 Cheltenham",
+    "2026-10-20 Walsall 3-0 Oldham",
+    "2026-10-24 Barnet 1-1 Oldham",
+    "2026-10-31 Oldham 0-1 Crawley Town",
+    "2026-11-03 Northampton 0-1 Oldham"
+   ],
+   "motor": {
+    "elo_l": 1164.8,
+    "elo_v": 1223.7,
+    "p1": 0.354,
+    "px": 0.289,
+    "p2": 0.357,
+    "lh": 1.24,
+    "la": 1.28,
+    "total": 2.52,
+    "over25": 0.461,
+    "btts": 0.513,
+    "corners": 9.46,
+    "tarjetas": 3.74,
+    "fiabilidad": "alta",
+    "remates_l": 13.7,
+    "remates_v": 11.9,
+    "a_puerta_l": 4.2,
+    "a_puerta_v": 3.9
+   },
+   "h2h": "H2H (2): Shrewsbury 1, Oldham 0, empates 1; 2.5 goles de media, Más 2.5 en 1. 2025-10-25 Oldham 2-2 Shrewsbury; 2026-04-11 Shrewsbury 1-0 Oldham",
+   "alertas": [
+    "Noticias no verificadas (búsqueda del 2026-11-13): no encontré bajas, sanciones ni alineación probable de esta semana para este partido. Solo aparecen temporadas anteriores o entradas sin detalle."
+   ],
+   "resumen": ""
+  },
+  {
+   "local": "Swindon",
+   "visitante": "Grimsby",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "titular_prob": {},
+   "jugadores": {},
+   "bajas_local": [],
+   "bajas_visitante": [],
+   "forma_local": "P-P-E-G-E-G, 6 GF y 5 GC en 6; tiros a puerta 20-38; corners 26-39",
+   "forma_visitante": "P-P-P-E-G-G, 12 GF y 10 GC en 6; tiros a puerta 34-28; corners 36-36",
+   "ultimos_local": [
+    "2026-10-03 Rochdale 1-0 Swindon",
+    "2026-10-10 Swindon 0-1 Crewe",
+    "2026-10-17 Swindon 1-1 Walsall",
+    "2026-10-20 Barnet 1-3 Swindon",
+    "2026-10-24 Bristol Rvs 0-0 Swindon",
+    "2026-10-31 Swindon 2-1 Rotherham"
+   ],
+   "ultimos_visitante": [
+    "2026-10-03 Grimsby 1-2 Shrewsbury",
+    "2026-10-10 Port Vale 1-0 Grimsby",
+    "2026-10-17 Grimsby 0-2 Northampton",
+    "2026-10-20 Rochdale 2-2 Grimsby",
+    "2026-10-24 Gillingham 1-4 Grimsby",
+    "2026-10-31 Grimsby 5-2 York"
+   ],
+   "motor": {
+    "elo_l": 1247.1,
+    "elo_v": 1284.9,
+    "p1": 0.375,
+    "px": 0.274,
+    "p2": 0.351,
+    "lh": 1.39,
+    "la": 1.38,
+    "total": 2.77,
+    "over25": 0.522,
+    "btts": 0.561,
+    "corners": 11.25,
+    "tarjetas": 3.15,
+    "fiabilidad": "alta",
+    "remates_l": 12.4,
+    "remates_v": 14.4,
+    "a_puerta_l": 4.1,
+    "a_puerta_v": 4.8
+   },
+   "h2h": "H2H (5): Swindon 2, Grimsby 2, empates 1; 3.6 goles de media, Más 2.5 en 4. 2024-04-20 Grimsby 2-0 Swindon; 2024-12-21 Swindon 3-1 Grimsby; 2025-04-18 Grimsby 0-4 Swindon; 2025-11-22 Swindon 2-2 Grimsby; 2026-04-25 Grimsby 4-0 Swindon",
+   "alertas": [
+    "Noticias no verificadas (búsqueda del 2026-11-13): no encontré bajas, sanciones ni alineación probable de esta semana para este partido. Solo aparecen temporadas anteriores o entradas sin detalle."
+   ],
+   "resumen": ""
+  },
+  {
+   "local": "Fleetwood Town",
+   "visitante": "Tranmere",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "titular_prob": {
+    "Aaron Loupalo-Bi": 0.3,
+    "Adam Murphy": 0.3,
+    "Ched Evans": 0.3,
+    "Conor Haughey": 0.3,
+    "Crispin McLean": 0.7,
+    "Danny Andrew": 0.1,
+    "Finley Potter": 0.9,
+    "Harrison Neal": 0.9,
+    "Jake Batty": 0.9,
+    "Jesse Dempsey": 0.1,
+    "Josh Robertson": 0.1,
+    "Kane Thompson-Sommers": 0.0,
+    "Kayden Hughes": 0.1,
+    "Lewis McCann": 0.9,
+    "Mark Helm": 0.9,
+    "Rafaele Cirino": 0.1,
+    "Rhys Bennett": 0.7,
+    "Ronan Coughlan": 0.9,
+    "Sean Costelloe": 0.1,
+    "Shaun Rooney": 0.9
+   },
+   "jugadores": {
+    "Aaron Loupalo-Bi": {
+     "nombre_espn": "Aaron Loupalo-Bi",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": true,
+     "titularidades": 3,
+     "suplencias_con_minutos": 9,
+     "minutos_medios": 74,
+     "remates_ultimos_5": [
+      3,
+      0,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "Adam Murphy": {
+     "nombre_espn": "Adam Murphy",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": false,
+     "titularidades": 9,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 71,
+     "remates_ultimos_5": [
+      0,
+      0,
+      1,
+      2,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-20",
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "Andy Cannon": {
+     "nota": "sin datos en ESPN"
+    },
+    "Ched Evans": {
+     "nombre_espn": "Ched Evans",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": false,
+     "titularidades": 10,
+     "suplencias_con_minutos": 3,
+     "minutos_medios": 78,
+     "remates_ultimos_5": [
+      4,
+      2,
+      0,
+      0,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      2,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-24",
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "Conor Haughey": {
+     "nombre_espn": "Conor Haughey",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 1,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 90,
+     "remates_ultimos_5": [
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0
+     ],
+     "ultima_titularidad": "2026-10-24",
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "Crispin McLean": {
+     "nombre_espn": "Crispin Mclean",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": true,
+     "titularidades": 2,
+     "suplencias_con_minutos": 6,
+     "minutos_medios": 78,
+     "remates_ultimos_5": [
+      2,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "Danny Andrew": {
+     "nombre_espn": "Danny Andrew",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 3,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 74,
+     "remates_ultimos_5": [
+      0,
+      0,
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-09-19",
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "David Animasaun": {
+     "nota": "sin datos en ESPN"
+    },
+    "Finley Potter": {
+     "nombre_espn": "Finley Potter",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 14,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 88,
+     "remates_ultimos_5": [
+      0,
+      0,
+      0,
+      1,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "Harrison Neal": {
+     "nombre_espn": "Harrison Neal",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 14,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 90,
+     "remates_ultimos_5": [
+      0,
+      2,
+      2,
+      0,
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      1,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "Jake Batty": {
+     "nombre_espn": "Jake Batty",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 6,
+     "suplencias_con_minutos": 1,
+     "minutos_medios": 87,
+     "remates_ultimos_5": [
+      0,
+      0,
+      1,
+      0,
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "Sin baja. Fleetwood Town, artículo de 12 nov 2026: volvió de lesión y empieza de forma regular desde entonces."
+    },
+    "Jesse Dempsey": {
+     "nombre_espn": "Jesse Dempsey",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "Josh Robertson": {
+     "nombre_espn": "Josh Robertson",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "Joshua Thomas": {
+     "nota": "sin datos en ESPN"
+    },
+    "Kane Thompson-Sommers": {
+     "nombre_espn": "Kane Thompson-Sommers",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 55,
+     "remates_ultimos_5": [
+      0
+     ],
+     "a_puerta_ultimos_5": [
+      0
+     ],
+     "ultima_titularidad": "2026-08-15",
+     "nota": "Lesionado, en tratamiento. Matt Lawlor, fleetwoodtownfc.com, 12 nov 2026: vuelve antes de Navidad."
+    },
+    "Kayden Hughes": {
+     "nombre_espn": "Kayden Hughes",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 1,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 64,
+     "remates_ultimos_5": [
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0
+     ],
+     "ultima_titularidad": "2026-09-26",
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "Lewis McCann": {
+     "nombre_espn": "Lewis Mccann",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 14,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 88,
+     "remates_ultimos_5": [
+      1,
+      3,
+      1,
+      1,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      0,
+      0,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "Mark Helm": {
+     "nombre_espn": "Mark Helm",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 14,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 85,
+     "remates_ultimos_5": [
+      3,
+      1,
+      2,
+      1,
+      3
+     ],
+     "a_puerta_ultimos_5": [
+      1,
+      1,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "Muhammad Oladiti": {
+     "nota": "sin datos en ESPN"
+    },
+    "Muhsi Bamba": {
+     "nota": "sin datos en ESPN"
+    },
+    "Noah Sawkins": {
+     "nota": "sin datos en ESPN"
+    },
+    "Rafaele Cirino": {
+     "nombre_espn": "Rafaele Cirino",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 5,
+     "suplencias_con_minutos": 5,
+     "minutos_medios": 75,
+     "remates_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-09-26",
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "Rhys Bennett": {
+     "nombre_espn": "Rhys Bennett",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 2,
+     "titular_en_el_ultimo": true,
+     "titularidades": 12,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 89,
+     "remates_ultimos_5": [
+      0,
+      1,
+      1,
+      1,
+      2
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      0,
+      0,
+      0,
+      1
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "Ronan Coughlan": {
+     "nombre_espn": "Ronan Coughlan",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 8,
+     "suplencias_con_minutos": 4,
+     "minutos_medios": 73,
+     "remates_ultimos_5": [
+      6,
+      1,
+      0,
+      3,
+      6
+     ],
+     "a_puerta_ultimos_5": [
+      5,
+      1,
+      0,
+      3,
+      4
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "Sean Costelloe": {
+     "nombre_espn": "Sean Costelloe",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 0,
+     "titular_en_el_ultimo": false,
+     "titularidades": 0,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": null,
+     "remates_ultimos_5": [],
+     "a_puerta_ultimos_5": [],
+     "ultima_titularidad": null,
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "Shaun Rooney": {
+     "nombre_espn": "Shaun Rooney",
+     "equipo": "Fleetwood Town",
+     "titular_ultimos_3": 3,
+     "titular_en_el_ultimo": true,
+     "titularidades": 14,
+     "suplencias_con_minutos": 0,
+     "minutos_medios": 90,
+     "remates_ultimos_5": [
+      5,
+      3,
+      0,
+      1,
+      1
+     ],
+     "a_puerta_ultimos_5": [
+      0,
+      1,
+      0,
+      0,
+      0
+     ],
+     "ultima_titularidad": "2026-10-31",
+     "nota": "sin noticias verificadas al 2026-11-13: Lawlor (12 nov 2026) dice que solo están en tratamiento Thompson-Sommers y Johnson, pero hay sanciones sin nombrar"
+    },
+    "William Davies": {
+     "nota": "sin datos en ESPN"
+    }
+   },
+   "bajas_local": [
+    {
+     "jugador": "Kane Thompson-Sommers",
+     "motivo": "lesión",
+     "fuente": "fleetwoodtownfc.com, Matt Lawlor, 12 nov 2026",
+     "fecha": "2026-11-12"
+    },
+    {
+     "jugador": "Will Johnson",
+     "motivo": "lesión (largo plazo, vuelve tras Navidad)",
+     "fuente": "fleetwoodtownfc.com, Matt Lawlor, 12 nov 2026",
+     "fecha": "2026-11-12"
+    }
+   ],
+   "bajas_visitante": [],
+   "forma_local": "P-E-G-P-P-G, 9 GF y 9 GC en 6; tiros a puerta 29-15; corners 32-30",
+   "forma_visitante": "P-E-P-G-E-G, 9 GF y 9 GC en 6; tiros a puerta 26-28; corners 29-39",
+   "ultimos_local": [
+    "2026-10-03 Salford 1-0 Fleetwood Town",
+    "2026-10-10 Fleetwood Town 1-1 Walsall",
+    "2026-10-17 Fleetwood Town 2-0 Rotherham",
+    "2026-10-20 Cheltenham 4-2 Fleetwood Town",
+    "2026-10-24 Exeter 2-1 Fleetwood Town",
+    "2026-10-31 Fleetwood Town 3-1 Bristol Rvs"
+   ],
+   "ultimos_visitante": [
+    "2026-10-03 Chesterfield 4-2 Tranmere",
+    "2026-10-10 Tranmere 1-1 Rochdale",
+    "2026-10-17 Tranmere 1-2 Barnet",
+    "2026-10-20 Northampton 0-1 Tranmere",
+    "2026-10-24 Crawley Town 1-1 Tranmere",
+    "2026-10-31 Tranmere 3-1 Cheltenham"
+   ],
+   "motor": {
+    "elo_l": 1215.6,
+    "elo_v": 1173.0,
+    "p1": 0.48,
+    "px": 0.271,
+    "p2": 0.249,
+    "lh": 1.56,
+    "la": 1.08,
+    "total": 2.64,
+    "over25": 0.492,
+    "btts": 0.523,
+    "corners": 10.13,
+    "tarjetas": 4.23,
+    "fiabilidad": "alta",
+    "remates_l": 16.0,
+    "remates_v": 10.7,
+    "a_puerta_l": 5.0,
+    "a_puerta_v": 3.3
+   },
+   "h2h": "H2H (4): Fleetwood Town 0, Tranmere 1, empates 3; 0.2 goles de media, Más 2.5 en 0. 2025-02-11 Tranmere 0-0 Fleetwood Town; 2025-03-22 Fleetwood Town 0-0 Tranmere; 2025-12-26 Tranmere 1-0 Fleetwood Town; 2026-03-14 Fleetwood Town 0-0 Tranmere",
+   "alertas": [
+    "Aaron Loupalo-Bi: solo 3 titularidades (muestra corta)",
+    "Andy Cannon: sin datos en ESPN",
+    "Conor Haughey: solo 1 titularidades (muestra corta)",
+    "Crispin McLean: solo 2 titularidades (muestra corta)",
+    "Danny Andrew: solo 3 titularidades (muestra corta)",
+    "David Animasaun: sin datos en ESPN",
+    "Jesse Dempsey: solo 0 titularidades (muestra corta)",
+    "Josh Robertson: solo 0 titularidades (muestra corta)",
+    "Joshua Thomas: sin datos en ESPN",
+    "Kane Thompson-Sommers: solo 1 titularidades (muestra corta)",
+    "Kayden Hughes: solo 1 titularidades (muestra corta)",
+    "Muhammad Oladiti: sin datos en ESPN",
+    "Muhsi Bamba: sin datos en ESPN",
+    "Noah Sawkins: sin datos en ESPN",
+    "Rafaele Cirino: solo 5 titularidades (muestra corta)",
+    "Sean Costelloe: solo 0 titularidades (muestra corta)",
+    "William Davies: sin datos en ESPN",
+    "Sanciones: el club confirma 'suspensions this weekend' (Lawlor, 12 nov 2026) pero no nombra a ningún jugador. No identificado: no ajusto ningún titular de cuota por esto; verificar con la alineación oficial.",
+    "Lawlor, 12 nov 2026: 'looking healthy' salvo Thompson-Sommers y Johnson; espera no tener más lesiones en los dos días previos.",
+    "Datos de ESPN solo hasta 2026-11-03: la forma y las titularidades pueden estar un partido atrás."
+   ],
+   "resumen": "Thompson-Sommers (lesionado) y Johnson (largo plazo) fuera. El club dice que el resto está sano, pero reconoce sanciones sin nombrar: el once puede tener un hueco que no podemos identificar."
+  }
+ ]
+}

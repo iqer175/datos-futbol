@@ -1,0 +1,61 @@
+{
+ "casa": "bwin",
+ "leido_utc": "2026-11-13T23:40Z",
+ "cuotas": [
+  {
+   "local": "Exeter",
+   "visitante": "Cheltenham",
+   "clave": "Anthony Scully|a puerta|2",
+   "cuota": 3.75,
+   "sustituto": false,
+   "nota": "\"No contarán los jugadores que no estén en la alineación inicial. El mercado se definirá en función de los resultados de OPTA\" (info de la casa; sustituto no cuenta)"
+  },
+  {
+   "local": "Exeter",
+   "visitante": "Cheltenham",
+   "clave": "Jack Fitzwater|a puerta|1",
+   "cuota": 3.25,
+   "sustituto": false,
+   "nota": "\"No contarán los jugadores que no estén en la alineación inicial. El mercado se definirá en función de los resultados de OPTA\" (info de la casa; sustituto no cuenta)"
+  },
+  {
+   "local": "Exeter",
+   "visitante": "Cheltenham",
+   "clave": "Anthony Scully|a puerta|1",
+   "cuota": 1.57,
+   "sustituto": false,
+   "nota": "\"No contarán los jugadores que no estén en la alineación inicial. El mercado se definirá en función de los resultados de OPTA\" (info de la casa; sustituto no cuenta)"
+  },
+  {
+   "local": "Bristol Rvs",
+   "visitante": "Chesterfield",
+   "clave": "Menos 3.5",
+   "cuota": 1.37,
+   "nota": "Total de goles del partido, Menos de 3,5 (Tiempo reglamentario), no es de remates"
+  },
+  {
+   "local": "Fleetwood Town",
+   "visitante": "Tranmere",
+   "clave": "Ronan Coughlan|a puerta|3",
+   "cuota": 4.33,
+   "sustituto": false,
+   "nota": "\"No contarán los jugadores que no estén en la alineación inicial. El mercado se definirá en función de los resultados de OPTA\" (info de la casa; sustituto no cuenta)"
+  },
+  {
+   "local": "Fleetwood Town",
+   "visitante": "Tranmere",
+   "clave": "Ronan Coughlan|a puerta|2",
+   "cuota": 2.05,
+   "sustituto": false,
+   "nota": "\"No contarán los jugadores que no estén en la alineación inicial. El mercado se definirá en función de los resultados de OPTA\" (info de la casa; sustituto no cuenta)"
+  },
+  {
+   "local": "Fleetwood Town",
+   "visitante": "Tranmere",
+   "clave": "Ronan Coughlan|a puerta|4",
+   "cuota": 9.5,
+   "sustituto": false,
+   "nota": "\"No contarán los jugadores que no estén en la alineación inicial. El mercado se definirá en función de los resultados de OPTA\" (info de la casa; sustituto no cuenta)"
+  }
+ ]
+}

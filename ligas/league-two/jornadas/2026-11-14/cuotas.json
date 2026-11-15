@@ -1,0 +1,1108 @@
+{
+ "liga": "League Two",
+ "leido_utc": "2026-11-13T23:11Z",
+ "partidos": [
+  {
+   "local": "Exeter",
+   "visitante": "Cheltenham",
+   "inicio_utc": "2026-11-14T12:30Z",
+   "leido_utc": "2026-11-13T23:11Z",
+   "mercados": {
+    "1": 1.81,
+    "X": 3.5,
+    "2": 4.0,
+    "Sin empate 1": 1.36,
+    "Sin empate 2": 3.0,
+    "Más 2.5": 1.95,
+    "Menos 2.5": 1.85,
+    "Más 1.5": 1.28,
+    "Menos 1.5": 3.5,
+    "Más 3.5": 3.4,
+    "Menos 3.5": 1.3,
+    "Más 4.5": 7.0,
+    "Menos 4.5": 1.1,
+    "Ambos marcan - Sí": 1.8,
+    "Ambos marcan - No": 1.9,
+    "1 & Ambos marcan - Sí": 4.0,
+    "2 & Ambos marcan - Sí": 8.0,
+    "X & Ambos marcan - Sí": 4.75,
+    "1 & Ambos marcan - No": 3.25,
+    "2 & Ambos marcan - No": 7.0,
+    "X & Ambos marcan - No": 10.0,
+    "R:goles 2-4": 1.53,
+    "Ambos reciben tarjetas - Sí": 1.22,
+    "Ambos reciben tarjetas - No": 4.0
+   },
+   "jugadores": [
+    {
+     "jugador": "Ajay Matthews",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Ajay Matthews",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Ajay Matthews",
+     "mercado": "a puerta",
+     "linea": 4,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Andrew Oluwabori",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "Andrew Oluwabori",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 6.0
+    },
+    {
+     "jugador": "Andrew Oluwabori",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Anthony Scully",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "Anthony Scully",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Anthony Scully",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Ben Lang",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Ben Lang",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Charlie Cummins",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Charlie Cummins",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Daniel Watts",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Daniel Watts",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Danny Rose",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 2.75
+    },
+    {
+     "jugador": "Danny Rose",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Danny Rose",
+     "mercado": "a puerta",
+     "linea": 4,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Ed Turns",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.75
+    },
+    {
+     "jugador": "Ed Turns",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Edward James",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Edward James",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Ethan Sutherland",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 2.5
+    },
+    {
+     "jugador": "Ethan Sutherland",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 10.0
+    },
+    {
+     "jugador": "George Birch",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "George Birch",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 6.0
+    },
+    {
+     "jugador": "George Birch",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "George Williams",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "George Williams",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "George Williams",
+     "mercado": "a puerta",
+     "linea": 4,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Gwion Edwards",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Gwion Edwards",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Gwion Edwards",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Harry Kite",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Harry Kite",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Jack Fitzwater",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.75
+    },
+    {
+     "jugador": "Jack Fitzwater",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Jack Taylor",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Jack Taylor",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Jake Doyle-Hayes",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Jake Doyle-Hayes",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Josh Gordon",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Josh Gordon",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Josh Gordon",
+     "mercado": "a puerta",
+     "linea": 4,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Lakyle Samuel",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 6.0
+    },
+    {
+     "jugador": "Liam Oakes",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.75
+    },
+    {
+     "jugador": "Liam Oakes",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Louie Cayless",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Louie Cayless",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Luca Woodhouse",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.75
+    },
+    {
+     "jugador": "Luca Woodhouse",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Reece Cole",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "Reece Cole",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 6.0
+    },
+    {
+     "jugador": "Reece Cole",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Sonny Cox",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Sonny Cox",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Sonny Cox",
+     "mercado": "a puerta",
+     "linea": 4,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Taylor Perry",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 1.83
+    },
+    {
+     "jugador": "Taylor Perry",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 6.0
+    },
+    {
+     "jugador": "Taylor Perry",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Tobias Alsop",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.75
+    },
+    {
+     "jugador": "Tobias Alsop",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Tom Dean",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 2.5
+    },
+    {
+     "jugador": "Tom Dean",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 10.0
+    },
+    {
+     "jugador": "Vincent Harper",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Vincent Harper",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 11.0
+    }
+   ]
+  },
+  {
+   "local": "Bristol Rvs",
+   "visitante": "Chesterfield",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "leido_utc": "2026-11-13T23:14Z",
+   "mercados": {
+    "1": 2.82,
+    "X": 3.4,
+    "2": 2.25,
+    "Sin empate 1": 2.1,
+    "Sin empate 2": 1.66,
+    "Más 2.5": 1.72,
+    "Menos 2.5": 2.07,
+    "Más 1.5": 1.22,
+    "Menos 1.5": 4.0,
+    "Más 3.5": 2.62,
+    "Menos 3.5": 1.44,
+    "Más 4.5": 5.0,
+    "Menos 4.5": 1.16,
+    "Ambos marcan - Sí": 1.61,
+    "Ambos marcan - No": 2.2,
+    "1 & Ambos marcan - Sí": 5.0,
+    "2 & Ambos marcan - Sí": 4.33,
+    "X & Ambos marcan - Sí": 4.33,
+    "1 & Ambos marcan - No": 5.5,
+    "2 & Ambos marcan - No": 4.33,
+    "X & Ambos marcan - No": 12.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": []
+  },
+  {
+   "local": "Colchester",
+   "visitante": "Gillingham",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "leido_utc": "2026-11-13T23:15Z",
+   "mercados": {
+    "1": 2.05,
+    "X": 3.3,
+    "2": 3.4,
+    "Sin empate 1": 1.5,
+    "Sin empate 2": 2.5,
+    "Más 2.5": 1.95,
+    "Menos 2.5": 1.85,
+    "Más 1.5": 1.28,
+    "Menos 1.5": 3.5,
+    "Más 3.5": 3.4,
+    "Menos 3.5": 1.3,
+    "Más 4.5": 6.5,
+    "Menos 4.5": 1.11,
+    "Ambos marcan - Sí": 1.72,
+    "Ambos marcan - No": 2.0,
+    "1 & Ambos marcan - Sí": 4.33,
+    "2 & Ambos marcan - Sí": 6.5,
+    "X & Ambos marcan - Sí": 4.33,
+    "1 & Ambos marcan - No": 3.75,
+    "2 & Ambos marcan - No": 6.0,
+    "X & Ambos marcan - No": 10.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": []
+  },
+  {
+   "local": "Crewe",
+   "visitante": "Newport County",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "leido_utc": "2026-11-13T23:15Z",
+   "mercados": {
+    "1": 2.05,
+    "X": 3.4,
+    "2": 3.3,
+    "Sin empate 1": 1.53,
+    "Sin empate 2": 2.37,
+    "Más 2.5": 1.95,
+    "Menos 2.5": 1.85,
+    "Más 1.5": 1.28,
+    "Menos 1.5": 3.5,
+    "Más 3.5": 3.4,
+    "Menos 3.5": 1.3,
+    "Más 4.5": 6.5,
+    "Menos 4.5": 1.11,
+    "Ambos marcan - Sí": 1.72,
+    "Ambos marcan - No": 2.0,
+    "1 & Ambos marcan - Sí": 4.33,
+    "2 & Ambos marcan - Sí": 6.5,
+    "X & Ambos marcan - Sí": 4.33,
+    "1 & Ambos marcan - No": 3.75,
+    "2 & Ambos marcan - No": 6.0,
+    "X & Ambos marcan - No": 10.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": []
+  },
+  {
+   "local": "Port Vale",
+   "visitante": "Accrington",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "leido_utc": "2026-11-13T23:16Z",
+   "mercados": {
+    "1": 1.91,
+    "X": 3.3,
+    "2": 3.8,
+    "Sin empate 1": 1.4,
+    "Sin empate 2": 2.75,
+    "Más 2.5": 2.05,
+    "Menos 2.5": 1.75,
+    "Más 1.5": 1.33,
+    "Menos 1.5": 3.25,
+    "Más 3.5": 3.5,
+    "Menos 3.5": 1.28,
+    "Más 4.5": 8.0,
+    "Menos 4.5": 1.083,
+    "Ambos marcan - Sí": 1.83,
+    "Ambos marcan - No": 1.83,
+    "1 & Ambos marcan - Sí": 4.33,
+    "2 & Ambos marcan - Sí": 8.0,
+    "X & Ambos marcan - Sí": 4.5,
+    "1 & Ambos marcan - No": 3.25,
+    "2 & Ambos marcan - No": 6.5,
+    "X & Ambos marcan - No": 9.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": []
+  },
+  {
+   "local": "Rochdale",
+   "visitante": "York",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "leido_utc": "2026-11-13T23:16Z",
+   "mercados": {
+    "1": 4.2,
+    "X": 3.9,
+    "2": 1.68,
+    "Sin empate 1": 3.25,
+    "Sin empate 2": 1.33,
+    "Más 2.5": 1.61,
+    "Menos 2.5": 2.25,
+    "Más 1.5": 1.18,
+    "Menos 1.5": 4.5,
+    "Más 3.5": 2.5,
+    "Menos 3.5": 1.5,
+    "Más 4.5": 4.33,
+    "Menos 4.5": 1.2,
+    "Ambos marcan - Sí": 1.61,
+    "Ambos marcan - No": 2.2,
+    "1 & Ambos marcan - Sí": 7.0,
+    "2 & Ambos marcan - Sí": 3.25,
+    "X & Ambos marcan - Sí": 4.75,
+    "1 & Ambos marcan - No": 9.0,
+    "2 & Ambos marcan - No": 3.4,
+    "X & Ambos marcan - No": 15.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": []
+  },
+  {
+   "local": "Salford",
+   "visitante": "Northampton",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "leido_utc": "2026-11-13T23:17Z",
+   "mercados": {
+    "1": 1.53,
+    "X": 3.75,
+    "2": 6.0,
+    "Sin empate 1": 1.2,
+    "Sin empate 2": 4.33,
+    "Más 2.5": 1.95,
+    "Menos 2.5": 1.85,
+    "Más 1.5": 1.28,
+    "Menos 1.5": 3.5,
+    "Más 3.5": 3.25,
+    "Menos 3.5": 1.33,
+    "Más 4.5": 6.5,
+    "Menos 4.5": 1.11,
+    "Ambos marcan - Sí": 1.9,
+    "Ambos marcan - No": 1.8,
+    "1 & Ambos marcan - Sí": 3.75,
+    "2 & Ambos marcan - Sí": 12.0,
+    "X & Ambos marcan - Sí": 5.0,
+    "1 & Ambos marcan - No": 2.5,
+    "2 & Ambos marcan - No": 10.0,
+    "X & Ambos marcan - No": 10.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": []
+  },
+  {
+   "local": "Shrewsbury",
+   "visitante": "Oldham",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "leido_utc": "2026-11-13T23:17Z",
+   "mercados": {
+    "1": 2.45,
+    "X": 3.3,
+    "2": 2.65,
+    "Sin empate 1": 1.8,
+    "Sin empate 2": 1.9,
+    "Más 2.5": 1.95,
+    "Menos 2.5": 1.85,
+    "Más 1.5": 1.28,
+    "Menos 1.5": 3.5,
+    "Más 3.5": 3.4,
+    "Menos 3.5": 1.3,
+    "Más 4.5": 6.5,
+    "Menos 4.5": 1.11,
+    "Ambos marcan - Sí": 1.72,
+    "Ambos marcan - No": 2.0,
+    "1 & Ambos marcan - Sí": 5.0,
+    "2 & Ambos marcan - Sí": 5.5,
+    "X & Ambos marcan - Sí": 4.5,
+    "1 & Ambos marcan - No": 4.33,
+    "2 & Ambos marcan - No": 4.5,
+    "X & Ambos marcan - No": 10.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": []
+  },
+  {
+   "local": "Swindon",
+   "visitante": "Grimsby",
+   "inicio_utc": "2026-11-14T15:00Z",
+   "leido_utc": "2026-11-13T23:18Z",
+   "mercados": {
+    "1": 3.25,
+    "X": 3.6,
+    "2": 2.01,
+    "Sin empate 1": 2.37,
+    "Sin empate 2": 1.53,
+    "Más 2.5": 1.61,
+    "Menos 2.5": 2.25,
+    "Más 1.5": 1.18,
+    "Menos 1.5": 4.5,
+    "Más 3.5": 2.5,
+    "Menos 3.5": 1.5,
+    "Más 4.5": 4.5,
+    "Menos 4.5": 1.18,
+    "Ambos marcan - Sí": 1.53,
+    "Ambos marcan - No": 2.37,
+    "1 & Ambos marcan - Sí": 5.5,
+    "2 & Ambos marcan - Sí": 3.6,
+    "X & Ambos marcan - Sí": 4.33,
+    "1 & Ambos marcan - No": 7.0,
+    "2 & Ambos marcan - No": 4.0,
+    "X & Ambos marcan - No": 15.0,
+    "R:goles 2-4": 1.53
+   },
+   "jugadores": []
+  },
+  {
+   "local": "Fleetwood Town",
+   "visitante": "Tranmere",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "leido_utc": "2026-11-13T23:18Z",
+   "mercados": {
+    "1": 1.91,
+    "X": 3.4,
+    "2": 3.75,
+    "Sin empate 1": 1.4,
+    "Sin empate 2": 2.75,
+    "Más 2.5": 1.85,
+    "Menos 2.5": 1.95,
+    "Más 1.5": 1.25,
+    "Menos 1.5": 3.75,
+    "Más 3.5": 3.0,
+    "Menos 3.5": 1.36,
+    "Más 4.5": 6.0,
+    "Menos 4.5": 1.12,
+    "Ambos marcan - Sí": 1.72,
+    "Ambos marcan - No": 2.0,
+    "1 & Ambos marcan - Sí": 4.0,
+    "2 & Ambos marcan - Sí": 7.0,
+    "X & Ambos marcan - Sí": 4.5,
+    "1 & Ambos marcan - No": 3.5,
+    "2 & Ambos marcan - No": 7.0,
+    "X & Ambos marcan - No": 11.0,
+    "R:goles 2-4": 1.53,
+    "Ambos reciben tarjetas - Sí": 1.25,
+    "Ambos reciben tarjetas - No": 3.75
+   },
+   "jugadores": [
+    {
+     "jugador": "Aaron Loupalo-Bi",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Aaron Loupalo-Bi",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Aaron Loupalo-Bi",
+     "mercado": "a puerta",
+     "linea": 4,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Adam Murphy",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 2.25
+    },
+    {
+     "jugador": "Adam Murphy",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Andy Cannon",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Andy Cannon",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Ched Evans",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Ched Evans",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Ched Evans",
+     "mercado": "a puerta",
+     "linea": 4,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Conor Haughey",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Conor Haughey",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Crispin McLean",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 2.1
+    },
+    {
+     "jugador": "Crispin McLean",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Crispin McLean",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Danny Andrew",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Danny Andrew",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "David Animasaun",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "David Animasaun",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 6.5
+    },
+    {
+     "jugador": "David Animasaun",
+     "mercado": "a puerta",
+     "linea": 4,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Finley Potter",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Finley Potter",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Harrison Neal",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Harrison Neal",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Jake Batty",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 2.25
+    },
+    {
+     "jugador": "Jake Batty",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 9.0
+    },
+    {
+     "jugador": "Jesse Dempsey",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Jesse Dempsey",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Josh Robertson",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 1.66
+    },
+    {
+     "jugador": "Josh Robertson",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 4.33
+    },
+    {
+     "jugador": "Josh Robertson",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 13.0
+    },
+    {
+     "jugador": "Joshua Thomas",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Joshua Thomas",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Joshua Thomas",
+     "mercado": "a puerta",
+     "linea": 4,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Kane Thompson-Sommers",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Kane Thompson-Sommers",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Kayden Hughes",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.5
+    },
+    {
+     "jugador": "Kayden Hughes",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Lewis McCann",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 1.57
+    },
+    {
+     "jugador": "Lewis McCann",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 3.75
+    },
+    {
+     "jugador": "Lewis McCann",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Mark Helm",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 2.75
+    },
+    {
+     "jugador": "Mark Helm",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 7.0
+    },
+    {
+     "jugador": "Mark Helm",
+     "mercado": "a puerta",
+     "linea": 4,
+     "cuota": 19.0
+    },
+    {
+     "jugador": "Muhammad Oladiti",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Muhammad Oladiti",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Muhsi Bamba",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Muhsi Bamba",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Noah Sawkins",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 3.0
+    },
+    {
+     "jugador": "Noah Sawkins",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 8.0
+    },
+    {
+     "jugador": "Noah Sawkins",
+     "mercado": "a puerta",
+     "linea": 4,
+     "cuota": 21.0
+    },
+    {
+     "jugador": "Rafaele Cirino",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Rafaele Cirino",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Rhys Bennett",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 3.25
+    },
+    {
+     "jugador": "Rhys Bennett",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 17.0
+    },
+    {
+     "jugador": "Ronan Coughlan",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "Ronan Coughlan",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "Ronan Coughlan",
+     "mercado": "a puerta",
+     "linea": 4,
+     "cuota": 15.0
+    },
+    {
+     "jugador": "Sean Costelloe",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Sean Costelloe",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "Shaun Rooney",
+     "mercado": "a puerta",
+     "linea": 1,
+     "cuota": 2.62
+    },
+    {
+     "jugador": "Shaun Rooney",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 11.0
+    },
+    {
+     "jugador": "William Davies",
+     "mercado": "a puerta",
+     "linea": 2,
+     "cuota": 2.37
+    },
+    {
+     "jugador": "William Davies",
+     "mercado": "a puerta",
+     "linea": 3,
+     "cuota": 5.5
+    },
+    {
+     "jugador": "William Davies",
+     "mercado": "a puerta",
+     "linea": 4,
+     "cuota": 15.0
+    }
+   ]
+  }
+ ]
+}

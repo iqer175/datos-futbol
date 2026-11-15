@@ -1,0 +1,37 @@
+{
+ "casa": "sportium",
+ "leido_utc": "2026-11-13T23:48Z",
+ "cuotas": [
+  {
+   "local": "Fleetwood Town",
+   "visitante": "Tranmere",
+   "clave": "Ronan Coughlan|a puerta|3",
+   "cuota": 5.0,
+   "sustituto": null,
+   "nota": "Tiros a puerta del jugador (1+ 1.22, 2+ 2.20, 3+ 5.00, 4+ 10.00). La página no muestra la regla del sustituto; la página de reglas no se pudo leer en texto: no confirmado"
+  },
+  {
+   "local": "Fleetwood Town",
+   "visitante": "Tranmere",
+   "clave": "Ronan Coughlan|a puerta|2",
+   "cuota": 2.2,
+   "sustituto": null,
+   "nota": "Igual que la línea 3+: sin regla de sustituto visible en la casa"
+  },
+  {
+   "local": "Fleetwood Town",
+   "visitante": "Tranmere",
+   "clave": "Ronan Coughlan|a puerta|4",
+   "cuota": 10.0,
+   "sustituto": null,
+   "nota": "Igual que la línea 3+: sin regla de sustituto visible en la casa"
+  },
+  {
+   "local": "Bristol Rvs",
+   "visitante": "Chesterfield",
+   "clave": "Menos 3.5",
+   "cuota": 1.4,
+   "nota": "Total de goles del partido, Menos de 3.5 (Todo, Goles Totales); no es de remates"
+  }
+ ]
+}

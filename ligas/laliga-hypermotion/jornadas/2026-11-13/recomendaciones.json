@@ -1,0 +1,122 @@
+[
+ {
+  "doc_id": "2026-11-13-leganes-burgos-gharbi-2remates",
+  "data": {
+   "competicion": "LaLiga Hypermotion",
+   "fecha": "2026-11-13",
+   "local": "Leganés",
+   "visitante": "Burgos",
+   "mercado": "Remates del jugador",
+   "seleccion": "Ismaël Gharbi - 2 o más remates",
+   "cuota": 1.53,
+   "prob": 71,
+   "prob_apuesta": 67,
+   "stake": 0.5,
+   "confianza": "baja",
+   "estado": "pendiente",
+   "creado": "2026-11-13T19:07:05Z",
+   "tesis": "modelo 70.8% (ritmo de extremo con Sustituto+, Leganés 13 remates esperados) frente al 65.4% que pide la cuota; ojo: 2+ en el 42% de sus 12 titularidades y 0 de 5 en las últimas",
+   "nota": "simulador + contexto (goles ancla) | SOLO si es titular (noticias parciales, sin alineación verificada) | muestra 12 titularidades | margen 5.5 pts | Sustituto+ de bet365 (sin él: 60%) | cuota leída 2026-11-13T18:35Z, aún no tomada"
+  }
+ },
+ {
+  "doc_id": "2026-11-13-leganes-burgos-luengo-1remate",
+  "data": {
+   "competicion": "LaLiga Hypermotion",
+   "fecha": "2026-11-13",
+   "local": "Leganés",
+   "visitante": "Burgos",
+   "mercado": "Remates del jugador",
+   "seleccion": "Oier Luengo - 1 o más remates",
+   "cuota": 1.9,
+   "prob": 58,
+   "prob_apuesta": 55,
+   "stake": 0.5,
+   "confianza": "baja",
+   "estado": "pendiente",
+   "creado": "2026-11-13T19:07:05Z",
+   "tesis": "modelo 58.3% frente al 52.6% que pide la cuota; remata en el 62% de sus 8 titularidades y en 3 de las últimas 5",
+   "nota": "simulador + contexto (goles ancla) | SOLO si es titular (noticias parciales, sin alineación verificada) | muestra 8 titularidades | margen 5.7 pts | Sustituto+ de bet365 (sin él: 55%) | cuota leída 2026-11-13T18:35Z, aún no tomada"
+  }
+ },
+ {
+  "doc_id": "2026-11-14-valladolid-castellon-orozco-2remates",
+  "data": {
+   "competicion": "LaLiga Hypermotion",
+   "fecha": "2026-11-14",
+   "local": "Valladolid",
+   "visitante": "Castellón",
+   "mercado": "Remates del jugador",
+   "seleccion": "Matías Orozco - 2 o más remates",
+   "cuota": 2.37,
+   "prob": 55,
+   "prob_apuesta": 47,
+   "stake": 0.5,
+   "confianza": "baja",
+   "estado": "pendiente",
+   "creado": "2026-11-13T19:07:05Z",
+   "tesis": "modelo 54.8% frente al 42.2% que pide la cuota (Castellón 13.9 remates esperados); su frecuencia real es menor (33% en 6 titularidades)",
+   "nota": "simulador + contexto (goles ancla) | SOLO si es titular (noticias parciales, sin alineación verificada) | muestra 6 titularidades | margen 12.6 pts | Sustituto+ de bet365 (sin él: 39%) | cuota leída 2026-11-13T18:37Z, aún no tomada"
+  }
+ },
+ {
+  "doc_id": "2026-11-14-oviedo-girona-goti-1apuerta",
+  "data": {
+   "competicion": "LaLiga Hypermotion",
+   "fecha": "2026-11-14",
+   "local": "Oviedo",
+   "visitante": "Girona",
+   "mercado": "Remates a puerta del jugador",
+   "seleccion": "Mikel Goti - 1 o más remates a puerta",
+   "cuota": 2.1,
+   "prob": 52,
+   "prob_apuesta": 49,
+   "stake": 0.5,
+   "confianza": "baja",
+   "estado": "pendiente",
+   "creado": "2026-11-13T19:07:05Z",
+   "tesis": "modelo 51.7% frente al 47.6% que pide la cuota; a puerta en el 62% de sus 8 titularidades y en 4 de las últimas 5",
+   "nota": "simulador + contexto (goles ancla) | SOLO si es titular (noticias parciales, sin alineación verificada) | muestra 8 titularidades | margen 4.1 pts | Sustituto+ de bet365 (sin él: 46%) | cuota leída 2026-11-13T18:45Z, aún no tomada"
+  }
+ },
+ {
+  "doc_id": "2026-11-15-tenerife-ceuta-zalazar-2remates",
+  "data": {
+   "competicion": "LaLiga Hypermotion",
+   "fecha": "2026-11-15",
+   "local": "Tenerife",
+   "visitante": "Ceuta",
+   "mercado": "Remates del jugador",
+   "seleccion": "Kuki Zalazar - 2 o más remates",
+   "cuota": 1.83,
+   "prob": 60,
+   "prob_apuesta": 56,
+   "stake": 0.5,
+   "confianza": "baja",
+   "estado": "pendiente",
+   "creado": "2026-11-13T19:07:05Z",
+   "tesis": "modelo 59.5% frente al 54.6% que pide la cuota; 2+ en el 62% de sus 13 titularidades y en 4 de las últimas 5",
+   "nota": "simulador + contexto (goles ancla) | SOLO si es titular (noticias parciales, sin alineación verificada) | muestra 13 titularidades | margen 4.9 pts | Sustituto+ de bet365 (sin él: 55%) | cuota leída 2026-11-13T18:47Z, aún no tomada"
+  }
+ },
+ {
+  "doc_id": "2026-11-15-eibar-cadiz-zarate-1remate",
+  "data": {
+   "competicion": "LaLiga Hypermotion",
+   "fecha": "2026-11-15",
+   "local": "Eibar",
+   "visitante": "Cádiz",
+   "mercado": "Remates del jugador",
+   "seleccion": "Dilan Zárate - 1 o más remates",
+   "cuota": 2.0,
+   "prob": 61,
+   "prob_apuesta": 54,
+   "stake": 0.5,
+   "confianza": "baja",
+   "estado": "pendiente",
+   "creado": "2026-11-13T19:07:05Z",
+   "tesis": "modelo 60.9% frente al 50% que pide la cuota; su frecuencia real es menor (38% en 8 titularidades), el modelo lo sube hacia su posición",
+   "nota": "simulador + contexto (goles ancla) | SOLO si es titular (noticias parciales, sin alineación verificada) | muestra 8 titularidades | margen 10.9 pts | Sustituto+ de bet365 (sin él: 55%) | cuota leída 2026-11-13T18:51Z, aún no tomada"
+  }
+ }
+]

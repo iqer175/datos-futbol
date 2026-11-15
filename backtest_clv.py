@@ -103,7 +103,7 @@ def predecir(df):
         tot_elo = C.bt.values + C['at'].values * np.abs(d)
         tg = np.array([motor.total_glm(G, l, v, lg) or np.nan
                        for l, v, lg in zip(g.local, g.visitante, g.liga)])
-        tot = np.where(np.isnan(tg), tot_elo, (1 - motor.W_GLM) * tot_elo + motor.W_GLM * tg)
+        tot = np.where(np.isnan(tg), tot_elo, (1 - motor.W_GLM_V5) * tot_elo + motor.W_GLM_V5 * tg)
         for cal, suf in ((True, 'cal'), (False, 'raw')):
             tt = tot + (motor.CAL_TOTAL if cal else 0.0)
             lh = np.maximum(0.15, (tt + sup) / 2); la = np.maximum(0.15, (tt - sup) / 2)

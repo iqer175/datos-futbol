@@ -1,0 +1,703 @@
+{
+ "carpeta": "ligas/laliga-hypermotion/jornadas/2026-11-13",
+ "creado_utc": "2026-11-13T23:35Z",
+ "subida_maxima": 0.1,
+ "partidos": [
+  {
+   "local": "Valladolid",
+   "visitante": "Castellon",
+   "inicio_utc": "2026-11-14T13:00Z",
+   "selecciones": [
+    {
+     "clave": "Matias Orozco|remates|2",
+     "apuesta": "Matías Orozco remates 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 2.37,
+     "prob": 0.548,
+     "margen_bet365": 0.126,
+     "cuota_minima": 1.93,
+     "prob_sin_sustituto": 0.387,
+     "cuota_minima_sin_sustituto": 2.8
+    },
+    {
+     "clave": "Matias Orozco|remates|3",
+     "apuesta": "Matías Orozco remates 3+",
+     "tipo": "jugador",
+     "cuota_bet365": 5.5,
+     "prob": 0.305,
+     "margen_bet365": 0.1232,
+     "cuota_minima": 3.64,
+     "prob_sin_sustituto": 0.1743,
+     "cuota_minima_sin_sustituto": 6.93
+    },
+    {
+     "clave": "Matias Orozco|a puerta|1",
+     "apuesta": "Matías Orozco a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 2.5,
+     "prob": 0.514,
+     "margen_bet365": 0.114,
+     "cuota_minima": 2.07,
+     "prob_sin_sustituto": 0.4235,
+     "cuota_minima_sin_sustituto": 2.54
+    },
+    {
+     "clave": "Matias Orozco|a puerta|2",
+     "apuesta": "Matías Orozco a puerta 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 10.0,
+     "prob": 0.1789,
+     "margen_bet365": 0.0789,
+     "cuota_minima": 6.72,
+     "prob_sin_sustituto": 0.1217,
+     "cuota_minima_sin_sustituto": 10.91
+    },
+    {
+     "clave": "Matias Orozco|remates|4",
+     "apuesta": "Matías Orozco remates 4+",
+     "tipo": "jugador",
+     "cuota_bet365": 13.0,
+     "prob": 0.1477,
+     "margen_bet365": 0.0708,
+     "cuota_minima": 8.49,
+     "prob_sin_sustituto": 0.0686,
+     "cuota_minima_sin_sustituto": 25.9
+    }
+   ]
+  },
+  {
+   "local": "Sociedad B",
+   "visitante": "Sp Gijon",
+   "inicio_utc": "2026-11-14T15:15Z",
+   "selecciones": [
+    {
+     "clave": "Guillermo Rosas|a puerta|1",
+     "apuesta": "Guillermo Rosas a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 4.5,
+     "prob": 0.3653,
+     "margen_bet365": 0.1431,
+     "cuota_minima": 2.98,
+     "prob_sin_sustituto": 0.3568,
+     "cuota_minima_sin_sustituto": 3.06
+    },
+    {
+     "clave": "Andres Cuenca|remates|1",
+     "apuesta": "Andrés Cuenca remates 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 2.37,
+     "prob": 0.4705,
+     "margen_bet365": 0.0486,
+     "cuota_minima": 2.27,
+     "prob_sin_sustituto": 0.3926,
+     "cuota_minima_sin_sustituto": 2.76
+    },
+    {
+     "clave": "Guillermo Rosas|a puerta|2",
+     "apuesta": "Guillermo Rosas a puerta 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 21.0,
+     "prob": 0.0849,
+     "margen_bet365": 0.0373,
+     "cuota_minima": 18.21,
+     "prob_sin_sustituto": 0.0843,
+     "cuota_minima_sin_sustituto": 18.42
+    },
+    {
+     "clave": "Andres Cuenca|remates|2",
+     "apuesta": "Andrés Cuenca remates 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 8.0,
+     "prob": 0.146,
+     "margen_bet365": 0.021,
+     "cuota_minima": 8.62,
+     "prob_sin_sustituto": 0.1016,
+     "cuota_minima_sin_sustituto": 13.97
+    },
+    {
+     "clave": "Inaki Ruperez|remates|1",
+     "apuesta": "Iñaki Rupérez remates 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 1.57,
+     "prob": 0.616,
+     "margen_bet365": -0.0209,
+     "cuota_minima": 1.71,
+     "prob_sin_sustituto": 0.5802,
+     "cuota_minima_sin_sustituto": 1.82
+    }
+   ]
+  },
+  {
+   "local": "Almeria",
+   "visitante": "Andorra",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "selecciones": [
+    {
+     "clave": "Lautaro Spatz|a puerta|1",
+     "apuesta": "Lautaro Spatz a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 6.0,
+     "prob": 0.2042,
+     "margen_bet365": 0.0375,
+     "cuota_minima": 5.74,
+     "prob_sin_sustituto": 0.1946,
+     "cuota_minima_sin_sustituto": 6.08
+    },
+    {
+     "clave": "Quim Junyent|a puerta|1",
+     "apuesta": "Quim Junyent a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 2.5,
+     "prob": 0.437,
+     "margen_bet365": 0.037,
+     "cuota_minima": 2.46,
+     "prob_sin_sustituto": 0.3735,
+     "cuota_minima_sin_sustituto": 2.91
+    },
+    {
+     "clave": "Quim Junyent|a puerta|2",
+     "apuesta": "Quim Junyent a puerta 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 10.0,
+     "prob": 0.1251,
+     "margen_bet365": 0.0251,
+     "cuota_minima": 10.52,
+     "prob_sin_sustituto": 0.0929,
+     "cuota_minima_sin_sustituto": 15.9
+    },
+    {
+     "clave": "Más 2.5",
+     "apuesta": "Más 2.5",
+     "tipo": "equipo",
+     "cuota_bet365": 1.57,
+     "prob": 0.6091,
+     "margen_bet365": -0.0278,
+     "cuota_minima": 1.73
+    }
+   ]
+  },
+  {
+   "local": "Mallorca",
+   "visitante": "Cordoba",
+   "inicio_utc": "2026-11-14T17:30Z",
+   "selecciones": [
+    {
+     "clave": "Pablo Torre|remates|4",
+     "apuesta": "Pablo Torre remates 4+",
+     "tipo": "jugador",
+     "cuota_bet365": 3.5,
+     "prob": 0.32,
+     "margen_bet365": 0.0343,
+     "cuota_minima": 3.45,
+     "prob_sin_sustituto": 0.2121,
+     "cuota_minima_sin_sustituto": 5.49
+    },
+    {
+     "clave": "Pablo Torre|remates|5",
+     "apuesta": "Pablo Torre remates 5+",
+     "tipo": "jugador",
+     "cuota_bet365": 6.5,
+     "prob": 0.182,
+     "margen_bet365": 0.0282,
+     "cuota_minima": 6.58,
+     "prob_sin_sustituto": 0.108,
+     "cuota_minima_sin_sustituto": 12.82
+    },
+    {
+     "clave": "Alex Sala|a puerta|2",
+     "apuesta": "Álex Sala a puerta 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 3.25,
+     "prob": 0.3299,
+     "margen_bet365": 0.0222,
+     "cuota_minima": 3.33,
+     "prob_sin_sustituto": 0.3057,
+     "cuota_minima_sin_sustituto": 3.63
+    },
+    {
+     "clave": "Pablo Torre|remates|3",
+     "apuesta": "Pablo Torre remates 3+",
+     "tipo": "jugador",
+     "cuota_bet365": 2.0,
+     "prob": 0.5116,
+     "margen_bet365": 0.0116,
+     "cuota_minima": 2.08,
+     "prob_sin_sustituto": 0.3815,
+     "cuota_minima_sin_sustituto": 2.85
+    },
+    {
+     "clave": "Pablo Torre|a puerta|2",
+     "apuesta": "Pablo Torre a puerta 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 3.4,
+     "prob": 0.302,
+     "margen_bet365": 0.0079,
+     "cuota_minima": 3.68,
+     "prob_sin_sustituto": 0.216,
+     "cuota_minima_sin_sustituto": 5.38
+    },
+    {
+     "clave": "Pablo Torre|a puerta|1",
+     "apuesta": "Pablo Torre a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 1.5,
+     "prob": 0.6464,
+     "margen_bet365": -0.0203,
+     "cuota_minima": 1.62,
+     "prob_sin_sustituto": 0.5499,
+     "cuota_minima_sin_sustituto": 1.92
+    }
+   ]
+  },
+  {
+   "local": "Oviedo",
+   "visitante": "Girona",
+   "inicio_utc": "2026-11-14T20:00Z",
+   "selecciones": [
+    {
+     "clave": "Mikel Goti|a puerta|1",
+     "apuesta": "Mikel Goti a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 2.1,
+     "prob": 0.5168,
+     "margen_bet365": 0.0407,
+     "cuota_minima": 2.05,
+     "prob_sin_sustituto": 0.4644,
+     "cuota_minima_sin_sustituto": 2.3
+    },
+    {
+     "clave": "Mikel Goti|a puerta|2",
+     "apuesta": "Mikel Goti a puerta 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 7.0,
+     "prob": 0.1811,
+     "margen_bet365": 0.0383,
+     "cuota_minima": 6.62,
+     "prob_sin_sustituto": 0.1487,
+     "cuota_minima_sin_sustituto": 8.43
+    },
+    {
+     "clave": "Youness Lachhab|remates|2",
+     "apuesta": "Youness Lachhab remates 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 3.0,
+     "prob": 0.3354,
+     "margen_bet365": 0.0021,
+     "cuota_minima": 3.27,
+     "prob_sin_sustituto": 0.2556,
+     "cuota_minima_sin_sustituto": 4.43
+    }
+   ]
+  },
+  {
+   "local": "Tenerife",
+   "visitante": "Ceuta",
+   "inicio_utc": "2026-11-15T13:00Z",
+   "selecciones": [
+    {
+     "clave": "Christian Gomis|a puerta|2",
+     "apuesta": "Christian Gomis a puerta 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 3.25,
+     "prob": 0.4549,
+     "margen_bet365": 0.1472,
+     "cuota_minima": 2.35,
+     "prob_sin_sustituto": 0.372,
+     "cuota_minima_sin_sustituto": 2.92
+    },
+    {
+     "clave": "Christian Gomis|a puerta|3",
+     "apuesta": "Christian Gomis a puerta 3+",
+     "tipo": "jugador",
+     "cuota_bet365": 9.0,
+     "prob": 0.223,
+     "margen_bet365": 0.1119,
+     "cuota_minima": 5.18,
+     "prob_sin_sustituto": 0.1661,
+     "cuota_minima_sin_sustituto": 7.35
+    },
+    {
+     "clave": "Kuki Zalazar|remates|3",
+     "apuesta": "Kuki Zalazar remates 3+",
+     "tipo": "jugador",
+     "cuota_bet365": 3.4,
+     "prob": 0.3529,
+     "margen_bet365": 0.0588,
+     "cuota_minima": 3.1,
+     "prob_sin_sustituto": 0.3184,
+     "cuota_minima_sin_sustituto": 3.47
+    },
+    {
+     "clave": "Kuki Zalazar|remates|2",
+     "apuesta": "Kuki Zalazar remates 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 1.83,
+     "prob": 0.5953,
+     "margen_bet365": 0.0489,
+     "cuota_minima": 1.77,
+     "prob_sin_sustituto": 0.553,
+     "cuota_minima_sin_sustituto": 1.91
+    },
+    {
+     "clave": "Christian Gomis|a puerta|4",
+     "apuesta": "Christian Gomis a puerta 4+",
+     "tipo": "jugador",
+     "cuota_bet365": 21.0,
+     "prob": 0.0947,
+     "margen_bet365": 0.0471,
+     "cuota_minima": 15.46,
+     "prob_sin_sustituto": 0.0655,
+     "cuota_minima_sin_sustituto": 28.2
+    },
+    {
+     "clave": "Kuki Zalazar|remates|4",
+     "apuesta": "Kuki Zalazar remates 4+",
+     "tipo": "jugador",
+     "cuota_bet365": 7.0,
+     "prob": 0.1831,
+     "margen_bet365": 0.0402,
+     "cuota_minima": 6.53,
+     "prob_sin_sustituto": 0.1628,
+     "cuota_minima_sin_sustituto": 7.53
+    },
+    {
+     "clave": "Kuki Zalazar|a puerta|1",
+     "apuesta": "Kuki Zalazar a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 2.5,
+     "prob": 0.4382,
+     "margen_bet365": 0.0382,
+     "cuota_minima": 2.45,
+     "prob_sin_sustituto": 0.4029,
+     "cuota_minima_sin_sustituto": 2.68
+    },
+    {
+     "clave": "Kuki Zalazar|remates|5",
+     "apuesta": "Kuki Zalazar remates 5+",
+     "tipo": "jugador",
+     "cuota_bet365": 17.0,
+     "prob": 0.0854,
+     "margen_bet365": 0.0266,
+     "cuota_minima": 18.06,
+     "prob_sin_sustituto": 0.0759,
+     "cuota_minima_sin_sustituto": 21.78
+    },
+    {
+     "clave": "Kuki Zalazar|a puerta|2",
+     "apuesta": "Kuki Zalazar a puerta 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 10.0,
+     "prob": 0.1258,
+     "margen_bet365": 0.0258,
+     "cuota_minima": 10.44,
+     "prob_sin_sustituto": 0.1093,
+     "cuota_minima_sin_sustituto": 12.61
+    }
+   ]
+  },
+  {
+   "local": "Granada",
+   "visitante": "Las Palmas",
+   "inicio_utc": "2026-11-15T15:15Z",
+   "selecciones": [
+    {
+     "clave": "Ivan Jaime|remates|3",
+     "apuesta": "Iván Jaime remates 3+",
+     "tipo": "jugador",
+     "cuota_bet365": 3.4,
+     "prob": 0.3318,
+     "margen_bet365": 0.0377,
+     "cuota_minima": 3.31,
+     "prob_sin_sustituto": 0.2758,
+     "cuota_minima_sin_sustituto": 4.07
+    },
+    {
+     "clave": "Ivan Jaime|remates|4",
+     "apuesta": "Iván Jaime remates 4+",
+     "tipo": "jugador",
+     "cuota_bet365": 7.0,
+     "prob": 0.1671,
+     "margen_bet365": 0.0243,
+     "cuota_minima": 7.29,
+     "prob_sin_sustituto": 0.1322,
+     "cuota_minima_sin_sustituto": 9.79
+    },
+    {
+     "clave": "Enzo Loiodice|remates|2",
+     "apuesta": "Enzo Loiodice remates 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 3.75,
+     "prob": 0.2905,
+     "margen_bet365": 0.0238,
+     "cuota_minima": 3.84,
+     "prob_sin_sustituto": 0.238,
+     "cuota_minima_sin_sustituto": 4.81
+    },
+    {
+     "clave": "Ivan Jaime|remates|2",
+     "apuesta": "Iván Jaime remates 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 1.8,
+     "prob": 0.5749,
+     "margen_bet365": 0.0194,
+     "cuota_minima": 1.84,
+     "prob_sin_sustituto": 0.5086,
+     "cuota_minima_sin_sustituto": 2.09
+    },
+    {
+     "clave": "Enzo Loiodice|remates|1",
+     "apuesta": "Enzo Loiodice remates 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 1.61,
+     "prob": 0.6373,
+     "margen_bet365": 0.0162,
+     "cuota_minima": 1.65,
+     "prob_sin_sustituto": 0.5779,
+     "cuota_minima_sin_sustituto": 1.83
+    },
+    {
+     "clave": "Juan Herzog|remates|1",
+     "apuesta": "Juanma Herzog remates 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 2.75,
+     "prob": 0.3788,
+     "margen_bet365": 0.0151,
+     "cuota_minima": 2.87,
+     "prob_sin_sustituto": 0.346,
+     "cuota_minima_sin_sustituto": 3.16
+    }
+   ]
+  },
+  {
+   "local": "Eibar",
+   "visitante": "Cadiz",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "selecciones": [
+    {
+     "clave": "Dilan Zarate|remates|1",
+     "apuesta": "Dilan Zárate remates 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 2.0,
+     "prob": 0.6087,
+     "margen_bet365": 0.1087,
+     "cuota_minima": 1.73,
+     "prob_sin_sustituto": 0.5493,
+     "cuota_minima_sin_sustituto": 1.93
+    },
+    {
+     "clave": "Dilan Zarate|remates|2",
+     "apuesta": "Dilan Zárate remates 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 5.5,
+     "prob": 0.261,
+     "margen_bet365": 0.0791,
+     "cuota_minima": 4.33,
+     "prob_sin_sustituto": 0.2122,
+     "cuota_minima_sin_sustituto": 5.49
+    },
+    {
+     "clave": "Dilan Zarate|a puerta|1",
+     "apuesta": "Dilan Zárate a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 4.33,
+     "prob": 0.3066,
+     "margen_bet365": 0.0756,
+     "cuota_minima": 3.62,
+     "prob_sin_sustituto": 0.2544,
+     "cuota_minima_sin_sustituto": 4.46
+    },
+    {
+     "clave": "Dilan Zarate|remates|3",
+     "apuesta": "Dilan Zárate remates 3+",
+     "tipo": "jugador",
+     "cuota_bet365": 17.0,
+     "prob": 0.0884,
+     "margen_bet365": 0.0296,
+     "cuota_minima": 17.12,
+     "prob_sin_sustituto": 0.0658,
+     "cuota_minima_sin_sustituto": 27.91
+    }
+   ]
+  },
+  {
+   "local": "Eldense",
+   "visitante": "Sabadell",
+   "inicio_utc": "2026-11-15T17:30Z",
+   "selecciones": [
+    {
+     "clave": "Jorge Rastrojo|a puerta|2",
+     "apuesta": "Jorge Rastrojo a puerta 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 4.0,
+     "prob": 0.3202,
+     "margen_bet365": 0.0702,
+     "cuota_minima": 3.45,
+     "prob_sin_sustituto": 0.2268,
+     "cuota_minima_sin_sustituto": 5.08
+    },
+    {
+     "clave": "Quadri Liameed|a puerta|1",
+     "apuesta": "Quadri Liameed a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 3.5,
+     "prob": 0.3374,
+     "margen_bet365": 0.0516,
+     "cuota_minima": 3.25,
+     "prob_sin_sustituto": 0.245,
+     "cuota_minima_sin_sustituto": 4.65
+    },
+    {
+     "clave": "Jorge Rastrojo|a puerta|3",
+     "apuesta": "Jorge Rastrojo a puerta 3+",
+     "tipo": "jugador",
+     "cuota_bet365": 13.0,
+     "prob": 0.1244,
+     "margen_bet365": 0.0475,
+     "cuota_minima": 10.6,
+     "prob_sin_sustituto": 0.0747,
+     "cuota_minima_sin_sustituto": 22.37
+    },
+    {
+     "clave": "Jorge Rastrojo|a puerta|1",
+     "apuesta": "Jorge Rastrojo a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 1.61,
+     "prob": 0.6626,
+     "margen_bet365": 0.0415,
+     "cuota_minima": 1.58,
+     "prob_sin_sustituto": 0.562,
+     "cuota_minima_sin_sustituto": 1.88
+    },
+    {
+     "clave": "Quadri Liameed|remates|1",
+     "apuesta": "Quadri Liameed remates 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 1.66,
+     "prob": 0.5993,
+     "margen_bet365": -0.0031,
+     "cuota_minima": 1.76,
+     "prob_sin_sustituto": 0.4788,
+     "cuota_minima_sin_sustituto": 2.23
+    },
+    {
+     "clave": "Ton Ripoll|remates|1",
+     "apuesta": "Ton Ripoll remates 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 1.5,
+     "prob": 0.6408,
+     "margen_bet365": -0.0258,
+     "cuota_minima": 1.64,
+     "prob_sin_sustituto": 0.5372,
+     "cuota_minima_sin_sustituto": 1.97
+    }
+   ]
+  },
+  {
+   "local": "Albacete",
+   "visitante": "Celta B",
+   "inicio_utc": "2026-11-16T19:30Z",
+   "selecciones": [
+    {
+     "clave": "Lorenzo Aguado|remates|2",
+     "apuesta": "Lorenzo Aguado remates 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 3.5,
+     "prob": 0.3262,
+     "margen_bet365": 0.0405,
+     "cuota_minima": 3.38,
+     "prob_sin_sustituto": 0.2047,
+     "cuota_minima_sin_sustituto": 5.72
+    },
+    {
+     "clave": "Lorenzo Aguado|remates|1",
+     "apuesta": "Lorenzo Aguado remates 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 1.57,
+     "prob": 0.6694,
+     "margen_bet365": 0.0325,
+     "cuota_minima": 1.56,
+     "prob_sin_sustituto": 0.5405,
+     "cuota_minima_sin_sustituto": 1.96
+    },
+    {
+     "clave": "Jesus Vallejo|remates|2",
+     "apuesta": "Jesús Vallejo remates 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 5.0,
+     "prob": 0.2304,
+     "margen_bet365": 0.0304,
+     "cuota_minima": 4.99,
+     "prob_sin_sustituto": 0.1687,
+     "cuota_minima_sin_sustituto": 7.21
+    },
+    {
+     "clave": "Jesus Vallejo|remates|1",
+     "apuesta": "Jesús Vallejo remates 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 1.83,
+     "prob": 0.5766,
+     "margen_bet365": 0.0301,
+     "cuota_minima": 1.83,
+     "prob_sin_sustituto": 0.4955,
+     "cuota_minima_sin_sustituto": 2.15
+    },
+    {
+     "clave": "Lorenzo Aguado|remates|3",
+     "apuesta": "Lorenzo Aguado remates 3+",
+     "tipo": "jugador",
+     "cuota_bet365": 10.0,
+     "prob": 0.1272,
+     "margen_bet365": 0.0272,
+     "cuota_minima": 10.29,
+     "prob_sin_sustituto": 0.0622,
+     "cuota_minima_sin_sustituto": 31.09
+    },
+    {
+     "clave": "Joel Lopez|a puerta|1",
+     "apuesta": "Joel Lopez Salguero a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 6.0,
+     "prob": 0.1924,
+     "margen_bet365": 0.0257,
+     "cuota_minima": 6.16,
+     "prob_sin_sustituto": 0.1399,
+     "cuota_minima_sin_sustituto": 9.1
+    },
+    {
+     "clave": "Angel Arcos|a puerta|2",
+     "apuesta": "Ángel Arcos a puerta 2+",
+     "tipo": "jugador",
+     "cuota_bet365": 7.0,
+     "prob": 0.1651,
+     "margen_bet365": 0.0222,
+     "cuota_minima": 7.4,
+     "prob_sin_sustituto": 0.125,
+     "cuota_minima_sin_sustituto": 10.53
+    },
+    {
+     "clave": "Angel Arcos|a puerta|1",
+     "apuesta": "Ángel Arcos a puerta 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 2.1,
+     "prob": 0.4958,
+     "margen_bet365": 0.0196,
+     "cuota_minima": 2.15,
+     "prob_sin_sustituto": 0.4287,
+     "cuota_minima_sin_sustituto": 2.51
+    },
+    {
+     "clave": "Joel Lopez|remates|1",
+     "apuesta": "Joel Lopez Salguero remates 1+",
+     "tipo": "jugador",
+     "cuota_bet365": 2.25,
+     "prob": 0.4436,
+     "margen_bet365": -0.0008,
+     "cuota_minima": 2.42,
+     "prob_sin_sustituto": 0.3853,
+     "cuota_minima_sin_sustituto": 2.81
+    }
+   ]
+  }
+ ],
+ "nota": "Sin Leganes-Burgos (ya empezado); con Eldense-Sabadell y Albacete-Celta B de suelta_2"
+}
