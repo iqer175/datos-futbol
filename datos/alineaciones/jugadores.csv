@@ -91149,3 +91149,988 @@ espn_id,equipo_id,equipo,lado,jugador_id,jugador,posicion,titular,entro,salio,go
 401883140,7320,Eldense,away,384544,Pau Cabanes,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-09,24
 401883140,7320,Eldense,away,346837,Floris Smand,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-09,0
 401883140,7320,Eldense,away,331424,Juan Palomares,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-09,0
+401883136,17534,Leganés,home,225561,Luca Zidane,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,LaLiga Hypermotion,2026-11-13,90
+401883136,17534,Leganés,home,153442,Ignasi Miquel,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-13,90
+401883136,17534,Leganés,home,300350,Ruben Pulido Peñas,CD-R,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-13,90
+401883136,17534,Leganés,home,356366,Marvel,LB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-13,90
+401883136,17534,Leganés,home,231405,Álvaro Tejero,RB,True,False,True,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,78
+401883136,17534,Leganés,home,312013,Álex Millán,AM,True,False,True,1.0,0.0,2.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,67
+401883136,17534,Leganés,home,144587,Dani Rodríguez,LM,True,False,True,1.0,0.0,1.0,1.0,1.0,0.0,3.0,,0.0,LaLiga Hypermotion,2026-11-13,78
+401883136,17534,Leganés,home,264124,Miguel Atienza,RM,True,False,False,0.0,0.0,1.0,0.0,1.0,0.0,2.0,,1.0,LaLiga Hypermotion,2026-11-13,90
+401883136,17534,Leganés,home,154446,Álvaro Morata,F,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,2.0,,1.0,LaLiga Hypermotion,2026-11-13,90
+401883136,17534,Leganés,home,354342,Álex Sancris,AM-L,True,False,True,0.0,1.0,1.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,67
+401883136,17534,Leganés,home,418538,Unax Del Cura,AM-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-13,61
+401883136,17534,Leganés,home,319290,Yassine Kechta,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-13,29
+401883136,17534,Leganés,home,113097,Raúl Fernández,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-13,0
+401883136,17534,Leganés,home,5327777,Diego Pérez Moreno,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,0
+401883136,17534,Leganés,home,5326033,Jorge Martínez Jiménez,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-13,12
+401883136,17534,Leganés,home,415245,Nico Lozano,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-13,0
+401883136,17534,Leganés,home,325005,Naim García,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-13,23
+401883136,17534,Leganés,home,395585,Suleiman El Haddadi Mohamed,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,0
+401883136,17534,Leganés,home,260078,Serge Patrick Njoh,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-13,23
+401883136,17534,Leganés,home,418974,Jorge Herrero,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,0
+401883136,17534,Leganés,home,306400,Zico Buurmeester,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-13,12
+401883136,17534,Leganés,home,290824,Enric Franquesa,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,0
+401883136,12597,Burgos,away,189960,Ander Cantero,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,LaLiga Hypermotion,2026-11-13,90
+401883136,12597,Burgos,away,259821,Gregorio Sierra,CD-L,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,2.0,,3.0,LaLiga Hypermotion,2026-11-13,90
+401883136,12597,Burgos,away,245822,Oier Luengo,CD-R,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,3.0,,3.0,LaLiga Hypermotion,2026-11-13,56
+401883136,12597,Burgos,away,279554,Ignasi Vilarrasa,LB,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,3.0,LaLiga Hypermotion,2026-11-13,90
+401883136,12597,Burgos,away,375963,Álex Lizancos,RB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,3.0,LaLiga Hypermotion,2026-11-13,90
+401883136,12597,Burgos,away,231344,Curro,AM,True,False,True,0.0,0.0,1.0,0.0,1.0,0.0,2.0,,3.0,LaLiga Hypermotion,2026-11-13,67
+401883136,12597,Burgos,away,34390,Pablo Galdames,LM,True,False,True,0.0,0.0,2.0,0.0,1.0,0.0,1.0,,3.0,LaLiga Hypermotion,2026-11-13,56
+401883136,12597,Burgos,away,302945,Unai Vencedor,RM,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,4.0,,3.0,LaLiga Hypermotion,2026-11-13,90
+401883136,12597,Burgos,away,343629,Alex Fores,F,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,3.0,LaLiga Hypermotion,2026-11-13,67
+401883136,12597,Burgos,away,331154,Javi Llabrés,AM-L,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,3.0,LaLiga Hypermotion,2026-11-13,76
+401883136,12597,Burgos,away,333167,Alberto Dadie,AM-R,True,False,False,0.0,0.0,5.0,0.0,0.0,0.0,3.0,,3.0,LaLiga Hypermotion,2026-11-13,90
+401883136,12597,Burgos,away,414055,Iván Martínez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,0
+401883136,12597,Burgos,away,393967,Irian Ribas,SUB,False,True,False,1.0,0.0,2.0,2.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,14
+401883136,12597,Burgos,away,332595,Saúl del Cerro,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,0
+401883136,12597,Burgos,away,288761,José Gragera,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,0
+401883136,12597,Burgos,away,388525,Marcelo Expósito,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,0
+401883136,12597,Burgos,away,395802,Marc Monedero,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-13,0
+401883136,12597,Burgos,away,279504,Fermín García,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,23
+401883136,12597,Burgos,away,331721,Brais Martínez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,0
+401883136,12597,Burgos,away,268602,Sergio González,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,34
+401883136,12597,Burgos,away,395588,Mario Cantero,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,0
+401883136,12597,Burgos,away,388441,Santiago Lencina,SUB,False,True,False,0.0,1.0,4.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-13,34
+401883136,12597,Burgos,away,261183,Victor Mollejo,SUB,False,True,False,0.0,0.0,2.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-13,23
+401883114,95,Real Valladolid,home,271345,Kaj de Rooij,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883114,95,Real Valladolid,home,313340,Mathis Lachuer,,False,True,False,0.0,0.0,1.0,1.0,1.0,0.0,2.0,,1.0,LaLiga Hypermotion,2026-11-14,29
+401883114,95,Real Valladolid,home,364090,Robin Van Duiven,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883114,95,Real Valladolid,home,353477,Yeray Cabanzón,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883114,95,Real Valladolid,home,388809,Daniel Martín,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883114,95,Real Valladolid,home,332089,Ramón Martínez,,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,3.0,,1.0,LaLiga Hypermotion,2026-11-14,85
+401883114,95,Real Valladolid,home,353854,Daniel Pérez,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883114,95,Real Valladolid,home,331411,Luis Rodriguez,,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-14,29
+401883114,95,Real Valladolid,home,236070,Ryotaro Ito,,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,19
+401883114,95,Real Valladolid,home,367677,Iván Garriel,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883114,95,Real Valladolid,home,363540,Victor Barberà,,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,19
+401883114,95,Real Valladolid,home,324949,Pablo Tomeo,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883114,95,Real Valladolid,home,347431,Álvaro Aceves,G,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,LaLiga Hypermotion,2026-11-14,90
+401883114,95,Real Valladolid,home,347433,David Torres,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883114,95,Real Valladolid,home,273291,Miguel Rubio,CD-R,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883114,95,Real Valladolid,home,168363,Carlos Clerc,LB,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883114,95,Real Valladolid,home,331988,Trilli,RB,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,5
+401883114,95,Real Valladolid,home,371617,Adrián Arnun,M,True,False,False,0.0,0.0,1.0,1.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883114,95,Real Valladolid,home,276578,Stanko Juric,CM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-14,71
+401883114,95,Real Valladolid,home,367679,Víctor Fernández,AM,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-14,71
+401883114,95,Real Valladolid,home,276450,Julien Ponceau,LM,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883114,95,Real Valladolid,home,318125,Thiago Ojeda,RM,True,False,True,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-14,61
+401883114,95,Real Valladolid,home,324954,Tai Abed,CF-R,True,False,True,0.0,0.0,1.0,1.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-14,61
+401883114,4438,Castellón,away,290546,Romain Matthys,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,LaLiga Hypermotion,2026-11-14,90
+401883114,4438,Castellón,away,192132,Alberto,CD,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,90
+401883114,4438,Castellón,away,303324,Agustín Sienra,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,90
+401883114,4438,Castellón,away,289894,Jeremy Mellot,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-14,90
+401883114,4438,Castellón,away,331546,Álvaro Martín,CM-L,True,False,True,0.0,0.0,3.0,0.0,1.0,0.0,3.0,,0.0,LaLiga Hypermotion,2026-11-14,69
+401883114,4438,Castellón,away,261186,Diego Hernández Barriuso,CM-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,90
+401883114,4438,Castellón,away,227414,Iñigo Córdoba,LM,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-14,90
+401883114,4438,Castellón,away,251935,Juanjo,RM,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,69
+401883114,4438,Castellón,away,412188,Ousmane Camara,F,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-14,82
+401883114,4438,Castellón,away,274984,Adam Jakobsen,CF-L,True,False,True,1.0,0.0,4.0,3.0,1.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-14,82
+401883114,4438,Castellón,away,375769,Pablo Santiago,CF-R,True,False,True,0.0,0.0,2.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-14,58
+401883114,4438,Castellón,away,354041,Martín Conde,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883114,4438,Castellón,away,272720,Jari Vlak,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-14,21
+401883114,4438,Castellón,away,388057,Lucas Alcázar,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,8
+401883114,4438,Castellón,away,311793,Varo,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-14,8
+401883114,4438,Castellón,away,355900,Ilias Kostis,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883114,4438,Castellón,away,153315,Federico Ceccherini,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883114,4438,Castellón,away,375517,Sergi Torner,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-14,0
+401883114,4438,Castellón,away,297042,David,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883114,4438,Castellón,away,401594,Hamza Bellari,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883114,4438,Castellón,away,407949,Michal Willmann,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883114,4438,Castellón,away,89223,Antonio Gala,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-14,32
+401883114,4438,Castellón,away,264285,Raúl Sánchez,SUB,False,True,False,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,21
+401883134,20983,Real Sociedad II,home,406381,Lander Olasagasti,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,LaLiga Hypermotion,2026-11-14,90
+401883134,20983,Real Sociedad II,home,411583,Iker Calderon,CD-L,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883134,20983,Real Sociedad II,home,396607,Luken Beitia,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883134,20983,Real Sociedad II,home,396608,Jon Balda,LB,True,False,True,0.0,0.0,3.0,2.0,1.0,0.0,3.0,,2.0,LaLiga Hypermotion,2026-11-14,87
+401883134,20983,Real Sociedad II,home,406386,Jon Garro,RB,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883134,20983,Real Sociedad II,home,406385,Jon Eceizabarrena,AM,True,False,True,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-14,58
+401883134,20983,Real Sociedad II,home,366886,Alex Lebarbier,LM,True,False,False,1.0,0.0,1.0,1.0,0.0,0.0,2.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883134,20983,Real Sociedad II,home,406396,Tomás Carbonell,RM,True,False,False,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883134,20983,Real Sociedad II,home,406384,Javier Soroeta,F,True,False,True,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,58
+401883134,20983,Real Sociedad II,home,396613,Alex Marchal,AM-L,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-14,87
+401883134,20983,Real Sociedad II,home,387496,Daniel Díaz,AM-R,True,False,True,1.0,0.0,1.0,1.0,1.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,73
+401883134,20983,Real Sociedad II,home,396610,Arkaitz Mariezkurrena,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,3
+401883134,20983,Real Sociedad II,home,379457,Iñaki Rupérez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883134,20983,Real Sociedad II,home,415441,Unax Larrañaga,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883134,20983,Real Sociedad II,home,411582,Joan Oleaga,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883134,20983,Real Sociedad II,home,410486,Ibai Aguirre,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883134,20983,Real Sociedad II,home,406377,Unax Agote,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,3
+401883134,20983,Real Sociedad II,home,406383,Gorka Carrera,SUB,False,True,False,0.0,0.0,4.0,0.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-14,32
+401883134,20983,Real Sociedad II,home,418089,Andrews Adjabeng,SUB,False,True,False,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,17
+401883134,20983,Real Sociedad II,home,406389,Gorka Gorosabel,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,32
+401883134,20983,Real Sociedad II,home,368327,Aitor Fraga,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-14,0
+401883134,20983,Real Sociedad II,home,406380,Iker Ropero,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883134,20983,Real Sociedad II,home,378292,Sydney Osazuwa,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883134,3788,Sporting Gijón,away,192718,Rubén Yáñez,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,LaLiga Hypermotion,2026-11-14,90
+401883134,3788,Sporting Gijón,away,209736,Jorge,CD-L,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883134,3788,Sporting Gijón,away,388802,Aimar Duñabeitia,CD-R,True,False,False,1.0,0.0,2.0,1.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883134,3788,Sporting Gijón,away,376421,Andrés Cuenca,LB,True,False,False,0.0,1.0,2.0,0.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883134,3788,Sporting Gijón,away,303933,Guillermo Rosas,RB,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883134,3788,Sporting Gijón,away,311586,Nacho Martínez,CM-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883134,3788,Sporting Gijón,away,261615,Àlex Corredera,CM-R,True,False,False,1.0,0.0,3.0,1.0,0.0,1.0,2.0,,2.0,LaLiga Hypermotion,2026-11-14,80
+401883134,3788,Sporting Gijón,away,304369,Nikita Iosifov,LM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-14,70
+401883134,3788,Sporting Gijón,away,303829,Gaspar Campos,RM,True,False,True,0.0,0.0,1.0,1.0,1.0,0.0,2.0,,2.0,LaLiga Hypermotion,2026-11-14,57
+401883134,3788,Sporting Gijón,away,422029,Mata,CF-L,True,False,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883134,3788,Sporting Gijón,away,421249,Miguel Conde,CF-R,True,False,True,0.0,0.0,1.0,0.0,1.0,0.0,2.0,,2.0,LaLiga Hypermotion,2026-11-14,57
+401883134,3788,Sporting Gijón,away,217524,Emanuel Gularte,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883134,3788,Sporting Gijón,away,333166,Egoitz Arana,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-14,0
+401883134,3788,Sporting Gijón,away,359913,Andrés Ferrari,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,33
+401883134,3788,Sporting Gijón,away,341498,Diego Sanchez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883134,3788,Sporting Gijón,away,415368,Bruno Rubio,SUB,False,True,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,16
+401883134,3788,Sporting Gijón,away,414177,Christian Ferreres,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883134,3788,Sporting Gijón,away,389359,Iker Martínez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883134,3788,Sporting Gijón,away,124228,Mamadou Loum,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,4
+401883134,3788,Sporting Gijón,away,128372,Pablo Vázquez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883134,3788,Sporting Gijón,away,265985,Hugo Guillamón,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883134,3788,Sporting Gijón,away,409509,Enol Prendes,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,33
+401883118,6832,Almería,home,87897,Andrés Fernández,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,LaLiga Hypermotion,2026-11-14,90
+401883118,6832,Almería,home,283833,Federico Bonini,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883118,6832,Almería,home,152557,Jorge Pulido,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883118,6832,Almería,home,344843,Leonardo Lelo,LB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883118,6832,Almería,home,268439,Chumi,RB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883118,6832,Almería,home,307917,Sergio Arribas,AM,True,False,True,1.0,0.0,1.0,1.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-14,82
+401883118,6832,Almería,home,214275,Javi Muñoz,LM,True,False,False,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883118,6832,Almería,home,222373,Mikel Vesga,RM,True,False,True,0.0,0.0,0.0,0.0,1.0,0.0,3.0,,1.0,LaLiga Hypermotion,2026-11-14,70
+401883118,6832,Almería,home,277717,Miguel de la Fuente,F,True,False,True,1.0,0.0,4.0,3.0,0.0,0.0,2.0,,1.0,LaLiga Hypermotion,2026-11-14,82
+401883118,6832,Almería,home,376425,Quim Junyent,AM-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883118,6832,Almería,home,193130,Adri Embarba,AM-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-14,70
+401883118,6832,Almería,home,414761,Andrej Popovic,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883118,6832,Almería,home,324005,Guilherme Borges Guedes,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-14,20
+401883118,6832,Almería,home,161896,Fernando Martínez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-14,0
+401883118,6832,Almería,home,377529,Áron Yaakobishvili,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-14,0
+401883118,6832,Almería,home,306578,Jon Morcillo,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883118,6832,Almería,home,361458,Thalys,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883118,6832,Almería,home,3115619,Daniel Sánchez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883118,6832,Almería,home,297291,Daijiro Chirino,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,20
+401883118,6832,Almería,home,178896,Álex Muñoz,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,8
+401883118,6832,Almería,home,175010,Léo Baptistão,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-14,8
+401883118,6832,Almería,home,286167,Álex Sola,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883118,20179,FC Andorra,away,203061,Pau López,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,LaLiga Hypermotion,2026-11-14,90
+401883118,20179,FC Andorra,away,219073,Diego Alende,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,1.0,4.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883118,20179,FC Andorra,away,347509,Marc Bombardó,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,3.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883118,20179,FC Andorra,away,389455,Marc Domenech,LB,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,2.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883118,20179,FC Andorra,away,267058,Thomas Carrique,RB,True,False,False,0.0,0.0,2.0,1.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883118,20179,FC Andorra,away,332016,Nacho Quintana,AM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,61
+401883118,20179,FC Andorra,away,320854,Randy Schneider,LM,True,False,False,0.0,0.0,3.0,1.0,1.0,0.0,3.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883118,20179,FC Andorra,away,171552,Sergio Molina,RM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-14,45
+401883118,20179,FC Andorra,away,331370,Jordi Cano,F,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-14,45
+401883118,20179,FC Andorra,away,331382,Moró Sidibe,AM-L,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-14,84
+401883118,20179,FC Andorra,away,396027,Diego Diaz,AM-R,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-14,45
+401883118,20179,FC Andorra,away,354532,Lautaro Spatz,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883118,20179,FC Andorra,away,370603,Juan Sebastian Serrano,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883118,20179,FC Andorra,away,359907,Álex Calvo,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,6
+401883118,20179,FC Andorra,away,324809,Enes Sali,SUB,False,True,False,0.0,0.0,2.0,1.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-14,45
+401883118,20179,FC Andorra,away,344667,Julian Rijkhoff,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883118,20179,FC Andorra,away,259097,Stefan Golubović,SUB,False,True,False,0.0,0.0,4.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,45
+401883118,20179,FC Andorra,away,353815,Hugo Solozabal,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-14,45
+401883118,20179,FC Andorra,away,207729,Nico Ratti,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-14,0
+401883118,20179,FC Andorra,away,236593,Andoni López,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883118,20179,FC Andorra,away,194253,Hugo López,SUB,False,True,False,1.0,0.0,3.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,29
+401883118,20179,FC Andorra,away,3128000,Tiago Olmedo Vila,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883135,84,Mallorca,home,290043,Arnau Tenas,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,LaLiga Hypermotion,2026-11-14,90
+401883135,84,Mallorca,home,381633,Aboubaka Soumahoro,CD-L,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,3.0,LaLiga Hypermotion,2026-11-14,90
+401883135,84,Mallorca,home,222333,Antonio Raíllo,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,3.0,LaLiga Hypermotion,2026-11-14,90
+401883135,84,Mallorca,home,172998,Alberto Moreno,LB,True,False,True,0.0,0.0,1.0,1.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-14,45
+401883135,84,Mallorca,home,279511,Antonio Sánchez,RB,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,3.0,,2.0,LaLiga Hypermotion,2026-11-14,60
+401883135,84,Mallorca,home,165519,Sergi Darder,CM-L,True,False,False,2.0,0.0,4.0,3.0,0.0,0.0,0.0,,3.0,LaLiga Hypermotion,2026-11-14,90
+401883135,84,Mallorca,home,119310,Álex Sala,CM-R,True,False,False,0.0,0.0,3.0,2.0,0.0,0.0,1.0,,3.0,LaLiga Hypermotion,2026-11-14,90
+401883135,84,Mallorca,home,381682,Adrián Liso,LM,True,False,False,0.0,2.0,2.0,0.0,0.0,0.0,0.0,,3.0,LaLiga Hypermotion,2026-11-14,90
+401883135,84,Mallorca,home,291437,Arnau Puigmal,RM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,2.0,LaLiga Hypermotion,2026-11-14,60
+401883135,84,Mallorca,home,206110,Pablo Torre,CF-L,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,3.0,LaLiga Hypermotion,2026-11-14,89
+401883135,84,Mallorca,home,331787,Fuentes,CF-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,3.0,LaLiga Hypermotion,2026-11-14,89
+401883135,84,Mallorca,home,422183,Miguel Calatayud,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-14,30
+401883135,84,Mallorca,home,333922,Toni Dols,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-14,0
+401883135,84,Mallorca,home,302590,Daniel Luna,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883135,84,Mallorca,home,3132293,Iago Mendes Vicens,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883135,84,Mallorca,home,232275,Toni Lato,SUB,False,True,False,0.0,0.0,1.0,0.0,1.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,45
+401883135,84,Mallorca,home,32501,Iván Cuéllar,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-14,0
+401883135,84,Mallorca,home,190569,Luis Orejuela,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,1
+401883135,84,Mallorca,home,257211,Adam Buksa,SUB,False,True,False,1.0,0.0,1.0,1.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-14,30
+401883135,84,Mallorca,home,155935,Abdón Prats,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,1
+401883135,84,Mallorca,home,3132303,Alejandro Yerga González,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883135,84,Mallorca,home,361266,Justin-Noel Kalumba,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883135,84,Mallorca,home,415866,Jandro García,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883135,8447,Córdoba,away,362882,Guilherme Fernandes,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,LaLiga Hypermotion,2026-11-14,90
+401883135,8447,Córdoba,away,240592,Rubén González,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,3.0,LaLiga Hypermotion,2026-11-14,90
+401883135,8447,Córdoba,away,347358,Juan Gutiérrez,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,3.0,LaLiga Hypermotion,2026-11-14,90
+401883135,8447,Córdoba,away,332007,Dani Tasende,LB,True,False,True,0.0,0.0,1.0,0.0,1.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-14,82
+401883135,8447,Córdoba,away,381110,Daniel Budesca,RB,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,1.0,LaLiga Hypermotion,2026-11-14,82
+401883135,8447,Córdoba,away,395130,Adnane Ghailan,AM,True,False,False,2.0,0.0,4.0,2.0,0.0,0.0,5.0,,3.0,LaLiga Hypermotion,2026-11-14,90
+401883135,8447,Córdoba,away,108464,Isma Ruiz,LM,True,False,False,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,3.0,LaLiga Hypermotion,2026-11-14,90
+401883135,8447,Córdoba,away,415364,Eder García,RM,True,False,False,0.0,0.0,2.0,0.0,1.0,0.0,1.0,,3.0,LaLiga Hypermotion,2026-11-14,90
+401883135,8447,Córdoba,away,331812,Percan,F,True,False,True,0.0,2.0,3.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-14,78
+401883135,8447,Córdoba,away,363063,Salim El Jebari,AM-L,True,False,True,1.0,0.0,1.0,1.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-14,64
+401883135,8447,Córdoba,away,303809,Diego Bri,AM-R,True,False,True,0.0,0.0,1.0,0.0,1.0,0.0,4.0,,1.0,LaLiga Hypermotion,2026-11-14,78
+401883135,8447,Córdoba,away,289625,Álex Martín,SUB,False,True,False,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,8
+401883135,8447,Córdoba,away,113187,Victor Sánchez,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,3.0,,2.0,LaLiga Hypermotion,2026-11-14,26
+401883135,8447,Córdoba,away,353812,Ibai Sanz,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883135,8447,Córdoba,away,264083,Carlos Albarrán,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883135,8447,Córdoba,away,24278,Iker Álvarez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-14,0
+401883135,8447,Córdoba,away,378408,Egoitz Muñoz,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,8
+401883135,8447,Córdoba,away,359361,Enol Rodríguez,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,12
+401883135,8447,Córdoba,away,312005,Damián,SUB,False,True,False,0.0,0.0,1.0,1.0,1.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,12
+401883135,8447,Córdoba,away,141666,Nélson Monte,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883135,8447,Córdoba,away,390844,Alejandro Arevalo,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-14,0
+401883135,8447,Córdoba,away,297164,Theo Zidane,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883115,92,Real Oviedo,home,200964,Aarón Escandell,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,LaLiga Hypermotion,2026-11-14,90
+401883115,92,Real Oviedo,home,312376,Carlos Domínguez,CD-L,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883115,92,Real Oviedo,home,192796,David Costas,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,5.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883115,92,Real Oviedo,home,395613,Samu Rodríguez,LB,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,2.0,,2.0,LaLiga Hypermotion,2026-11-14,88
+401883115,92,Real Oviedo,home,157965,David Jiménez,RB,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883115,92,Real Oviedo,home,396611,Mikel Goti,AM,True,False,False,0.0,0.0,3.0,0.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883115,92,Real Oviedo,home,253732,Alberto Reina,LM,True,False,True,1.0,0.0,1.0,1.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,66
+401883115,92,Real Oviedo,home,347357,Youness Lachhab,RM,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,90
+401883115,92,Real Oviedo,home,304881,Alexandru Mihai Isfan,F,True,False,True,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-14,78
+401883115,92,Real Oviedo,home,333244,Estanis Pedrola,AM-L,True,False,True,0.0,0.0,1.0,1.0,1.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-14,66
+401883115,92,Real Oviedo,home,304332,Ilyas Chaira,AM-R,True,False,True,0.0,1.0,3.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-14,77
+401883115,92,Real Oviedo,home,303968,Daniel Villahermosa,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,13
+401883115,92,Real Oviedo,home,3108501,Víctor García Mingo,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,2
+401883115,92,Real Oviedo,home,242382,Jacobo González,SUB,False,True,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,24
+401883115,92,Real Oviedo,home,320768,Aritz Aldasoro,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883115,92,Real Oviedo,home,197906,Carlos Fernández,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883115,92,Real Oviedo,home,184640,José Luis Morales,SUB,False,True,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,12
+401883115,92,Real Oviedo,home,240102,Nacho Vidal,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883115,92,Real Oviedo,home,155392,Juan Cruz,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883115,92,Real Oviedo,home,372860,Marco Esteban,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883115,92,Real Oviedo,home,331457,Miguel Narváez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-14,0
+401883115,92,Real Oviedo,home,376695,Diego Menéndez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883115,92,Real Oviedo,home,353537,Pablo Sáenz,SUB,False,True,False,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-14,24
+401883115,9812,Girona,away,164469,Paulo Gazzaniga,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,LaLiga Hypermotion,2026-11-14,90
+401883115,9812,Girona,away,297825,Alejandro Francés,CD-L,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883115,9812,Girona,away,160740,David López,CD-R,True,False,False,0.0,0.0,2.0,1.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883115,9812,Girona,away,30377,Álex Moreno,LB,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883115,9812,Girona,away,265992,Mateu Morey,RB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883115,9812,Girona,away,375753,Izan González,CM-L,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883115,9812,Girona,away,242383,Fran Beltrán,CM-R,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883115,9812,Girona,away,279748,Unai Hernandez,LM,True,False,True,0.0,0.0,3.0,1.0,1.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-14,60
+401883115,9812,Girona,away,261468,Carles Pérez,RM,True,False,True,0.0,0.0,4.0,1.0,0.0,0.0,2.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883115,9812,Girona,away,406305,Oleksandr Pishchur,CF-L,True,False,True,1.0,1.0,3.0,1.0,0.0,0.0,2.0,,1.0,LaLiga Hypermotion,2026-11-14,90
+401883115,9812,Girona,away,261613,Abel Ruiz,CF-R,True,False,True,1.0,0.0,1.0,1.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-14,60
+401883115,9812,Girona,away,259908,Sergi Puig,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-14,0
+401883115,9812,Girona,away,113737,Cristhian Stuani,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-14,1
+401883115,9812,Girona,away,241139,Abdul Mumin,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,1
+401883115,9812,Girona,away,3139006,Alex Cantarell Rull,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883115,9812,Girona,away,152166,Portu,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-14,30
+401883115,9812,Girona,away,384393,Lancinet Kourouma,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-14,1
+401883115,9812,Girona,away,215717,Donny van de Beek,SUB,False,True,False,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,30
+401883115,9812,Girona,away,3118648,Guillem Badía Gutiérrez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883115,9812,Girona,away,409290,Gibert Jordana,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883115,9812,Girona,away,367976,Vladyslav Krapyvtsov,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-14,0
+401883115,9812,Girona,away,297369,Ivan Ruiz Morante,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-14,0
+401883113,245,Tenerife,home,400058,Gabriel Lozano,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,LaLiga Hypermotion,2026-11-15,90
+401883113,245,Tenerife,home,235018,Anthony Landázuri,CD-L,True,False,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,90
+401883113,245,Tenerife,home,355507,Neal Viereck,CD-R,True,False,False,1.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,90
+401883113,245,Tenerife,home,308453,David Rodríguez Ramos,LB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,90
+401883113,245,Tenerife,home,377597,César Álvarez,RB,True,False,True,0.0,0.0,2.0,0.0,1.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-15,87
+401883113,245,Tenerife,home,102805,Jesús Álvarez,CM-L,True,False,False,0.0,0.0,1.0,1.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-15,90
+401883113,245,Tenerife,home,412263,Fabricio,CM-R,True,False,True,0.0,1.0,0.0,0.0,1.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,78
+401883113,245,Tenerife,home,231574,Nacho Gil,LM,True,False,True,1.0,1.0,2.0,1.0,0.0,0.0,4.0,,0.0,LaLiga Hypermotion,2026-11-15,87
+401883113,245,Tenerife,home,331987,Noel López,RM,True,False,True,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,62
+401883113,245,Tenerife,home,276634,Enric Gallego,CF-L,True,False,False,0.0,0.0,3.0,0.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-15,90
+401883113,245,Tenerife,home,322156,Christian Gomis,CF-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-15,62
+401883113,245,Tenerife,home,324482,Iván Chapela,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883113,245,Tenerife,home,363722,Anes Krdzalic,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883113,245,Tenerife,home,220073,Mauro Pittón,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,3
+401883113,245,Tenerife,home,195785,Víctor Moreno,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,28
+401883113,245,Tenerife,home,185866,Juanjo,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,12
+401883113,245,Tenerife,home,222379,Gerard Valentín,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,28
+401883113,245,Tenerife,home,204899,José León,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883113,245,Tenerife,home,130137,Marc Mateu,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,3
+401883113,245,Tenerife,home,84064,Jorge Moreno,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883113,245,Tenerife,home,388804,Oier Gastesi,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-15,0
+401883113,245,Tenerife,home,346838,Roko Jureskin,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883113,245,Tenerife,home,311533,Martin Pecar,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883113,5404,Ceuta,away,218218,Guillermo,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,LaLiga Hypermotion,2026-11-15,90
+401883113,5404,Ceuta,away,207568,Yann Bodiger,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-15,90
+401883113,5404,Ceuta,away,175089,Carlos Hernández,CD-R,True,False,False,0.0,0.0,4.0,0.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-15,90
+401883113,5404,Ceuta,away,261110,Redru,LB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-15,90
+401883113,5404,Ceuta,away,320874,Alex Petxarromán,RB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-15,90
+401883113,5404,Ceuta,away,250658,Kuki Zalazar,AM,True,False,True,0.0,0.0,5.0,1.0,0.0,0.0,2.0,,2.0,LaLiga Hypermotion,2026-11-15,87
+401883113,5404,Ceuta,away,300952,Alejandro Meléndez,LM,True,False,True,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-15,78
+401883113,5404,Ceuta,away,357345,Marino Illescas,RM,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,2.0,LaLiga Hypermotion,2026-11-15,90
+401883113,5404,Ceuta,away,276349,Jordi Escobar,F,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,1.0,,2.0,LaLiga Hypermotion,2026-11-15,90
+401883113,5404,Ceuta,away,279875,Alejandro Camacho,AM-L,True,False,True,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-15,45
+401883113,5404,Ceuta,away,311104,Edgar Sevikyan,AM-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-15,66
+401883113,5404,Ceuta,away,419964,Gabriel Okoro,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-15,24
+401883113,5404,Ceuta,away,354257,Capa,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883113,5404,Ceuta,away,3141586,Abraham Bueno Espinosa,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-15,12
+401883113,5404,Ceuta,away,402185,Umaru,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883113,5404,Ceuta,away,354788,Joaquín Felipe González Rodríguez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883113,5404,Ceuta,away,276645,Cedric Teguia,SUB,False,True,False,0.0,0.0,3.0,1.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-15,45
+401883113,5404,Ceuta,away,183413,Pedro López,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-15,0
+401883113,5404,Ceuta,away,420359,Arick Betancourt,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883113,5404,Ceuta,away,387345,Kenneth Mamah,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883113,5404,Ceuta,away,376041,Omar Sadik,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,3
+401883113,5404,Ceuta,away,369841,Mawuli Mensah,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883113,5404,Ceuta,away,223097,Matos,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883116,3747,Granada,home,185100,Alberto Flores,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,LaLiga Hypermotion,2026-11-15,90
+401883116,3747,Granada,home,312144,Manu Lama,CD-L,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,90
+401883116,3747,Granada,home,412251,Juanjo,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,90
+401883116,3747,Granada,home,264488,Diego Pampín,LB,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,90
+401883116,3747,Granada,home,173611,Sergio López,RB,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,90
+401883116,3747,Granada,home,330246,Pedro Alemañ,AM,True,False,True,0.0,0.0,2.0,1.0,0.0,0.0,3.0,,0.0,LaLiga Hypermotion,2026-11-15,67
+401883116,3747,Granada,home,186181,Gerard Gumbau,LM,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-15,90
+401883116,3747,Granada,home,214317,Rubén Alcaraz,RM,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,90
+401883116,3747,Granada,home,343634,Jorge Pascual Medina,F,True,False,True,1.0,0.0,4.0,2.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,81
+401883116,3747,Granada,home,269263,Kader Bamba,AM-L,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,67
+401883116,3747,Granada,home,384447,Sergio Rodelas,AM-R,True,False,True,0.0,0.0,4.0,0.0,1.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,81
+401883116,3747,Granada,home,3128637,Chinaza Marvellous Onouha Okonyia,SUB,False,True,False,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,9
+401883116,3747,Granada,home,423021,Bourama Dembelé,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883116,3747,Granada,home,356227,Diego Hormigo,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,9
+401883116,3747,Granada,home,409385,Mario Jiménez Gambin,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,23
+401883116,3747,Granada,home,220716,Benedikt Gimber,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883116,3747,Granada,home,153481,Raúl Lizoain,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-15,0
+401883116,3747,Granada,home,271900,Alejandro Marqués,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,23
+401883116,3747,Granada,home,3094331,Dylan Rodríguez Vellisca,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883116,3747,Granada,home,3128636,Ángelo García Hidalgo,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883116,98,Las Palmas,away,239387,Caro,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,LaLiga Hypermotion,2026-11-15,90
+401883116,98,Las Palmas,away,335952,Giovanni Bonfanti,CD-L,True,False,False,0.0,0.0,1.0,1.0,1.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-15,90
+401883116,98,Las Palmas,away,121611,Álex Suárez,CD-R,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-15,90
+401883116,98,Las Palmas,away,3144268,Adrián Rodríguez Del Rosario,LB,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-15,84
+401883116,98,Las Palmas,away,375799,Andrés Rodríguez,RB,True,False,True,0.0,0.0,1.0,1.0,1.0,0.0,2.0,,1.0,LaLiga Hypermotion,2026-11-15,64
+401883116,98,Las Palmas,away,272870,Enzo Loiodice,CM,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-15,76
+401883116,98,Las Palmas,away,292774,Manu Fuster,LM,True,False,True,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-15,64
+401883116,98,Las Palmas,away,288936,Kirian Rodríguez,RM,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-15,90
+401883116,98,Las Palmas,away,162453,Jesé,F,True,False,False,0.0,0.0,3.0,1.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-15,90
+401883116,98,Las Palmas,away,280489,Iván Jaime,LF,True,False,False,0.0,0.0,2.0,2.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-15,90
+401883116,98,Las Palmas,away,265959,Taisei Miyashiro,RF,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-15,83
+401883116,98,Las Palmas,away,165671,Jefté,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,14
+401883116,98,Las Palmas,away,380670,Jeremía Recoba,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,7
+401883116,98,Las Palmas,away,256836,Nicholas Opoku,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,1.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,1
+401883116,98,Las Palmas,away,241461,Elías Romero,SUB,False,True,False,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,26
+401883116,98,Las Palmas,away,379136,Aboubacar Bassinga,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883116,98,Las Palmas,away,5333407,Jeredian José López Méndez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883116,98,Las Palmas,away,387901,Mateo Acimovic,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883116,98,Las Palmas,away,136272,Jorge Valverde,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-15,0
+401883116,98,Las Palmas,away,367731,Iñaki González,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883116,98,Las Palmas,away,307916,Marvin,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,26
+401883116,98,Las Palmas,away,414085,Iván Medina,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883116,98,Las Palmas,away,406376,Adri Suárez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-15,0
+401883117,3752,Eibar,home,290751,Jon Mikel Magunagoitia,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,LaLiga Hypermotion,2026-11-15,90
+401883117,3752,Eibar,home,354555,Arana,CD-L,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-15,90
+401883117,3752,Eibar,home,271822,Peru Nolaskoain,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-15,90
+401883117,3752,Eibar,home,150806,Anaitz Arbilla,LB,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-15,90
+401883117,3752,Eibar,home,251661,Álvaro Rodríguez Pérez,RB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-15,90
+401883117,3752,Eibar,home,331283,Iván Gil,AM,True,False,True,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,67
+401883117,3752,Eibar,home,367721,Ander Madariaga,LM,True,False,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-15,90
+401883117,3752,Eibar,home,361257,Aleix Garrido,RM,True,False,True,0.0,0.0,2.0,2.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-15,70
+401883117,3752,Eibar,home,234335,Jon Bautista,F,True,False,True,0.0,0.0,3.0,0.0,1.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-15,66
+401883117,3752,Eibar,home,376033,Jon Guruzeta,AM-L,True,False,True,1.0,0.0,3.0,2.0,0.0,0.0,3.0,,1.0,LaLiga Hypermotion,2026-11-15,82
+401883117,3752,Eibar,home,347412,Malcom Adu Ares,AM-R,True,False,False,0.0,1.0,4.0,1.0,0.0,0.0,4.0,,1.0,LaLiga Hypermotion,2026-11-15,90
+401883117,3752,Eibar,home,87963,Sergio Álvarez,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-15,20
+401883117,3752,Eibar,home,304321,Luis López,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-15,0
+401883117,3752,Eibar,home,300512,Sergio Cubero,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883117,3752,Eibar,home,270597,Pejiño,SUB,False,True,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,8
+401883117,3752,Eibar,home,238894,Jair Amador Silos,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883117,3752,Eibar,home,231214,Unai Elgezabel,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883117,3752,Eibar,home,385027,Eric Pérez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883117,3752,Eibar,home,224587,Lander Olaetxea,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883117,3752,Eibar,home,325010,Jon Magunacelaya,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-15,23
+401883117,3752,Eibar,home,307986,Lucas Nuñez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883117,3752,Eibar,home,324351,Javier Martón,SUB,False,True,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-15,24
+401883117,3842,Cádiz,away,195604,David Gil,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,1.0,LaLiga Hypermotion,2026-11-15,90
+401883117,3842,Cádiz,away,3105656,Manuel Rivera Domínguez,CD-L,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-15,90
+401883117,3842,Cádiz,away,415372,Noah Ukwuije,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-15,90
+401883117,3842,Cádiz,away,399240,Sergio Arribas,LB,True,False,True,0.0,0.0,0.0,0.0,1.0,0.0,3.0,,1.0,LaLiga Hypermotion,2026-11-15,72
+401883117,3842,Cádiz,away,306347,Giorgi Gocholeishvili,RB,True,False,True,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-15,72
+401883117,3842,Cádiz,away,387838,Dilan Zárate,CM-L,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-15,90
+401883117,3842,Cádiz,away,291262,Marc-Oliver Doué,CM-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,1.0,LaLiga Hypermotion,2026-11-15,86
+401883117,3842,Cádiz,away,384598,Borja Vázquez,LM,True,False,False,1.0,0.0,3.0,2.0,0.0,0.0,3.0,,1.0,LaLiga Hypermotion,2026-11-15,90
+401883117,3842,Cádiz,away,375875,Antonio Cordero,RM,True,False,False,0.0,1.0,1.0,1.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-15,90
+401883117,3842,Cádiz,away,354205,Urko Izeta,CF-L,True,False,True,0.0,0.0,2.0,1.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-15,86
+401883117,3842,Cádiz,away,394420,Vladyslav Kopotun,CF-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-15,57
+401883117,3842,Cádiz,away,409298,Efe Ugiagbe,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883117,3842,Cádiz,away,411758,Ibon Sánchez,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,4
+401883117,3842,Cádiz,away,209578,Jokin Ezkieta,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-15,0
+401883117,3842,Cádiz,away,341269,Damián Rodríguez,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,4
+401883117,3842,Cádiz,away,400253,Rubén Domínguez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-15,0
+401883117,3842,Cádiz,away,397417,Juan Díaz,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883117,3842,Cádiz,away,331977,Cristian Gutiérrez,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,18
+401883117,3842,Cádiz,away,291401,Aimen Moueffek,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883117,3842,Cádiz,away,230894,Javi Ontiveros,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-15,33
+401883117,3842,Cádiz,away,409477,Manuel Fernández,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883117,3842,Cádiz,away,374633,Beñat De Jesús,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883117,3842,Cádiz,away,361366,Gonzalo Petit,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,18
+401883137,7320,Eldense,home,354450,Ramon Vila,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-15,90
+401883137,7320,Eldense,home,310837,Iker Ortega,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,90
+401883137,7320,Eldense,home,346837,Floris Smand,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,90
+401883137,7320,Eldense,home,412135,David Ruiz Montero,LB,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,57
+401883137,7320,Eldense,home,311264,Jesus Clemente,RB,True,False,True,1.0,0.0,1.0,1.0,1.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,74
+401883137,7320,Eldense,home,331710,Jordi Martín,AM,True,False,False,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,90
+401883137,7320,Eldense,home,113146,Justin Smith,LM,True,False,True,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,66
+401883137,7320,Eldense,home,354251,Marcos Bustillo,RM,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,4.0,,0.0,LaLiga Hypermotion,2026-11-15,90
+401883137,7320,Eldense,home,395201,Mariano Carmona,F,True,False,True,1.0,0.0,2.0,1.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,74
+401883137,7320,Eldense,home,384544,Pau Cabanes,AM-L,True,False,True,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,57
+401883137,7320,Eldense,home,377833,Aingeru Olabarrieta,AM-R,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,90
+401883137,7320,Eldense,home,269583,Waldo Rubio,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883137,7320,Eldense,home,11719,Javier Olaizola,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883137,7320,Eldense,home,407541,Dinis Rodrigues,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883137,7320,Eldense,home,331424,Juan Palomares,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-15,0
+401883137,7320,Eldense,home,354252,Borja Calvo,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883137,7320,Eldense,home,308145,Roberto López,SUB,False,True,False,0.0,0.0,6.0,2.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,33
+401883137,7320,Eldense,home,374618,Jorge Rastrojo,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883137,7320,Eldense,home,299935,Manuel Nieto,SUB,False,True,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,16
+401883137,7320,Eldense,home,407406,Álex Ibarrondo,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,16
+401883137,7320,Eldense,home,396893,Julien Yanda,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883137,7320,Eldense,home,278205,Javier Martínez,SUB,False,True,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,24
+401883137,7320,Eldense,home,375724,Álex Serra,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,33
+401883137,11487,CD Sabadell,away,306293,Diego Fuoli,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,LaLiga Hypermotion,2026-11-15,90
+401883137,11487,CD Sabadell,away,253008,Arthur Bonaldo,CD-L,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-15,34
+401883137,11487,CD Sabadell,away,128669,Edgar González,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-15,90
+401883137,11487,CD Sabadell,away,300270,Gerard Fornés,LB,True,False,False,0.0,0.0,1.0,0.0,1.0,0.0,2.0,,2.0,LaLiga Hypermotion,2026-11-15,90
+401883137,11487,CD Sabadell,away,300272,Ton Ripoll,RB,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-15,90
+401883137,11487,CD Sabadell,away,155283,Óscar Sanz,CM-L,True,False,False,0.0,0.0,1.0,0.0,1.0,0.0,2.0,,2.0,LaLiga Hypermotion,2026-11-15,90
+401883137,11487,CD Sabadell,away,178565,Pere Pons,CM-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-15,77
+401883137,11487,CD Sabadell,away,347354,Javi López,LM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-15,45
+401883137,11487,CD Sabadell,away,303843,Ángel Baena,RM,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-15,90
+401883137,11487,CD Sabadell,away,307709,Joel Priego,CF-L,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,LaLiga Hypermotion,2026-11-15,68
+401883137,11487,CD Sabadell,away,380822,Gastón Valles,CF-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,2.0,LaLiga Hypermotion,2026-11-15,45
+401883137,11487,CD Sabadell,away,218510,Nikolai Óbolo,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,13
+401883137,11487,CD Sabadell,away,311302,Jose Ortega,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-15,0
+401883137,11487,CD Sabadell,away,245840,Yanis Rahmani,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883137,11487,CD Sabadell,away,388399,Yussif Owusu,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-15,45
+401883137,11487,CD Sabadell,away,300303,Alain Ribeiro,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,22
+401883137,11487,CD Sabadell,away,138674,Marc Vidal,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-15,0
+401883137,11487,CD Sabadell,away,376662,José Luis Català Vázquez,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,1.0,1.0,,0.0,LaLiga Hypermotion,2026-11-15,1
+401883137,11487,CD Sabadell,away,412261,Quim Utgés,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,0
+401883137,11487,CD Sabadell,away,242434,Juan Carlos Lázaro Cervera,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-15,45
+401880754,3802,AFC Wimbledon,home,254194,Nathan Bishop,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,League One,2026-11-14,90
+401880754,3802,AFC Wimbledon,home,324680,Isaac Ogundere,CD,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,90
+401880754,3802,AFC Wimbledon,home,270304,Steve Seddon,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,90
+401880754,3802,AFC Wimbledon,home,151123,Andy Yiadom,CD-R,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,0.0,League One,2026-11-14,90
+401880754,3802,AFC Wimbledon,home,330236,Aron Sasu,LB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League One,2026-11-14,90
+401880754,3802,AFC Wimbledon,home,218824,James Tilley,RB,True,False,False,0.0,1.0,1.0,0.0,1.0,0.0,1.0,,0.0,League One,2026-11-14,90
+401880754,3802,AFC Wimbledon,home,374222,Ollie Harrison,CM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League One,2026-11-14,76
+401880754,3802,AFC Wimbledon,home,241311,Callum Maycock,CM-L,True,False,True,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,76
+401880754,3802,AFC Wimbledon,home,282750,Alistair Smith,CM-R,True,False,False,1.0,0.0,3.0,1.0,1.0,0.0,2.0,,0.0,League One,2026-11-14,90
+401880754,3802,AFC Wimbledon,home,141329,Jayden Stockley,CF-L,True,False,False,0.0,0.0,3.0,0.0,0.0,1.0,5.0,,0.0,League One,2026-11-14,90
+401880754,3802,AFC Wimbledon,home,191562,Harry Cornick,CF-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,0.0,League One,2026-11-14,66
+401880754,3802,AFC Wimbledon,home,197233,Myles Hippolyte,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,14
+401880754,3802,AFC Wimbledon,home,393668,Harry Hedges,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880754,3802,AFC Wimbledon,home,372020,Freddie Simmonds,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880754,3802,AFC Wimbledon,home,347289,Zack Nelson,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,14
+401880754,3802,AFC Wimbledon,home,393669,Riley Moran,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880754,3802,AFC Wimbledon,home,261086,Steven Sessegnon,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,0.0,League One,2026-11-14,24
+401880754,3802,AFC Wimbledon,home,409926,Sam Goma,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880754,346,Blackpool,away,227787,Niall Ennis,,False,True,False,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,13
+401880754,346,Blackpool,away,192029,Dion Charles,,False,True,False,0.0,0.0,1.0,1.0,0.0,0.0,3.0,,0.0,League One,2026-11-14,45
+401880754,346,Blackpool,away,279122,Andy Lyons,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880754,346,Blackpool,away,395886,Oluchukwu Nwankwo,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880754,346,Blackpool,away,225831,Christopher Hamilton,,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,22
+401880754,346,Blackpool,away,3124485,Charlie Brier,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880754,346,Blackpool,away,214801,Jerry Yates,,False,True,False,0.0,0.0,1.0,0.0,1.0,0.0,2.0,,0.0,League One,2026-11-14,45
+401880754,346,Blackpool,away,243769,Luke Southwood,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,League One,2026-11-14,90
+401880754,346,Blackpool,away,300039,Oliver Casey,CD,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,1.0,League One,2026-11-14,90
+401880754,346,Blackpool,away,308562,Zachary Ashworth,CD-L,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,1.0,League One,2026-11-14,90
+401880754,346,Blackpool,away,251412,Jordan Williams,CD-R,True,False,False,0.0,0.0,2.0,2.0,0.0,0.0,1.0,,1.0,League One,2026-11-14,90
+401880754,346,Blackpool,away,304057,Jordan Brown,SW,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,1.0,League One,2026-11-14,68
+401880754,346,Blackpool,away,291642,Leighton Clarkson,CM-L,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,45
+401880754,346,Blackpool,away,277029,Albie Morgan,CM-R,True,False,False,0.0,0.0,1.0,1.0,1.0,0.0,0.0,,1.0,League One,2026-11-14,90
+401880754,346,Blackpool,away,223455,Hayden Coulson,LM,True,False,False,0.0,0.0,1.0,1.0,0.0,0.0,1.0,,1.0,League One,2026-11-14,90
+401880754,346,Blackpool,away,275713,Ilmari Niskanen,RM,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,90
+401880754,346,Blackpool,away,330627,Dale Taylor,CF-L,True,False,True,0.0,0.0,2.0,0.0,0.0,0.0,1.0,,1.0,League One,2026-11-14,77
+401880754,346,Blackpool,away,308012,Tom Bloxham,CF-R,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,45
+401880749,390,Milton Keynes Dons,home,403300,Ibrahim Fullah,,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,18
+401880749,390,Milton Keynes Dons,home,260289,Ben Wiles,,False,True,False,1.0,0.0,1.0,1.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,18
+401880749,390,Milton Keynes Dons,home,259479,Cohen Bramall,,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,10
+401880749,390,Milton Keynes Dons,home,214546,Gethin Jones,,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,18
+401880749,390,Milton Keynes Dons,home,180343,Craig MacGillivray,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880749,390,Milton Keynes Dons,home,147130,Curtis Nelson,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880749,390,Milton Keynes Dons,home,194129,Daniel Barlaser,,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,18
+401880749,390,Milton Keynes Dons,home,291269,William Dennis,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,League One,2026-11-14,90
+401880749,390,Milton Keynes Dons,home,223588,Charlie Goode,CD,True,False,False,0.0,1.0,2.0,1.0,0.0,0.0,2.0,,2.0,League One,2026-11-14,90
+401880749,390,Milton Keynes Dons,home,306823,Jack Sanders,CD-L,True,False,False,1.0,0.0,2.0,1.0,0.0,0.0,1.0,,2.0,League One,2026-11-14,90
+401880749,390,Milton Keynes Dons,home,270591,Marvin Ekpiteta,CD-R,True,False,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,2.0,League One,2026-11-14,90
+401880749,390,Milton Keynes Dons,home,223831,Ryan Wintle,SW,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,League One,2026-11-14,90
+401880749,390,Milton Keynes Dons,home,175003,Alex Gilbey,CM-L,True,False,True,0.0,1.0,1.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,72
+401880749,390,Milton Keynes Dons,home,194117,Daniel Crowley,CM-R,True,False,True,1.0,0.0,4.0,1.0,0.0,0.0,1.0,,1.0,League One,2026-11-14,72
+401880749,390,Milton Keynes Dons,home,328017,Elijah Campbell,LM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,80
+401880749,390,Milton Keynes Dons,home,291699,Samuel Silvera,RM,True,False,True,0.0,1.0,1.0,0.0,0.0,0.0,1.0,,1.0,League One,2026-11-14,72
+401880749,390,Milton Keynes Dons,home,241329,Sam Nombe,CF-L,True,False,False,2.0,0.0,6.0,4.0,0.0,0.0,0.0,,2.0,League One,2026-11-14,90
+401880749,390,Milton Keynes Dons,home,176834,Callum Paterson,CF-R,True,False,True,0.0,0.0,1.0,1.0,0.0,0.0,2.0,,1.0,League One,2026-11-14,72
+401880749,2567,Burton Albion,away,234323,Corey Addai,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,6.0,League One,2026-11-14,90
+401880749,2567,Burton Albion,away,241131,Curtis Tilt,CD,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,6.0,League One,2026-11-14,82
+401880749,2567,Burton Albion,away,324829,Jason Sraha,CD-L,True,False,False,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,6.0,League One,2026-11-14,90
+401880749,2567,Burton Albion,away,365333,Harvey Araujo,CD-R,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,6.0,League One,2026-11-14,90
+401880749,2567,Burton Albion,away,294286,Kgagelo Chauke,CM-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,6.0,League One,2026-11-14,90
+401880749,2567,Burton Albion,away,409548,Sulyman Krubally,CM-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,6.0,League One,2026-11-14,90
+401880749,2567,Burton Albion,away,358580,Emeka Adeile,LM,True,False,False,1.0,0.0,1.0,1.0,0.0,0.0,1.0,,6.0,League One,2026-11-14,90
+401880749,2567,Burton Albion,away,295544,Raphael Borges Rodrigues,RM,True,False,False,0.0,1.0,3.0,0.0,0.0,0.0,0.0,,6.0,League One,2026-11-14,90
+401880749,2567,Burton Albion,away,379514,Kain Adom,F,True,False,False,1.0,0.0,1.0,1.0,0.0,0.0,1.0,,6.0,League One,2026-11-14,90
+401880749,2567,Burton Albion,away,177335,Charlie Webster,CF-L,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,6.0,League One,2026-11-14,90
+401880749,2567,Burton Albion,away,358407,Mark O’Mahony,CF-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,6.0,League One,2026-11-14,82
+401880749,2567,Burton Albion,away,414604,Samuel Oyemade,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,1
+401880749,2567,Burton Albion,away,414599,William Earley,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,8
+401880749,2567,Burton Albion,away,414601,Zac Scutt,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League One,2026-11-14,0
+401880749,2567,Burton Albion,away,3111267,Miles Henry,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,8
+401880749,2567,Burton Albion,away,3145312,Jacob Kendall Kean,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League One,2026-11-14,0
+401880747,399,Sheffield Wednesday,home,190931,Joe Lumley,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,League One,2026-11-14,90
+401880747,399,Sheffield Wednesday,home,118381,Liam Cooper,CD,True,False,False,0.0,0.0,1.0,0.0,1.0,0.0,1.0,,0.0,League One,2026-11-14,90
+401880747,399,Sheffield Wednesday,home,310606,Sil Swinkels,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,90
+401880747,399,Sheffield Wednesday,home,291440,Di'Shon Bernard,CD-R,True,False,False,1.0,0.0,2.0,2.0,0.0,0.0,1.0,,0.0,League One,2026-11-14,90
+401880747,399,Sheffield Wednesday,home,287894,Billy Mitchell,CM-L,True,False,False,1.0,0.0,2.0,2.0,1.0,0.0,3.0,,0.0,League One,2026-11-14,90
+401880747,399,Sheffield Wednesday,home,354137,Jaden Heskey,CM-R,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,2.0,,0.0,League One,2026-11-14,90
+401880747,399,Sheffield Wednesday,home,178089,Jamal Lowe,LM,True,False,True,0.0,0.0,3.0,1.0,0.0,0.0,1.0,,0.0,League One,2026-11-14,85
+401880747,399,Sheffield Wednesday,home,240588,Yan Valery,RM,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,90
+401880747,399,Sheffield Wednesday,home,240688,Davis Kellior-Dunn,F,True,False,True,1.0,0.0,4.0,1.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,85
+401880747,399,Sheffield Wednesday,home,130079,Barry Bannan,CF-L,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,73
+401880747,399,Sheffield Wednesday,home,227781,Callum Slattery,CF-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,3.0,,0.0,League One,2026-11-14,90
+401880747,399,Sheffield Wednesday,home,223573,Ricardo Santos,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880747,399,Sheffield Wednesday,home,213184,Connal Trueman,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League One,2026-11-14,0
+401880747,399,Sheffield Wednesday,home,281729,Louie Barry,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,17
+401880747,399,Sheffield Wednesday,home,409131,Ernie Weaver,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880747,399,Sheffield Wednesday,home,143632,Liam Palmer,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,5
+401880747,399,Sheffield Wednesday,home,374129,Harry Gray,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League One,2026-11-14,5
+401880747,399,Sheffield Wednesday,home,408682,Jarvis Thornton,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880747,307,Plymouth Argyle,away,335402,Murphy Cooper,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,League One,2026-11-14,90
+401880747,307,Plymouth Argyle,away,372859,Mathias Ross,CD,True,False,False,0.0,0.0,3.0,0.0,0.0,0.0,0.0,,3.0,League One,2026-11-14,90
+401880747,307,Plymouth Argyle,away,257736,Alex Hartridge,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,3.0,League One,2026-11-14,90
+401880747,307,Plymouth Argyle,away,260874,Wes Harding,CD-R,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,3.0,League One,2026-11-14,90
+401880747,307,Plymouth Argyle,away,279789,Harvey White,CM-L,True,False,True,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,1.0,League One,2026-11-14,77
+401880747,307,Plymouth Argyle,away,324706,Malachi Boateng,CM-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,3.0,League One,2026-11-14,90
+401880747,307,Plymouth Argyle,away,261459,Jack Mackenzie,LM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,64
+401880747,307,Plymouth Argyle,away,234917,Ronan Curtis,RM,True,False,False,0.0,0.0,2.0,2.0,1.0,0.0,2.0,,3.0,League One,2026-11-14,90
+401880747,307,Plymouth Argyle,away,150835,Will Evans,F,True,False,False,0.0,0.0,3.0,1.0,0.0,0.0,2.0,,3.0,League One,2026-11-14,90
+401880747,307,Plymouth Argyle,away,334717,Bradley Ibrahim,CF-L,True,False,True,0.0,0.0,3.0,1.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,64
+401880747,307,Plymouth Argyle,away,290807,Xavier Amaechi,CF-R,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,3.0,League One,2026-11-14,90
+401880747,307,Plymouth Argyle,away,388624,Owen Oseni,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,2.0,League One,2026-11-14,13
+401880747,307,Plymouth Argyle,away,290574,Caleb Watts,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2.0,League One,2026-11-14,26
+401880747,307,Plymouth Argyle,away,387933,Oliver Irow,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,League One,2026-11-14,26
+401880747,307,Plymouth Argyle,away,5331527,Frankie Maund,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880747,307,Plymouth Argyle,away,409032,Joe Mwaro,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880747,307,Plymouth Argyle,away,409033,Seb Campbell,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880747,307,Plymouth Argyle,away,330427,James Storer,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League One,2026-11-14,0
+401880745,400,Stockport County,home,374218,Oliver Whatmuff,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,League One,2026-11-14,90
+401880745,400,Stockport County,home,197321,Eoghan O'Connell,CD,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,90
+401880745,400,Stockport County,home,324206,Ethan Pye,CD-L,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,90
+401880745,400,Stockport County,home,306713,Kyron Gordon,CD-R,True,False,True,0.0,0.0,1.0,0.0,1.0,0.0,2.0,,1.0,League One,2026-11-14,82
+401880745,400,Stockport County,home,143378,Oliver Norwood,CM-L,True,False,True,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,62
+401880745,400,Stockport County,home,304196,Lewis Bate,CM-R,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,1.0,League One,2026-11-14,90
+401880745,400,Stockport County,home,133588,Ben Osborn,LM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,League One,2026-11-14,74
+401880745,400,Stockport County,home,329641,Ethan Ennis,RM,True,False,True,1.0,0.0,1.0,1.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,62
+401880745,400,Stockport County,home,207796,Kyle Wootton,F,True,False,False,1.0,1.0,3.0,1.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,90
+401880745,400,Stockport County,home,293213,Harry Wood,CF-L,True,False,True,0.0,1.0,4.0,1.0,1.0,0.0,3.0,,1.0,League One,2026-11-14,74
+401880745,400,Stockport County,home,243507,Jack Diamond,CF-R,True,False,False,1.0,0.0,4.0,2.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,90
+401880745,400,Stockport County,home,281118,Lewis Fiorini,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,28
+401880745,400,Stockport County,home,259150,Joshua Dacres-Cogley,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,16
+401880745,400,Stockport County,home,324436,Mamadou Jobe,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,8
+401880745,400,Stockport County,home,391742,Jason Adigun,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League One,2026-11-14,16
+401880745,400,Stockport County,home,225548,Tayo Edun,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880745,400,Stockport County,home,185462,Mikael Mandron,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880745,400,Stockport County,home,324168,Ryan Glover,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,28
+401880745,338,Reading,away,228638,Joel Pereira,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,League One,2026-11-14,90
+401880745,338,Reading,away,232288,Conor Masterson,CD-L,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,3.0,League One,2026-11-14,67
+401880745,338,Reading,away,137433,Josh Knight,CD-R,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,3.0,League One,2026-11-14,90
+401880745,338,Reading,away,277176,Hayden Roberts,LB,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,3.0,League One,2026-11-14,90
+401880745,338,Reading,away,268928,Udoka Godwin-Malife,RB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,3.0,League One,2026-11-14,90
+401880745,338,Reading,away,325557,Charlie Savage,AM,True,False,True,0.0,0.0,2.0,2.0,0.0,0.0,0.0,,3.0,League One,2026-11-14,82
+401880745,338,Reading,away,252901,Liam Fraser,LM,True,False,False,0.0,0.0,1.0,1.0,1.0,0.0,2.0,,3.0,League One,2026-11-14,90
+401880745,338,Reading,away,262513,Lewis Wing,RM,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,3.0,League One,2026-11-14,90
+401880745,338,Reading,away,186160,Jack Marriott,F,True,False,True,1.0,0.0,2.0,1.0,0.0,0.0,2.0,,3.0,League One,2026-11-14,82
+401880745,338,Reading,away,337893,Daniel Kyerewaa,AM-L,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,3.0,League One,2026-11-14,74
+401880745,338,Reading,away,401428,Kyreece Lisbie,AM-R,True,False,False,0.0,1.0,1.0,1.0,1.0,0.0,1.0,,3.0,League One,2026-11-14,90
+401880745,338,Reading,away,376755,Ashqar Ahmed,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880745,338,Reading,away,240870,Randell Williams,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,23
+401880745,338,Reading,away,348341,Sean Patton,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880745,338,Reading,away,152475,Jack Stephens,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League One,2026-11-14,0
+401880745,338,Reading,away,180459,Jamie Reid,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,8
+401880745,338,Reading,away,3130311,Jerae Jones,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League One,2026-11-14,8
+401880745,338,Reading,away,330313,Joshua Stokes,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,16
+401880744,350,Wigan Athletic,home,326249,Joseph Whitworth,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,League One,2026-11-14,90
+401880744,350,Wigan Athletic,home,324607,James Carragher,CD,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,90
+401880744,350,Wigan Athletic,home,178052,Morgan Fox,CD-L,True,False,False,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,1.0,League One,2026-11-14,90
+401880744,350,Wigan Athletic,home,298519,Finley Burns,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,1.0,League One,2026-11-14,90
+401880744,350,Wigan Athletic,home,150039,Max Power,CM-L,True,False,False,0.0,0.0,1.0,0.0,1.0,0.0,1.0,,1.0,League One,2026-11-14,90
+401880744,350,Wigan Athletic,home,267880,Jensen Weir,CM-R,True,False,False,1.0,0.0,2.0,1.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,90
+401880744,350,Wigan Athletic,home,245266,Fraser Murray,LM,True,False,False,1.0,0.0,3.0,2.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,90
+401880744,350,Wigan Athletic,home,352890,Connor Barrett,RM,True,False,True,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,68
+401880744,350,Wigan Athletic,home,299915,Christian Saydee,F,True,False,True,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,1.0,League One,2026-11-14,67
+401880744,350,Wigan Athletic,home,242722,Jon Mellish,CF-L,True,False,False,0.0,1.0,2.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,90
+401880744,350,Wigan Athletic,home,393425,Bradley Burrowes,CF-R,True,False,True,0.0,0.0,2.0,1.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,87
+401880744,350,Wigan Athletic,home,393646,K'Marni Miller,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League One,2026-11-14,3
+401880744,350,Wigan Athletic,home,43468,Joe Walsh,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League One,2026-11-14,0
+401880744,350,Wigan Athletic,home,143313,Scott Hogan,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League One,2026-11-14,23
+401880744,350,Wigan Athletic,home,398103,Archie Harris,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880744,350,Wigan Athletic,home,307133,Jeremiah Mullen,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880744,350,Wigan Athletic,home,374931,Akeel Higgins,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880744,350,Wigan Athletic,home,348305,Ryan Trevitt,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,22
+401880744,397,Barnsley,away,298520,Cieran Slicker,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,League One,2026-11-14,90
+401880744,397,Barnsley,away,3124493,Arley Kay,CD-L,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,2.0,League One,2026-11-14,90
+401880744,397,Barnsley,away,331062,Sam Gale,CD-R,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,2.0,League One,2026-11-14,90
+401880744,397,Barnsley,away,307164,Ziyad Larkeche,LB,True,False,True,0.0,0.0,2.0,1.0,1.0,0.0,4.0,,2.0,League One,2026-11-14,87
+401880744,397,Barnsley,away,284030,Jubril Adesope Okedina,RB,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,2.0,League One,2026-11-14,90
+401880744,397,Barnsley,away,199824,Cameron McGeehan,AM,True,False,True,1.0,0.0,2.0,1.0,1.0,0.0,1.0,,2.0,League One,2026-11-14,82
+401880744,397,Barnsley,away,153320,Daniel Johnson,LM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,56
+401880744,397,Barnsley,away,284355,Luca Connell,RM,True,False,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,2.0,League One,2026-11-14,90
+401880744,397,Barnsley,away,325134,Mackenzie Kirk,F,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,3.0,,1.0,League One,2026-11-14,56
+401880744,397,Barnsley,away,332529,Reyes Cleary,AM-L,True,False,False,0.0,1.0,2.0,0.0,0.0,0.0,3.0,,2.0,League One,2026-11-14,90
+401880744,397,Barnsley,away,367458,Vimal Yoganathan,AM-R,True,False,False,0.0,0.0,3.0,0.0,0.0,0.0,0.0,,2.0,League One,2026-11-14,90
+401880744,397,Barnsley,away,328491,Isaac Smith,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880744,397,Barnsley,away,381545,Rogan Ravenhill,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League One,2026-11-14,0
+401880744,397,Barnsley,away,358244,Amani Richards,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,League One,2026-11-14,34
+401880744,397,Barnsley,away,389683,Luke Alker,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,0
+401880744,397,Barnsley,away,359132,Tyrese Noslin,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League One,2026-11-14,8
+401880744,397,Barnsley,away,3144548,O'Rian Andrew Reid,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League One,2026-11-14,3
+401880744,397,Barnsley,away,374095,Rylan Brownlie,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,League One,2026-11-14,34
+401881273,324,Exeter City,home,290573,Jack Bycroft,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,League Two,2026-11-14,90
+401881273,324,Exeter City,home,227016,Jack Fitzwater,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881273,324,Exeter City,home,139744,Jack Taylor,CD-R,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881273,324,Exeter City,home,309797,Luca Woodhouse,LB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,3.0,,0.0,League Two,2026-11-14,90
+401881273,324,Exeter City,home,349734,Lakyle Samuel,RB,True,False,False,1.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881273,324,Exeter City,home,235814,Reece Cole,AM,True,False,True,0.0,0.0,2.0,0.0,0.0,0.0,3.0,,0.0,League Two,2026-11-14,85
+401881273,324,Exeter City,home,263130,Harry Kite,LM,True,False,False,0.0,1.0,1.0,0.0,0.0,0.0,2.0,,0.0,League Two,2026-11-14,90
+401881273,324,Exeter City,home,261107,Jake Doyle-Hayes,RM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,61
+401881273,324,Exeter City,home,307106,Sonny Cox,F,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,68
+401881273,324,Exeter City,home,243550,Anthony Scully,AM-L,True,False,True,0.0,0.0,3.0,2.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,85
+401881273,324,Exeter City,home,392674,George Birch,AM-R,True,False,False,0.0,0.0,4.0,1.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,90
+401881273,324,Exeter City,home,5882,Taylor Perry,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,29
+401881273,324,Exeter City,home,403301,Frankie Phillips,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League Two,2026-11-14,0
+401881273,324,Exeter City,home,372594,Liam Oakes,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,5
+401881273,324,Exeter City,home,183335,Danny Rose,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881273,324,Exeter City,home,351377,Edward James,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,5
+401881273,324,Exeter City,home,277179,Ed Turns,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881273,324,Exeter City,home,233840,Josh Gordon,SUB,False,True,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,22
+401881273,320,Cheltenham Town,away,374687,Wyll Stanway,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,League Two,2026-11-14,90
+401881273,320,Cheltenham Town,away,193620,James Wilson,CD-L,True,False,False,0.0,0.0,1.0,0.0,1.0,0.0,2.0,,1.0,League Two,2026-11-14,90
+401881273,320,Cheltenham Town,away,174906,Pierce Sweeney,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881273,320,Cheltenham Town,away,241309,Jordan Shipley,LB,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,87
+401881273,320,Cheltenham Town,away,297378,Jonathan Tomkinson,RB,True,False,False,0.0,0.0,1.0,1.0,0.0,0.0,4.0,,1.0,League Two,2026-11-14,90
+401881273,320,Cheltenham Town,away,223982,Ben Stevenson,CM,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,1.0,League Two,2026-11-14,90
+401881273,320,Cheltenham Town,away,296625,Charlie Mccann,LM,True,False,False,0.0,0.0,3.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881273,320,Cheltenham Town,away,217066,Shaun McWilliams,RM,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,1.0,League Two,2026-11-14,90
+401881273,320,Cheltenham Town,away,138905,Andreas Weimann,F,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,61
+401881273,320,Cheltenham Town,away,379124,Kirsten Otchere,LF,True,False,True,0.0,0.0,1.0,0.0,1.0,0.0,2.0,,1.0,League Two,2026-11-14,81
+401881273,320,Cheltenham Town,away,223629,Ryan Broom,RF,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,61
+401881273,320,Cheltenham Town,away,220700,Robbie Cundy,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,3
+401881273,320,Cheltenham Town,away,144599,George Miller,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,29
+401881273,320,Cheltenham Town,away,106130,Joe Day,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League Two,2026-11-14,0
+401881273,320,Cheltenham Town,away,295017,Jake Bickerstaff,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,29
+401881273,320,Cheltenham Town,away,388883,Favour Onukwuli,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881273,320,Cheltenham Town,away,282912,George Nurse,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,9
+401881273,320,Cheltenham Town,away,352814,Freddie Willcox,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881276,308,Bristol Rovers,home,310357,Bobby Kamwa,,False,True,False,0.0,0.0,2.0,1.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,49
+401881276,308,Bristol Rovers,home,279183,Arvin Appiah,,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,45
+401881276,308,Bristol Rovers,home,157565,Ellis Harrison,,False,True,False,0.0,0.0,2.0,1.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,25
+401881276,308,Bristol Rovers,home,104233,Richard Smallwood,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881276,308,Bristol Rovers,home,229898,Charlie Binns,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881276,308,Bristol Rovers,home,3124479,Philip Sanyaolu,,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,25
+401881276,308,Bristol Rovers,home,333422,Shaqai Forde,,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,49
+401881276,308,Bristol Rovers,home,291098,Brad Young,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,League Two,2026-11-14,90
+401881276,308,Bristol Rovers,home,227010,Alfie Kilgour,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,90
+401881276,308,Bristol Rovers,home,257996,Kofi Balmer,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,90
+401881276,308,Bristol Rovers,home,188497,Ben Purrington,LB,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,45
+401881276,308,Bristol Rovers,home,165262,Tom James,RB,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,90
+401881276,308,Bristol Rovers,home,223863,Joe Quigley,M,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,41
+401881276,308,Bristol Rovers,home,408857,Keenan Gough,CM,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,65
+401881276,308,Bristol Rovers,home,324435,Tommy Leigh,AM,True,False,False,0.0,0.0,3.0,0.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,90
+401881276,308,Bristol Rovers,home,283793,Clinton Mola,LM,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,3.0,,2.0,League Two,2026-11-14,90
+401881276,308,Bristol Rovers,home,372596,Reiss-Alexander Russell-Denny,RM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,41
+401881276,308,Bristol Rovers,home,350122,Fabrizio Cavegn,CF-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,1.0,League Two,2026-11-14,65
+401881276,343,Chesterfield,away,243365,Zachary Hemming,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,League Two,2026-11-14,90
+401881276,343,Chesterfield,away,207484,Jack Simpson,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,0.0,League Two,2026-11-14,90
+401881276,343,Chesterfield,away,65474,Kyle McFadzean,CD-R,True,False,False,0.0,0.0,1.0,0.0,1.0,0.0,2.0,,0.0,League Two,2026-11-14,90
+401881276,343,Chesterfield,away,312556,Lewis Gordon,LB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881276,343,Chesterfield,away,291287,Remeao Hutton,RB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,90
+401881276,343,Chesterfield,away,356953,Louie Marsh,AM,True,False,True,1.0,0.0,2.0,2.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,65
+401881276,343,Chesterfield,away,291531,Ryan Stirk,LM,True,False,False,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,90
+401881276,343,Chesterfield,away,134298,Tom Naylor,RM,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881276,343,Chesterfield,away,313072,Lee Bonis,F,True,False,True,1.0,0.0,2.0,1.0,1.0,0.0,3.0,,0.0,League Two,2026-11-14,79
+401881276,343,Chesterfield,away,235334,Josh Koroma,AM-L,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,0.0,League Two,2026-11-14,65
+401881276,343,Chesterfield,away,223563,Liam Mandeville,AM-R,True,False,True,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,86
+401881276,343,Chesterfield,away,248765,George McEachran,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881276,343,Chesterfield,away,355867,Kiano Dyer,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,4
+401881276,343,Chesterfield,away,323857,Dylan Duffy,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,11
+401881276,343,Chesterfield,away,268552,Joel Randall,SUB,False,True,False,0.0,1.0,1.0,1.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,25
+401881276,343,Chesterfield,away,283195,Dilan Kumar Markanday,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,25
+401881276,343,Chesterfield,away,269342,Tom Pearce,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881276,343,Chesterfield,away,308554,Alfie Pond,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881275,339,Colchester United,home,328465,Thimothee Lo-Tutala,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,League Two,2026-11-14,90
+401881275,339,Colchester United,home,154332,Sean Raggett,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881275,339,Colchester United,home,266425,Jack Tucker,CD-R,True,False,False,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881275,339,Colchester United,home,223880,Ellis Iandolo,LB,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,45
+401881275,339,Colchester United,home,214771,Kane Vincent-Young,RB,True,False,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881275,339,Colchester United,home,128524,Jack Payne,AM,True,False,True,1.0,0.0,2.0,2.0,0.0,0.0,2.0,,0.0,League Two,2026-11-14,83
+401881275,339,Colchester United,home,201358,Teddy Bishop,LM,True,False,True,0.0,0.0,2.0,1.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,45
+401881275,339,Colchester United,home,277524,Jay Williams,RM,True,False,False,0.0,0.0,1.0,0.0,1.0,0.0,1.0,,0.0,League Two,2026-11-14,90
+401881275,339,Colchester United,home,348267,Jaden Williams,F,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,71
+401881275,339,Colchester United,home,208651,Harry Anderson,AM-L,True,False,True,1.0,0.0,2.0,2.0,0.0,0.0,2.0,,0.0,League Two,2026-11-14,86
+401881275,339,Colchester United,home,408883,Moses Sesay,AM-R,True,False,False,0.0,0.0,3.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881275,339,Colchester United,home,294341,Adrian Akande,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,4
+401881275,339,Colchester United,home,366241,Ben Perry,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,0.0,League Two,2026-11-14,45
+401881275,339,Colchester United,home,3143423,Oscar Roberts,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League Two,2026-11-14,0
+401881275,339,Colchester United,home,411446,Sam Kuffour,SUB,False,True,False,0.0,0.0,2.0,1.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,45
+401881275,339,Colchester United,home,402711,Kien Connolly,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881275,339,Colchester United,home,167247,Paul Digby,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,7
+401881275,339,Colchester United,home,359710,Oscar Thorn,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,19
+401881275,389,Gillingham,away,294284,Oliver Wright,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,League Two,2026-11-14,90
+401881275,389,Gillingham,away,140072,Omar Beckles,CD,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,90
+401881275,389,Gillingham,away,409907,Logan Dobbs,CD-L,True,False,False,0.0,0.0,1.0,0.0,1.0,0.0,3.0,,2.0,League Two,2026-11-14,90
+401881275,389,Gillingham,away,243735,Ethan Coleman,CD-R,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,2.0,,2.0,League Two,2026-11-14,73
+401881275,389,Gillingham,away,355460,Zane Albarus,CM-L,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,74
+401881275,389,Gillingham,away,389340,Harry Waldock,CM-R,True,False,False,0.0,0.0,3.0,1.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,90
+401881275,389,Gillingham,away,223594,James Brophy,LM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,2.0,League Two,2026-11-14,86
+401881275,389,Gillingham,away,240661,Nick Freeman,RM,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,90
+401881275,389,Gillingham,away,408814,Lamin Sillah,F,True,False,False,0.0,0.0,1.0,1.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,90
+401881275,389,Gillingham,away,116332,Garath McCleary,CF-L,True,False,True,0.0,0.0,3.0,1.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,74
+401881275,389,Gillingham,away,398768,Sheldon Kendall,CF-R,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,74
+401881275,389,Gillingham,away,306336,Cameron Antwi,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,16
+401881275,389,Gillingham,away,274645,Ronan Hale,SUB,False,True,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,16
+401881275,389,Gillingham,away,243774,Armani Little,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,17
+401881275,389,Gillingham,away,339894,Rohan Luthra,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League Two,2026-11-14,0
+401881275,389,Gillingham,away,302703,Andy Smith,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,16
+401881275,389,Gillingham,away,3124077,Jack Daley,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881275,389,Gillingham,away,409909,Louie Dayal,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,4
+401881274,396,Crewe Alexandra,home,172531,Ian Lawlor,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,League Two,2026-11-14,90
+401881274,396,Crewe Alexandra,home,408469,Joshua Stephenson,CD-L,True,False,False,1.0,0.0,1.0,1.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,90
+401881274,396,Crewe Alexandra,home,268425,Luke Offord,CD-R,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,2.0,,2.0,League Two,2026-11-14,90
+401881274,396,Crewe Alexandra,home,272606,Reece Hutchinson,LB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,90
+401881274,396,Crewe Alexandra,home,339182,Lewis Billington,RB,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,78
+401881274,396,Crewe Alexandra,home,126027,Joe White,AM,True,False,False,0.0,0.0,1.0,1.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,90
+401881274,396,Crewe Alexandra,home,345113,Matús Holícek,LM,True,False,True,0.0,1.0,0.0,0.0,1.0,0.0,2.0,,2.0,League Two,2026-11-14,90
+401881274,396,Crewe Alexandra,home,150759,Conor Thomas,RM,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,59
+401881274,396,Crewe Alexandra,home,325548,Charlie McNeill,F,True,False,False,1.0,0.0,2.0,1.0,1.0,0.0,5.0,,2.0,League Two,2026-11-14,90
+401881274,396,Crewe Alexandra,home,128917,Jordan Gibson,AM-L,True,False,True,0.0,0.0,1.0,1.0,1.0,0.0,1.0,,2.0,League Two,2026-11-14,59
+401881274,396,Crewe Alexandra,home,301286,Josh March,AM-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,59
+401881274,396,Crewe Alexandra,home,324685,Joel Tabiner,SUB,False,True,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,31
+401881274,396,Crewe Alexandra,home,207511,James Jones,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,1
+401881274,396,Crewe Alexandra,home,369485,Calum Agius,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,12
+401881274,396,Crewe Alexandra,home,345854,Tom Booth,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League Two,2026-11-14,0
+401881274,396,Crewe Alexandra,home,346448,Owen Lunt,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,31
+401881274,396,Crewe Alexandra,home,390399,Adrien Thibaut,SUB,False,True,False,0.0,0.0,1.0,0.0,1.0,0.0,1.0,,0.0,League Two,2026-11-14,31
+401881274,396,Crewe Alexandra,home,377144,Stan Dancey,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881274,635,Newport County,away,168159,Jordan Wright,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,League Two,2026-11-14,90
+401881274,635,Newport County,away,82553,Kyle Cameron,CD-L,True,False,False,0.0,0.0,3.0,0.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,90
+401881274,635,Newport County,away,6468,Lee Jenkins,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,2.0,League Two,2026-11-14,90
+401881274,635,Newport County,away,291172,Matty Jacob,LB,True,False,True,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,70
+401881274,635,Newport County,away,359788,Dan Sassi,RB,True,False,False,1.0,0.0,1.0,1.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,90
+401881274,635,Newport County,away,243461,Aaron Lewis,AM,True,False,False,0.0,0.0,1.0,1.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,90
+401881274,635,Newport County,away,290103,Ciaran Brennan,LM,True,False,False,0.0,0.0,1.0,0.0,1.0,0.0,1.0,,2.0,League Two,2026-11-14,90
+401881274,635,Newport County,away,103469,Matt Smith,RM,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,90
+401881274,635,Newport County,away,281710,Kion Etete,F,True,False,True,0.0,0.0,3.0,0.0,1.0,0.0,3.0,,1.0,League Two,2026-11-14,87
+401881274,635,Newport County,away,263109,Harrison Biggins,AM-L,True,False,False,0.0,0.0,3.0,0.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,90
+401881274,635,Newport County,away,408611,Yahya Bamba,AM-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,70
+401881274,635,Newport County,away,264244,Gerard Garner,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881274,635,Newport County,away,45706,Tom Davies,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,20
+401881274,635,Newport County,away,356966,James Crole,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881274,635,Newport County,away,3098716,Shaquille Gwengwe,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,3
+401881274,635,Newport County,away,150826,Jake Turner,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881274,635,Newport County,away,356941,Michael Adu-Poku,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,2.0,League Two,2026-11-14,20
+401881274,635,Newport County,away,306817,Kieron Evans,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881271,348,Port Vale,home,191579,Marko Marosi,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,League Two,2026-11-14,90
+401881271,348,Port Vale,home,279764,Jasper Moon,CD,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,90
+401881271,348,Port Vale,home,291105,Connor Hall,CD-L,True,False,True,0.0,0.0,2.0,1.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,85
+401881271,348,Port Vale,home,183326,Cameron Humphreys,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,90
+401881271,348,Port Vale,home,198823,Kyle Dempsey,CM-L,True,False,False,1.0,0.0,3.0,2.0,1.0,0.0,2.0,,2.0,League Two,2026-11-14,90
+401881271,348,Port Vale,home,213542,George Hall,CM-R,True,False,True,0.0,1.0,0.0,0.0,1.0,0.0,2.0,,2.0,League Two,2026-11-14,89
+401881271,348,Port Vale,home,207593,George Byers,AM,True,False,False,0.0,0.0,2.0,1.0,0.0,0.0,3.0,,2.0,League Two,2026-11-14,90
+401881271,348,Port Vale,home,306288,Jaheim Headley,LM,True,False,False,2.0,0.0,3.0,3.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,90
+401881271,348,Port Vale,home,296396,Jordan Lawrence-Gabriel,RM,True,False,False,0.0,0.0,3.0,1.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,90
+401881271,348,Port Vale,home,152754,Onel Hernández,CF-L,True,False,True,0.0,1.0,2.0,0.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,85
+401881271,348,Port Vale,home,274046,Max Watters,CF-R,True,False,True,0.0,1.0,1.0,1.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,78
+401881271,348,Port Vale,home,182563,Aaron McGowan,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,5
+401881271,348,Port Vale,home,277220,Lewis Montsma,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881271,348,Port Vale,home,421839,Charlie Bussel,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881271,348,Port Vale,home,352823,Rhys Walters,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,1
+401881271,348,Port Vale,home,308019,Jackson Smith,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League Two,2026-11-14,0
+401881271,348,Port Vale,home,366322,Maleace Asamoah,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,5
+401881271,348,Port Vale,home,408330,Oliver Lynch,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,12
+401881271,2731,Accrington Stanley,away,283794,Louie Moulden,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,4.0,League Two,2026-11-14,90
+401881271,2731,Accrington Stanley,away,219591,Farrend Rawson,CD,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,4.0,League Two,2026-11-14,90
+401881271,2731,Accrington Stanley,away,352929,Devon Matthews,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,4.0,League Two,2026-11-14,90
+401881271,2731,Accrington Stanley,away,315533,Tom Moore,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,4.0,League Two,2026-11-14,90
+401881271,2731,Accrington Stanley,away,250793,Stefan Mols,CM-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,4.0,League Two,2026-11-14,90
+401881271,2731,Accrington Stanley,away,303689,Conor Grant,CM-R,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,3.0,League Two,2026-11-14,70
+401881271,2731,Accrington Stanley,away,300005,Alex Henderson,AM,True,False,False,1.0,0.0,4.0,2.0,0.0,0.0,2.0,,4.0,League Two,2026-11-14,90
+401881271,2731,Accrington Stanley,away,17277,Charlie Brown,LM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,3.0,League Two,2026-11-14,70
+401881271,2731,Accrington Stanley,away,227869,Donald Love,RM,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,4.0,League Two,2026-11-14,90
+401881271,2731,Accrington Stanley,away,238843,Tyler Walton,CF-L,True,False,False,1.0,0.0,2.0,1.0,0.0,0.0,4.0,,4.0,League Two,2026-11-14,90
+401881271,2731,Accrington Stanley,away,379169,Charlie Warren,CF-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,45
+401881271,2731,Accrington Stanley,away,16601,James Rogerson,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League Two,2026-11-14,0
+401881271,2731,Accrington Stanley,away,299994,Charlie Caton,SUB,False,True,False,0.0,0.0,1.0,1.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,45
+401881271,2731,Accrington Stanley,away,140999,Seamus Conneely,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881271,2731,Accrington Stanley,away,409918,Oliver Smith,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881271,2731,Accrington Stanley,away,249570,Joshua Smith,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881271,2731,Accrington Stanley,away,45368,Shaun Whalley,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,20
+401881271,2731,Accrington Stanley,away,287983,Ronan Darcy,SUB,False,True,False,0.0,1.0,1.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,20
+401881270,303,Rochdale,home,336357,Sam Waller,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,League Two,2026-11-14,90
+401881270,303,Rochdale,home,369483,Kaiden Wilson,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881270,303,Rochdale,home,129018,Aden Flint,CD-R,True,False,False,0.0,0.0,2.0,1.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,90
+401881270,303,Rochdale,home,347047,Kane Taylor,LB,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,62
+401881270,303,Rochdale,home,218387,Tobi Adebayo-Rowling,RB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,90
+401881270,303,Rochdale,home,367000,Zain Silcott-Duberry,AM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,75
+401881270,303,Rochdale,home,249855,Harvey Gilmour,LM,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,2.0,,1.0,League Two,2026-11-14,90
+401881270,303,Rochdale,home,177607,Jamie Allen,RM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,62
+401881270,303,Rochdale,home,358408,Dajaune Brown,F,True,False,True,0.0,0.0,4.0,1.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,80
+401881270,303,Rochdale,home,243378,Glenn Middleton,AM-L,True,False,False,0.0,0.0,2.0,1.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881270,303,Rochdale,home,241332,Luke Hannant,AM-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,74
+401881270,303,Rochdale,home,326190,Babajide Adeeko,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,15
+401881270,303,Rochdale,home,154552,Ethan Ebanks-Landell,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881270,303,Rochdale,home,243398,Ryan East,SUB,False,True,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,28
+401881270,303,Rochdale,home,227788,Edward Francis,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881270,303,Rochdale,home,17457,Ian Henderson,SUB,False,True,False,0.0,0.0,2.0,1.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,10
+401881270,303,Rochdale,home,347333,Bryant Bilongo,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,28
+401881270,303,Rochdale,home,298963,Cian Hayes,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,16
+401881270,315,York City,away,365334,Alfie Mcnally,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,League Two,2026-11-14,90
+401881270,315,York City,away,329644,Zak Johnson,CD,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881270,315,York City,away,202810,Mark Kitching,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881270,315,York City,away,240948,Ryan Fallowfield,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,90
+401881270,315,York City,away,277364,Alex Hunt,CM-L,True,False,True,0.0,0.0,2.0,0.0,1.0,0.0,1.0,,0.0,League Two,2026-11-14,77
+401881270,315,York City,away,243342,Arthur Read,CM-R,True,False,False,0.0,0.0,4.0,1.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881270,315,York City,away,319350,Harry Boyes,LM,True,False,False,0.0,0.0,3.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881270,315,York City,away,235127,Joe Felix,RM,True,False,True,0.0,0.0,0.0,0.0,1.0,0.0,3.0,,0.0,League Two,2026-11-14,67
+401881270,315,York City,away,374666,Ollie Pearce,F,True,False,True,1.0,0.0,3.0,1.0,0.0,0.0,2.0,,0.0,League Two,2026-11-14,88
+401881270,315,York City,away,181755,Hiram Boateng,CF-L,True,False,True,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,67
+401881270,315,York City,away,150837,Oliver Banks,CF-R,True,False,False,0.0,1.0,2.0,0.0,1.0,0.0,1.0,,0.0,League Two,2026-11-14,90
+401881270,315,York City,away,330393,Josh Stones,SUB,False,True,False,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,23
+401881270,315,York City,away,313894,Frankie Maguire,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,13
+401881270,315,York City,away,308561,Jovan Malcolm,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,2
+401881270,315,York City,away,223975,Alex Newby,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881270,315,York City,away,299951,Joey Grey,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,23
+401881270,315,York City,away,280552,Zech Medley,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881270,315,York City,away,269274,George Sykes-Kenworthy,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League Two,2026-11-14,0
+401881268,4703,Salford City,home,175239,Will Norris,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,League Two,2026-11-14,90
+401881268,4703,Salford City,home,229801,Dan Scarr,CD,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881268,4703,Salford City,home,201151,Will Aimson,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,90
+401881268,4703,Salford City,home,352899,Adebola Oluwo,CD-R,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,90
+401881268,4703,Salford City,home,143535,Luke Garbutt,LB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,3.0,,1.0,League Two,2026-11-14,90
+401881268,4703,Salford City,home,301271,Abraham Odoh,RB,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,58
+401881268,4703,Salford City,home,225422,Matt Butcher,CM-L,True,False,True,0.0,0.0,0.0,0.0,1.0,0.0,3.0,,1.0,League Two,2026-11-14,58
+401881268,4703,Salford City,home,285956,Brendan Sarpong-Wiredu,CM-R,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,3.0,,1.0,League Two,2026-11-14,90
+401881268,4703,Salford City,home,252773,Macaulay Langstaff,LM,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,90
+401881268,4703,Salford City,home,323083,Kallum Cesay,RM,True,False,True,1.0,0.0,2.0,1.0,0.0,0.0,3.0,,1.0,League Two,2026-11-14,77
+401881268,4703,Salford City,home,235287,Daniel Udoh,F,True,False,True,0.0,1.0,2.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,77
+401881268,4703,Salford City,home,238724,Ben Woodburn,SUB,False,True,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,32
+401881268,4703,Salford City,home,147221,Oliver Turton,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881268,4703,Salford City,home,249815,Brandon Cooper,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881268,4703,Salford City,home,243430,Joe Powell,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,13
+401881268,4703,Salford City,home,280212,Ryan Graydon,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,13
+401881268,4703,Salford City,home,156887,Lee Burge,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League Two,2026-11-14,0
+401881268,4703,Salford City,home,290859,Taylor Allen,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,32
+401881268,353,Northampton Town,away,169489,Ross Fitzsimons,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,League Two,2026-11-14,90
+401881268,353,Northampton Town,away,177000,Jon Guthrie,CD-L,True,False,False,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,90
+401881268,353,Northampton Town,away,243388,Elliott Moore,CD-R,True,False,False,1.0,0.0,2.0,1.0,0.0,0.0,2.0,,1.0,League Two,2026-11-14,90
+401881268,353,Northampton Town,away,276545,James Maxwell,LB,True,False,False,0.0,0.0,2.0,0.0,1.0,0.0,2.0,,1.0,League Two,2026-11-14,90
+401881268,353,Northampton Town,away,238191,Conor McCarthy,RB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,90
+401881268,353,Northampton Town,away,172326,Lee Evans,CM-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,90
+401881268,353,Northampton Town,away,200033,Connor Lemonheigh-Evans,CM-R,True,False,False,0.0,0.0,3.0,2.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881268,353,Northampton Town,away,390476,Joseph O'Brien-Whitmarsh,LM,True,False,True,0.0,0.0,1.0,0.0,1.0,0.0,0.0,,1.0,League Two,2026-11-14,79
+401881268,353,Northampton Town,away,326256,Joe Wormleighton,RM,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,2.0,,1.0,League Two,2026-11-14,90
+401881268,353,Northampton Town,away,373374,Matthew Warhurst,CF-L,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,79
+401881268,353,Northampton Town,away,246774,Owen Dale,CF-R,True,False,False,0.0,0.0,2.0,2.0,1.0,0.0,3.0,,1.0,League Two,2026-11-14,90
+401881268,353,Northampton Town,away,250783,Josh Powell,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881268,353,Northampton Town,away,307842,Max Dyche,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881268,353,Northampton Town,away,223373,Elliott List,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,11
+401881268,353,Northampton Town,away,289320,Harvey Saunders,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,11
+401881268,353,Northampton Town,away,349112,James Dadge,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League Two,2026-11-14,0
+401881268,353,Northampton Town,away,358490,Nathaniel Opoku,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881268,353,Northampton Town,away,352806,Logan Briggs,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881267,302,Shrewsbury Town,home,346706,Will Brook,G,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,League Two,2026-11-14,90
+401881267,302,Shrewsbury Town,home,207609,William Boyle,CD,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881267,302,Shrewsbury Town,home,223851,Joshua Ruffels,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881267,302,Shrewsbury Town,home,251072,Sam Stubbs,CD-R,True,False,False,0.0,0.0,3.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,90
+401881267,302,Shrewsbury Town,home,326219,Jay Turner-Cook,CM-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881267,302,Shrewsbury Town,home,301246,Thomas Sang,CM-R,True,False,False,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881267,302,Shrewsbury Town,home,351338,Michael Golding,AM,True,False,True,0.0,0.0,3.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,87
+401881267,302,Shrewsbury Town,home,289339,Kevin Berkoe,LM,True,False,False,1.0,1.0,2.0,1.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881267,302,Shrewsbury Town,home,291244,Luca Hoole,RM,True,False,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881267,302,Shrewsbury Town,home,298243,Josh Davison,CF-L,True,False,False,1.0,0.0,5.0,1.0,0.0,0.0,2.0,,1.0,League Two,2026-11-14,90
+401881267,302,Shrewsbury Town,home,261433,George Lloyd,CF-R,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,1.0,League Two,2026-11-14,90
+401881267,302,Shrewsbury Town,home,330976,Joseph Gbode,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881267,302,Shrewsbury Town,home,263131,Cameron Gregory,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League Two,2026-11-14,0
+401881267,302,Shrewsbury Town,home,409045,Will Gray,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,3
+401881267,302,Shrewsbury Town,home,372398,Lee Isaac,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881267,302,Shrewsbury Town,home,312554,Isaac Fletcher,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881267,302,Shrewsbury Town,home,345119,Lino Sousa,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881267,302,Shrewsbury Town,home,122082,Callum Stewart,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881267,332,Oldham Athletic,away,215707,Matthew Hudson,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,League Two,2026-11-14,90
+401881267,332,Oldham Athletic,away,186039,Donervon Daniels,CD,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,3.0,,2.0,League Two,2026-11-14,90
+401881267,332,Oldham Athletic,away,190934,Emmanuel Monthe,CD-L,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,90
+401881267,332,Oldham Athletic,away,308024,Will Sutton,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,3.0,,2.0,League Two,2026-11-14,90
+401881267,332,Oldham Athletic,away,224585,Thomas Pett,CM-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2.0,League Two,2026-11-14,90
+401881267,332,Oldham Athletic,away,167331,Oliver Norburn,CM-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,76
+401881267,332,Oldham Athletic,away,296470,Thomas Hill,AM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,76
+401881267,332,Oldham Athletic,away,207465,Jamie Robson,LM,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,90
+401881267,332,Oldham Athletic,away,346355,Gus Scott-Morriss,RM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,0.0,League Two,2026-11-14,63
+401881267,332,Oldham Athletic,away,266423,Mike Fondop-Talom,CF-L,True,False,False,0.0,0.0,2.0,1.0,0.0,0.0,3.0,,2.0,League Two,2026-11-14,90
+401881267,332,Oldham Athletic,away,334798,Calum Kavanagh,CF-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,3.0,,2.0,League Two,2026-11-14,81
+401881267,332,Oldham Athletic,away,395462,Aston Wilson,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League Two,2026-11-14,0
+401881267,332,Oldham Athletic,away,253076,Josh Hawkes,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881267,332,Oldham Athletic,away,283165,Noah Chilvers,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,14
+401881267,332,Oldham Athletic,away,385567,Lewis Temple,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881267,332,Oldham Athletic,away,321415,Elliott Nevitt,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,9
+401881267,332,Oldham Athletic,away,360829,Favour Fawunmi,SUB,False,True,False,1.0,0.0,1.0,1.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,14
+401881267,332,Oldham Athletic,away,294387,Keenan Appiah-Forson,SUB,False,True,False,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,2.0,League Two,2026-11-14,27
+401881266,341,Swindon Town,home,153571,Connor Ripley,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,4.0,League Two,2026-11-14,90
+401881266,341,Swindon Town,home,353098,Kaelan Majekodunmi,CD,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,4.0,League Two,2026-11-14,90
+401881266,341,Swindon Town,home,182066,Dan Butler,CD-L,True,False,False,0.0,0.0,0.0,0.0,0.0,1.0,3.0,,3.0,League Two,2026-11-14,66
+401881266,341,Swindon Town,home,275077,James Ball,CD-R,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,4.0,League Two,2026-11-14,90
+401881266,341,Swindon Town,home,229717,Shaun Thomson,CM-L,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,4.0,League Two,2026-11-14,90
+401881266,341,Swindon Town,home,379858,Anthony Munda,CM-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,4.0,League Two,2026-11-14,90
+401881266,341,Swindon Town,home,377122,Joel Mcgregor,LM,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,45
+401881266,341,Swindon Town,home,167182,Mitchell Clark,RM,True,False,True,0.0,0.0,1.0,0.0,1.0,0.0,1.0,,3.0,League Two,2026-11-14,76
+401881266,341,Swindon Town,home,258483,Aaron Drinan,F,True,False,False,1.0,0.0,4.0,3.0,0.0,0.0,0.0,,4.0,League Two,2026-11-14,90
+401881266,341,Swindon Town,home,328049,Joseph Snowdon,CF-L,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,45
+401881266,341,Swindon Town,home,182129,Matthew Virtue-Thick,CF-R,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,3.0,,3.0,League Two,2026-11-14,76
+401881266,341,Swindon Town,home,3141488,Freddie Hoare,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881266,341,Swindon Town,home,3106473,Louis Millard,SUB,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,45
+401881266,341,Swindon Town,home,346914,James Debayo,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,14
+401881266,341,Swindon Town,home,344510,Billy Kirkman,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,14
+401881266,341,Swindon Town,home,243744,Lewis Ward,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League Two,2026-11-14,0
+401881266,341,Swindon Town,home,223846,Ollie Palmer,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2.0,League Two,2026-11-14,45
+401881266,341,Swindon Town,home,306714,Antwoine Hackford,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881266,386,Grimsby Town,away,223887,Christy Pym,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,League Two,2026-11-14,90
+401881266,386,Grimsby Town,away,245531,Cameron McJannett,CD-L,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881266,386,Grimsby Town,away,242604,Harvey Rodgers,CD-R,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,2.0,,1.0,League Two,2026-11-14,90
+401881266,386,Grimsby Town,away,290860,Jayden Sweeney,LB,True,False,False,0.0,1.0,1.0,1.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881266,386,Grimsby Town,away,301290,Joe Foulkes,RB,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,90
+401881266,386,Grimsby Town,away,216561,Mark Shelton,AM,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,77
+401881266,386,Grimsby Town,away,385703,Cian Doyle,LM,True,False,False,0.0,0.0,3.0,2.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,90
+401881266,386,Grimsby Town,away,169045,Jamie Walker,RM,True,False,True,0.0,1.0,1.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,69
+401881266,386,Grimsby Town,away,130445,Andy Cook,F,True,False,True,1.0,0.0,4.0,1.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,64
+401881266,386,Grimsby Town,away,387784,Iwan Morgan,AM-L,True,False,True,2.0,0.0,6.0,3.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,77
+401881266,386,Grimsby Town,away,346931,Sonny Finch,AM-R,True,False,True,0.0,0.0,1.0,1.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,64
+401881266,386,Grimsby Town,away,241305,Justin Amaluzor,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,13
+401881266,386,Grimsby Town,away,367444,Finley Cartwright,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,1.0,League Two,2026-11-14,21
+401881266,386,Grimsby Town,away,388839,Henry Brown,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881266,386,Grimsby Town,away,192114,Charles Vernam,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,26
+401881266,386,Grimsby Town,away,388520,Ryley Reynolds,SUB,False,True,False,0.0,1.0,0.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,13
+401881266,386,Grimsby Town,away,313320,Josh Andrews,SUB,False,True,False,1.0,0.0,2.0,1.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,26
+401881266,386,Grimsby Town,away,306773,Harvey Cartwright,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League Two,2026-11-14,0
+401881272,3891,Fleetwood Town,home,111016,Ched Evans,,False,True,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,16
+401881272,3891,Fleetwood Town,home,345879,James Pradic,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881272,3891,Fleetwood Town,home,362361,Josh Robertson,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881272,3891,Fleetwood Town,home,39135,Will Davies,,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,1
+401881272,3891,Fleetwood Town,home,342879,Adam Murphy,,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,4
+401881272,3891,Fleetwood Town,home,127618,Danny Andrew,,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881272,3891,Fleetwood Town,home,223583,Andrew Cannon,,False,True,False,0.0,1.0,1.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,16
+401881272,3891,Fleetwood Town,home,169599,Jay Lynch,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League Two,2026-11-14,90
+401881272,3891,Fleetwood Town,home,162889,Rhys Bennett,CD,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,League Two,2026-11-14,90
+401881272,3891,Fleetwood Town,home,359454,Finley Potter,CD-L,True,False,False,0.0,0.0,1.0,0.0,1.0,0.0,2.0,,0.0,League Two,2026-11-14,90
+401881272,3891,Fleetwood Town,home,408354,Conor Haughey,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881272,3891,Fleetwood Town,home,333339,Harrison Neal,SW,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881272,3891,Fleetwood Town,home,296624,Mark Helm,CM-L,True,False,True,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,86
+401881272,3891,Fleetwood Town,home,390974,Crispin Mclean,CM-R,True,False,True,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,74
+401881272,3891,Fleetwood Town,home,347330,Jake Batty,LM,True,False,False,0.0,0.0,2.0,1.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881272,3891,Fleetwood Town,home,190423,Shaun Rooney,RM,True,False,False,1.0,0.0,2.0,1.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,90
+401881272,3891,Fleetwood Town,home,365346,Aaron Loupalo-Bi,CF-L,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,3.0,,0.0,League Two,2026-11-14,90
+401881272,3891,Fleetwood Town,home,221993,Ronan Coughlan,CF-R,True,False,True,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,0.0,League Two,2026-11-14,74
+401881272,345,Tranmere Rovers,away,206228,Luke McGee,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,League Two,2026-11-14,90
+401881272,345,Tranmere Rovers,away,331061,Bobby Faulkner,CD,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881272,345,Tranmere Rovers,away,362389,George Nevett,CD-L,True,False,False,0.0,0.0,3.0,0.0,1.0,0.0,2.0,,1.0,League Two,2026-11-14,90
+401881272,345,Tranmere Rovers,away,283378,Lee O'Connor,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881272,345,Tranmere Rovers,away,194356,Tom Conlon,CM-L,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881272,345,Tranmere Rovers,away,171575,Will Vaulks,CM-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881272,345,Tranmere Rovers,away,324115,Charlie Whitaker,AM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,1.0,League Two,2026-11-14,88
+401881272,345,Tranmere Rovers,away,347265,Jacob Slater,LM,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881272,345,Tranmere Rovers,away,178537,Joel Senior,RM,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,League Two,2026-11-14,90
+401881272,345,Tranmere Rovers,away,179945,Dylan Jones,CF-L,True,False,False,0.0,0.0,2.0,0.0,0.0,0.0,2.0,,1.0,League Two,2026-11-14,90
+401881272,345,Tranmere Rovers,away,176951,Joe Ironside,CF-R,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,3.0,,1.0,League Two,2026-11-14,90
+401881272,345,Tranmere Rovers,away,346268,James Plant,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881272,345,Tranmere Rovers,away,229545,Nathan Smith,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881272,345,Tranmere Rovers,away,243511,Oliver Scott,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881272,345,Tranmere Rovers,away,364917,Harrison Male,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,League Two,2026-11-14,0
+401881272,345,Tranmere Rovers,away,393126,David Kamara,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881272,345,Tranmere Rovers,away,162869,Ryan Watson,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
+401881272,345,Tranmere Rovers,away,398711,Charlie Veevers,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,2

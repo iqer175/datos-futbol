@@ -1,9 +1,9 @@
 {
-  "actualizado": "2026-11-12T14:56:47+00:00",
-  "partidos_totales": 37472,
+  "actualizado": "2026-11-16T15:23:30+00:00",
+  "partidos_totales": 37486,
   "equipos_activos": 383,
   "temporadas_descargadas": 6,
-  "ultimo_partido": "2026-11-09",
+  "ultimo_partido": "2026-11-15",
   "cobertura": {
     "2. Bundesliga": {
       "partidos": 1629,
@@ -30,16 +30,16 @@
       "ultimo": "2026-11-08"
     },
     "LaLiga Hypermotion": {
-      "partidos": 2450,
-      "ultimo": "2026-11-09"
+      "partidos": 2460,
+      "ultimo": "2026-11-15"
     },
     "League One": {
-      "partidos": 2918,
-      "ultimo": "2026-11-04"
+      "partidos": 2923,
+      "ultimo": "2026-11-14"
     },
     "League Two": {
-      "partidos": 2924,
-      "ultimo": "2026-11-03"
+      "partidos": 2934,
+      "ultimo": "2026-11-14"
     },
     "Liga Portugal": {
       "partidos": 1628,
@@ -58,7 +58,7 @@
       "ultimo": "2026-11-08"
     },
     "Primera Division": {
-      "partidos": 3359,
+      "partidos": 3348,
       "ultimo": "2026-11-08"
     },
     "Scottish Premiership": {
