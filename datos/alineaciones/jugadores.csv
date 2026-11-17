@@ -92134,3 +92134,46 @@ espn_id,equipo_id,equipo,lado,jugador_id,jugador,posicion,titular,entro,salio,go
 401881272,345,Tranmere Rovers,away,393126,David Kamara,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
 401881272,345,Tranmere Rovers,away,162869,Ryan Watson,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,0
 401881272,345,Tranmere Rovers,away,398711,Charlie Veevers,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,League Two,2026-11-14,2
+401883305,2737,Albacete,home,140342,Diego Mariño,G,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,0.0,LaLiga Hypermotion,2026-11-16,90
+401883305,2737,Albacete,home,236153,Lluis López,CD,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,90
+401883305,2737,Albacete,home,283862,Carlos Neva,CD-L,True,False,False,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,90
+401883305,2737,Albacete,home,209592,Jesús Vallejo,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,90
+401883305,2737,Albacete,home,297361,Antonio Pacheco Ruiz,CM-L,True,False,False,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,90
+401883305,2737,Albacete,home,331513,Ortu,CM-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-16,90
+401883305,2737,Albacete,home,356770,Víctor Valverde Da Silva,LM,True,False,True,0.0,0.0,1.0,1.0,0.0,0.0,2.0,,0.0,LaLiga Hypermotion,2026-11-16,71
+401883305,2737,Albacete,home,388337,Lorenzo Aguado,RM,True,False,False,0.0,0.0,2.0,1.0,1.0,0.0,4.0,,0.0,LaLiga Hypermotion,2026-11-16,90
+401883305,2737,Albacete,home,279697,Mario Soberón,F,True,False,True,0.0,0.0,3.0,1.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,59
+401883305,2737,Albacete,home,282682,Roberto González,CF-L,True,False,True,0.0,0.0,2.0,1.0,0.0,0.0,3.0,,0.0,LaLiga Hypermotion,2026-11-16,59
+401883305,2737,Albacete,home,375419,Álex Rubio,CF-R,True,False,True,0.0,0.0,3.0,1.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-16,83
+401883305,2737,Albacete,home,381354,Agustín Albarracín,SUB,False,True,False,0.0,0.0,4.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,31
+401883305,2737,Albacete,home,411953,Antonio Moreno,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,0
+401883305,2737,Albacete,home,240648,Carlos Marín,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-16,0
+401883305,2737,Albacete,home,399605,Joaquín Domingo,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,0
+401883305,2737,Albacete,home,403331,Daniel Bernabeu,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-16,19
+401883305,2737,Albacete,home,371567,Capi,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,0
+401883305,2737,Albacete,home,300877,Pepe Sanchez,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,0
+401883305,2737,Albacete,home,423018,Fabio Garcia-Moreno,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-16,7
+401883305,2737,Albacete,home,409512,Antonio Velilla,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,0
+401883305,2737,Albacete,home,374612,Javi Villar,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,0
+401883305,2737,Albacete,home,207352,Agus Medina,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-16,31
+401883305,131858,RC Celta Fortuna,away,329669,Coke Carrillo,G,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,LaLiga Hypermotion,2026-11-16,90
+401883305,131858,RC Celta Fortuna,away,421889,Anxo Rodríguez,CD,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,3.0,,1.0,LaLiga Hypermotion,2026-11-16,90
+401883305,131858,RC Celta Fortuna,away,5323812,Raúl Chirveches Sánchez,CD-L,True,False,False,0.0,0.0,2.0,0.0,1.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-16,90
+401883305,131858,RC Celta Fortuna,away,3100792,Frank Germain Jonathan Miller,CD-R,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-16,90
+401883305,131858,RC Celta Fortuna,away,330605,Stefan Bajcetic,CM-L,True,False,True,0.0,0.0,1.0,1.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-16,45
+401883305,131858,RC Celta Fortuna,away,414292,Andrés Antañón,CM-R,True,False,False,0.0,0.0,2.0,0.0,1.0,0.0,2.0,,1.0,LaLiga Hypermotion,2026-11-16,90
+401883305,131858,RC Celta Fortuna,away,333981,Jan Oliveras,LM,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0,3.0,,1.0,LaLiga Hypermotion,2026-11-16,85
+401883305,131858,RC Celta Fortuna,away,411412,Vladimir Silva,RM,True,False,False,0.0,0.0,2.0,1.0,1.0,0.0,2.0,,1.0,LaLiga Hypermotion,2026-11-16,90
+401883305,131858,RC Celta Fortuna,away,367442,Alvaro Marin,F,True,False,True,0.0,0.0,2.0,1.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-16,85
+401883305,131858,RC Celta Fortuna,away,415036,Ángel Arcos,CF-L,True,False,False,0.0,0.0,1.0,0.0,0.0,0.0,1.0,,1.0,LaLiga Hypermotion,2026-11-16,90
+401883305,131858,RC Celta Fortuna,away,405521,Óscar Marcos,CF-R,True,False,True,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,1.0,LaLiga Hypermotion,2026-11-16,68
+401883305,131858,RC Celta Fortuna,away,408018,Seyni Ndiaye,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,0
+401883305,131858,RC Celta Fortuna,away,388287,Alexis Olmedo,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,0
+401883305,131858,RC Celta Fortuna,away,3100796,Jorge Pérez-Lafuente Rey,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,0
+401883305,131858,RC Celta Fortuna,away,3100798,Noah Rodríguez Guallar,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-16,5
+401883305,131858,RC Celta Fortuna,away,376424,Marcos González,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-16,0
+401883305,131858,RC Celta Fortuna,away,194253,Hugo López,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,0
+401883305,131858,RC Celta Fortuna,away,3143478,David Sueiro Muiños,SUB,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,45
+401883305,131858,RC Celta Fortuna,away,3107949,Angel Davila Outerelo,SUB,False,True,False,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,0.0,LaLiga Hypermotion,2026-11-16,22
+401883305,131858,RC Celta Fortuna,away,414291,Pablo Meixús,SUB,False,True,False,0.0,0.0,0.0,0.0,1.0,0.0,1.0,,0.0,LaLiga Hypermotion,2026-11-16,5
+401883305,131858,RC Celta Fortuna,away,357201,Caio Albado Barone,SUB,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LaLiga Hypermotion,2026-11-16,0
