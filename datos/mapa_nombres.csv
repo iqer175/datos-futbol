@@ -95,8 +95,26 @@ espn,Jupiler Pro League,Standard Liege,Standard,auto,0.9
 espn,Jupiler Pro League,Union St.-Gilloise,St. Gilloise,auto,0.9
 espn,Jupiler Pro League,Waasland-Beveren,Beveren,auto,0.9
 espn,Jupiler Pro League,Zulte-Waregem,Waregem,auto,0.9
+espn,LaLiga,Alavés,Alaves,auto,1.0
 espn,LaLiga,Athletic Club,Ath Bilbao,auto,0.786
+espn,LaLiga,Atlético Madrid,Ath Madrid,auto,1.0
+espn,LaLiga,Barcelona,Barcelona,auto,1.0
+espn,LaLiga,Celta Vigo,Celta,auto,0.9
+espn,LaLiga,Deportivo,La Coruna,auto,0.227
+espn,LaLiga,Elche,Elche,auto,1.0
 espn,LaLiga,Espanyol,Espanol,auto,1.0
+espn,LaLiga,Getafe,Getafe,auto,1.0
+espn,LaLiga,Levante,Levante,auto,1.0
+espn,LaLiga,Málaga,Malaga,auto,1.0
+espn,LaLiga,Osasuna,Osasuna,auto,1.0
+espn,LaLiga,Racing Santander,Santander,auto,0.9
+espn,LaLiga,Rayo Vallecano,Vallecano,auto,0.9
+espn,LaLiga,Real Betis,Betis,auto,0.9
+espn,LaLiga,Real Madrid,Real Madrid,auto,1.0
+espn,LaLiga,Real Sociedad,Sociedad,auto,0.9
+espn,LaLiga,Sevilla,Sevilla,auto,1.0
+espn,LaLiga,Valencia,Valencia,auto,1.0
+espn,LaLiga,Villarreal,Villarreal,auto,1.0
 espn,LaLiga Hypermotion,Albacete,Albacete,auto,1.0
 espn,LaLiga Hypermotion,Almería,Almeria,auto,1.0
 espn,LaLiga Hypermotion,Burgos,Burgos,auto,1.0
