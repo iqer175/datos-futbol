@@ -1,3 +1,5 @@
 espn_id,detectado_utc,liga,inicio_utc,local,visitante,equipo,lado,partidos_historial,n_habituales,n_ausentes,ausentes,gravedad_max,peso_ausente,novedades,portero_ausente
 401882808,2026-11-07T19:48+00:00,LaLiga,2026-11-07T20:00Z,Valencia,Real Madrid,Valencia,home,5,8,0,,,0,,False
 401882808,2026-11-07T19:48+00:00,LaLiga,2026-11-07T20:00Z,Valencia,Real Madrid,Real Madrid,away,5,10,0,,,0,,False
+401882797,2026-11-21T17:00+00:00,LaLiga,2026-11-21T17:30Z,Sevilla,Betis,Sevilla,home,5,8,0,,,0,,False
+401882797,2026-11-21T17:00+00:00,LaLiga,2026-11-21T17:30Z,Sevilla,Betis,Betis,away,5,8,0,,,0,,False
