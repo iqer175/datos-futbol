@@ -3,3 +3,5 @@ espn_id,detectado_utc,liga,inicio_utc,local,visitante,equipo,lado,partidos_histo
 401882808,2026-11-07T19:48+00:00,LaLiga,2026-11-07T20:00Z,Valencia,Real Madrid,Real Madrid,away,5,10,0,,,0,,False
 401882797,2026-11-21T17:00+00:00,LaLiga,2026-11-21T17:30Z,Sevilla,Betis,Sevilla,home,5,8,0,,,0,,False
 401882797,2026-11-21T17:00+00:00,LaLiga,2026-11-21T17:30Z,Sevilla,Betis,Betis,away,5,8,0,,,0,,False
+401882801,2026-11-22T17:28+00:00,LaLiga,2026-11-22T17:30Z,Osasuna,Malaga,Osasuna,home,5,9,2,"Aitor Fernández (G, titular 4/5) [ALTA]; Abel Bretones (LB, titular 5/5, 2 % tiros, 0 % G+A) [BAJA]",ALTA,0.009,,True
+401882801,2026-11-22T17:28+00:00,LaLiga,2026-11-22T17:30Z,Osasuna,Malaga,Malaga,away,5,7,3,"Rafa Garrido (LB, titular 5/5, 2 % tiros, 12 % G+A) [BAJA]; Daniel Lorenzo (CM-L, titular 4/5, 4 % tiros, 0 % G+A) [BAJA]; Fernando Calero (CD-R, titular 4/5, 1 % tiros, 0 % G+A) [BAJA]",BAJA,0.097,Diego Murillo,False
