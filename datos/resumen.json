@@ -1,81 +1,81 @@
 {
-  "actualizado": "2026-11-19T15:32:47+00:00",
-  "partidos_totales": 37486,
+  "actualizado": "2026-11-23T17:48:47+00:00",
+  "partidos_totales": 37624,
   "equipos_activos": 383,
   "temporadas_descargadas": 6,
-  "ultimo_partido": "2026-11-16",
+  "ultimo_partido": "2026-11-22",
   "cobertura": {
     "2. Bundesliga": {
-      "partidos": 1629,
-      "ultimo": "2026-11-08"
+      "partidos": 1638,
+      "ultimo": "2026-11-22"
     },
     "Bundesliga": {
-      "partidos": 1611,
-      "ultimo": "2026-11-08"
+      "partidos": 1620,
+      "ultimo": "2026-11-22"
     },
     "Championship": {
-      "partidos": 2940,
-      "ultimo": "2026-11-07"
+      "partidos": 2952,
+      "ultimo": "2026-11-22"
     },
     "Eredivisie": {
-      "partidos": 1638,
-      "ultimo": "2026-11-08"
+      "partidos": 1647,
+      "ultimo": "2026-11-22"
     },
     "Jupiler Pro League": {
-      "partidos": 1646,
-      "ultimo": "2026-11-08"
+      "partidos": 1655,
+      "ultimo": "2026-11-22"
     },
     "LaLiga": {
-      "partidos": 2019,
-      "ultimo": "2026-11-08"
+      "partidos": 2028,
+      "ultimo": "2026-11-22"
     },
     "LaLiga Hypermotion": {
-      "partidos": 2461,
-      "ultimo": "2026-11-16"
+      "partidos": 2471,
+      "ultimo": "2026-11-22"
     },
     "League One": {
-      "partidos": 2923,
-      "ultimo": "2026-11-14"
+      "partidos": 2935,
+      "ultimo": "2026-11-21"
     },
     "League Two": {
-      "partidos": 2934,
-      "ultimo": "2026-11-14"
+      "partidos": 2946,
+      "ultimo": "2026-11-21"
     },
     "Liga Portugal": {
       "partidos": 1628,
       "ultimo": "2026-11-08"
     },
     "Ligue 1": {
-      "partidos": 1768,
-      "ultimo": "2026-11-08"
+      "partidos": 1777,
+      "ultimo": "2026-11-22"
     },
     "Ligue 2": {
-      "partidos": 1858,
-      "ultimo": "2026-11-07"
+      "partidos": 1865,
+      "ultimo": "2026-11-21"
     },
     "Premier League": {
-      "partidos": 2000,
-      "ultimo": "2026-11-08"
+      "partidos": 2009,
+      "ultimo": "2026-11-22"
     },
     "Primera Division": {
-      "partidos": 3347,
+      "partidos": 3336,
       "ultimo": "2026-11-08"
     },
     "Scottish Premiership": {
-      "partidos": 1215,
-      "ultimo": "2026-11-08"
+      "partidos": 1221,
+      "ultimo": "2026-11-21"
     },
     "Serie A": {
-      "partidos": 2010,
-      "ultimo": "2026-11-08"
+      "partidos": 2019,
+      "ultimo": "2026-11-22"
     },
     "Serie B": {
-      "partidos": 2010,
-      "ultimo": "2026-11-08"
+      "partidos": 2020,
+      "ultimo": "2026-11-22"
     },
     "Super Lig": {
-      "partidos": 1849,
-      "ultimo": "2026-11-08"
+      "partidos": 1857,
+      "ultimo": "2026-11-22"
     }
   },
   "aviso_pinnacle": "Desde 23/07/2025 las cuotas de Pinnacle en la fuente son poco fiables y ya no entran en la media de mercado. Usa avgc_* como referencia de cierre."
