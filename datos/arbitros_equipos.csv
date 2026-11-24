@@ -31,6 +31,7 @@ Bundesliga,Bayern Munich,Bayern München
 Bundesliga,Bochum,Bochum
 Bundesliga,Dortmund,Borussia Dortmund
 Bundesliga,Ein Frankfurt,Eintracht Frankfurt
+Bundesliga,Elversberg,Elversberg
 Bundesliga,FC Koln,1. FC Köln
 Bundesliga,Freiburg,Freiburg
 Bundesliga,Hamburg,Hamburger SV
@@ -40,7 +41,9 @@ Bundesliga,Holstein Kiel,Holstein Kiel
 Bundesliga,Leverkusen,Bayer Leverkusen
 Bundesliga,M'gladbach,Borussia Mönchengladbach
 Bundesliga,Mainz,Mainz 05
+Bundesliga,Paderborn,Paderborn
 Bundesliga,RB Leipzig,RB Leipzig
+Bundesliga,Schalke 04,Schalke 04
 Bundesliga,St Pauli,St. Pauli
 Bundesliga,Stuttgart,VfB Stuttgart
 Bundesliga,Union Berlin,Union Berlin
@@ -134,6 +137,8 @@ LaLiga,Espanol,Espanyol
 LaLiga,Getafe,Getafe
 LaLiga,Girona,Girona
 LaLiga,La Coruna,Deportivo A Coruña
+LaLiga,Las Palmas,Las Palmas
+LaLiga,Leganes,Leganés
 LaLiga,Levante,Levante
 LaLiga,Malaga,Málaga
 LaLiga,Mallorca,Mallorca
@@ -144,6 +149,7 @@ LaLiga,Santander,Racing Santander
 LaLiga,Sevilla,Sevilla
 LaLiga,Sociedad,Real Sociedad
 LaLiga,Valencia,Valencia
+LaLiga,Valladolid,Real Valladolid
 LaLiga,Vallecano,Rayo Vallecano
 LaLiga,Villarreal,Villarreal
 LaLiga Hypermotion,Albacete,Albacete
@@ -448,6 +454,7 @@ Serie B,Spezia,Spezia
 Serie B,Sudtirol,Südtirol
 Serie B,Venezia,Venezia
 Serie B,Verona,Hellas Verona
+Serie B,Vicenza,Vicenza
 Serie B,Virtus Entella,Virtus Entella
 Super Lig,Ad. Demirspor,Adana Demirspor
 Super Lig,Alanyaspor,Alanyaspor
