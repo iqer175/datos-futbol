@@ -1,9 +1,9 @@
 {
-  "actualizado": "2026-11-23T17:48:47+00:00",
-  "partidos_totales": 37624,
+  "actualizado": "2026-11-24T17:21:12+00:00",
+  "partidos_totales": 37637,
   "equipos_activos": 383,
   "temporadas_descargadas": 6,
-  "ultimo_partido": "2026-11-22",
+  "ultimo_partido": "2026-11-23",
   "cobertura": {
     "2. Bundesliga": {
       "partidos": 1638,
@@ -26,12 +26,12 @@
       "ultimo": "2026-11-22"
     },
     "LaLiga": {
-      "partidos": 2028,
-      "ultimo": "2026-11-22"
+      "partidos": 2029,
+      "ultimo": "2026-11-23"
     },
     "LaLiga Hypermotion": {
-      "partidos": 2471,
-      "ultimo": "2026-11-22"
+      "partidos": 2472,
+      "ultimo": "2026-11-23"
     },
     "League One": {
       "partidos": 2935,
@@ -50,32 +50,32 @@
       "ultimo": "2026-11-22"
     },
     "Ligue 2": {
-      "partidos": 1865,
-      "ultimo": "2026-11-21"
+      "partidos": 1867,
+      "ultimo": "2026-11-23"
     },
     "Premier League": {
-      "partidos": 2009,
-      "ultimo": "2026-11-22"
+      "partidos": 2010,
+      "ultimo": "2026-11-23"
     },
     "Primera Division": {
-      "partidos": 3336,
-      "ultimo": "2026-11-08"
+      "partidos": 3342,
+      "ultimo": "2026-11-23"
     },
     "Scottish Premiership": {
       "partidos": 1221,
       "ultimo": "2026-11-21"
     },
     "Serie A": {
-      "partidos": 2019,
-      "ultimo": "2026-11-22"
+      "partidos": 2020,
+      "ultimo": "2026-11-23"
     },
     "Serie B": {
       "partidos": 2020,
       "ultimo": "2026-11-22"
     },
     "Super Lig": {
-      "partidos": 1857,
-      "ultimo": "2026-11-22"
+      "partidos": 1858,
+      "ultimo": "2026-11-23"
     }
   },
   "aviso_pinnacle": "Desde 23/07/2025 las cuotas de Pinnacle en la fuente son poco fiables y ya no entran en la media de mercado. Usa avgc_* como referencia de cierre."
