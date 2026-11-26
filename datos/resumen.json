@@ -1,9 +1,9 @@
 {
-  "actualizado": "2026-11-24T17:21:12+00:00",
-  "partidos_totales": 37637,
+  "actualizado": "2026-11-26T16:41:26+00:00",
+  "partidos_totales": 37667,
   "equipos_activos": 383,
   "temporadas_descargadas": 6,
-  "ultimo_partido": "2026-11-23",
+  "ultimo_partido": "2026-11-25",
   "cobertura": {
     "2. Bundesliga": {
       "partidos": 1638,
@@ -14,8 +14,8 @@
       "ultimo": "2026-11-22"
     },
     "Championship": {
-      "partidos": 2952,
-      "ultimo": "2026-11-22"
+      "partidos": 2964,
+      "ultimo": "2026-11-25"
     },
     "Eredivisie": {
       "partidos": 1647,
@@ -34,12 +34,12 @@
       "ultimo": "2026-11-23"
     },
     "League One": {
-      "partidos": 2935,
-      "ultimo": "2026-11-21"
+      "partidos": 2939,
+      "ultimo": "2026-11-24"
     },
     "League Two": {
-      "partidos": 2946,
-      "ultimo": "2026-11-21"
+      "partidos": 2948,
+      "ultimo": "2026-11-24"
     },
     "Liga Portugal": {
       "partidos": 1628,
@@ -62,16 +62,16 @@
       "ultimo": "2026-11-23"
     },
     "Scottish Premiership": {
-      "partidos": 1221,
-      "ultimo": "2026-11-21"
+      "partidos": 1223,
+      "ultimo": "2026-11-24"
     },
     "Serie A": {
       "partidos": 2020,
       "ultimo": "2026-11-23"
     },
     "Serie B": {
-      "partidos": 2020,
-      "ultimo": "2026-11-22"
+      "partidos": 2030,
+      "ultimo": "2026-11-25"
     },
     "Super Lig": {
       "partidos": 1858,
