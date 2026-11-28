@@ -7,3 +7,5 @@ espn_id,detectado_utc,liga,inicio_utc,local,visitante,equipo,lado,partidos_histo
 401882801,2026-11-22T17:28+00:00,LaLiga,2026-11-22T17:30Z,Osasuna,Malaga,Malaga,away,5,7,3,"Rafa Garrido (LB, titular 5/5, 2 % tiros, 12 % G+A) [BAJA]; Daniel Lorenzo (CM-L, titular 4/5, 4 % tiros, 0 % G+A) [BAJA]; Fernando Calero (CD-R, titular 4/5, 1 % tiros, 0 % G+A) [BAJA]",BAJA,0.097,Diego Murillo,False
 401882791,2026-11-27T19:13+00:00,LaLiga,2026-11-27T20:00Z,Levante,Santander,Levante,home,5,9,3,"Roger Brugué (RM, titular 5/5, 18 % tiros, 33 % G+A) [ALTA]; Jeremy Toljan (RB, titular 4/5, 3 % tiros, 8 % G+A) [BAJA]; Ifeanyi Ndukwe (CD-L, titular 4/5, 2 % tiros, 8 % G+A) [BAJA]",ALTA,0.364,,False
 401882791,2026-11-27T19:13+00:00,LaLiga,2026-11-27T20:00Z,Levante,Santander,Santander,away,5,9,0,,,0.0,,False
+401882793,2026-11-28T17:51+00:00,LaLiga,2026-11-28T17:30Z,Elche,Ath Madrid,Elche,home,5,10,0,,,0,,False
+401882793,2026-11-28T17:51+00:00,LaLiga,2026-11-28T17:30Z,Elche,Ath Madrid,Ath Madrid,away,5,10,0,,,0,,False

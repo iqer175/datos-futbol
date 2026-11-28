@@ -1,6 +1,6 @@
 # Alertas de alineaciones
 
-Actualizado 2026-11-27 19:13 UTC. Habitual = titular en 4 de sus últimos 5 partidos de liga.
+Actualizado 2026-11-28 17:51 UTC. Habitual = titular en 4 de sus últimos 5 partidos de liga.
 
 > No es una señal de apuesta demostrada. Si falta alguien importante, mira si la cuota de bet365 ya se ha movido; si apuestas, apúntalo en `bitacora.csv` para medir el CLV.
 
